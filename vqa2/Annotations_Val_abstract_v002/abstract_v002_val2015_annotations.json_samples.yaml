@@ -1,0 +1,362 @@
+annotations:
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 27578
+  multiple_choice_answer: 'yes'
+  question_type: is the dog
+- answer_type: other
+  answers:
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: cat
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 27578
+  multiple_choice_answer: tv
+  question_type: what is the man
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 27578
+  multiple_choice_answer: 'yes'
+  question_type: is the man
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 21768
+  multiple_choice_answer: 'yes'
+  question_type: none of the above
+- answer_type: other
+  answers:
+  - answer: wine glass
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: wine glass
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: wine glass
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: glass
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: glass
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: wine
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: wine glass
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: wine
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: wine
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: wine glass
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 21768
+  multiple_choice_answer: wine glass
+  question_type: what is
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: not yet
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 21768
+  multiple_choice_answer: 'no'
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 25506
+  multiple_choice_answer: 'no'
+  question_type: is the baby
+- answer_type: other
+  answers:
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: television
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: tv
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 25506
+  multiple_choice_answer: tv
+  question_type: what is on the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 25506
+  multiple_choice_answer: 'yes'
+  question_type: is the woman
+- answer_type: other
+  answers:
+  - answer: sitting
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: sitting
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: sitting
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: having tea
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: having tea
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: having tea
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: sitting and drinking tea
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: sitting down
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: drinking tea
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: drinking tea
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 25841
+  multiple_choice_answer: having tea
+  question_type: what is the woman
+data_subtype: val2015
+data_type: abstract_v002
+info:
+  contributor: VQA Team
+  description: This is v1.0 of the VQA dataset.
+  url: http://visualqa.org
+  version: '1.0'
+  year: 2015
+license:
+  name: Creative Commons Attribution 4.0 International License
+  url: http://creativecommons.org/licenses/by/4.0/

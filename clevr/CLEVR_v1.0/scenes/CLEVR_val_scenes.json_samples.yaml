@@ -1,0 +1,158 @@
+info:
+  license: Creative Commons Attribution (CC BY 4.0)
+  split: val
+scenes:
+- image_index: 0
+  objects:
+  - color: brown
+    size: large
+  - color: gray
+    size: large
+  - color: green
+    size: small
+  - color: purple
+    size: large
+  - color: gray
+    size: small
+- image_index: 1
+  objects:
+  - color: blue
+    size: small
+  - color: blue
+    size: large
+  - color: purple
+    size: large
+  - color: yellow
+    size: small
+  - color: gray
+    size: large
+  - color: cyan
+    size: small
+  - color: cyan
+    size: small
+  - color: blue
+    size: large
+  - color: green
+    size: small
+  - color: yellow
+    size: small
+- image_index: 2
+  objects:
+  - color: purple
+    size: large
+  - color: yellow
+    size: large
+  - color: blue
+    size: small
+  - color: green
+    size: small
+  - color: purple
+    size: large
+  - color: brown
+    size: small
+  - color: gray
+    size: large
+  - color: yellow
+    size: large
+- image_index: 3
+  objects:
+  - color: yellow
+    size: small
+  - color: purple
+    size: large
+  - color: blue
+    size: large
+  - color: gray
+    size: large
+  - color: brown
+    size: small
+  - color: purple
+    size: large
+  - color: brown
+    size: small
+- image_index: 4
+  objects:
+  - color: red
+    size: small
+  - color: brown
+    size: large
+  - color: purple
+    size: small
+  - color: gray
+    size: large
+  - color: gray
+    size: large
+  - color: green
+    size: large
+- image_index: 5
+  objects:
+  - color: yellow
+    size: small
+  - color: gray
+    size: large
+  - color: blue
+    size: small
+  - color: yellow
+    size: large
+  - color: blue
+    size: small
+  - color: yellow
+    size: large
+  - color: yellow
+    size: large
+- image_index: 6
+  objects:
+  - color: blue
+    size: large
+  - color: green
+    size: large
+  - color: gray
+    size: small
+- image_index: 7
+  objects:
+  - color: brown
+    size: small
+  - color: cyan
+    size: small
+  - color: brown
+    size: large
+  - color: gray
+    size: small
+- image_index: 8
+  objects:
+  - color: yellow
+    size: large
+  - color: purple
+    size: small
+  - color: gray
+    size: small
+  - color: purple
+    size: small
+  - color: brown
+    size: small
+  - color: yellow
+    size: large
+  - color: purple
+    size: large
+  - color: yellow
+    size: small
+  - color: brown
+    size: small
+- image_index: 9
+  objects:
+  - color: gray
+    size: large
+  - color: brown
+    size: small
+  - color: blue
+    size: large
+  - color: brown
+    size: large
+  - color: purple
+    size: small
+  - color: gray
+    size: small
+  - color: gray
+    size: small
+  - color: blue
+    size: small

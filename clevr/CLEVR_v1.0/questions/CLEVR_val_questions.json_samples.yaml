@@ -1,0 +1,236 @@
+info:
+  license: Creative Commons Attribution (CC BY 4.0)
+  split: val
+questions:
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+  - function: filter_material
+    inputs:
+    - 1
+  - function: unique
+    inputs:
+    - 2
+  - function: same_shape
+    inputs:
+    - 3
+  - function: exist
+    inputs:
+    - 4
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+  - function: unique
+    inputs:
+    - 1
+  - function: same_shape
+    inputs:
+    - 2
+  - function: filter_size
+    inputs:
+    - 3
+  - function: filter_color
+    inputs:
+    - 4
+  - function: exist
+    inputs:
+    - 5
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+  - function: filter_color
+    inputs:
+    - 1
+  - function: unique
+    inputs:
+    - 2
+  - function: query_material
+    inputs:
+    - 3
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+  - function: filter_color
+    inputs:
+    - 1
+  - function: filter_shape
+    inputs:
+    - 2
+  - function: unique
+    inputs:
+    - 3
+  - function: relate
+    inputs:
+    - 4
+  - function: filter_shape
+    inputs:
+    - 5
+  - function: exist
+    inputs:
+    - 6
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+  - function: unique
+    inputs:
+    - 1
+  - function: query_shape
+    inputs:
+    - 2
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+  - function: filter_color
+    inputs:
+    - 5
+  - function: filter_material
+    inputs:
+    - 6
+  - function: unique
+    inputs:
+    - 7
+  - function: query_shape
+    inputs:
+    - 8
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+  - function: filter_material
+    inputs:
+    - 1
+  - function: unique
+    inputs:
+    - 2
+  - function: same_size
+    inputs:
+    - 3
+  - function: count
+    inputs:
+    - 4
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+  - function: filter_color
+    inputs:
+    - 1
+  - function: filter_material
+    inputs:
+    - 2
+  - function: filter_shape
+    inputs:
+    - 3
+  - function: unique
+    inputs:
+    - 4
+  - function: relate
+    inputs:
+    - 5
+  - function: filter_material
+    inputs:
+    - 6
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 8
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+  - function: filter_material
+    inputs:
+    - 1
+  - function: filter_shape
+    inputs:
+    - 2
+  - function: unique
+    inputs:
+    - 3
+  - function: query_color
+    inputs:
+    - 4
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+  - function: filter_material
+    inputs:
+    - 1
+  - function: unique
+    inputs:
+    - 2
+  - function: relate
+    inputs:
+    - 3
+  - function: unique
+    inputs:
+    - 4
+  - function: query_material
+    inputs:
+    - 5
+- image_index: 0
+  program:
+  - function: scene
+    inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+  - function: filter_material
+    inputs:
+    - 1
+  - function: unique
+    inputs:
+    - 2
+  - function: query_shape
+    inputs:
+    - 3
+  - function: scene
+    inputs: []
+  - function: filter_size
+    inputs:
+    - 5
+  - function: filter_color
+    inputs:
+    - 6
+  - function: unique
+    inputs:
+    - 7
+  - function: relate
+    inputs:
+    - 8

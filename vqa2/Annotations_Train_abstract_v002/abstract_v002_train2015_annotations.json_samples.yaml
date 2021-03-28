@@ -1,0 +1,362 @@
+annotations:
+- answer_type: other
+  answers:
+  - answer: old person
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: man
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: old man
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: grandpa
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 11779
+  multiple_choice_answer: man
+  question_type: who
+- answer_type: other
+  answers:
+  - answer: on blanket
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: blanket
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: on blanket
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: blanket
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: picnic blanket
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: ground
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: blanket
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: blanket
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: on blanket
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: blanket
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 11779
+  multiple_choice_answer: blanket
+  question_type: where is the
+- answer_type: other
+  answers:
+  - answer: on bench
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: bench
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: on bench
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: bench
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: bench
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: on bench
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: bench
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: bench
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: bench
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: bench
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 11779
+  multiple_choice_answer: bench
+  question_type: where is the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 5536
+  multiple_choice_answer: 'yes'
+  question_type: is this
+- answer_type: other
+  answers:
+  - answer: water
+    answer_confidence: 'no'
+    answer_id: 1
+  - answer: soda
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: wine
+    answer_confidence: maybe
+    answer_id: 3
+  - answer: soft
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: soda
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: soda
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: soda
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: water
+    answer_confidence: 'no'
+    answer_id: 8
+  - answer: milk
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: water
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 5536
+  multiple_choice_answer: soda
+  question_type: what kind of
+- answer_type: other
+  answers:
+  - answer: beige
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: beige
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: beige
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: brown
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: tan
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: beige
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: tan
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: tan
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: brown
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: cream
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 5536
+  multiple_choice_answer: beige
+  question_type: what color is the
+- answer_type: other
+  answers:
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: boy
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: boy on left
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: man
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: male
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: girl on left
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: boy
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 16949
+  multiple_choice_answer: man
+  question_type: who is
+- answer_type: other
+  answers:
+  - answer: cool and sunny
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: partly cloudy
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: mostly sunny
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: sunny with few clouds
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: sunny
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: partly cloudy
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: sunny
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: sunny
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: sunny and partly cloudy
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: sunny
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 16949
+  multiple_choice_answer: sunny
+  question_type: how
+- answer_type: yes/no
+  answers:
+  - answer: slip ons
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 16949
+  multiple_choice_answer: 'no'
+  question_type: does
+- answer_type: other
+  answers:
+  - answer: bird's nest
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: beehive
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: beehive
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: bees hive
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: beehive
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: it's under bee hive
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: beehive
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: beehive
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: beehive
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: beehive
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 19949
+  multiple_choice_answer: beehive
+  question_type: what is
+data_subtype: train2015
+data_type: abstract_v002
+info:
+  contributor: VQA Team
+  description: This is v1.0 of the VQA dataset.
+  url: http://visualqa.org
+  version: '1.0'
+  year: 2015
+license:
+  name: Creative Commons Attribution 4.0 International License
+  url: http://creativecommons.org/licenses/by/4.0/

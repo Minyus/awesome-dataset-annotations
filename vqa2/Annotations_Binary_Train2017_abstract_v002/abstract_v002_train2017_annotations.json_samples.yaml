@@ -1,0 +1,312 @@
+annotations:
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 87
+  multiple_choice_answer: 'yes'
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900000870
+  multiple_choice_answer: 'no'
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 14962
+  multiple_choice_answer: 'no'
+  question_type: is it
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900149620
+  multiple_choice_answer: 'yes'
+  question_type: is it
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 8277
+  multiple_choice_answer: 'yes'
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900082771
+  multiple_choice_answer: 'no'
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: yeah
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 15675
+  multiple_choice_answer: 'yes'
+  question_type: is there
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900156750
+  multiple_choice_answer: 'no'
+  question_type: is there
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 10466
+  multiple_choice_answer: 'yes'
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900104662
+  multiple_choice_answer: 'no'
+  question_type: is the boy
+data_subtype: train2017
+data_type: abstract_v002
+info:
+  contributor: VQA Team
+  description: This is Balanced Binary Abstract Scenes VQA dataset.
+  url: http://visualqa.org
+  version: '1.0'
+  year: '2017'
+license:
+  name: Creative Commons Attribution 4.0 International License
+  url: http://creativecommons.org/licenses/by/4.0/
