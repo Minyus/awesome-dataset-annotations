@@ -1,0 +1,362 @@
+annotations:
+- answer_type: other
+  answers:
+  - answer: net
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: net
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: net
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: netting
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: net
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: net
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: mesh
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: net
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: net
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: net
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 458752
+  multiple_choice_answer: net
+  question_type: what is this
+- answer_type: other
+  answers:
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: catcher
+    answer_confidence: 'no'
+    answer_id: 2
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: pitcher
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 458752
+  multiple_choice_answer: pitcher
+  question_type: what
+- answer_type: other
+  answers:
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: orange
+    answer_confidence: maybe
+    answer_id: 3
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: orange
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 458752
+  multiple_choice_answer: orange
+  question_type: what color is the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 458752
+  multiple_choice_answer: 'yes'
+  question_type: is this
+- answer_type: other
+  answers:
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: white
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 262146
+  multiple_choice_answer: white
+  question_type: what color is the
+- answer_type: other
+  answers:
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: skiing
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 262146
+  multiple_choice_answer: skiing
+  question_type: what is the person
+- answer_type: other
+  answers:
+  - answer: red
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: red
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: red & white
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: black
+    answer_confidence: 'no'
+    answer_id: 4
+  - answer: red
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: red
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: red
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: red
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: red
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: red and white
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 262146
+  multiple_choice_answer: red
+  question_type: what color is the
+- answer_type: other
+  answers:
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: white frisbee
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: frisbie
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: frisbee
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: flying disc
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 524291
+  multiple_choice_answer: frisbee
+  question_type: what is in the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 524291
+  multiple_choice_answer: 'yes'
+  question_type: is the
+- answer_type: other
+  answers:
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: frisbee
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 524291
+  multiple_choice_answer: frisbee
+  question_type: is the
+data_subtype: train2014
+data_type: mscoco
+info:
+  contributor: VQA Team
+  description: This is v2.0 of the VQA dataset.
+  url: http://visualqa.org
+  version: '2.0'
+  year: 2017
+license:
+  name: Creative Commons Attribution 4.0 International License
+  url: http://creativecommons.org/licenses/by/4.0/

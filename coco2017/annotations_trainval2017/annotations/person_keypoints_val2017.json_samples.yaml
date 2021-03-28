@@ -1,0 +1,369 @@
+annotations:
+- area: 47803.27955
+  iscrowd: 0
+  keypoints:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  num_keypoints: 10
+  segmentation:
+  - - 125.12
+    - 539.69
+    - 140.94
+    - 522.43
+    - 100.67
+    - 496.54
+    - 84.85
+    - 469.21
+    - 73.35
+    - 450.52
+- area: 1394.7431
+  iscrowd: 0
+  keypoints:
+  - 508
+  - 192
+  - 2
+  - 510
+  - 191
+  - 2
+  - 506
+  - 191
+  - 2
+  - 512
+  num_keypoints: 13
+  segmentation:
+  - - 492.38
+    - 238.33
+    - 491.91
+    - 234.15
+    - 494.47
+    - 227.65
+    - 495.17
+    - 215.1
+    - 497.02
+    - 199.54
+- area: 938.3398
+  iscrowd: 0
+  keypoints:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  num_keypoints: 0
+  segmentation:
+  - - 41.21
+    - 3.04
+    - 43.66
+    - 10.38
+    - 52.23
+    - 11.61
+    - 57.13
+    - 37.31
+    - 60.19
+    - 47.1
+- area: 68822.32895
+  iscrowd: 0
+  keypoints:
+  - 389
+  - 97
+  - 2
+  - 405
+  - 82
+  - 2
+  - 376
+  - 80
+  - 2
+  - 434
+  num_keypoints: 13
+  segmentation:
+  - - 285.95
+    - 274.43
+    - 297.46
+    - 145.85
+    - 364.63
+    - 121.86
+    - 356.95
+    - 95.96
+    - 352.16
+    - 79.64
+- area: 485.51655
+  iscrowd: 0
+  keypoints:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  num_keypoints: 0
+  segmentation:
+  - - 105.92
+    - 200.85
+    - 104.35
+    - 192.34
+    - 105.92
+    - 185.73
+    - 112.54
+    - 185.73
+    - 119.78
+    - 189.82
+- area: 5425.7433
+  iscrowd: 0
+  keypoints:
+  - 256
+  - 76
+  - 1
+  - 260
+  - 70
+  - 2
+  - 0
+  - 0
+  - 0
+  - 269
+  num_keypoints: 13
+  segmentation:
+  - - 237.64
+    - 275.62
+    - 235.11
+    - 282.36
+    - 240.17
+    - 291.63
+    - 248.6
+    - 300.9
+    - 251.12
+    - 284.04
+- area: 1040.2069
+  iscrowd: 0
+  keypoints:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  num_keypoints: 12
+  segmentation:
+  - - 88.46
+    - 257.61
+    - 89.1
+    - 260.78
+    - 84.34
+    - 266.18
+    - 82.43
+    - 271.89
+    - 81.8
+    - 276.02
+- area: 1820.83745
+  iscrowd: 0
+  keypoints:
+  - 368
+  - 198
+  - 2
+  - 369
+  - 197
+  - 2
+  - 366
+  - 197
+  - 2
+  - 0
+  num_keypoints: 16
+  segmentation:
+  - - 357.64
+    - 253.33
+    - 349.51
+    - 240.18
+    - 351.38
+    - 208.88
+    - 358.9
+    - 202.62
+    - 362.03
+    - 189.48
+- area: 74885.917
+  iscrowd: 0
+  keypoints:
+  - 302
+  - 257
+  - 2
+  - 341
+  - 220
+  - 2
+  - 275
+  - 214
+  - 2
+  - 425
+  num_keypoints: 6
+  segmentation:
+  - - 243.12
+    - 112.91
+    - 239.85
+    - 131.2
+    - 251.61
+    - 157.34
+    - 255.53
+    - 175.63
+    - 256.84
+    - 225.29
+- area: 1766.3076
+  iscrowd: 0
+  keypoints:
+  - 265
+  - 183
+  - 2
+  - 267
+  - 179
+  - 2
+  - 262
+  - 180
+  - 2
+  - 271
+  num_keypoints: 13
+  segmentation:
+  - - 261.09
+    - 184.52
+    - 256.52
+    - 176.23
+    - 257.77
+    - 168.76
+    - 262.33
+    - 163.37
+    - 264.82
+    - 163.37
+categories:
+- id: 1
+  keypoints:
+  - nose
+  - left_eye
+  - right_eye
+  - left_ear
+  - right_ear
+  - left_shoulder
+  - right_shoulder
+  - left_elbow
+  - right_elbow
+  - left_wrist
+  name: person
+  skeleton:
+  - - 16
+    - 14
+  - - 14
+    - 12
+  - - 17
+    - 15
+  - - 15
+    - 13
+  - - 12
+    - 13
+  - - 6
+    - 12
+  - - 7
+    - 13
+  - - 6
+    - 7
+  - - 6
+    - 8
+  - - 7
+    - 9
+  supercategory: person
+images:
+- coco_url: http://images.cocodataset.org/val2017/000000397133.jpg
+  file_name: 000000397133.jpg
+  height: 427
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000037777.jpg
+  file_name: 000000037777.jpg
+  height: 230
+  license: 1
+  width: 352
+- coco_url: http://images.cocodataset.org/val2017/000000252219.jpg
+  file_name: 000000252219.jpg
+  height: 428
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000087038.jpg
+  file_name: 000000087038.jpg
+  height: 480
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000174482.jpg
+  file_name: 000000174482.jpg
+  height: 388
+  license: 6
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000403385.jpg
+  file_name: 000000403385.jpg
+  height: 511
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000006818.jpg
+  file_name: 000000006818.jpg
+  height: 640
+  license: 4
+  width: 427
+- coco_url: http://images.cocodataset.org/val2017/000000480985.jpg
+  file_name: 000000480985.jpg
+  height: 500
+  license: 6
+  width: 375
+- coco_url: http://images.cocodataset.org/val2017/000000458054.jpg
+  file_name: 000000458054.jpg
+  height: 426
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000331352.jpg
+  file_name: 000000331352.jpg
+  height: 500
+  license: 4
+  width: 351
+info:
+  contributor: COCO Consortium
+  description: COCO 2017 Dataset
+  url: http://cocodataset.org
+  version: '1.0'
+  year: 2017
+licenses:
+- id: 1
+  name: Attribution-NonCommercial-ShareAlike License
+  url: http://creativecommons.org/licenses/by-nc-sa/2.0/
+- id: 2
+  name: Attribution-NonCommercial License
+  url: http://creativecommons.org/licenses/by-nc/2.0/
+- id: 3
+  name: Attribution-NonCommercial-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nc-nd/2.0/
+- id: 4
+  name: Attribution License
+  url: http://creativecommons.org/licenses/by/2.0/
+- id: 5
+  name: Attribution-ShareAlike License
+  url: http://creativecommons.org/licenses/by-sa/2.0/
+- id: 6
+  name: Attribution-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nd/2.0/
+- id: 7
+  name: No known copyright restrictions
+  url: http://flickr.com/commons/usage/
+- id: 8
+  name: United States Government Work
+  url: http://www.usa.gov/copyright.shtml

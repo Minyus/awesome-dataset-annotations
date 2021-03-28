@@ -1,0 +1,68 @@
+data:
+- flickr_300k_url: https://c5.staticflickr.com/9/8620/16450641419_daf4ae8ee4_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/8620/16450641419_1348e01994_o.jpg
+  image_classes:
+  - Person
+  - Box
+  - Table
+  - Clothing
+  - Book
+  image_id: caef3d1e97c2cf15
+- flickr_300k_url: https://c6.staticflickr.com/8/7458/9295595580_e0447295ef_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/8/7458/9295595580_aee2f13588_o.jpg
+  image_classes:
+  - Book
+  image_id: 2a5f3d37b9b309af
+- flickr_300k_url: https://c6.staticflickr.com/8/7645/17158804955_cf498e915e_z.jpg
+  flickr_original_url: https://c6.staticflickr.com/8/7645/17158804955_caaacfdd17_o.jpg
+  image_classes:
+  - Bat
+  - Poster
+  image_id: 1f3559f9f45a1f1d
+- flickr_300k_url: https://c2.staticflickr.com/2/1292/1325166853_dc21228a2e_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/2/1292/1325166853_44c3c5b35f_o.jpg
+  image_classes:
+  - Land vehicle
+  - Vehicle
+  image_id: e378ec31a384027c
+- flickr_300k_url: https://c5.staticflickr.com/4/3754/11173306206_dcf96da871_z.jpg
+  flickr_original_url: https://farm4.staticflickr.com/3754/11173306206_44b5f8fa9b_o.jpg
+  image_classes:
+  - Computer monitor
+  - Television
+  image_id: 15523c3d0bda6613
+- flickr_300k_url: https://c5.staticflickr.com/3/2458/3596600618_b8a0dae777_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/2458/3596600618_b31f93ce82_o.jpg
+  image_classes:
+  - Person
+  - Picture frame
+  image_id: 0677710c25164882
+- flickr_300k_url: https://c4.staticflickr.com/3/2817/9599680615_0a052df4de_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/2817/9599680615_e98b35867f_o.jpg
+  image_classes:
+  - Bicycle
+  - Traffic sign
+  image_id: afb4bdaab3ea89e7
+- flickr_300k_url: https://c7.staticflickr.com/4/3072/2717480477_96b18063c9_z.jpg?zz=1
+  flickr_original_url: https://c4.staticflickr.com/4/3072/2717480477_f165bb04b4_o.jpg
+  image_classes:
+  - Snack
+  - Drink
+  - Bottle
+  image_id: abc2cd9469f6795b
+- flickr_300k_url: https://c6.staticflickr.com/4/3570/3526261787_1c186e9f3d_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/3570/3526261787_01b5ac3933_o.jpg
+  image_classes:
+  - Person
+  - Poster
+  - Book
+  image_id: 2189b9d38ff97982
+- flickr_300k_url: https://c1.staticflickr.com/1/322/19029198188_7087abb901_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/322/19029198188_49c9fb00a3_o.jpg
+  image_classes:
+  - Bottle
+  - Wine
+  image_id: 270a22e754fc3db4
+dataset_name: textcaps
+dataset_type: val
+dataset_version: 0.1

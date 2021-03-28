@@ -1,0 +1,103 @@
+annotations:
+- caption: A very clean and well decorated empty bathroom
+  id: 48
+  image_id: 318556
+- caption: A panoramic view of a kitchen and all of its appliances.
+  id: 67
+  image_id: 116100
+- caption: A blue and white bathroom with butterfly themed wall tiles.
+  id: 126
+  image_id: 318556
+- caption: A panoramic photo of a kitchen and dining room
+  id: 148
+  image_id: 116100
+- caption: 'A graffiti-ed stop sign across the street from a red car '
+  id: 173
+  image_id: 379340
+- caption: A vandalized stop sign and a red beetle on the road
+  id: 188
+  image_id: 379340
+- caption: A bathroom with a border of butterflies and blue paint on the walls above
+    it.
+  id: 219
+  image_id: 318556
+- caption: An angled view of a beautifully decorated bathroom.
+  id: 255
+  image_id: 318556
+- caption: The two people are walking down the beach.
+  id: 272
+  image_id: 134754
+- caption: A sink and a toilet inside a small bathroom.
+  id: 288
+  image_id: 538480
+images:
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000057870.jpg
+  file_name: COCO_train2014_000000057870.jpg
+  height: 480
+  license: 5
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000384029.jpg
+  file_name: COCO_train2014_000000384029.jpg
+  height: 429
+  license: 5
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000222016.jpg
+  file_name: COCO_train2014_000000222016.jpg
+  height: 640
+  license: 1
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000520950.jpg
+  file_name: COCO_train2014_000000520950.jpg
+  height: 427
+  license: 3
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000069675.jpg
+  file_name: COCO_train2014_000000069675.jpg
+  height: 480
+  license: 4
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000547471.jpg
+  file_name: COCO_train2014_000000547471.jpg
+  height: 640
+  license: 3
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000122688.jpg
+  file_name: COCO_train2014_000000122688.jpg
+  height: 640
+  license: 5
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000392136.jpg
+  file_name: COCO_train2014_000000392136.jpg
+  height: 347
+  license: 1
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000398494.jpg
+  file_name: COCO_train2014_000000398494.jpg
+  height: 640
+  license: 3
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000090570.jpg
+  file_name: COCO_train2014_000000090570.jpg
+  height: 429
+  license: 1
+info:
+  description: COCO 2014 Dataset
+  url: http://cocodataset.org
+  version: '1.0'
+  year: 2014
+licenses:
+- id: 1
+  name: Attribution-NonCommercial-ShareAlike License
+  url: http://creativecommons.org/licenses/by-nc-sa/2.0/
+- id: 2
+  name: Attribution-NonCommercial License
+  url: http://creativecommons.org/licenses/by-nc/2.0/
+- id: 3
+  name: Attribution-NonCommercial-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nc-nd/2.0/
+- id: 4
+  name: Attribution License
+  url: http://creativecommons.org/licenses/by/2.0/
+- id: 5
+  name: Attribution-ShareAlike License
+  url: http://creativecommons.org/licenses/by-sa/2.0/
+- id: 6
+  name: Attribution-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nd/2.0/
+- id: 7
+  name: No known copyright restrictions
+  url: http://flickr.com/commons/usage/
+- id: 8
+  name: United States Government Work
+  url: http://www.usa.gov/copyright.shtml

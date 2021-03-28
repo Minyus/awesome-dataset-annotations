@@ -1,0 +1,304 @@
+annotations:
+- area: 702.1057499999998
+  bbox:
+  - 473.07
+  - 395.93
+  - 38.65
+  - 28.67
+  image_id: 289343
+  iscrowd: 0
+  segmentation:
+  - - 510.66
+    - 423.01
+    - 511.72
+    - 420.03
+    - 510.45
+    - 416.0
+    - 510.34
+    - 413.02
+    - 510.77
+    - 410.26
+- area: 27718.476299999995
+  bbox:
+  - 272.1
+  - 200.23
+  - 151.97
+  - 279.77
+  image_id: 61471
+  iscrowd: 0
+  segmentation:
+  - - 289.74
+    - 443.39
+    - 302.29
+    - 445.32
+    - 308.09
+    - 427.94
+    - 310.02
+    - 416.35
+    - 304.23
+    - 405.73
+- area: 78969.31690000003
+  bbox:
+  - 124.71
+  - 196.18
+  - 372.85
+  - 356.81
+  image_id: 472375
+  iscrowd: 0
+  segmentation:
+  - - 147.76
+    - 396.11
+    - 158.48
+    - 355.91
+    - 153.12
+    - 347.87
+    - 137.04
+    - 346.26
+    - 125.25
+    - 339.29
+- area: 108316.66515000002
+  bbox:
+  - 112.71
+  - 154.82
+  - 367.29
+  - 479.35
+  image_id: 520301
+  iscrowd: 0
+  segmentation:
+  - - 260.4
+    - 231.26
+    - 215.06
+    - 274.01
+    - 194.33
+    - 307.69
+    - 195.63
+    - 329.72
+    - 168.42
+    - 355.63
+- area: 75864.53530000002
+  bbox:
+  - 200.61
+  - 89.65
+  - 400.22
+  - 251.02
+  image_id: 579321
+  iscrowd: 0
+  segmentation:
+  - - 200.61
+    - 253.97
+    - 273.19
+    - 318.49
+    - 302.43
+    - 336.64
+    - 357.87
+    - 340.67
+    - 402.23
+    - 316.48
+- area: 16932.135100000003
+  bbox:
+  - 0.0
+  - 421.09
+  - 154.53
+  - 208.61
+  image_id: 494869
+  iscrowd: 0
+  segmentation:
+  - - 0.0
+    - 503.5
+    - 21.89
+    - 490.62
+    - 37.34
+    - 467.44
+    - 56.66
+    - 455.86
+    - 60.52
+    - 448.13
+- area: 32002.702999999998
+  bbox:
+  - 427.58
+  - 77.87
+  - 188.88
+  - 285.91
+  image_id: 554002
+  iscrowd: 0
+  segmentation:
+  - - 503.13
+    - 363.78
+    - 541.77
+    - 358.63
+    - 541.77
+    - 302.82
+    - 534.9
+    - 261.61
+    - 559.8
+    - 267.62
+- area: 16694.404700000003
+  bbox:
+  - 197.97
+  - 117.22
+  - 170.45
+  - 222.07
+  image_id: 78823
+  iscrowd: 0
+  segmentation:
+  - - 251.24
+    - 238.5
+    - 252.06
+    - 235.22
+    - 252.06
+    - 234.4
+    - 251.24
+    - 228.66
+    - 254.52
+    - 217.19
+- area: 9496.329899999997
+  bbox:
+  - 61.68
+  - 389.34
+  - 130.77
+  - 138.47
+  image_id: 419974
+  iscrowd: 0
+  segmentation:
+  - - 179.63
+    - 437.21
+    - 191.6
+    - 426.95
+    - 192.45
+    - 409.86
+    - 170.23
+    - 409.0
+    - 170.23
+    - 403.87
+- area: 2613.772699999999
+  bbox:
+  - 86.93
+  - 90.76
+  - 82.5
+  - 74.54
+  image_id: 404484
+  iscrowd: 0
+  segmentation:
+  - - 115.46
+    - 164.53
+    - 106.2
+    - 165.3
+    - 105.95
+    - 156.82
+    - 104.15
+    - 155.28
+    - 103.63
+    - 149.37
+categories:
+- id: 1
+  name: person
+  supercategory: person
+- id: 2
+  name: bicycle
+  supercategory: vehicle
+- id: 3
+  name: car
+  supercategory: vehicle
+- id: 4
+  name: motorcycle
+  supercategory: vehicle
+- id: 5
+  name: airplane
+  supercategory: vehicle
+- id: 6
+  name: bus
+  supercategory: vehicle
+- id: 7
+  name: train
+  supercategory: vehicle
+- id: 8
+  name: truck
+  supercategory: vehicle
+- id: 9
+  name: boat
+  supercategory: vehicle
+- id: 10
+  name: traffic light
+  supercategory: outdoor
+images:
+- coco_url: http://images.cocodataset.org/val2017/000000397133.jpg
+  file_name: 000000397133.jpg
+  height: 427
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000037777.jpg
+  file_name: 000000037777.jpg
+  height: 230
+  license: 1
+  width: 352
+- coco_url: http://images.cocodataset.org/val2017/000000252219.jpg
+  file_name: 000000252219.jpg
+  height: 428
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000087038.jpg
+  file_name: 000000087038.jpg
+  height: 480
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000174482.jpg
+  file_name: 000000174482.jpg
+  height: 388
+  license: 6
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000403385.jpg
+  file_name: 000000403385.jpg
+  height: 511
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000006818.jpg
+  file_name: 000000006818.jpg
+  height: 640
+  license: 4
+  width: 427
+- coco_url: http://images.cocodataset.org/val2017/000000480985.jpg
+  file_name: 000000480985.jpg
+  height: 500
+  license: 6
+  width: 375
+- coco_url: http://images.cocodataset.org/val2017/000000458054.jpg
+  file_name: 000000458054.jpg
+  height: 426
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000331352.jpg
+  file_name: 000000331352.jpg
+  height: 500
+  license: 4
+  width: 351
+info:
+  contributor: COCO Consortium
+  description: COCO 2017 Dataset
+  url: http://cocodataset.org
+  version: '1.0'
+  year: 2017
+licenses:
+- id: 1
+  name: Attribution-NonCommercial-ShareAlike License
+  url: http://creativecommons.org/licenses/by-nc-sa/2.0/
+- id: 2
+  name: Attribution-NonCommercial License
+  url: http://creativecommons.org/licenses/by-nc/2.0/
+- id: 3
+  name: Attribution-NonCommercial-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nc-nd/2.0/
+- id: 4
+  name: Attribution License
+  url: http://creativecommons.org/licenses/by/2.0/
+- id: 5
+  name: Attribution-ShareAlike License
+  url: http://creativecommons.org/licenses/by-sa/2.0/
+- id: 6
+  name: Attribution-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nd/2.0/
+- id: 7
+  name: No known copyright restrictions
+  url: http://flickr.com/commons/usage/
+- id: 8
+  name: United States Government Work
+  url: http://www.usa.gov/copyright.shtml

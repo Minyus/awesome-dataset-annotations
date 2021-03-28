@@ -1,0 +1,67 @@
+data:
+- flickr_300k_url: https://c7.staticflickr.com/4/3905/15210925691_e685eeabda_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/4/3905/15210925691_3fbe75f875_o.jpg
+  image_classes:
+  - Personal care
+  - Perfume
+  image_id: 011e7e629fb9ae7b
+- flickr_300k_url: https://c6.staticflickr.com/9/8500/8295861631_2c202c18c8_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/8500/8295861631_3a67af61c1_o.jpg
+  image_classes:
+  - Clock
+  - Watch
+  - Wall clock
+  image_id: 09efcb22ca121f57
+- flickr_300k_url: https://c1.staticflickr.com/2/1097/1206594541_0fa8b6dc15_z.jpg?zz=1
+  flickr_original_url: https://c2.staticflickr.com/2/1097/1206594541_9da6a789b5_o.jpg
+  image_classes:
+  - Mobile phone
+  image_id: 0c3643013a53da39
+- flickr_300k_url: https://c2.staticflickr.com/3/2877/10037296734_0b7bcca795_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/2877/10037296734_5da1622f1f_o.jpg
+  image_classes:
+  - Laptop
+  - Mobile phone
+  image_id: 138b2bd1a1f8ec61
+- flickr_300k_url: https://c5.staticflickr.com/2/1165/526319721_0e33f8c855_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/2/1165/526319721_a0a11a2443_o.jpg
+  image_classes:
+  - Parking meter
+  - Frying pan
+  - Pressure cooker
+  image_id: 0f21976214ebc938
+- flickr_300k_url: https://c3.staticflickr.com/8/7315/8721004582_9ed63c90cb_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/8/7315/8721004582_5a32c803fc_o.jpg
+  image_classes:
+  - Book
+  - Bookcase
+  - Furniture
+  - Shelf
+  image_id: 53d4c2f1425b9f1a
+- flickr_300k_url: https://c7.staticflickr.com/5/4023/4268554966_02919c1f8d_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/4023/4268554966_2d4bd60e12_o.jpg
+  image_classes:
+  - Computer monitor
+  - Television
+  image_id: 0a21d4c058183a35
+- flickr_300k_url: https://c6.staticflickr.com/5/4008/4614836112_6813692c03_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/5/4008/4614836112_eff53f577b_o.jpg
+  image_classes:
+  - Television
+  image_id: 0494ee3501adf70e
+- flickr_300k_url: https://c2.staticflickr.com/7/6237/6300940083_8ba7783f60_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/6237/6300940083_ceb3c59d1d_o.jpg
+  image_classes:
+  - Picture frame
+  image_id: 918e3adf0b0615a2
+- flickr_300k_url: https://c2.staticflickr.com/1/210/496424889_a4878683f0_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/210/496424889_27ef576d2c_o.jpg
+  image_classes:
+  - Beer
+  - Person
+  - Drink
+  - Bottle
+  image_id: b696c1d0fdf83076
+dataset_name: textcaps
+dataset_type: train
+dataset_version: 0.1

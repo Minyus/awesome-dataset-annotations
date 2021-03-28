@@ -1,0 +1,397 @@
+annotations:
+- area: 3817.67415
+  iscrowd: 0
+  keypoints:
+  - 311
+  - 101
+  - 2
+  - 315
+  - 98
+  - 2
+  - 308
+  - 97
+  - 2
+  - 324
+  num_keypoints: 16
+  segmentation:
+  - - 329.88
+    - 211.23
+    - 337.63
+    - 211.93
+    - 341.51
+    - 210.17
+    - 341.86
+    - 206.65
+    - 340.1
+    - 202.77
+  - - 307.1
+    - 171.37
+    - 309.57
+    - 164.78
+    - 295.02
+    - 166.7
+    - 296.11
+    - 173.02
+    - 299.68
+    - 170.54
+- area: 52541.14915
+  iscrowd: 0
+  keypoints:
+  - 145
+  - 113
+  - 2
+  - 158
+  - 96
+  - 2
+  - 124
+  - 97
+  - 2
+  - 184
+  num_keypoints: 17
+  segmentation:
+  - - 41.06
+    - 411.11
+    - 50.61
+    - 388.19
+    - 39.15
+    - 360.5
+    - 33.42
+    - 298.42
+    - 43.93
+    - 286.96
+- area: 10161.0165
+  iscrowd: 0
+  keypoints:
+  - 306
+  - 129
+  - 2
+  - 309
+  - 124
+  - 2
+  - 301
+  - 125
+  - 2
+  - 320
+  num_keypoints: 15
+  segmentation:
+  - - 237.59
+    - 196.4
+    - 261.87
+    - 197.27
+    - 286.15
+    - 186
+    - 290.48
+    - 176.46
+    - 296.55
+    - 163.45
+- area: 1527.5873
+  iscrowd: 0
+  keypoints:
+  - 238
+  - 240
+  - 2
+  - 239
+  - 237
+  - 2
+  - 235
+  - 239
+  - 2
+  - 242
+  num_keypoints: 12
+  segmentation:
+  - - 248.55
+    - 319.17
+    - 255.13
+    - 317.12
+    - 252.25
+    - 267.78
+    - 254.31
+    - 248.86
+    - 254.72
+    - 239.41
+- area: 2189.62475
+  iscrowd: 0
+  keypoints:
+  - 290
+  - 152
+  - 2
+  - 293
+  - 151
+  - 2
+  - 289
+  - 149
+  - 2
+  - 0
+  num_keypoints: 11
+  segmentation:
+  - - 293.27
+    - 191.38
+    - 298.11
+    - 167.71
+    - 296.32
+    - 160.58
+    - 292.25
+    - 154.47
+    - 295.31
+    - 149.63
+  - - 291.74
+    - 207.68
+    - 292.76
+    - 196.73
+    - 289.2
+    - 196.98
+    - 287.67
+    - 207.42
+  - - 281.81
+    - 204.87
+    - 285.38
+    - 195.71
+    - 274.43
+    - 197.24
+    - 268.83
+    - 199.78
+    - 268.32
+    - 201.82
+- area: 8787.59595
+  iscrowd: 0
+  keypoints:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 116
+  num_keypoints: 14
+  segmentation:
+  - - 101.14
+    - 345.02
+    - 83.64
+    - 340.2
+    - 84.24
+    - 325.11
+    - 87.26
+    - 298.56
+    - 95.1
+    - 272
+- area: 257.38085
+  iscrowd: 0
+  keypoints:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  num_keypoints: 0
+  segmentation:
+  - - 540.16
+    - 231.7
+    - 540.16
+    - 228.7
+    - 541.88
+    - 227.85
+    - 542.73
+    - 228.7
+    - 542.73
+    - 230.63
+- area: 9060.9381
+  iscrowd: 0
+  keypoints:
+  - 382
+  - 119
+  - 2
+  - 385
+  - 113
+  - 2
+  - 0
+  - 0
+  - 0
+  - 395
+  num_keypoints: 15
+  segmentation:
+  - - 376.06
+    - 327.01
+    - 390.49
+    - 315.47
+    - 382.8
+    - 253.91
+    - 385.68
+    - 244.3
+    - 384.72
+    - 241.41
+- area: 15435.84925
+  iscrowd: 0
+  keypoints:
+  - 101
+  - 133
+  - 2
+  - 102
+  - 126
+  - 2
+  - 91
+  - 128
+  - 2
+  - 0
+  num_keypoints: 12
+  segmentation:
+  - - 29.63
+    - 303.75
+    - 26.65
+    - 270.29
+    - 27.4
+    - 247.24
+    - 34.09
+    - 232.37
+    - 34.83
+    - 197.43
+- area: 9583.34365
+  iscrowd: 0
+  keypoints:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 213
+  num_keypoints: 14
+  segmentation:
+  - - 258.81
+    - 337.6
+    - 251.77
+    - 330.55
+    - 245.43
+    - 330.55
+    - 237.69
+    - 315.77
+    - 247.54
+    - 294.99
+categories:
+- id: 1
+  keypoints:
+  - nose
+  - left_eye
+  - right_eye
+  - left_ear
+  - right_ear
+  - left_shoulder
+  - right_shoulder
+  - left_elbow
+  - right_elbow
+  - left_wrist
+  name: person
+  skeleton:
+  - - 16
+    - 14
+  - - 14
+    - 12
+  - - 17
+    - 15
+  - - 15
+    - 13
+  - - 12
+    - 13
+  - - 6
+    - 12
+  - - 7
+    - 13
+  - - 6
+    - 7
+  - - 6
+    - 8
+  - - 7
+    - 9
+  supercategory: person
+images:
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000057870.jpg
+  file_name: COCO_train2014_000000057870.jpg
+  height: 480
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000384029.jpg
+  file_name: COCO_train2014_000000384029.jpg
+  height: 429
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000222016.jpg
+  file_name: COCO_train2014_000000222016.jpg
+  height: 640
+  license: 1
+  width: 480
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000520950.jpg
+  file_name: COCO_train2014_000000520950.jpg
+  height: 427
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000069675.jpg
+  file_name: COCO_train2014_000000069675.jpg
+  height: 480
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000547471.jpg
+  file_name: COCO_train2014_000000547471.jpg
+  height: 640
+  license: 3
+  width: 383
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000122688.jpg
+  file_name: COCO_train2014_000000122688.jpg
+  height: 640
+  license: 5
+  width: 480
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000392136.jpg
+  file_name: COCO_train2014_000000392136.jpg
+  height: 347
+  license: 1
+  width: 500
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000398494.jpg
+  file_name: COCO_train2014_000000398494.jpg
+  height: 640
+  license: 3
+  width: 427
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000090570.jpg
+  file_name: COCO_train2014_000000090570.jpg
+  height: 429
+  license: 1
+  width: 640
+info:
+  contributor: COCO Consortium
+  description: COCO 2014 Dataset
+  url: http://cocodataset.org
+  version: '1.0'
+  year: 2014
+licenses:
+- id: 1
+  name: Attribution-NonCommercial-ShareAlike License
+  url: http://creativecommons.org/licenses/by-nc-sa/2.0/
+- id: 2
+  name: Attribution-NonCommercial License
+  url: http://creativecommons.org/licenses/by-nc/2.0/
+- id: 3
+  name: Attribution-NonCommercial-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nc-nd/2.0/
+- id: 4
+  name: Attribution License
+  url: http://creativecommons.org/licenses/by/2.0/
+- id: 5
+  name: Attribution-ShareAlike License
+  url: http://creativecommons.org/licenses/by-sa/2.0/
+- id: 6
+  name: Attribution-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nd/2.0/
+- id: 7
+  name: No known copyright restrictions
+  url: http://flickr.com/commons/usage/
+- id: 8
+  name: United States Government Work
+  url: http://www.usa.gov/copyright.shtml

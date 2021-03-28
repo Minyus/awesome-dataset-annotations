@@ -1,0 +1,324 @@
+annotations:
+- area: 54652.9556
+  bbox:
+  - 116.95
+  - 305.86
+  - 285.3
+  - 266.03
+  image_id: 480023
+  iscrowd: 0
+  segmentation:
+  - - 312.29
+    - 562.89
+    - 402.25
+    - 511.49
+    - 400.96
+    - 425.38
+    - 398.39
+    - 372.69
+    - 388.11
+    - 332.85
+- area: 421.47274999999996
+  bbox:
+  - 245.54
+  - 208.17
+  - 40.14
+  - 19.1
+  image_id: 50518
+  iscrowd: 0
+  segmentation:
+  - - 252.46
+    - 208.17
+    - 267.96
+    - 210.11
+    - 280.14
+    - 213.98
+    - 285.68
+    - 221.45
+    - 279.59
+    - 227.27
+- area: 53535.29024999999
+  bbox:
+  - 288.4
+  - 18.07
+  - 211.6
+  - 331.33
+  image_id: 142589
+  iscrowd: 0
+  segmentation:
+  - - 292.92
+    - 25.6
+    - 288.4
+    - 41.42
+    - 289.91
+    - 61.75
+    - 289.16
+    - 180.72
+    - 314.76
+    - 289.16
+- area: 3892.3764
+  bbox:
+  - 126.5
+  - 475.24
+  - 77.68
+  - 76.73
+  image_id: 209263
+  iscrowd: 0
+  segmentation:
+  - - 130.29
+    - 506.97
+    - 126.5
+    - 499.87
+    - 133.13
+    - 494.19
+    - 136.45
+    - 490.87
+    - 142.13
+    - 488.5
+- area: 72576.18295
+  bbox:
+  - 185.57
+  - 93.4
+  - 219.97
+  - 420.29
+  image_id: 15307
+  iscrowd: 0
+  segmentation:
+  - - 294.94
+    - 115.52
+    - 255.61
+    - 135.18
+    - 228.58
+    - 163.45
+    - 224.89
+    - 181.88
+    - 210.14
+    - 188.02
+- area: 8655.073349999995
+  bbox:
+  - 117.47
+  - 195.78
+  - 128.51
+  - 154.62
+  image_id: 328812
+  iscrowd: 0
+  segmentation:
+  - - 146.59
+    - 211.85
+    - 117.47
+    - 228.92
+    - 195.78
+    - 350.4
+    - 245.98
+    - 305.22
+    - 164.66
+    - 195.78
+- area: 61993.18660000001
+  bbox:
+  - 238.96
+  - 44.38
+  - 301.25
+  - 319.17
+  image_id: 246920
+  iscrowd: 0
+  segmentation:
+  - - 242.37
+    - 246.64
+    - 353.31
+    - 76.81
+    - 378.06
+    - 44.38
+    - 395.13
+    - 44.38
+    - 423.29
+    - 73.39
+- area: 3813.9231
+  bbox:
+  - 282.95
+  - 213.5
+  - 109.75
+  - 58.31
+  image_id: 576810
+  iscrowd: 0
+  segmentation:
+  - - 305.24
+    - 253.8
+    - 289.81
+    - 246.94
+    - 282.95
+    - 231.51
+    - 286.38
+    - 221.22
+    - 310.39
+    - 215.21
+- area: 33361.92000000001
+  bbox:
+  - 221.44
+  - 136.62
+  - 116.48
+  - 417.28
+  image_id: 46298
+  iscrowd: 0
+  segmentation:
+  - - 320.0
+    - 537.26
+    - 290.56
+    - 553.9
+    - 257.28
+    - 541.1
+    - 244.48
+    - 511.66
+    - 221.44
+    - 228.78
+- area: 26094.9951
+  bbox:
+  - 194.97
+  - 266.49
+  - 266.49
+  - 127.71
+  image_id: 235437
+  iscrowd: 0
+  segmentation:
+  - - 231.58
+    - 386.54
+    - 303.1
+    - 394.2
+    - 370.36
+    - 390.8
+    - 398.46
+    - 383.13
+    - 415.49
+    - 361.0
+  - - 237.54
+    - 298.84
+    - 289.48
+    - 298.84
+    - 345.67
+    - 299.69
+    - 414.63
+    - 297.99
+    - 425.7
+    - 297.14
+  - - 223.07
+    - 309.06
+    - 216.26
+    - 303.1
+    - 213.7
+    - 294.59
+    - 222.22
+    - 279.26
+    - 231.58
+    - 274.15
+categories:
+- id: 1
+  name: person
+  supercategory: person
+- id: 2
+  name: bicycle
+  supercategory: vehicle
+- id: 3
+  name: car
+  supercategory: vehicle
+- id: 4
+  name: motorcycle
+  supercategory: vehicle
+- id: 5
+  name: airplane
+  supercategory: vehicle
+- id: 6
+  name: bus
+  supercategory: vehicle
+- id: 7
+  name: train
+  supercategory: vehicle
+- id: 8
+  name: truck
+  supercategory: vehicle
+- id: 9
+  name: boat
+  supercategory: vehicle
+- id: 10
+  name: traffic light
+  supercategory: outdoor
+images:
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000057870.jpg
+  file_name: COCO_train2014_000000057870.jpg
+  height: 480
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000384029.jpg
+  file_name: COCO_train2014_000000384029.jpg
+  height: 429
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000222016.jpg
+  file_name: COCO_train2014_000000222016.jpg
+  height: 640
+  license: 1
+  width: 480
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000520950.jpg
+  file_name: COCO_train2014_000000520950.jpg
+  height: 427
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000069675.jpg
+  file_name: COCO_train2014_000000069675.jpg
+  height: 480
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000547471.jpg
+  file_name: COCO_train2014_000000547471.jpg
+  height: 640
+  license: 3
+  width: 383
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000122688.jpg
+  file_name: COCO_train2014_000000122688.jpg
+  height: 640
+  license: 5
+  width: 480
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000392136.jpg
+  file_name: COCO_train2014_000000392136.jpg
+  height: 347
+  license: 1
+  width: 500
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000398494.jpg
+  file_name: COCO_train2014_000000398494.jpg
+  height: 640
+  license: 3
+  width: 427
+- coco_url: http://images.cocodataset.org/train2014/COCO_train2014_000000090570.jpg
+  file_name: COCO_train2014_000000090570.jpg
+  height: 429
+  license: 1
+  width: 640
+info:
+  contributor: COCO Consortium
+  description: COCO 2014 Dataset
+  url: http://cocodataset.org
+  version: '1.0'
+  year: 2014
+licenses:
+- id: 1
+  name: Attribution-NonCommercial-ShareAlike License
+  url: http://creativecommons.org/licenses/by-nc-sa/2.0/
+- id: 2
+  name: Attribution-NonCommercial License
+  url: http://creativecommons.org/licenses/by-nc/2.0/
+- id: 3
+  name: Attribution-NonCommercial-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nc-nd/2.0/
+- id: 4
+  name: Attribution License
+  url: http://creativecommons.org/licenses/by/2.0/
+- id: 5
+  name: Attribution-ShareAlike License
+  url: http://creativecommons.org/licenses/by-sa/2.0/
+- id: 6
+  name: Attribution-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nd/2.0/
+- id: 7
+  name: No known copyright restrictions
+  url: http://flickr.com/commons/usage/
+- id: 8
+  name: United States Government Work
+  url: http://www.usa.gov/copyright.shtml

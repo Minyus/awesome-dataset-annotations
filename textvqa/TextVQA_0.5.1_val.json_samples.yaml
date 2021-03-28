@@ -1,0 +1,80 @@
+data:
+- flickr_original_url: https://farm2.staticflickr.com/4/5566811_bc00d504a6_o.jpg
+  image_classes:
+  - Cassette deck
+  - Printer
+  - Medical equipment
+  - Computer mouse
+  - Scale
+  - Telephone
+  - Camera
+  - Ipod
+  - Remote control
+  image_id: 003a8ae2ef43b901
+  question: what is the brand of this camera?
+- flickr_original_url: https://farm5.staticflickr.com/4136/4920614800_0f04f8f0a4_o.jpg
+  image_classes:
+  - Billboard
+  image_id: b9dc400eb20bad64
+  question: what does the small white text spell?
+- flickr_original_url: https://farm2.staticflickr.com/3519/5721283932_bc1e954b5c_o.jpg
+  image_classes:
+  - Surfboard
+  - Drink
+  - Bottle
+  - Wine
+  image_id: 2b538a43dd933fc1
+  question: what kind of beer is this?
+- flickr_original_url: https://farm5.staticflickr.com/5590/15223897342_cfd1371970_o.jpg
+  image_classes:
+  - Beer
+  - Drink
+  - Bottle
+  - Wine
+  image_id: 831bcec304a17054
+  question: what brand liquor is on the right?
+- flickr_original_url: https://farm5.staticflickr.com/5590/15223897342_cfd1371970_o.jpg
+  image_classes:
+  - Beer
+  - Drink
+  - Bottle
+  - Wine
+  image_id: 831bcec304a17054
+  question: how long has the drink on the right been aged?
+- flickr_original_url: https://farm3.staticflickr.com/447/17925009343_dd1d02e96a_o.jpg
+  image_classes:
+  - Boy
+  - Person
+  - Man
+  - Sports equipment
+  - Sports uniform
+  image_id: 94ad4aad01e27a32
+  question: what number is on the player's jersey?
+- flickr_original_url: https://farm7.staticflickr.com/8446/7993695789_77f02fb316_o.jpg
+  image_classes:
+  - Clock
+  - Fashion accessory
+  - Watch
+  image_id: 181f00d3ee2b2076
+  question: what is the time?
+- flickr_original_url: https://farm7.staticflickr.com/8446/7993695789_77f02fb316_o.jpg
+  image_classes:
+  - Clock
+  - Fashion accessory
+  - Watch
+  image_id: 181f00d3ee2b2076
+  question: what brand of watch is that?
+- flickr_original_url: https://farm7.staticflickr.com/5486/10254469926_93b82ff07f_o.jpg
+  image_classes:
+  - Whiteboard
+  image_id: 30f9b48158fc56e6
+  question: who is at the center of all of this?
+- flickr_original_url: https://c7.staticflickr.com/6/5211/5385510861_491abe57a5_o.jpg
+  image_classes:
+  - Person
+  - Drink
+  image_id: 4ffbb21f379cccbe
+  question: who was the photographer?
+dataset_name: textvqa
+dataset_type: val
+dataset_version: 0.5.1

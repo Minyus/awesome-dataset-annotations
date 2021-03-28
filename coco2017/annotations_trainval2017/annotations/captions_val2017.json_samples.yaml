@@ -1,0 +1,102 @@
+annotations:
+- caption: A black Honda motorcycle parked in front of a garage.
+  id: 38
+  image_id: 179765
+- caption: A Honda motorcycle parked in a grass driveway
+  id: 182
+  image_id: 179765
+- caption: An office cubicle with four different types of computers.
+  id: 401
+  image_id: 190236
+- caption: A small closed toilet in a cramped space.
+  id: 441
+  image_id: 331352
+- caption: Two women waiting at a bench next to a street.
+  id: 447
+  image_id: 517069
+- caption: A black Honda motorcycle with a dark burgundy seat.
+  id: 479
+  image_id: 179765
+- caption: A tan toilet and sink combination in a small room.
+  id: 540
+  image_id: 331352
+- caption: The home office space seems to be very cluttered.
+  id: 644
+  image_id: 190236
+- caption: A beautiful dessert waiting to be shared by two people
+  id: 856
+  image_id: 182417
+- caption: A woman sitting on a bench and a woman standing waiting for the bus.
+  id: 882
+  image_id: 517069
+images:
+- coco_url: http://images.cocodataset.org/val2017/000000397133.jpg
+  file_name: 000000397133.jpg
+  height: 427
+  license: 4
+- coco_url: http://images.cocodataset.org/val2017/000000037777.jpg
+  file_name: 000000037777.jpg
+  height: 230
+  license: 1
+- coco_url: http://images.cocodataset.org/val2017/000000252219.jpg
+  file_name: 000000252219.jpg
+  height: 428
+  license: 4
+- coco_url: http://images.cocodataset.org/val2017/000000087038.jpg
+  file_name: 000000087038.jpg
+  height: 480
+  license: 1
+- coco_url: http://images.cocodataset.org/val2017/000000174482.jpg
+  file_name: 000000174482.jpg
+  height: 388
+  license: 6
+- coco_url: http://images.cocodataset.org/val2017/000000403385.jpg
+  file_name: 000000403385.jpg
+  height: 511
+  license: 4
+- coco_url: http://images.cocodataset.org/val2017/000000006818.jpg
+  file_name: 000000006818.jpg
+  height: 640
+  license: 4
+- coco_url: http://images.cocodataset.org/val2017/000000480985.jpg
+  file_name: 000000480985.jpg
+  height: 500
+  license: 6
+- coco_url: http://images.cocodataset.org/val2017/000000458054.jpg
+  file_name: 000000458054.jpg
+  height: 426
+  license: 4
+- coco_url: http://images.cocodataset.org/val2017/000000331352.jpg
+  file_name: 000000331352.jpg
+  height: 500
+  license: 4
+info:
+  description: COCO 2017 Dataset
+  url: http://cocodataset.org
+  version: '1.0'
+  year: 2017
+licenses:
+- id: 1
+  name: Attribution-NonCommercial-ShareAlike License
+  url: http://creativecommons.org/licenses/by-nc-sa/2.0/
+- id: 2
+  name: Attribution-NonCommercial License
+  url: http://creativecommons.org/licenses/by-nc/2.0/
+- id: 3
+  name: Attribution-NonCommercial-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nc-nd/2.0/
+- id: 4
+  name: Attribution License
+  url: http://creativecommons.org/licenses/by/2.0/
+- id: 5
+  name: Attribution-ShareAlike License
+  url: http://creativecommons.org/licenses/by-sa/2.0/
+- id: 6
+  name: Attribution-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nd/2.0/
+- id: 7
+  name: No known copyright restrictions
+  url: http://flickr.com/commons/usage/
+- id: 8
+  name: United States Government Work
+  url: http://www.usa.gov/copyright.shtml

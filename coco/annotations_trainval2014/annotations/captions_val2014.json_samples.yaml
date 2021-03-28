@@ -1,0 +1,103 @@
+annotations:
+- caption: A bicycle replica with a clock as the front wheel.
+  id: 37
+  image_id: 203564
+- caption: A black Honda motorcycle parked in front of a garage.
+  id: 38
+  image_id: 179765
+- caption: A room with blue walls and a white sink and door.
+  id: 49
+  image_id: 322141
+- caption: A car that seems to be parked illegally behind a legally parked car
+  id: 89
+  image_id: 16977
+- caption: A large passenger airplane flying through the air.
+  id: 98
+  image_id: 106140
+- caption: There is a GOL plane taking off in a partly cloudy sky.
+  id: 101
+  image_id: 106140
+- caption: Blue and white color scheme in a small bathroom.
+  id: 109
+  image_id: 322141
+- caption: This is a blue and white bathroom with a wall sink and a lifesaver on the
+    wall.
+  id: 121
+  image_id: 322141
+- caption: A blue boat themed bathroom with a life preserver on the wall
+  id: 163
+  image_id: 322141
+- caption: The bike has a clock as a tire.
+  id: 181
+  image_id: 203564
+images:
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000391895.jpg
+  file_name: COCO_val2014_000000391895.jpg
+  height: 360
+  license: 3
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000522418.jpg
+  file_name: COCO_val2014_000000522418.jpg
+  height: 480
+  license: 4
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000184613.jpg
+  file_name: COCO_val2014_000000184613.jpg
+  height: 336
+  license: 3
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000318219.jpg
+  file_name: COCO_val2014_000000318219.jpg
+  height: 640
+  license: 3
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000554625.jpg
+  file_name: COCO_val2014_000000554625.jpg
+  height: 640
+  license: 3
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000397133.jpg
+  file_name: COCO_val2014_000000397133.jpg
+  height: 427
+  license: 4
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000574769.jpg
+  file_name: COCO_val2014_000000574769.jpg
+  height: 640
+  license: 3
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000060623.jpg
+  file_name: COCO_val2014_000000060623.jpg
+  height: 427
+  license: 4
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000309022.jpg
+  file_name: COCO_val2014_000000309022.jpg
+  height: 480
+  license: 2
+- coco_url: http://images.cocodataset.org/val2014/COCO_val2014_000000005802.jpg
+  file_name: COCO_val2014_000000005802.jpg
+  height: 479
+  license: 2
+info:
+  description: COCO 2014 Dataset
+  url: http://cocodataset.org
+  version: '1.0'
+  year: 2014
+licenses:
+- id: 1
+  name: Attribution-NonCommercial-ShareAlike License
+  url: http://creativecommons.org/licenses/by-nc-sa/2.0/
+- id: 2
+  name: Attribution-NonCommercial License
+  url: http://creativecommons.org/licenses/by-nc/2.0/
+- id: 3
+  name: Attribution-NonCommercial-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nc-nd/2.0/
+- id: 4
+  name: Attribution License
+  url: http://creativecommons.org/licenses/by/2.0/
+- id: 5
+  name: Attribution-ShareAlike License
+  url: http://creativecommons.org/licenses/by-sa/2.0/
+- id: 6
+  name: Attribution-NoDerivs License
+  url: http://creativecommons.org/licenses/by-nd/2.0/
+- id: 7
+  name: No known copyright restrictions
+  url: http://flickr.com/commons/usage/
+- id: 8
+  name: United States Government Work
+  url: http://www.usa.gov/copyright.shtml
