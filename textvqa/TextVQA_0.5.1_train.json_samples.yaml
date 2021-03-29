@@ -1,5 +1,17 @@
 data:
-- flickr_original_url: https://farm6.staticflickr.com/2891/9134076951_f65b421097_o.jpg
+- answers:
+  - nokia
+  - nokia
+  - nokia
+  - nokia
+  - toshiba
+  - nokia
+  - nokia
+  - nokia
+  - nokia
+  - nokia
+  flickr_300k_url: https://c4.staticflickr.com/3/2891/9134076951_9db89d3e0f_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/2891/9134076951_f65b421097_o.jpg
   image_classes:
   - Belt
   - Headphones
@@ -11,43 +23,168 @@ data:
   - Digital clock
   - Television
   - Telephone
+  - Tool
+  - Wheel
+  - Camera
+  - Watch
+  - Glasses
+  - Aircraft
+  image_height: 730
   image_id: 0054c91397f2fe05
+  image_width: 1024
   question: what is the brand of phone?
-- flickr_original_url: https://c8.staticflickr.com/3/2579/5811451782_31f8649055_o.jpg
+  question_id: 0
+  question_tokens:
+  - what
+  - is
+  - the
+  - brand
+  - of
+  - phone
+  set_name: train
+- answers:
+  - lape
+  - cargo
+  - ec-agg
+  - lape
+  - lape
+  - lape
+  - lape
+  - lape
+  - lape
+  - airplane
+  flickr_300k_url: https://c8.staticflickr.com/3/2579/5811451782_f6c4633327_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/3/2579/5811451782_31f8649055_o.jpg
   image_classes:
   - Vehicle
   - Helicopter
   - Airplane
   - Bomb
   - Aircraft
+  image_height: 667
   image_id: 005635e119b9f32f
+  image_width: 1024
   question: what type of plane is this?
-- flickr_original_url: https://c8.staticflickr.com/3/2579/5811451782_31f8649055_o.jpg
+  question_id: 1
+  question_tokens:
+  - what
+  - type
+  - of
+  - plane
+  - is
+  - this
+  set_name: train
+- answers:
+  - ec agg
+  - ec-agg
+  - ec
+  - ec-agg
+  - ec
+  - ec
+  - ec
+  - ec
+  - ec goeland
+  - ec
+  flickr_300k_url: https://c8.staticflickr.com/3/2579/5811451782_f6c4633327_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/3/2579/5811451782_31f8649055_o.jpg
   image_classes:
   - Vehicle
   - Helicopter
   - Airplane
   - Bomb
   - Aircraft
+  image_height: 667
   image_id: 005635e119b9f32f
+  image_width: 1024
   question: what are the letters on the tail section of the plane?
-- flickr_original_url: https://farm2.staticflickr.com/5067/5620759429_4ea686e643_o.jpg
+  question_id: 2
+  question_tokens:
+  - what
+  - are
+  - the
+  - letters
+  - 'on'
+  - the
+  - tail
+  - section
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - simon clancy
+  - simon ciancy
+  - simon clancy
+  - simon clancy
+  - the brand is bayard
+  - simon clancy
+  - simon clancy
+  - simon clancy
+  - simon clancy
+  - simon clancy
+  flickr_300k_url: https://c5.staticflickr.com/6/5067/5620759429_f43a649fb5_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/5067/5620759429_4ea686e643_o.jpg
   image_classes:
   - Vehicle
   - Tower
   - Airplane
   - Aircraft
+  image_height: 1024
   image_id: 00685bc495504d61
+  image_width: 786
   question: who is this copyrighted by?
-- flickr_original_url: https://farm2.staticflickr.com/5067/5620759429_4ea686e643_o.jpg
+  question_id: 3
+  question_tokens:
+  - who
+  - is
+  - this
+  - copyrighted
+  - by
+  set_name: train
+- answers:
+  - virgin is the brand on the plane.
+  - virgin mobile
+  - virgin
+  - virgin
+  - virgin
+  - virgin
+  - virgin
+  - virgin
+  - virgin
+  - virgin
+  flickr_300k_url: https://c5.staticflickr.com/6/5067/5620759429_f43a649fb5_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/5067/5620759429_4ea686e643_o.jpg
   image_classes:
   - Vehicle
   - Tower
   - Airplane
   - Aircraft
+  image_height: 1024
   image_id: 00685bc495504d61
+  image_width: 786
   question: what brand is on the plane?
-- flickr_original_url: https://farm5.staticflickr.com/6196/6118278128_09f43f09eb_o.jpg
+  question_id: 4
+  question_tokens:
+  - what
+  - brand
+  - is
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - '2011'
+  - '2011'
+  - '2011'
+  - '2011'
+  - '2011'
+  - '2011'
+  - '2011'
+  - '2011'
+  - '2011'
+  - '2011'
+  flickr_300k_url: https://c4.staticflickr.com/7/6196/6118278128_0fc8a3e349_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/6196/6118278128_09f43f09eb_o.jpg
   image_classes:
   - Person
   - Woman
@@ -57,9 +194,33 @@ data:
   - Airplane
   - Human face
   - Aircraft
+  image_height: 768
   image_id: 006d10667d17b924
+  image_width: 1024
   question: what year is shown in the photo?
-- flickr_original_url: https://farm5.staticflickr.com/6196/6118278128_09f43f09eb_o.jpg
+  question_id: 5
+  question_tokens:
+  - what
+  - year
+  - is
+  - shown
+  - in
+  - the
+  - photo
+  set_name: train
+- answers:
+  - rimini
+  - royal theater
+  - rimini
+  - rimini
+  - rimini meeting
+  - rimini
+  - rimini meeting
+  - rimini
+  - rimini
+  - rimini
+  flickr_300k_url: https://c4.staticflickr.com/7/6196/6118278128_0fc8a3e349_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/6196/6118278128_09f43f09eb_o.jpg
   image_classes:
   - Person
   - Woman
@@ -69,31 +230,3062 @@ data:
   - Airplane
   - Human face
   - Aircraft
+  image_height: 768
   image_id: 006d10667d17b924
+  image_width: 1024
   question: what type of meeting is it?
-- flickr_original_url: https://c2.staticflickr.com/9/8103/8562272505_2ce50b5a35_o.jpg
+  question_id: 6
+  question_tokens:
+  - what
+  - type
+  - of
+  - meeting
+  - is
+  - it
+  set_name: train
+- answers:
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  flickr_300k_url: https://c1.staticflickr.com/9/8103/8562272505_5b42f9d199_z.jpg
+  flickr_original_url: https://c2.staticflickr.com/9/8103/8562272505_2ce50b5a35_o.jpg
   image_classes:
   - Vehicle
   - Helicopter
   - Airplane
   - Aircraft
+  image_height: 680
   image_id: 00c359f294f7dcd9
+  image_width: 1024
   question: what is the name of this plane?
-- flickr_original_url: https://c2.staticflickr.com/9/8103/8562272505_2ce50b5a35_o.jpg
+  question_id: 7
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - this
+  - plane
+  set_name: train
+- answers:
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  - g-atco
+  flickr_300k_url: https://c1.staticflickr.com/9/8103/8562272505_5b42f9d199_z.jpg
+  flickr_original_url: https://c2.staticflickr.com/9/8103/8562272505_2ce50b5a35_o.jpg
   image_classes:
   - Vehicle
   - Helicopter
   - Airplane
   - Aircraft
+  image_height: 680
   image_id: 00c359f294f7dcd9
+  image_width: 1024
   question: what is the plane's call sign?
-- flickr_original_url: https://farm3.staticflickr.com/8673/16416250538_594bcb48d2_o.jpg
+  question_id: 8
+  question_tokens:
+  - what
+  - is
+  - the
+  - plane
+  - ''''
+  - s
+  - call
+  - sign
+  set_name: train
+- answers:
+  - f
+  - f
+  - f
+  - f
+  - f
+  - f
+  - f
+  - f
+  - f
+  - f
+  flickr_300k_url: https://c7.staticflickr.com/9/8673/16416250538_9328760686_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/8673/16416250538_594bcb48d2_o.jpg
   image_classes:
   - Vehicle
   - Airplane
   - Aircraft
+  image_height: 683
   image_id: 0122c5279a501df2
+  image_width: 1024
   question: what letter is on the plane's tail?
+  question_id: 9
+  question_tokens:
+  - what
+  - letter
+  - is
+  - 'on'
+  - the
+  - plane
+  - ''''
+  - s
+  - tail
+  set_name: train
+- answers:
+  - finn
+  - finn
+  - finn air
+  - finnair
+  - finn
+  - finnair
+  - finn
+  - finnair
+  - finnair
+  - unanswerable
+  flickr_300k_url: https://c7.staticflickr.com/9/8673/16416250538_9328760686_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/8673/16416250538_594bcb48d2_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 0122c5279a501df2
+  image_width: 1024
+  question: what airline is this?
+  question_id: 10
+  question_tokens:
+  - what
+  - airline
+  - is
+  - this
+  set_name: train
+- answers:
+  - airfrance
+  - air france
+  - airfrance
+  - air france
+  - airfrance
+  - airfrance
+  - spanish
+  - air france
+  - air france
+  - air france
+  flickr_300k_url: https://c8.staticflickr.com/3/2682/4481270420_728ee098f0_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/3/2682/4481270420_2b2e163583_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 448
+  image_id: 015c537f722d115e
+  image_width: 1024
+  question: what airline is this plane for?
+  question_id: 11
+  question_tokens:
+  - what
+  - airline
+  - is
+  - this
+  - plane
+  - for
+  set_name: train
+- answers:
+  - croatia
+  - croatia
+  - roatia
+  - roatia
+  - croatia
+  - croatia
+  - croatia
+  - croatia
+  - roatia
+  - 'roatia '
+  flickr_300k_url: https://c1.staticflickr.com/6/5473/9450199255_43029a3cd1_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/5473/9450199255_515b079639_o.jpg
+  image_classes:
+  - Building
+  - Person
+  - Vehicle
+  - Airplane
+  - Human face
+  - Aircraft
+  image_height: 1024
+  image_id: 0202faf23a9aae11
+  image_width: 1024
+  question: what does it say on the plane?
+  question_id: 12
+  question_tokens:
+  - what
+  - does
+  - it
+  - say
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - jet2.com
+  - jet2.com
+  - jet2.com
+  - jet2.com
+  - jet2
+  - jet2.com
+  - jet2.com
+  - jet2.com
+  - jet2
+  - jet2.com
+  flickr_300k_url: https://c3.staticflickr.com/8/7403/13914609743_23fdb967b3_z.jpg
+  flickr_original_url: https://farm4.staticflickr.com/7403/13914609743_2004ef8b74_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 682
+  image_id: 02b2daa20b00f5d3
+  image_width: 1024
+  question: what website is this jet associated with?
+  question_id: 13
+  question_tokens:
+  - what
+  - website
+  - is
+  - this
+  - jet
+  - associated
+  - with
+  set_name: train
+- answers:
+  - friendly low fares
+  - friendly low fares
+  - friendly low fares
+  - friendly low fares
+  - friendly low fares
+  - friendly low fares
+  - friendly low fares
+  - friendly low fairs
+  - friendly low fares
+  - friendly low fares
+  flickr_300k_url: https://c3.staticflickr.com/8/7403/13914609743_23fdb967b3_z.jpg
+  flickr_original_url: https://farm4.staticflickr.com/7403/13914609743_2004ef8b74_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 682
+  image_id: 02b2daa20b00f5d3
+  image_width: 1024
+  question: what does this jet advertise as having?
+  question_id: 14
+  question_tokens:
+  - what
+  - does
+  - this
+  - jet
+  - advertise
+  - as
+  - having
+  set_name: train
+- answers:
+  - raf
+  - raf
+  - raf
+  - raf
+  - r a f
+  - raf
+  - raf
+  - raf
+  - raf
+  - raf
+  flickr_300k_url: https://c4.staticflickr.com/5/4102/4759963602_5ea2beab2f_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/5/4102/4759963602_47a83be793_o.jpg
+  image_classes:
+  - Vehicle
+  - Helicopter
+  - Parachute
+  - Aircraft
+  image_height: 903
+  image_id: 02da7a42e971e3cb
+  image_width: 1024
+  question: what letters are embellished on the parachute?
+  question_id: 15
+  question_tokens:
+  - what
+  - letters
+  - are
+  - embellished
+  - 'on'
+  - the
+  - parachute
+  set_name: train
+- answers:
+  - raf
+  - raf
+  - raf
+  - raf
+  - raf
+  - raf
+  - raf
+  - raf
+  - raf
+  - raf
+  flickr_300k_url: https://c4.staticflickr.com/5/4102/4759963602_5ea2beab2f_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/5/4102/4759963602_47a83be793_o.jpg
+  image_classes:
+  - Vehicle
+  - Helicopter
+  - Parachute
+  - Aircraft
+  image_height: 903
+  image_id: 02da7a42e971e3cb
+  image_width: 1024
+  question: what are the letters being displayed?
+  question_id: 16
+  question_tokens:
+  - what
+  - are
+  - the
+  - letters
+  - being
+  - displayed
+  set_name: train
+- answers:
+  - '3'
+  - '3'
+  - '3'
+  - traktor
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  flickr_300k_url: https://c2.staticflickr.com/6/5102/5650736526_28c63333c5_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/6/5102/5650736526_9ec0ea741b_o.jpg
+  image_classes:
+  - Vehicle
+  - Ambulance
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 0300066daef7157a
+  image_width: 1024
+  question: what is the last number of the plane?
+  question_id: 17
+  question_tokens:
+  - what
+  - is
+  - the
+  - last
+  - number
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - adx
+  - danger
+  - ad
+  - adx
+  - adx
+  - adx
+  - adx
+  - adx
+  - adx
+  - adx
+  flickr_300k_url: https://c7.staticflickr.com/9/8003/7476657322_225c533aae_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/9/8003/7476657322_eb2e6cf61c_o.jpg
+  image_classes:
+  - Person
+  - Vehicle
+  - Helicopter
+  - Footwear
+  - Airplane
+  - Aircraft
+  image_height: 584
+  image_id: 0320299003ff65fb
+  image_width: 1024
+  question: what letters are visible on the tail of the helicopter?
+  question_id: 18
+  question_tokens:
+  - what
+  - letters
+  - are
+  - visible
+  - 'on'
+  - the
+  - tail
+  - of
+  - the
+  - helicopter
+  set_name: train
+- answers:
+  - 728tfw
+  - f-16
+  - wp
+  - wp
+  - wp
+  - wp
+  - wp
+  - wp
+  - wp
+  - unanswerable
+  flickr_300k_url: https://c1.staticflickr.com/8/7317/8720879958_85e108e726_z.jpg
+  flickr_original_url: https://farm4.staticflickr.com/7317/8720879958_791373f9ce_o.jpg
+  image_classes:
+  - Vehicle
+  - Boat
+  - Clock
+  - Airplane
+  - Aircraft
+  image_height: 532
+  image_id: 0393c9d77b8215a3
+  image_width: 1024
+  question: what is the plane name?
+  question_id: 19
+  question_tokens:
+  - what
+  - is
+  - the
+  - plane
+  - name
+  set_name: train
+- answers:
+  - '728'
+  - 728tfw
+  - '81'
+  - '81728'
+  - 728tfw
+  - unanswerable
+  - af91728tfw
+  - 728tfw
+  - '8'
+  - wp
+  flickr_300k_url: https://c1.staticflickr.com/8/7317/8720879958_85e108e726_z.jpg
+  flickr_original_url: https://farm4.staticflickr.com/7317/8720879958_791373f9ce_o.jpg
+  image_classes:
+  - Vehicle
+  - Boat
+  - Clock
+  - Airplane
+  - Aircraft
+  image_height: 532
+  image_id: 0393c9d77b8215a3
+  image_width: 1024
+  question: what is the plane number?
+  question_id: 20
+  question_tokens:
+  - what
+  - is
+  - the
+  - plane
+  - number
+  set_name: train
+- answers:
+  - ricklinghausen
+  - 'rocklinghausen '
+  - recklinghausen
+  - rockinghausen
+  - rocklinghausen
+  - 'recklinghausen '
+  - rocklinghausen
+  - rocklinghausen
+  - recklkinghausen
+  - 'recklinghausen '
+  flickr_300k_url: https://c8.staticflickr.com/8/7271/7013089685_e28a82e463_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/8/7271/7013089685_34455c39b6_o.jpg
+  image_classes:
+  - Train
+  - Boy
+  - Person
+  - Woman
+  - Man
+  - Vehicle
+  - Clothing
+  - Footwear
+  - Airplane
+  - Aircraft
+  image_height: 769
+  image_id: 0394933dcd965048
+  image_width: 1024
+  question: what does the train say?
+  question_id: 21
+  question_tokens:
+  - what
+  - does
+  - the
+  - train
+  - say
+  set_name: train
+- answers:
+  - politi
+  - politi
+  - politi
+  - politi
+  - politi
+  - politi
+  - politi
+  - politi
+  - politi
+  - police
+  flickr_300k_url: https://c3.staticflickr.com/4/3383/3184901622_ff62bb323c_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/3383/3184901622_cf5f09010a_o.jpg
+  image_classes:
+  - Bus
+  - Ambulance
+  - Person
+  - Land vehicle
+  - Stretcher
+  - Vehicle
+  - Auto part
+  - Van
+  - Tire
+  - Car
+  - Aircraft
+  image_height: 682
+  image_id: 03e38d16213c4067
+  image_width: 1024
+  question: what organization do these men work for?
+  question_id: 22
+  question_tokens:
+  - what
+  - organization
+  - do
+  - these
+  - men
+  - work
+  - for
+  set_name: train
+- answers:
+  - '23'
+  - '25'
+  - 25 50
+  - unanswerable
+  - '25, 50 '
+  - 25 and 50
+  - 25, 50
+  - 25, 50
+  - 23 50
+  - 25-50
+  flickr_300k_url: https://c3.staticflickr.com/4/3383/3184901622_ff62bb323c_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/3383/3184901622_cf5f09010a_o.jpg
+  image_classes:
+  - Bus
+  - Ambulance
+  - Person
+  - Land vehicle
+  - Stretcher
+  - Vehicle
+  - Auto part
+  - Van
+  - Tire
+  - Car
+  - Aircraft
+  image_height: 682
+  image_id: 03e38d16213c4067
+  image_width: 1024
+  question: what two numbers can be seen on the white post on the right?
+  question_id: 23
+  question_tokens:
+  - what
+  - two
+  - numbers
+  - can
+  - be
+  - seen
+  - 'on'
+  - the
+  - white
+  - post
+  - 'on'
+  - the
+  - right
+  set_name: train
+- answers:
+  - f-pdhv
+  - f-pdhv
+  - f-pdhv
+  - f-pdhv
+  - f-pdhv
+  - fpdhv
+  - f-pdhv
+  - f-pdhv
+  - f-pdhv
+  - f-pdhv
+  flickr_300k_url: https://c6.staticflickr.com/3/2909/14180467188_5d7ab99262_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/2909/14180467188_8880ca1448_o.jpg
+  image_classes:
+  - Person
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 0492ee5ac9a69515
+  image_width: 1024
+  question: what letters are on the craft?
+  question_id: 24
+  question_tokens:
+  - what
+  - letters
+  - are
+  - 'on'
+  - the
+  - craft
+  set_name: train
+- answers:
+  - fpdhv
+  - www.verheesengineering.com
+  - unanswerable
+  - verhesengineering.com
+  - unanswerable
+  - verheesenginering.com
+  - www.verheesengineering.com
+  - www.verhwwsengineering.com
+  - '2'
+  - www.verheesengineering.com
+  flickr_300k_url: https://c6.staticflickr.com/3/2909/14180467188_5d7ab99262_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/2909/14180467188_8880ca1448_o.jpg
+  image_classes:
+  - Person
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 0492ee5ac9a69515
+  image_width: 1024
+  question: what website is labeled on the plane?
+  question_id: 25
+  question_tokens:
+  - what
+  - website
+  - is
+  - labeled
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - stop
+  - emergency stop
+  - emergency stop
+  - stop
+  - stop
+  - emergency stop
+  - emergency stop
+  - it is an emergency stop
+  - emergency stop
+  - unanswerable
+  flickr_300k_url: https://c8.staticflickr.com/4/3315/3411908910_4c2f8e5fbc_z.jpg?zz=1
+  flickr_original_url: https://c5.staticflickr.com/4/3315/3411908910_a8ecbfcaeb_o.jpg
+  image_classes:
+  - Land vehicle
+  - Vehicle
+  - Airplane
+  - Car
+  - Aircraft
+  image_height: 1024
+  image_id: 04dfad38d434409c
+  image_width: 973
+  question: what happens if you pull?
+  question_id: 26
+  question_tokens:
+  - what
+  - happens
+  - if
+  - you
+  - pull
+  set_name: train
+- answers:
+  - aa
+  - aa
+  - aa
+  - aa
+  - aa
+  - the sticker says emergency stop pull.
+  - aa
+  - emergency stop pull
+  - aa
+  - aa
+  flickr_300k_url: https://c8.staticflickr.com/4/3315/3411908910_4c2f8e5fbc_z.jpg?zz=1
+  flickr_original_url: https://c5.staticflickr.com/4/3315/3411908910_a8ecbfcaeb_o.jpg
+  image_classes:
+  - Land vehicle
+  - Vehicle
+  - Airplane
+  - Car
+  - Aircraft
+  image_height: 1024
+  image_id: 04dfad38d434409c
+  image_width: 973
+  question: what does the sticker on the window say?
+  question_id: 27
+  question_tokens:
+  - what
+  - does
+  - the
+  - sticker
+  - 'on'
+  - the
+  - window
+  - say
+  set_name: train
+- answers:
+  - biman
+  - biman
+  - biman
+  - biman
+  - biman
+  - biman
+  - biman
+  - biman
+  - biman
+  - biman
+  flickr_300k_url: https://c1.staticflickr.com/1/59/200317024_00b0454199_z.jpg?zz=1
+  flickr_original_url: https://farm4.staticflickr.com/59/200317024_00b0454199_o.jpg
+  image_classes:
+  - Vehicle
+  - Rocket
+  - Airplane
+  - Aircraft
+  image_height: 682
+  image_id: 05a4fa87bfdaa243
+  image_width: 1024
+  question: what made this airplane?
+  question_id: 28
+  question_tokens:
+  - what
+  - made
+  - this
+  - airplane
+  set_name: train
+- answers:
+  - biman
+  - biman
+  - bitman
+  - biman
+  - biman
+  - dc 10-30
+  - biman
+  - biman
+  - biman
+  - biman
+  flickr_300k_url: https://c1.staticflickr.com/1/59/200317024_00b0454199_z.jpg?zz=1
+  flickr_original_url: https://farm4.staticflickr.com/59/200317024_00b0454199_o.jpg
+  image_classes:
+  - Vehicle
+  - Rocket
+  - Airplane
+  - Aircraft
+  image_height: 682
+  image_id: 05a4fa87bfdaa243
+  image_width: 1024
+  question: what kind of plane is this?
+  question_id: 29
+  question_tokens:
+  - what
+  - kind
+  - of
+  - plane
+  - is
+  - this
+  set_name: train
+- answers:
+  - n337am
+  - n337am
+  - n337am
+  - n337am
+  - '337'
+  - n337am
+  - '337'
+  - '337'
+  - n337am
+  - '337'
+  flickr_300k_url: https://c6.staticflickr.com/6/5473/11998619305_f909aa2fc2_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/5473/11998619305_9887d267f3_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 681
+  image_id: 05e8721b42640337
+  image_width: 1024
+  question: what are the numbers on the plane?
+  question_id: 30
+  question_tokens:
+  - what
+  - are
+  - the
+  - numbers
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - when
+  - when
+  - yamaha
+  - when
+  - when
+  - when pigs fly
+  - bobby j's
+  - when
+  - when
+  - when apes fly
+  flickr_300k_url: https://c3.staticflickr.com/6/5546/10262386264_f40d3fc168_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/5546/10262386264_6915b9587b_o.jpg
+  image_classes:
+  - Vehicle
+  - Balloon
+  - Parachute
+  - Aircraft
+  image_height: 683
+  image_id: 06628eaed257fa24
+  image_width: 1024
+  question: what word does one of the hot balloons feature?
+  question_id: 31
+  question_tokens:
+  - what
+  - word
+  - does
+  - one
+  - of
+  - the
+  - hot
+  - balloons
+  - feature
+  set_name: train
+- answers:
+  - south african
+  - worth
+  - unanswerable
+  - unanswerable
+  - unanswerable
+  - unanswerable
+  - south africa
+  - south africa
+  - south africa
+  - answering does not require reading text in the image
+  flickr_300k_url: https://c3.staticflickr.com/9/8292/7496758474_ef1827aaff_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/8292/7496758474_eea4bc6745_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 073f668cdc671c37
+  image_width: 1024
+  question: where is the plane going?
+  question_id: 32
+  question_tokens:
+  - where
+  - is
+  - the
+  - plane
+  - going
+  set_name: train
+- answers:
+  - south african
+  - hidehi matsui
+  - south african
+  - south african
+  - south african
+  - south african
+  - 'south african '
+  - south africa
+  - south african
+  - '707'
+  flickr_300k_url: https://c3.staticflickr.com/9/8292/7496758474_ef1827aaff_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/8292/7496758474_eea4bc6745_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 073f668cdc671c37
+  image_width: 1024
+  question: what type of plane is this?
+  question_id: 33
+  question_tokens:
+  - what
+  - type
+  - of
+  - plane
+  - is
+  - this
+  set_name: train
+- answers:
+  - a380
+  - airbus a380
+  - unanswerable
+  - unanswerable
+  - unanswerable
+  - airbus a380
+  - airbus
+  - airbus
+  - unanswerable
+  - airbus
+  flickr_300k_url: https://c7.staticflickr.com/3/2645/3891762410_3fe4d1e701_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/3/2645/3891762410_be9ed7d0c3_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 408
+  image_id: 0782a21a2538f868
+  image_width: 1024
+  question: what does the white sign say?
+  question_id: 34
+  question_tokens:
+  - what
+  - does
+  - the
+  - white
+  - sign
+  - say
+  set_name: train
+- answers:
+  - airbus
+  - a380
+  - airbus a380
+  - airbus a380
+  - airbus a380
+  - 'macbook air '
+  - airbus
+  - airbus a380
+  - airbus a380
+  - airbus
+  flickr_300k_url: https://c7.staticflickr.com/3/2645/3891762410_3fe4d1e701_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/3/2645/3891762410_be9ed7d0c3_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 408
+  image_id: 0782a21a2538f868
+  image_width: 1024
+  question: what model of plane is this?
+  question_id: 35
+  question_tokens:
+  - what
+  - model
+  - of
+  - plane
+  - is
+  - this
+  set_name: train
+- answers:
+  - '41'
+  - '41'
+  - '41'
+  - '41'
+  - '41'
+  - '41'
+  - '41'
+  - '41'
+  - '41'
+  - '41'
+  flickr_300k_url: https://c8.staticflickr.com/7/6150/5937848980_4ae6e52643_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/7/6150/5937848980_881ac05f0c_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 080858916c6e0c6c
+  image_width: 1024
+  question: what number is on the plane?
+  question_id: 36
+  question_tokens:
+  - what
+  - number
+  - is
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - 'yes'
+  - 'yes'
+  - '41'
+  - yes, luk
+  - '41'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - '41'
+  - 'yes'
+  flickr_300k_url: https://c8.staticflickr.com/7/6150/5937848980_4ae6e52643_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/7/6150/5937848980_881ac05f0c_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 080858916c6e0c6c
+  image_width: 1024
+  question: is there any other text on the plane?
+  question_id: 37
+  question_tokens:
+  - is
+  - there
+  - any
+  - other
+  - text
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - n328kf
+  - n328kf
+  - n328kf
+  - n328kf
+  - n328kf
+  - n328kf
+  - n328kf
+  - n328kf
+  - n328kf
+  - n328kff
+  flickr_300k_url: https://c1.staticflickr.com/6/5238/5878712742_c5ce03dd9d_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/6/5238/5878712742_ef6f46119e_o.jpg
+  image_classes:
+  - Table
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 08d8e9951c1ea69e
+  image_width: 1024
+  question: what is the number and letter of the plane?
+  question_id: 38
+  question_tokens:
+  - what
+  - is
+  - the
+  - number
+  - and
+  - letter
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - scaled composites
+  - spaceshipone
+  - unanswerable
+  - scaled composites
+  - spaceshipone
+  - spaceshipone
+  - 'scaled composites '
+  - scaled
+  - space ship one
+  - scaled
+  flickr_300k_url: https://c1.staticflickr.com/6/5238/5878712742_c5ce03dd9d_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/6/5238/5878712742_ef6f46119e_o.jpg
+  image_classes:
+  - Table
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 08d8e9951c1ea69e
+  image_width: 1024
+  question: which company owns that aircraft?
+  question_id: 39
+  question_tokens:
+  - which
+  - company
+  - owns
+  - that
+  - aircraft
+  set_name: train
+- answers:
+  - department of public safety
+  - public safety
+  - 'department of public safety '
+  - public safety
+  - public safety
+  - public safety
+  - department of public safety
+  - department of public safety
+  - utah department of public safety
+  - department of public safety
+  flickr_300k_url: https://c6.staticflickr.com/5/4101/4912152432_a134f2da27_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/5/4101/4912152432_95b0f3f317_o.jpg
+  image_classes:
+  - Vehicle
+  - Helicopter
+  - Aircraft
+  image_height: 683
+  image_id: 096bce1a91c1624c
+  image_width: 1024
+  question: to which organization does this helicopter belong?
+  question_id: 40
+  question_tokens:
+  - to
+  - which
+  - organization
+  - does
+  - this
+  - helicopter
+  - belong
+  set_name: train
+- answers:
+  - 'lufthansa '
+  - lufthansa cargo
+  - lufthansa cargo
+  - lufthansa cargo
+  - luthansa cargo
+  - lufthansa cargo
+  - lufthansa
+  - lufthansa cargo
+  - lufthansa cargo
+  - luthsana cargo
+  flickr_300k_url: https://c2.staticflickr.com/9/8065/8253258734_f5c7d25b95_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/9/8065/8253258734_c09a5fba2f_o.jpg
+  image_classes:
+  - Doll
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 09d87dca721d23be
+  image_width: 1024
+  question: what kind of airline is this?
+  question_id: 41
+  question_tokens:
+  - what
+  - kind
+  - of
+  - airline
+  - is
+  - this
+  set_name: train
+- answers:
+  - fedex
+  - unanswerable
+  - fedex
+  - unanswerable
+  - unanswerable
+  - fedex
+  - unanswerable
+  - unanswerable
+  - fedex
+  - unanswerable
+  flickr_300k_url: https://c8.staticflickr.com/4/3267/2841854688_174d48f551_z.jpg?zz=1
+  flickr_original_url: https://c8.staticflickr.com/4/3267/2841854688_5b102a5f47_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 0b187390a96228ff
+  image_width: 1024
+  question: what brand is this phone?
+  question_id: 42
+  question_tokens:
+  - what
+  - brand
+  - is
+  - this
+  - phone
+  set_name: train
+- answers:
+  - 'yes'
+  - express
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - express
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  flickr_300k_url: https://c8.staticflickr.com/4/3267/2841854688_174d48f551_z.jpg?zz=1
+  flickr_original_url: https://c8.staticflickr.com/4/3267/2841854688_5b102a5f47_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 0b187390a96228ff
+  image_width: 1024
+  question: is the word express under the word fedex at the front of the plane?
+  question_id: 43
+  question_tokens:
+  - is
+  - the
+  - word
+  - express
+  - under
+  - the
+  - word
+  - fedex
+  - at
+  - the
+  - front
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - ec-634
+  - ec-634
+  - ec-634
+  - ec-634
+  - ec-354
+  - ec-634
+  - ec-634
+  - ec-634
+  - the taste of freedom
+  - '634'
+  flickr_300k_url: https://c1.staticflickr.com/8/7118/7768063976_ea9351e86f_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/8/7118/7768063976_fdc66843c6_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 0b2f523a4e734bec
+  image_width: 1024
+  question: what is the plane number?
+  question_id: 44
+  question_tokens:
+  - what
+  - is
+  - the
+  - plane
+  - number
+  set_name: train
+- answers:
+  - inta
+  - ec-634
+  - inta
+  - not all those who wander are lost
+  - inta
+  - inta
+  - ec-634
+  - inta
+  - inta
+  - inta ec-634
+  flickr_300k_url: https://c1.staticflickr.com/8/7118/7768063976_ea9351e86f_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/8/7118/7768063976_fdc66843c6_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 0b2f523a4e734bec
+  image_width: 1024
+  question: what is the name of the plane?
+  question_id: 45
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - d-chio
+  - d-chi0
+  - '0'
+  - 0chio
+  - d-chio
+  - d-chio
+  - d-chio
+  - d-chio
+  - d-chio
+  - d-chio
+  flickr_300k_url: https://c5.staticflickr.com/6/5448/9320917774_952331468c_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/6/5448/9320917774_4f524cc61e_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Clothing
+  - Footwear
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 0e40cb14d4c4bbbc
+  image_width: 1024
+  question: what is the id number written on the rear of the plane?
+  question_id: 46
+  question_tokens:
+  - what
+  - is
+  - the
+  - id
+  - number
+  - written
+  - 'on'
+  - the
+  - rear
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - java
+  - java
+  - java
+  - java
+  - java
+  - java
+  - java
+  - java
+  - jave
+  - java
+  flickr_300k_url: https://c6.staticflickr.com/3/2081/2478405105_37f0295257_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/2081/2478405105_c9ea1fa2f9_o.jpg
+  image_classes:
+  - Vehicle
+  - Human eye
+  - Person
+  - Human mouth
+  - Human ear
+  - Human hair
+  - Human head
+  - Man
+  - Airplane
+  - Human face
+  - Human nose
+  - Aircraft
+  image_height: 768
+  image_id: 0e45202f3462f604
+  image_width: 1024
+  question: what company is this for?
+  question_id: 47
+  question_tokens:
+  - what
+  - company
+  - is
+  - this
+  - for
+  set_name: train
+- answers:
+  - you
+  - you
+  - you
+  - you
+  - you
+  - you
+  - you
+  - you
+  - you
+  - you
+  flickr_300k_url: https://c6.staticflickr.com/3/2081/2478405105_37f0295257_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/2081/2478405105_c9ea1fa2f9_o.jpg
+  image_classes:
+  - Vehicle
+  - Human eye
+  - Person
+  - Human mouth
+  - Human ear
+  - Human hair
+  - Human head
+  - Man
+  - Airplane
+  - Human face
+  - Human nose
+  - Aircraft
+  image_height: 768
+  image_id: 0e45202f3462f604
+  image_width: 1024
+  question: what does the sign want to add to java?
+  question_id: 48
+  question_tokens:
+  - what
+  - does
+  - the
+  - sign
+  - want
+  - to
+  - add
+  - to
+  - java
+  set_name: train
+- answers:
+  - '1450'
+  - '1450'
+  - may 10th 2009
+  - '1450'
+  - '1450'
+  - '1450'
+  - '450'
+  - '1450'
+  - '1450'
+  - '1450'
+  flickr_300k_url: https://c6.staticflickr.com/4/3727/19693966404_90016a2fce_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/4/3727/19693966404_b5cacb3d24_o.jpg
+  image_classes:
+  - Vehicle
+  - Land vehicle
+  - Plant
+  - Train
+  - Wheel
+  - Auto part
+  - Aircraft
+  image_height: 764
+  image_id: 0fd38fd0f9bf1bee
+  image_width: 1024
+  question: the train number is?
+  question_id: 49
+  question_tokens:
+  - the
+  - train
+  - number
+  - is
+  set_name: train
+- answers:
+  - a
+  - unanswerable
+  - unanswerable
+  - '618'
+  - no text in image
+  - a
+  - a
+  - unanswerable
+  - unanswerable
+  - unanswerable
+  flickr_300k_url: https://c5.staticflickr.com/4/3062/2888363565_1ae375f3ac_z.jpg?zz=1
+  flickr_original_url: https://farm7.staticflickr.com/3062/2888363565_8f3e5ef325_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 0fef083ac0b5dff6
+  image_width: 1024
+  question: what letter is written on the side of the red propeller plane?
+  question_id: 50
+  question_tokens:
+  - what
+  - letter
+  - is
+  - written
+  - 'on'
+  - the
+  - side
+  - of
+  - the
+  - red
+  - propeller
+  - plane
+  set_name: train
+- answers:
+  - '987'
+  - '987'
+  - pepsi
+  - '987'
+  - '987'
+  - '612'
+  - '987'
+  - '987'
+  - '987'
+  - '997'
+  flickr_300k_url: https://c5.staticflickr.com/4/3062/2888363565_1ae375f3ac_z.jpg?zz=1
+  flickr_original_url: https://farm7.staticflickr.com/3062/2888363565_8f3e5ef325_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 0fef083ac0b5dff6
+  image_width: 1024
+  question: what 3 digit number is on the plane in the back?
+  question_id: 51
+  question_tokens:
+  - what
+  - '3'
+  - digit
+  - number
+  - is
+  - 'on'
+  - the
+  - plane
+  - in
+  - the
+  - back
+  set_name: train
+- answers:
+  - '513'
+  - '513'
+  - '513'
+  - '513'
+  - xt5v3
+  - '513'
+  - '513'
+  - '513'
+  - '513'
+  - '513'
+  flickr_300k_url: https://c1.staticflickr.com/4/3236/3113140447_7a98021e3c_z.jpg
+  flickr_original_url: https://c6.staticflickr.com/4/3236/3113140447_9a14368487_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 10513fda50da5e6d
+  image_width: 1024
+  question: what is the id number on the tail of the plane?
+  question_id: 52
+  question_tokens:
+  - what
+  - is
+  - the
+  - id
+  - number
+  - 'on'
+  - the
+  - tail
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - team ameristar.com
+  - teamaerostar.com
+  - teamaerostar.com
+  - teamaerostar.com
+  - teamaerostar.com
+  - '34'
+  - teamaerostar
+  - teamaerostar.com
+  - teamaerostar
+  - teamaerostar.com
+  flickr_300k_url: https://c3.staticflickr.com/2/1008/1313880307_0734ab83fb_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/1008/1313880307_2c59c70ffa_o.jpg
+  image_classes:
+  - Person
+  - Land vehicle
+  - Vehicle
+  - Airplane
+  - Car
+  - Aircraft
+  image_height: 682
+  image_id: 1086a31c9367a124
+  image_width: 1024
+  question: what is the word on the side of this plane?
+  question_id: 53
+  question_tokens:
+  - what
+  - is
+  - the
+  - word
+  - 'on'
+  - the
+  - side
+  - of
+  - this
+  - plane
+  set_name: train
+- answers:
+  - '34'
+  - '34'
+  - '34'
+  - '34'
+  - '34'
+  - '34'
+  - '34'
+  - '34'
+  - '34'
+  - '34'
+  flickr_300k_url: https://c3.staticflickr.com/2/1008/1313880307_0734ab83fb_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/1008/1313880307_2c59c70ffa_o.jpg
+  image_classes:
+  - Person
+  - Land vehicle
+  - Vehicle
+  - Airplane
+  - Car
+  - Aircraft
+  image_height: 682
+  image_id: 1086a31c9367a124
+  image_width: 1024
+  question: what number is this plane?
+  question_id: 54
+  question_tokens:
+  - what
+  - number
+  - is
+  - this
+  - plane
+  set_name: train
+- answers:
+  - cs-dkd
+  - cs-dkd
+  - cs-dkd
+  - cs-dkd
+  - cs-dkd
+  - c9-dkd
+  - cs-dkd
+  - cs-oko
+  - cs-dkd
+  - cs-dkd
+  flickr_300k_url: https://c4.staticflickr.com/8/7420/9489993636_0d401d5a13_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/7420/9489993636_a69b8334dc_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 111d7be56517ed46
+  image_width: 1024
+  question: what is written on the side of this airplane?
+  question_id: 55
+  question_tokens:
+  - what
+  - is
+  - written
+  - 'on'
+  - the
+  - side
+  - of
+  - this
+  - airplane
+  set_name: train
+- answers:
+  - csdkd
+  - cs-dk0
+  - '8'
+  - cs-0k0
+  - no number
+  - cs-dkd
+  - unanswerable
+  - cs-dkd
+  - cs-dkd
+  - xs-dkd
+  flickr_300k_url: https://c4.staticflickr.com/8/7420/9489993636_0d401d5a13_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/7420/9489993636_a69b8334dc_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 111d7be56517ed46
+  image_width: 1024
+  question: what number is on the plane?
+  question_id: 56
+  question_tokens:
+  - what
+  - number
+  - is
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  flickr_300k_url: https://c6.staticflickr.com/6/5282/5304752422_796df24693_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/5282/5304752422_73f0c89306_o.jpg
+  image_classes:
+  - Vehicle
+  - Clothing
+  - Airplane
+  - Aircraft
+  image_height: 680
+  image_id: 1139456aa3f70a34
+  image_width: 1024
+  question: what number is on the silver plane?
+  question_id: 57
+  question_tokens:
+  - what
+  - number
+  - is
+  - 'on'
+  - the
+  - silver
+  - plane
+  set_name: train
+- answers:
+  - '82'
+  - '82'
+  - '82'
+  - '82'
+  - '82'
+  - '82'
+  - '82'
+  - '82'
+  - '82'
+  - '82'
+  flickr_300k_url: https://c7.staticflickr.com/5/4099/4879614318_6c19f98122_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/4099/4879614318_cce9817c94_o.jpg
+  image_classes:
+  - Vehicle
+  - Wheel
+  - Airplane
+  - Aircraft
+  image_height: 681
+  image_id: 1252873867aa8a86
+  image_width: 1024
+  question: what identification number belongs to the big bomber plane in the center?
+  question_id: 58
+  question_tokens:
+  - what
+  - identification
+  - number
+  - belongs
+  - to
+  - the
+  - big
+  - bomber
+  - plane
+  - in
+  - the
+  - center
+  set_name: train
+- answers:
+  - r
+  - r
+  - r
+  - r
+  - r
+  - r
+  - r
+  - r
+  - r
+  - r
+  flickr_300k_url: https://c7.staticflickr.com/5/4099/4879614318_6c19f98122_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/4099/4879614318_cce9817c94_o.jpg
+  image_classes:
+  - Vehicle
+  - Wheel
+  - Airplane
+  - Aircraft
+  image_height: 681
+  image_id: 1252873867aa8a86
+  image_width: 1024
+  question: what letter is in the black circle?
+  question_id: 59
+  question_tokens:
+  - what
+  - letter
+  - is
+  - in
+  - the
+  - black
+  - circle
+  set_name: train
+- answers:
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - nurair
+  - onurair
+  - onurair
+  - onurair
+  flickr_300k_url: https://c6.staticflickr.com/9/8514/8570025824_1108160a25_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/9/8514/8570025824_708ec5043f_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 12e4f6ee148a112e
+  image_width: 1024
+  question: what airline is this plane for?
+  question_id: 60
+  question_tokens:
+  - what
+  - airline
+  - is
+  - this
+  - plane
+  - for
+  set_name: train
+- answers:
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  - onurair
+  flickr_300k_url: https://c6.staticflickr.com/9/8514/8570025824_1108160a25_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/9/8514/8570025824_708ec5043f_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 12e4f6ee148a112e
+  image_width: 1024
+  question: what is the name of the airline?
+  question_id: 61
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - the
+  - airline
+  set_name: train
+- answers:
+  - '481'
+  - '481'
+  - 48i
+  - '481'
+  - '481'
+  - '481'
+  - '481'
+  - '481'
+  - '481'
+  - '481'
+  flickr_300k_url: https://c1.staticflickr.com/4/3213/5783769965_c47052b1b9_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/4/3213/5783769965_095c1521cc_o.jpg
+  image_classes:
+  - Person
+  - Vehicle
+  - Building
+  - Airplane
+  - Aircraft
+  image_height: 737
+  image_id: 1334b6b8fcfd8afb
+  image_width: 1024
+  question: what number is on the grey and yellow plane?
+  question_id: 62
+  question_tokens:
+  - what
+  - number
+  - is
+  - 'on'
+  - the
+  - grey
+  - and
+  - yellow
+  - plane
+  set_name: train
+- answers:
+  - ah
+  - aj
+  - ah
+  - ah
+  - ah
+  - ah
+  - ah
+  - ah
+  - ah
+  - ah
+  flickr_300k_url: https://c1.staticflickr.com/4/3423/3254044550_9937e4cbff_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/4/3423/3254044550_01df334a26_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 13dec395531b458f
+  image_width: 1024
+  question: two letters on the tail?
+  question_id: 63
+  question_tokens:
+  - two
+  - letters
+  - 'on'
+  - the
+  - tail
+  set_name: train
+- answers:
+  - '106'
+  - '106'
+  - '106'
+  - '106'
+  - '106'
+  - '106'
+  - '106'
+  - '106'
+  - '106'
+  - '106'
+  flickr_300k_url: https://c1.staticflickr.com/4/3423/3254044550_9937e4cbff_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/4/3423/3254044550_01df334a26_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 13dec395531b458f
+  image_width: 1024
+  question: what is the number found on the head of the plane?
+  question_id: 64
+  question_tokens:
+  - what
+  - is
+  - the
+  - number
+  - found
+  - 'on'
+  - the
+  - head
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - 'yes'
+  - 'yes'
+  - star alliance
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - sunkist
+  - 'yes'
+  - 'yes'
+  - stop
+  flickr_300k_url: https://c5.staticflickr.com/6/5618/20923572869_957a38f2d4_z.jpg
+  flickr_original_url: https://c2.staticflickr.com/6/5618/20923572869_97e8af2aff_o.jpg
+  image_classes:
+  - Building
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 142076607dbdfa59
+  image_width: 1024
+  question: is that plane part of the star alliance?
+  question_id: 65
+  question_tokens:
+  - is
+  - that
+  - plane
+  - part
+  - of
+  - the
+  - star
+  - alliance
+  set_name: train
+- answers:
+  - u.s. navy
+  - u.s. navy
+  - u.s. navy
+  - us navy
+  - u.s. navy
+  - u.s. navy
+  - u.s. navy
+  - us navy
+  - us navy
+  - us navy
+  flickr_300k_url: https://c2.staticflickr.com/8/7298/13898426779_dcce47bbd3_z.jpg
+  flickr_original_url: https://c6.staticflickr.com/8/7298/13898426779_e9bda6bb6f_o.jpg
+  image_classes:
+  - Vehicle
+  - Aircraft
+  image_height: 681
+  image_id: 14fa38ae8fea318d
+  image_width: 1024
+  question: who owns the blimp?
+  question_id: 66
+  question_tokens:
+  - who
+  - owns
+  - the
+  - blimp
+  set_name: train
+- answers:
+  - '155'
+  - '155'
+  - '155'
+  - '155'
+  - '155'
+  - '55'
+  - '155'
+  - '155'
+  - '155'
+  - '155'
+  flickr_300k_url: https://c5.staticflickr.com/8/7270/7733381602_60faa5782c_z.jpg
+  flickr_original_url: https://c6.staticflickr.com/8/7270/7733381602_7db0f9bc57_o.jpg
+  image_classes:
+  - Person
+  - Vehicle
+  - Clothing
+  - Footwear
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 1582c8538686d50d
+  image_width: 1024
+  question: what number is on the plane?
+  question_id: 67
+  question_tokens:
+  - what
+  - number
+  - is
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - 'iberia '
+  - iberia
+  flickr_300k_url: https://c5.staticflickr.com/4/3904/14622637909_f25e608e95_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/4/3904/14622637909_597d459db0_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 15a2517d9e904afa
+  image_width: 1024
+  question: what airline does this plane belong to?
+  question_id: 68
+  question_tokens:
+  - what
+  - airline
+  - does
+  - this
+  - plane
+  - belong
+  - to
+  set_name: train
+- answers:
+  - an a380 airbus
+  - airbus
+  - answering does not require reading text in the image
+  - airbus
+  - airbus a380
+  - airbus
+  - airplane
+  - airplane
+  - answering does not require reading text in the image
+  - answering does not require reading text in the image
+  flickr_300k_url: https://c2.staticflickr.com/5/4115/4825846889_35ab6efbe0_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/5/4115/4825846889_fda143463b_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 15a48b2dd565998a
+  image_width: 1024
+  question: what is this?
+  question_id: 69
+  question_tokens:
+  - what
+  - is
+  - this
+  set_name: train
+- answers:
+  - a380
+  - a380
+  - a380
+  - a380
+  - a380
+  - a380
+  - a380
+  - a380
+  - a380
+  - a380
+  flickr_300k_url: https://c2.staticflickr.com/5/4115/4825846889_35ab6efbe0_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/5/4115/4825846889_fda143463b_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 15a48b2dd565998a
+  image_width: 1024
+  question: what is the identification number?
+  question_id: 70
+  question_tokens:
+  - what
+  - is
+  - the
+  - identification
+  - number
+  set_name: train
+- answers:
+  - monarch.co.uk
+  - monarch.co.uk
+  - monarch.co.uk
+  - monarch.co.uk
+  - monarch.co.uk
+  - monarch.co.uk
+  - monarch.co.uk
+  - monarch.co.uk
+  - monach.co.uk
+  - monarch.co.uk
+  flickr_300k_url: https://c8.staticflickr.com/6/5594/14944706458_99886c5f94_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/5594/14944706458_b4993e9894_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 582
+  image_id: 15da5c794efe07b6
+  image_width: 1024
+  question: what is this planes website?
+  question_id: 71
+  question_tokens:
+  - what
+  - is
+  - this
+  - planes
+  - website
+  set_name: train
+- answers:
+  - m
+  - m
+  - m
+  - m
+  - m
+  - m
+  - m
+  - m
+  - m
+  - m
+  flickr_300k_url: https://c8.staticflickr.com/6/5594/14944706458_99886c5f94_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/5594/14944706458_b4993e9894_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 582
+  image_id: 15da5c794efe07b6
+  image_width: 1024
+  question: what letter is the symbol on the tale of the plane?
+  question_id: 72
+  question_tokens:
+  - what
+  - letter
+  - is
+  - the
+  - symbol
+  - 'on'
+  - the
+  - tale
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - u.s. airforce
+  - us air force
+  - u.s. air force
+  - us air force
+  - u.s. air force
+  - us air force
+  - u.s. air force
+  - us air force
+  - us air force
+  - us air force
+  flickr_300k_url: https://c3.staticflickr.com/8/7393/8727264764_04b6359b61_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/8/7393/8727264764_9888660299_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 680
+  image_id: 163c6f54edee23ae
+  image_width: 1024
+  question: what does it say on the jet?
+  question_id: 73
+  question_tokens:
+  - what
+  - does
+  - it
+  - say
+  - 'on'
+  - the
+  - jet
+  set_name: train
+- answers:
+  - us air force
+  - u.s. air force
+  - air force
+  - air force
+  - air force
+  - 'us air force '
+  - u.s. air force
+  - us air force
+  - air force
+  - u.s. airforce
+  flickr_300k_url: https://c3.staticflickr.com/8/7393/8727264764_04b6359b61_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/8/7393/8727264764_9888660299_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 680
+  image_id: 163c6f54edee23ae
+  image_width: 1024
+  question: what branch of the military is the plane from?
+  question_id: 74
+  question_tokens:
+  - what
+  - branch
+  - of
+  - the
+  - military
+  - is
+  - the
+  - plane
+  - from
+  set_name: train
+- answers:
+  - '105'
+  - '105'
+  - '105'
+  - '105'
+  - '105'
+  - '105'
+  - '105'
+  - '105'
+  - '105'
+  - '105'
+  flickr_300k_url: https://c4.staticflickr.com/1/60/156227243_a0b122c650_z.jpg?zz=1
+  flickr_original_url: https://c8.staticflickr.com/1/60/156227243_a0b122c650_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 1665ff941d73a03f
+  image_width: 1024
+  question: what is the plane number?
+  question_id: 75
+  question_tokens:
+  - what
+  - is
+  - the
+  - plane
+  - number
+  set_name: train
+- answers:
+  - navy
+  - navy
+  - navy
+  - '105'
+  - navy
+  - navy
+  - navy
+  - eugenie & napoleon iii
+  - navy
+  - navy
+  flickr_300k_url: https://c4.staticflickr.com/1/60/156227243_a0b122c650_z.jpg?zz=1
+  flickr_original_url: https://c8.staticflickr.com/1/60/156227243_a0b122c650_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 1665ff941d73a03f
+  image_width: 1024
+  question: what branch of the military is on the plane?
+  question_id: 76
+  question_tokens:
+  - what
+  - branch
+  - of
+  - the
+  - military
+  - is
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - 13-143
+  - 13-143
+  - 13-143
+  - 13-143
+  - 13-143
+  - 13-143
+  - 13-143
+  - 13 143
+  - 13-143
+  - 13-143
+  flickr_300k_url: https://c5.staticflickr.com/4/3901/18259467674_fb79d7480d_z.jpg
+  flickr_original_url: https://farm1.staticflickr.com/3901/18259467674_a4149a43ae_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 627
+  image_id: 171d86fc6d86d5f0
+  image_width: 1024
+  question: what is the tail number of the jet?
+  question_id: 77
+  question_tokens:
+  - what
+  - is
+  - the
+  - tail
+  - number
+  - of
+  - the
+  - jet
+  set_name: train
+- answers:
+  - air canada
+  - air canada
+  - air canada
+  - air canada
+  - air canada
+  - air canada
+  - air canada
+  - air canada
+  - air canada
+  - air canada
+  flickr_300k_url: https://c2.staticflickr.com/3/2910/14622747350_fe432e6388_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/3/2910/14622747350_f8c31fbba0_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 188d67c561540d6b
+  image_width: 1024
+  question: what is the name of the airline?
+  question_id: 78
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - the
+  - airline
+  set_name: train
+- answers:
+  - '3'
+  - '46100'
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  - '46100'
+  - '46100'
+  flickr_300k_url: https://c7.staticflickr.com/8/7576/15026526724_ef993b26c0_z.jpg
+  flickr_original_url: https://farm1.staticflickr.com/7576/15026526724_3bca926dca_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 393
+  image_id: 1a192511800af150
+  image_width: 1024
+  question: what number is on the back of this plane?
+  question_id: 79
+  question_tokens:
+  - what
+  - number
+  - is
+  - 'on'
+  - the
+  - back
+  - of
+  - this
+  - plane
+  set_name: train
+- answers:
+  - 'iberia '
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  - iberia
+  flickr_300k_url: https://farm7.staticflickr.com/11/16042048_4b71d57a58_o.jpg
+  flickr_original_url: https://farm7.staticflickr.com/11/16042048_4b71d57a58_o.jpg
+  image_classes:
+  - Land vehicle
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 529
+  image_id: 1a2e9a1c8d9432b6
+  image_width: 1024
+  question: what is the name on the plane?
+  question_id: 80
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - sign of his misery
+  - ec-hul
+  - ec-hul
+  - ec hul
+  - ec-hul
+  - echul
+  - ec-hul
+  - hul
+  - hul
+  - ec-hul
+  flickr_300k_url: https://farm7.staticflickr.com/11/16042048_4b71d57a58_o.jpg
+  flickr_original_url: https://farm7.staticflickr.com/11/16042048_4b71d57a58_o.jpg
+  image_classes:
+  - Land vehicle
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 529
+  image_id: 1a2e9a1c8d9432b6
+  image_width: 1024
+  question: what is the model number of the plane printed on the rear?
+  question_id: 81
+  question_tokens:
+  - what
+  - is
+  - the
+  - model
+  - number
+  - of
+  - the
+  - plane
+  - printed
+  - 'on'
+  - the
+  - rear
+  set_name: train
+- answers:
+  - la ,esa
+  - lamesra
+  - lamesa
+  - lamesa
+  - lamesa
+  - la mesa
+  - lamesarv
+  - lamesa
+  - lamesa
+  - lamesah
+  flickr_300k_url: https://c3.staticflickr.com/4/3783/10262236824_02a1022976_z.jpg
+  flickr_original_url: https://farm1.staticflickr.com/3783/10262236824_d713bbede4_o.jpg
+  image_classes:
+  - Toy
+  - Balloon
+  - Vehicle
+  - Aircraft
+  image_height: 683
+  image_id: 1b1c4a2fa6175cf0
+  image_width: 1024
+  question: what brand is the white balloon?
+  question_id: 82
+  question_tokens:
+  - what
+  - brand
+  - is
+  - the
+  - white
+  - balloon
+  set_name: train
+- answers:
+  - 'no'
+  - 'no'
+  - 'no'
+  - 'no'
+  - 'no'
+  - 'no'
+  - 'yes'
+  - no, ez
+  - unanswerable
+  - unanswerable
+  flickr_300k_url: https://c7.staticflickr.com/3/2828/9106837957_41a172a688_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/3/2828/9106837957_9136bd1b52_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 620
+  image_id: 1c28f57e08fc7858
+  image_width: 1024
+  question: does this plane state that it's easy?
+  question_id: 83
+  question_tokens:
+  - does
+  - this
+  - plane
+  - state
+  - that
+  - it
+  - ''''
+  - s
+  - easy
+  set_name: train
+- answers:
+  - n5588n
+  - n5588n
+  - n5588n
+  - n5588n
+  - n5588n
+  - n5588n
+  - n5588n
+  - 465688m
+  - n5588n
+  - n5588n
+  flickr_300k_url: https://c7.staticflickr.com/3/2828/9106837957_41a172a688_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/3/2828/9106837957_9136bd1b52_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 620
+  image_id: 1c28f57e08fc7858
+  image_width: 1024
+  question: what is the id number on the bottom of the wing?
+  question_id: 84
+  question_tokens:
+  - what
+  - is
+  - the
+  - id
+  - number
+  - 'on'
+  - the
+  - bottom
+  - of
+  - the
+  - wing
+  set_name: train
+- answers:
+  - '1'
+  - '1'
+  - '1'
+  - pp jdr
+  - '1'
+  - pp-jdr
+  - pp jdr
+  - '22'
+  - '1'
+  - '2007'
+  flickr_300k_url: https://c7.staticflickr.com/3/2105/5816184329_261a5522e4_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/3/2105/5816184329_31a25758a6_o.jpg
+  image_classes:
+  - Vehicle
+  - Helicopter
+  - Aircraft
+  image_height: 646
+  image_id: 1d1b9a571d21441e
+  image_width: 1024
+  question: what is the helicopter's number?
+  question_id: 85
+  question_tokens:
+  - what
+  - is
+  - the
+  - helicopter
+  - ''''
+  - s
+  - number
+  set_name: train
+- answers:
+  - flickr
+  - flickr.com/photos/degu_andre
+  - flickr.com
+  - flickr.com/photos/degu_andre
+  - flickr.com/photos/degu_andre
+  - flickr.com
+  - flickr.com/photos/degu_andre
+  - flickr.com
+  - flikr.com/photos/degu_andre
+  - flickr.com
+  flickr_300k_url: https://c7.staticflickr.com/3/2105/5816184329_261a5522e4_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/3/2105/5816184329_31a25758a6_o.jpg
+  image_classes:
+  - Vehicle
+  - Helicopter
+  - Aircraft
+  image_height: 646
+  image_id: 1d1b9a571d21441e
+  image_width: 1024
+  question: which website is listed on the picture?
+  question_id: 86
+  question_tokens:
+  - which
+  - website
+  - is
+  - listed
+  - 'on'
+  - the
+  - picture
+  set_name: train
+- answers:
+  - 'sharing '
+  - life is for sharing
+  - sharing
+  - life is for sharing
+  - lite is for sharing
+  - sharing
+  - life is for sharing
+  - sharing
+  - airplane
+  - audite
+  flickr_300k_url: https://c6.staticflickr.com/4/3076/3118659187_e21f204141_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/3076/3118659187_482c4be28c_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 645
+  image_id: 1e4fcfbd0bb6e1e1
+  image_width: 1024
+  question: what is the slogan on the side say that life is for?
+  question_id: 87
+  question_tokens:
+  - what
+  - is
+  - the
+  - slogan
+  - 'on'
+  - the
+  - side
+  - say
+  - that
+  - life
+  - is
+  - for
+  set_name: train
+- answers:
+  - t mobile
+  - t mobile
+  - t mobile
+  - t-mobile
+  - t mobile
+  - t-mobile
+  - t-mobile
+  - t-mobile
+  - t
+  - t-mobile
+  flickr_300k_url: https://c6.staticflickr.com/4/3076/3118659187_e21f204141_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/3076/3118659187_482c4be28c_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 645
+  image_id: 1e4fcfbd0bb6e1e1
+  image_width: 1024
+  question: what brand is being advertised on the plane?
+  question_id: 88
+  question_tokens:
+  - what
+  - brand
+  - is
+  - being
+  - advertised
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - '031'
+  - '031'
+  - '031'
+  - '031'
+  - '031'
+  - '031'
+  - '031'
+  - '031'
+  - '031'
+  - '031'
+  flickr_300k_url: https://c8.staticflickr.com/8/7618/17149400576_c5675a3e5f_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/8/7618/17149400576_9626a83e86_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 680
+  image_id: 20db2e4f0602e5aa
+  image_width: 1024
+  question: what is the number on the tail wing?
+  question_id: 89
+  question_tokens:
+  - what
+  - is
+  - the
+  - number
+  - 'on'
+  - the
+  - tail
+  - wing
+  set_name: train
+- answers:
+  - '202'
+  - '202'
+  - '202'
+  - '202'
+  - '202'
+  - '202'
+  - '202'
+  - '202'
+  - '202'
+  - '202'
+  flickr_300k_url: https://c8.staticflickr.com/3/2322/3543331109_e8c689de46_z.jpg?zz=1
+  flickr_original_url: https://c3.staticflickr.com/3/2322/3543331109_191bfc86c8_o.jpg
+  image_classes:
+  - Vehicle
+  - Clothing
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 210c80055b9f8e1a
+  image_width: 1024
+  question: what number is on the nose of this aircraft?
+  question_id: 90
+  question_tokens:
+  - what
+  - number
+  - is
+  - 'on'
+  - the
+  - nose
+  - of
+  - this
+  - aircraft
+  set_name: train
+- answers:
+  - 00-b2w
+  - 00-bzw
+  - 00-bzw
+  - 00-bzw
+  - 00-bzw
+  - 00-9zm
+  - 00-bzw
+  - 00-bzw
+  - 00-bzw
+  - 00-bzw
+  flickr_300k_url: https://c1.staticflickr.com/1/387/19416117025_24e91b578f_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/1/387/19416117025_35e54452b3_o.jpg
+  image_classes:
+  - Toy
+  - Balloon
+  - Vehicle
+  - Clothing
+  - Aircraft
+  image_height: 1024
+  image_id: 226d623d0c70664f
+  image_width: 680
+  question: what is the identification number on the balloon?
+  question_id: 91
+  question_tokens:
+  - what
+  - is
+  - the
+  - identification
+  - number
+  - 'on'
+  - the
+  - balloon
+  set_name: train
+- answers:
+  - w
+  - e
+  - e
+  - e
+  - e
+  - n
+  - e
+  - a
+  - e
+  - w
+  flickr_300k_url: https://c1.staticflickr.com/1/387/19416117025_24e91b578f_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/1/387/19416117025_35e54452b3_o.jpg
+  image_classes:
+  - Toy
+  - Balloon
+  - Vehicle
+  - Clothing
+  - Aircraft
+  image_height: 1024
+  image_id: 226d623d0c70664f
+  image_width: 680
+  question: what is the last letter on the balloon?
+  question_id: 92
+  question_tokens:
+  - what
+  - is
+  - the
+  - last
+  - letter
+  - 'on'
+  - the
+  - balloon
+  set_name: train
+- answers:
+  - eva air
+  - eva air
+  - eva air
+  - eva air
+  - eva air
+  - eva air
+  - eva air
+  - eva air
+  - eva air
+  - eva air
+  flickr_300k_url: https://c4.staticflickr.com/9/8088/8536501186_f322c7e575_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/9/8088/8536501186_d1841cefc3_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 229c0c1a9abfcd9e
+  image_width: 1024
+  question: what is the airline this plane belongs to?
+  question_id: 93
+  question_tokens:
+  - what
+  - is
+  - the
+  - airline
+  - this
+  - plane
+  - belongs
+  - to
+  set_name: train
+- answers:
+  - 777-300
+  - 777-300
+  - '777300'
+  - 777-900
+  - 777-300
+  - '777300'
+  - 777 300
+  - 777-300
+  - 777-300
+  - 777-300
+  flickr_300k_url: https://c4.staticflickr.com/9/8088/8536501186_f322c7e575_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/9/8088/8536501186_d1841cefc3_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 229c0c1a9abfcd9e
+  image_width: 1024
+  question: what is the 6 digit numbers on the side of the plane?
+  question_id: 94
+  question_tokens:
+  - what
+  - is
+  - the
+  - '6'
+  - digit
+  - numbers
+  - 'on'
+  - the
+  - side
+  - of
+  - the
+  - plane
+  set_name: train
+- answers:
+  - '1949'
+  - '1949'
+  - '1949'
+  - '1949'
+  - '1949'
+  - '1949'
+  - '1949'
+  - '1949'
+  - '1949'
+  - '1949'
+  flickr_300k_url: https://c4.staticflickr.com/1/193/493783526_c693ecc6a9_z.jpg?zz=1
+  flickr_original_url: https://c2.staticflickr.com/1/193/493783526_571bf5d618_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 790
+  image_id: 233a9ff6b3175939
+  image_width: 1024
+  question: what year was this photograph taken?
+  question_id: 95
+  question_tokens:
+  - what
+  - year
+  - was
+  - this
+  - photograph
+  - taken
+  set_name: train
+- answers:
+  - '17 gc mcrexf '
+  - '452967'
+  - c-87
+  - b52
+  - c-87
+  - 17 gc mcrexf 19jan49 c-87
+  - '452907'
+  - '452907'
+  - unanswerable
+  - '452967'
+  flickr_300k_url: https://c4.staticflickr.com/1/193/493783526_c693ecc6a9_z.jpg?zz=1
+  flickr_original_url: https://c2.staticflickr.com/1/193/493783526_571bf5d618_o.jpg
+  image_classes:
+  - Tree
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 790
+  image_id: 233a9ff6b3175939
+  image_width: 1024
+  question: what is the model of this aircraft?
+  question_id: 96
+  question_tokens:
+  - what
+  - is
+  - the
+  - model
+  - of
+  - this
+  - aircraft
+  set_name: train
+- answers:
+  - v268
+  - '107'
+  - s107
+  - s107 or s1076
+  - s107
+  - v268
+  - s107
+  - s107
+  - s107
+  - s107
+  flickr_300k_url: https://c2.staticflickr.com/4/3414/5707967525_62463523ab_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/4/3414/5707967525_a9a8db5e1b_o.jpg
+  image_classes:
+  - Person
+  - Musical instrument
+  - Musical keyboard
+  - Vehicle
+  - Helicopter
+  - Clothing
+  - Jeans
+  - Aircraft
+  image_height: 768
+  image_id: 24456069fd6847a8
+  image_width: 768
+  question: what is the model airplane model number?
+  question_id: 97
+  question_tokens:
+  - what
+  - is
+  - the
+  - model
+  - airplane
+  - model
+  - number
+  set_name: train
+- answers:
+  - '4858'
+  - '1'
+  - '4858'
+  - '48592'
+  - '4858'
+  - '4858'
+  - unanswerable
+  - '48592'
+  - not a question
+  - '4859'
+  flickr_300k_url: https://c3.staticflickr.com/5/4019/4654240354_57c0a3a6c7_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/4019/4654240354_19b1ec2f0b_o.jpg
+  image_classes:
+  - Ski
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 683
+  image_id: 2489dc9e42de1b36
+  image_width: 1024
+  question: what number is in red on the plane?
+  question_id: 98
+  question_tokens:
+  - what
+  - number
+  - is
+  - in
+  - red
+  - 'on'
+  - the
+  - plane
+  set_name: train
+- answers:
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - '63'
+  - cool stuff
+  - '63'
+  - '63'
+  - '63'
+  flickr_300k_url: https://c2.staticflickr.com/1/16/22937592_00d9b5a8b6_z.jpg?zz=1
+  flickr_original_url: https://farm3.staticflickr.com/16/22937592_00d9b5a8b6_o.jpg
+  image_classes:
+  - Vehicle
+  - Airplane
+  - Aircraft
+  image_height: 768
+  image_id: 24ad0e52d2f80d92
+  image_width: 1024
+  question: what's the number written on the plane?
+  question_id: 99
+  question_tokens:
+  - what
+  - ''''
+  - s
+  - the
+  - number
+  - written
+  - 'on'
+  - the
+  - plane
+  set_name: train
 dataset_name: textvqa
 dataset_type: train
 dataset_version: 0.5.1

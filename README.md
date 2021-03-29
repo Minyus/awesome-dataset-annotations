@@ -6,7 +6,7 @@ Sample dataset annotations for Vision and Language tasks
 
 To check the contents of big annotation JSON files easily, small subsets were extracted and saved as JSON and YAML files using [SmallDict](https://github.com/Minyus/smalldict) Python package.
 
-For each of the JSON annotation file, first 10 items for each list (images, objects, etc) were extracted and saved with suffix:
+For each dict or list in each of the JSON annotation file, first 100 items (images, objects, etc) were extracted and saved with suffix:
 - `_samples.json` for JSON
 - `_samples.yaml` for YAML
 
@@ -29,6 +29,10 @@ Please refer to the original owners' websites or papers regarding the license.
 
   https://cocodataset.org/#download
 
+- gqa
+
+  https://cs.stanford.edu/people/dorarad/gqa/download.html
+
 - textcaps
 
   https://textvqa.org/textcaps/dataset
@@ -46,6 +50,8 @@ Please refer to the original owners' websites or papers regarding the license.
 - clevr
   - [CLEVR_test_questions.json_samples.json](clevr/CLEVR_v1.0/questions/CLEVR_test_questions.json_samples.json)
   - [CLEVR_test_questions.json_samples.yaml](clevr/CLEVR_v1.0/questions/CLEVR_test_questions.json_samples.yaml)
+  - [CLEVR_train_questions.json_samples.json](clevr/CLEVR_v1.0/questions/CLEVR_train_questions.json_samples.json)
+  - [CLEVR_train_questions.json_samples.yaml](clevr/CLEVR_v1.0/questions/CLEVR_train_questions.json_samples.yaml)
   - [CLEVR_val_questions.json_samples.json](clevr/CLEVR_v1.0/questions/CLEVR_val_questions.json_samples.json)
   - [CLEVR_val_questions.json_samples.yaml](clevr/CLEVR_v1.0/questions/CLEVR_val_questions.json_samples.yaml)
   - [CLEVR_train_scenes.json_samples.json](clevr/CLEVR_v1.0/scenes/CLEVR_train_scenes.json_samples.json)
@@ -86,6 +92,11 @@ Please refer to the original owners' websites or papers regarding the license.
   - [stuff_train2017.json_samples.yaml](coco2017/stuff_annotations_trainval2017/annotations/stuff_train2017.json_samples.yaml)
   - [stuff_val2017.json_samples.json](coco2017/stuff_annotations_trainval2017/annotations/stuff_val2017.json_samples.json)
   - [stuff_val2017.json_samples.yaml](coco2017/stuff_annotations_trainval2017/annotations/stuff_val2017.json_samples.yaml)
+- gqa
+  - [train_sceneGraphs.json_samples.json](gqa/sceneGraphs/train_sceneGraphs.json_samples.json)
+  - [train_sceneGraphs.json_samples.yaml](gqa/sceneGraphs/train_sceneGraphs.json_samples.yaml)
+  - [val_sceneGraphs.json_samples.json](gqa/sceneGraphs/val_sceneGraphs.json_samples.json)
+  - [val_sceneGraphs.json_samples.yaml](gqa/sceneGraphs/val_sceneGraphs.json_samples.yaml)
 - textcaps
   - [TextCaps_0.1_train.json_samples.json](textcaps/TextCaps_0.1_train.json_samples.json)
   - [TextCaps_0.1_train.json_samples.yaml](textcaps/TextCaps_0.1_train.json_samples.yaml)

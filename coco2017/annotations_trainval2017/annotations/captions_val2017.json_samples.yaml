@@ -29,48 +29,1086 @@ annotations:
 - caption: A woman sitting on a bench and a woman standing waiting for the bus.
   id: 882
   image_id: 517069
+- caption: A woman sitting on a bench in the middle of the city
+  id: 957
+  image_id: 517069
+- caption: This is an advanced toilet with a sink and control panel.
+  id: 981
+  image_id: 331352
+- caption: A cat eating a bird it has caught.
+  id: 1158
+  image_id: 46378
+- caption: A close-up picture of a toilet with a fountain.
+  id: 1392
+  image_id: 331352
+- caption: A shot of an elderly man inside a kitchen.
+  id: 1437
+  image_id: 93437
+- caption: A cat in between two cars in a parking lot.
+  id: 1536
+  image_id: 172330
+- caption: A woman sitting on a bench and a woman standing behind the bench at a bus
+    stop
+  id: 1614
+  image_id: 517069
+- caption: An office cubicle with multiple computers in it
+  id: 1638
+  image_id: 472678
+- caption: An old man is wearing an odd hat
+  id: 1707
+  image_id: 93437
+- caption: A parade of motorcycles is going through a group of tall trees.
+  id: 1879
+  image_id: 314251
+- caption: a man sleeping with his cat next to him
+  id: 2158
+  image_id: 223747
+- caption: 'An all white kitchen with an electric stovetop. '
+  id: 2734
+  image_id: 109976
+- caption: an office with desk computer and chair and laptop.
+  id: 2846
+  image_id: 190236
+- caption: The telephone has a banana where the receiver should be.
+  id: 2960
+  image_id: 12667
+- caption: 'Off white toilet with a faucet and controls. '
+  id: 2970
+  image_id: 331352
+- caption: A white stove sits between two small counter tops.
+  id: 3202
+  image_id: 109976
+- caption: A woman and another woman waiting at a stop.
+  id: 3408
+  image_id: 517069
+- caption: Office setting with a lot of computer screens.
+  id: 3464
+  image_id: 190236
+- caption: Close up of a white kitchen setup with a coffee maker on counter.
+  id: 4459
+  image_id: 109976
+- caption: A desk and chair in an office cubicle.
+  id: 4700
+  image_id: 190236
+- caption: A white stove and cabinet inside a kitchen.
+  id: 4747
+  image_id: 109976
+- caption: There is a piece of cake on a plate with decorations on it.
+  id: 4882
+  image_id: 182417
+- caption: 'A cat stands between two parked cars on a grassy sidewalk. '
+  id: 5037
+  image_id: 172330
+- caption: Creamy cheesecake dessert with whip cream and caramel.
+  id: 5098
+  image_id: 182417
+- caption: A group of motorcyclists drive down a tree lined street.
+  id: 5245
+  image_id: 314251
+- caption: A cat at attention between two parked cars.
+  id: 5406
+  image_id: 172330
+- caption: 'A dog sitting between its masters feet on a footstool watching tv
+
+    '
+  id: 5509
+  image_id: 482917
+- caption: A young man and his cute cat enjoy a nap together.
+  id: 5626
+  image_id: 223747
+- caption: A dog between the feet of a person looking at a TV.
+  id: 5689
+  image_id: 482917
+- caption: An older man is wearing a funny hat in his dining room.
+  id: 6024
+  image_id: 93437
+- caption: Man in motorcycle leathers standing in front of a group of bikes
+  id: 6151
+  image_id: 534605
+- caption: Bikers, dressed in their gear, standing near their motorcycles.
+  id: 6271
+  image_id: 534605
+- caption: A man is sleeping with his head on a pillow.
+  id: 6343
+  image_id: 223747
+- caption: A banana replacing the phone on an answering machine
+  id: 6443
+  image_id: 12667
+- caption: Ma motorcycle parked on the gravel in front of a garage
+  id: 6638
+  image_id: 179765
+- caption: A dog and a person are watching television together.
+  id: 6745
+  image_id: 482917
+- caption: A motorcycle with its brake extended standing outside
+  id: 6803
+  image_id: 179765
+- caption: A group of motorcycles down a long street filled with trees on either side.
+  id: 7090
+  image_id: 314251
+- caption: A person is sitting with their dog watching tv.
+  id: 7237
+  image_id: 482917
+- caption: An office desk with two flat panel monitors.
+  id: 7482
+  image_id: 472678
+- caption: A grey and white cat watches from between parked cars.
+  id: 7941
+  image_id: 172330
+- caption: A group of men stand next to their bicycles.
+  id: 7990
+  image_id: 534605
+- caption: Three men standing around their motorcycles in a parking lot.
+  id: 8173
+  image_id: 534605
+- caption: Man sleeping in his bedroom next to a cat.
+  id: 8233
+  image_id: 223747
+- caption: Set of toy animals sitting in front of a red wooden wagon.
+  id: 8242
+  image_id: 289393
+- caption: Group of three motorcyclists standing in front of their motorcycles.
+  id: 8272
+  image_id: 534605
+- caption: A phone with a banana where the receiver should be.
+  id: 8522
+  image_id: 12667
+- caption: A woman wearing a hat & pink top takes a selfie in front of a bathroom
+    mirror.
+  id: 8549
+  image_id: 561256
+- caption: A telephone has it receiver replaced with a banana.
+  id: 8648
+  image_id: 12667
+- caption: A white cat caught a bird outside on a patio.
+  id: 8733
+  image_id: 46378
+- caption: 'Man sleeping next to a cat on a bed. '
+  id: 8845
+  image_id: 223747
+- caption: This is a small kitchen with white cabinets and appliances.
+  id: 9115
+  image_id: 109976
+- caption: A striped plane flying up into the sky as the sun shines behind it.
+  id: 9769
+  image_id: 338325
+- caption: A dog driving an SUV in an open grass covered field.
+  id: 9862
+  image_id: 65485
+- caption: A customized motorcycle with more in the background.
+  id: 9914
+  image_id: 226662
+- caption: An airplane is ascending into the white sky
+  id: 9919
+  image_id: 338325
+- caption: 'A sculpture of two women stting on a bench with their purses on the ground
+    while people standing in a line behind them. '
+  id: 10030
+  image_id: 11511
+- caption: An American Airlines plane is in the sky
+  id: 10069
+  image_id: 338325
+- caption: Grey house cat devours a song bird on a door step
+  id: 10527
+  image_id: 46378
+- caption: An extravagant dessert on a plate overlooking the water.
+  id: 10897
+  image_id: 182417
+- caption: 'A grey and white cat standing in the grass in a parking lot. '
+  id: 10935
+  image_id: 172330
+- caption: A metal statue of two women sits on a bench in a city street.
+  id: 10939
+  image_id: 11511
+- caption: There is very little traffic at this city intersection.
+  id: 11008
+  image_id: 221754
+- caption: An office desk with two computer screens, books diagrams and a phone on
+    it.
+  id: 11319
+  image_id: 472678
+- caption: A black and white photograph of a motorcycle.
+  id: 11519
+  image_id: 226662
+- caption: Two computer monitors are placed beside each other on a desk.
+  id: 11616
+  image_id: 472678
+- caption: An orange reddish rose in a vase filled with water on top of a table.
+  id: 11734
+  image_id: 249025
+- caption: A cat pausing as it's picture is taken.
+  id: 11805
+  image_id: 255965
+- caption: 'A blue eyed tabby cat crouched on the ground. '
+  id: 11880
+  image_id: 255965
+- caption: A woman in a flowered dress taking a selfie in a bathroom mirror.
+  id: 11906
+  image_id: 561256
+- caption: Black and white photo of a parked motorcycle
+  id: 12029
+  image_id: 226662
+- caption: A black trash bag in a restroom next to a sink.
+  id: 12242
+  image_id: 51598
+- caption: A man in a jacket and hat looks at the camera.
+  id: 12357
+  image_id: 93437
+- caption: Several toy animals - a bull, giraffe, deer and parakeet.
+  id: 12391
+  image_id: 289393
+- caption: An older woman in a flower dress takes a self photo in the mirror.
+  id: 12740
+  image_id: 561256
+- caption: 'A dog sits in the front seat of a jeep. '
+  id: 12973
+  image_id: 65485
+- caption: A clean kitchen with the windows white and open.
+  id: 13014
+  image_id: 445846
+- caption: Some toy animals on the ground near a picture
+  id: 13306
+  image_id: 289393
+- caption: An urban intersection with stoplights on a cloudy day.
+  id: 13501
+  image_id: 221754
+- caption: A man relaxing at home, watching television with his dog.
+  id: 13606
+  image_id: 482917
+- caption: Children's toy animals are strewn across a floor.
+  id: 13618
+  image_id: 289393
+- caption: A glass bowl filled with oranges on a table.
+  id: 13634
+  image_id: 192871
+- caption: A red, white, and blue plane is in the sky.
+  id: 14008
+  image_id: 338325
+- caption: A young attractive woman sitting on a toilette on the side of a street.
+  id: 14058
+  image_id: 365642
+- caption: A young woman using a laptop computer while sitting on a bunk bed.
+  id: 14206
+  image_id: 393569
+- caption: Several custom made motorcycles on display while riders chat.
+  id: 14330
+  image_id: 226662
+- caption: A black cat with white stomach takes a pose.
+  id: 14370
+  image_id: 255965
+- caption: An old victorian style bed frame in a bedroom.
+  id: 14446
+  image_id: 116479
+- caption: Two computers sitting on top of a desk.
+  id: 14472
+  image_id: 63740
+- caption: 'A plane flies through the sky at an angle. '
+  id: 14791
+  image_id: 338325
 images:
 - coco_url: http://images.cocodataset.org/val2017/000000397133.jpg
+  date_captured: '2013-11-14 17:02:52'
   file_name: 000000397133.jpg
+  flickr_url: http://farm7.staticflickr.com/6116/6255196340_da26cf2c9e_z.jpg
   height: 427
+  id: 397133
   license: 4
+  width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000037777.jpg
+  date_captured: '2013-11-14 20:55:31'
   file_name: 000000037777.jpg
+  flickr_url: http://farm9.staticflickr.com/8429/7839199426_f6d48aa585_z.jpg
   height: 230
+  id: 37777
   license: 1
+  width: 352
 - coco_url: http://images.cocodataset.org/val2017/000000252219.jpg
+  date_captured: '2013-11-14 22:32:02'
   file_name: 000000252219.jpg
+  flickr_url: http://farm4.staticflickr.com/3446/3232237447_13d84bd0a1_z.jpg
   height: 428
+  id: 252219
   license: 4
+  width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000087038.jpg
+  date_captured: '2013-11-14 23:11:37'
   file_name: 000000087038.jpg
+  flickr_url: http://farm8.staticflickr.com/7355/8825114508_b0fa4d7168_z.jpg
   height: 480
+  id: 87038
   license: 1
+  width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000174482.jpg
+  date_captured: '2013-11-14 23:16:55'
   file_name: 000000174482.jpg
+  flickr_url: http://farm8.staticflickr.com/7020/6478877255_242f741dd1_z.jpg
   height: 388
+  id: 174482
   license: 6
+  width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000403385.jpg
+  date_captured: '2013-11-15 00:09:17'
   file_name: 000000403385.jpg
+  flickr_url: http://farm4.staticflickr.com/3526/3768289025_b29315b582_z.jpg
   height: 511
+  id: 403385
   license: 4
+  width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000006818.jpg
+  date_captured: '2013-11-15 01:52:52'
   file_name: 000000006818.jpg
+  flickr_url: http://farm3.staticflickr.com/2318/2068039201_b967c69504_z.jpg
   height: 640
+  id: 6818
   license: 4
+  width: 427
 - coco_url: http://images.cocodataset.org/val2017/000000480985.jpg
+  date_captured: '2013-11-15 13:09:24'
   file_name: 000000480985.jpg
+  flickr_url: http://farm3.staticflickr.com/2336/1634911562_703ff01cff_z.jpg
   height: 500
+  id: 480985
   license: 6
+  width: 375
 - coco_url: http://images.cocodataset.org/val2017/000000458054.jpg
+  date_captured: '2013-11-15 13:13:31'
   file_name: 000000458054.jpg
+  flickr_url: http://farm9.staticflickr.com/8010/7579121084_7f1d01cd39_z.jpg
   height: 426
+  id: 458054
   license: 4
+  width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000331352.jpg
+  date_captured: '2013-11-15 13:55:22'
   file_name: 000000331352.jpg
+  flickr_url: http://farm1.staticflickr.com/53/136223761_7764eb56fa_z.jpg
   height: 500
+  id: 331352
   license: 4
+  width: 351
+- coco_url: http://images.cocodataset.org/val2017/000000296649.jpg
+  date_captured: '2013-11-15 15:26:19'
+  file_name: 000000296649.jpg
+  flickr_url: http://farm4.staticflickr.com/3577/3491669985_d81e1050c6_z.jpg
+  height: 427
+  id: 296649
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000386912.jpg
+  date_captured: '2013-11-15 16:38:19'
+  file_name: 000000386912.jpg
+  flickr_url: http://farm5.staticflickr.com/4088/4980393979_fb7325e0b6_z.jpg
+  height: 480
+  id: 386912
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000502136.jpg
+  date_captured: '2013-11-15 17:08:30'
+  file_name: 000000502136.jpg
+  flickr_url: http://farm3.staticflickr.com/2253/1755223462_fabbeb8dc3_z.jpg
+  height: 423
+  id: 502136
+  license: 3
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000491497.jpg
+  date_captured: '2013-11-15 17:19:41'
+  file_name: 000000491497.jpg
+  flickr_url: http://farm3.staticflickr.com/2076/2227048481_0ed8653652_z.jpg
+  height: 500
+  id: 491497
+  license: 3
+  width: 375
+- coco_url: http://images.cocodataset.org/val2017/000000184791.jpg
+  date_captured: '2013-11-15 18:08:29'
+  file_name: 000000184791.jpg
+  flickr_url: http://farm1.staticflickr.com/50/138352202_f4983aa717_z.jpg
+  height: 500
+  id: 184791
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000348881.jpg
+  date_captured: '2013-11-16 04:50:43'
+  file_name: 000000348881.jpg
+  flickr_url: http://farm5.staticflickr.com/4127/5172389204_31214fdc50_z.jpg
+  height: 462
+  id: 348881
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000289393.jpg
+  date_captured: '2013-11-16 12:07:13'
+  file_name: 000000289393.jpg
+  flickr_url: http://farm3.staticflickr.com/2053/2225000544_2cd9e6628c_z.jpg
+  height: 480
+  id: 289393
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000522713.jpg
+  date_captured: '2013-11-16 13:25:17'
+  file_name: 000000522713.jpg
+  flickr_url: http://farm4.staticflickr.com/3146/2353513897_17393f1b00_z.jpg
+  height: 480
+  id: 522713
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000181666.jpg
+  date_captured: '2013-11-16 13:58:29'
+  file_name: 000000181666.jpg
+  flickr_url: http://farm3.staticflickr.com/2572/4127484314_23525e6e9c_z.jpg
+  height: 425
+  id: 181666
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000017627.jpg
+  date_captured: '2013-11-16 15:13:53'
+  file_name: 000000017627.jpg
+  flickr_url: http://farm5.staticflickr.com/4145/4977243989_c2efb1b911_z.jpg
+  height: 480
+  id: 17627
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000143931.jpg
+  date_captured: '2013-11-16 15:38:46'
+  file_name: 000000143931.jpg
+  flickr_url: http://farm9.staticflickr.com/8474/8145963753_2e334946c7_z.jpg
+  height: 480
+  id: 143931
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000303818.jpg
+  date_captured: '2013-11-16 15:51:16'
+  file_name: 000000303818.jpg
+  flickr_url: http://farm8.staticflickr.com/7296/9604033757_c21f78484e_z.jpg
+  height: 640
+  id: 303818
+  license: 4
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000463730.jpg
+  date_captured: '2013-11-16 17:37:49'
+  file_name: 000000463730.jpg
+  flickr_url: http://farm4.staticflickr.com/3646/3426989867_e5b8439938_z.jpg
+  height: 427
+  id: 463730
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000460347.jpg
+  date_captured: '2013-11-17 00:11:09'
+  file_name: 000000460347.jpg
+  flickr_url: http://farm9.staticflickr.com/8203/8262915638_911e6c6ea8_z.jpg
+  height: 640
+  id: 460347
+  license: 3
+  width: 427
+- coco_url: http://images.cocodataset.org/val2017/000000322864.jpg
+  date_captured: '2013-11-17 01:05:46'
+  file_name: 000000322864.jpg
+  flickr_url: http://farm4.staticflickr.com/3833/9414555779_75b9652a03_z.jpg
+  height: 640
+  id: 322864
+  license: 6
+  width: 427
+- coco_url: http://images.cocodataset.org/val2017/000000226111.jpg
+  date_captured: '2013-11-17 01:19:58'
+  file_name: 000000226111.jpg
+  flickr_url: http://farm4.staticflickr.com/3348/3333755023_1a0381e95f_z.jpg
+  height: 640
+  id: 226111
+  license: 4
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000153299.jpg
+  date_captured: '2013-11-17 01:35:43'
+  file_name: 000000153299.jpg
+  flickr_url: http://farm1.staticflickr.com/88/233835328_6c4490cf34_z.jpg
+  height: 500
+  id: 153299
+  license: 1
+  width: 461
+- coco_url: http://images.cocodataset.org/val2017/000000308394.jpg
+  date_captured: '2013-11-17 03:48:10'
+  file_name: 000000308394.jpg
+  flickr_url: http://farm4.staticflickr.com/3152/2818802025_2a91e90799_z.jpg
+  height: 428
+  id: 308394
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000456496.jpg
+  date_captured: '2013-11-17 03:50:41'
+  file_name: 000000456496.jpg
+  flickr_url: http://farm4.staticflickr.com/3810/10095484263_8ff0024f65_z.jpg
+  height: 426
+  id: 456496
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000058636.jpg
+  date_captured: '2013-11-17 04:21:31'
+  file_name: 000000058636.jpg
+  flickr_url: http://farm3.staticflickr.com/2753/5744540082_707eaf8887_z.jpg
+  height: 640
+  id: 58636
+  license: 4
+  width: 634
+- coco_url: http://images.cocodataset.org/val2017/000000041888.jpg
+  date_captured: '2013-11-17 05:17:27'
+  file_name: 000000041888.jpg
+  flickr_url: http://farm3.staticflickr.com/2838/9552386421_f1ccb033d6_z.jpg
+  height: 480
+  id: 41888
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000184321.jpg
+  date_captured: '2013-11-17 07:10:16'
+  file_name: 000000184321.jpg
+  flickr_url: http://farm4.staticflickr.com/3738/9619673502_7bb5875df3_z.jpg
+  height: 480
+  id: 184321
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000565778.jpg
+  date_captured: '2013-11-17 08:58:44'
+  file_name: 000000565778.jpg
+  flickr_url: http://farm6.staticflickr.com/5523/9117236902_bea84134a9_z.jpg
+  height: 400
+  id: 565778
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000297343.jpg
+  date_captured: '2013-11-17 09:20:59'
+  file_name: 000000297343.jpg
+  flickr_url: http://farm5.staticflickr.com/4045/4693556483_48778c7494_z.jpg
+  height: 432
+  id: 297343
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000336587.jpg
+  date_captured: '2013-11-17 09:38:40'
+  file_name: 000000336587.jpg
+  flickr_url: http://farm4.staticflickr.com/3136/3036562391_57325b7c1a_z.jpg
+  height: 480
+  id: 336587
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000122745.jpg
+  date_captured: '2013-11-17 09:58:05'
+  file_name: 000000122745.jpg
+  flickr_url: http://farm2.staticflickr.com/1028/1143164889_bf35e363ed_z.jpg
+  height: 640
+  id: 122745
+  license: 4
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000219578.jpg
+  date_captured: '2013-11-17 16:03:13'
+  file_name: 000000219578.jpg
+  flickr_url: http://farm5.staticflickr.com/4094/4917146875_e48e614ff2_z.jpg
+  height: 427
+  id: 219578
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000555705.jpg
+  date_captured: '2013-11-17 16:54:19'
+  file_name: 000000555705.jpg
+  flickr_url: http://farm6.staticflickr.com/5266/5808419943_81314ba194_z.jpg
+  height: 371
+  id: 555705
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000443303.jpg
+  date_captured: '2013-11-17 17:28:10'
+  file_name: 000000443303.jpg
+  flickr_url: http://farm4.staticflickr.com/3181/2888219798_a8fdeeb54b_z.jpg
+  height: 375
+  id: 443303
+  license: 2
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000500663.jpg
+  date_captured: '2013-11-17 18:01:17'
+  file_name: 000000500663.jpg
+  flickr_url: http://farm3.staticflickr.com/2452/4046745441_5a2f435499_z.jpg
+  height: 480
+  id: 500663
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000418281.jpg
+  date_captured: '2013-11-17 20:06:02'
+  file_name: 000000418281.jpg
+  flickr_url: http://farm3.staticflickr.com/2826/10096943865_4342e11627_z.jpg
+  height: 427
+  id: 418281
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000025560.jpg
+  date_captured: '2013-11-17 21:48:19'
+  file_name: 000000025560.jpg
+  flickr_url: http://farm1.staticflickr.com/198/488201322_ef2ebfeccb_z.jpg
+  height: 480
+  id: 25560
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000403817.jpg
+  date_captured: '2013-11-18 00:09:14'
+  file_name: 000000403817.jpg
+  flickr_url: http://farm1.staticflickr.com/40/122334986_1c6fd10c4c_z.jpg
+  height: 375
+  id: 403817
+  license: 3
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000085329.jpg
+  date_captured: '2013-11-18 02:44:13'
+  file_name: 000000085329.jpg
+  flickr_url: http://farm9.staticflickr.com/8143/7573269216_9e5b752281_z.jpg
+  height: 449
+  id: 85329
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000329323.jpg
+  date_captured: '2013-11-18 03:20:36'
+  file_name: 000000329323.jpg
+  flickr_url: http://farm7.staticflickr.com/6183/6100180267_cecedd78ba_z.jpg
+  height: 640
+  id: 329323
+  license: 5
+  width: 425
+- coco_url: http://images.cocodataset.org/val2017/000000239274.jpg
+  date_captured: '2013-11-18 03:40:24'
+  file_name: 000000239274.jpg
+  flickr_url: http://farm8.staticflickr.com/7416/10079494584_8dd76f48cb_z.jpg
+  height: 640
+  id: 239274
+  license: 3
+  width: 581
+- coco_url: http://images.cocodataset.org/val2017/000000286994.jpg
+  date_captured: '2013-11-18 03:47:59'
+  file_name: 000000286994.jpg
+  flickr_url: http://farm3.staticflickr.com/2879/9593058971_c198b320ee_z.jpg
+  height: 480
+  id: 286994
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000511321.jpg
+  date_captured: '2013-11-18 04:00:03'
+  file_name: 000000511321.jpg
+  flickr_url: http://farm4.staticflickr.com/3668/9987909545_5c30c1ce40_z.jpg
+  height: 640
+  id: 511321
+  license: 5
+  width: 427
+- coco_url: http://images.cocodataset.org/val2017/000000314294.jpg
+  date_captured: '2013-11-18 04:46:33'
+  file_name: 000000314294.jpg
+  flickr_url: http://farm9.staticflickr.com/8220/8445739283_05133941ff_z.jpg
+  height: 360
+  id: 314294
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000233771.jpg
+  date_captured: '2013-11-18 05:20:56'
+  file_name: 000000233771.jpg
+  flickr_url: http://farm2.staticflickr.com/1304/4660238513_56f3b73555_z.jpg
+  height: 640
+  id: 233771
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000475779.jpg
+  date_captured: '2013-11-18 07:11:19'
+  file_name: 000000475779.jpg
+  flickr_url: http://farm4.staticflickr.com/3004/5840536253_27004298cc_z.jpg
+  height: 480
+  id: 475779
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000301867.jpg
+  date_captured: '2013-11-18 08:07:48'
+  file_name: 000000301867.jpg
+  flickr_url: http://farm4.staticflickr.com/3702/9562977618_bf24da96c4_z.jpg
+  height: 480
+  id: 301867
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000312421.jpg
+  date_captured: '2013-11-18 08:23:25'
+  file_name: 000000312421.jpg
+  flickr_url: http://farm8.staticflickr.com/7417/10072949756_a273bd03da_z.jpg
+  height: 427
+  id: 312421
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000185250.jpg
+  date_captured: '2013-11-18 10:07:10'
+  file_name: 000000185250.jpg
+  flickr_url: http://farm8.staticflickr.com/7040/6810762896_6429b482b6_z.jpg
+  height: 640
+  id: 185250
+  license: 1
+  width: 399
+- coco_url: http://images.cocodataset.org/val2017/000000356427.jpg
+  date_captured: '2013-11-18 12:00:34'
+  file_name: 000000356427.jpg
+  flickr_url: http://farm4.staticflickr.com/3053/2634837936_186c01f72b_z.jpg
+  height: 427
+  id: 356427
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000572517.jpg
+  date_captured: '2013-11-18 13:23:38'
+  file_name: 000000572517.jpg
+  flickr_url: http://farm4.staticflickr.com/3744/8754578923_aa3309cca9_z.jpg
+  height: 424
+  id: 572517
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000270244.jpg
+  date_captured: '2013-11-18 16:50:26'
+  file_name: 000000270244.jpg
+  flickr_url: http://farm3.staticflickr.com/2867/8764646161_bd1daa5b2a_z.jpg
+  height: 428
+  id: 270244
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000516316.jpg
+  date_captured: '2013-11-18 18:15:05'
+  file_name: 000000516316.jpg
+  flickr_url: http://farm6.staticflickr.com/5142/5840536817_38a20b2796_z.jpg
+  height: 480
+  id: 516316
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000125211.jpg
+  date_captured: '2013-11-18 18:25:28'
+  file_name: 000000125211.jpg
+  flickr_url: http://farm6.staticflickr.com/5268/5616414260_106febb605_z.jpg
+  height: 480
+  id: 125211
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000562121.jpg
+  date_captured: '2013-11-18 18:27:43'
+  file_name: 000000562121.jpg
+  flickr_url: http://farm6.staticflickr.com/5260/5536366901_d00048ac6c_z.jpg
+  height: 454
+  id: 562121
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000360661.jpg
+  date_captured: '2013-11-18 21:33:43'
+  file_name: 000000360661.jpg
+  flickr_url: http://farm4.staticflickr.com/3670/9709793032_f9ee4f0aa2_z.jpg
+  height: 480
+  id: 360661
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000016228.jpg
+  date_captured: '2013-11-19 00:09:53'
+  file_name: 000000016228.jpg
+  flickr_url: http://farm4.staticflickr.com/3737/10031812195_372ae7538f_z.jpg
+  height: 440
+  id: 16228
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000382088.jpg
+  date_captured: '2013-11-19 02:48:18'
+  file_name: 000000382088.jpg
+  flickr_url: http://farm9.staticflickr.com/8253/8637472246_0783196c6f_z.jpg
+  height: 426
+  id: 382088
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000266409.jpg
+  date_captured: '2013-11-19 20:30:17'
+  file_name: 000000266409.jpg
+  flickr_url: http://farm9.staticflickr.com/8081/8331940980_ef74d48dff_z.jpg
+  height: 480
+  id: 266409
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000430961.jpg
+  date_captured: '2013-11-19 20:35:21'
+  file_name: 000000430961.jpg
+  flickr_url: http://farm4.staticflickr.com/3455/3180605599_f895f404f0_z.jpg
+  height: 319
+  id: 430961
+  license: 3
+  width: 450
+- coco_url: http://images.cocodataset.org/val2017/000000080671.jpg
+  date_captured: '2013-11-19 20:52:10'
+  file_name: 000000080671.jpg
+  flickr_url: http://farm8.staticflickr.com/7067/7040483871_bae1b789be_z.jpg
+  height: 427
+  id: 80671
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000577539.jpg
+  date_captured: '2013-11-19 21:39:18'
+  file_name: 000000577539.jpg
+  flickr_url: http://farm4.staticflickr.com/3494/3850219428_10c4b01c88_z.jpg
+  height: 334
+  id: 577539
+  license: 4
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000104612.jpg
+  date_captured: '2013-11-19 23:42:58'
+  file_name: 000000104612.jpg
+  flickr_url: http://farm3.staticflickr.com/2060/2280818350_cabd27fb73_z.jpg
+  height: 480
+  id: 104612
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000476258.jpg
+  date_captured: '2013-11-20 01:25:33'
+  file_name: 000000476258.jpg
+  flickr_url: http://farm7.staticflickr.com/6231/6338462434_97b55c2888_z.jpg
+  height: 367
+  id: 476258
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000448365.jpg
+  date_captured: '2013-11-20 01:39:25'
+  file_name: 000000448365.jpg
+  flickr_url: http://farm7.staticflickr.com/6079/6052677323_be8098b1a0_z.jpg
+  height: 428
+  id: 448365
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000035197.jpg
+  date_captured: '2013-11-20 05:20:09'
+  file_name: 000000035197.jpg
+  flickr_url: http://farm5.staticflickr.com/4138/4891774391_e2fe44e390_z.jpg
+  height: 640
+  id: 35197
+  license: 1
+  width: 429
+- coco_url: http://images.cocodataset.org/val2017/000000349860.jpg
+  date_captured: '2013-11-20 06:00:23'
+  file_name: 000000349860.jpg
+  flickr_url: http://farm5.staticflickr.com/4025/4590246533_c351aefccd_z.jpg
+  height: 426
+  id: 349860
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000180135.jpg
+  date_captured: '2013-11-20 08:23:08'
+  file_name: 000000180135.jpg
+  flickr_url: http://farm3.staticflickr.com/2046/3527197619_4920e79db6_z.jpg
+  height: 500
+  id: 180135
+  license: 1
+  width: 333
+- coco_url: http://images.cocodataset.org/val2017/000000486438.jpg
+  date_captured: '2013-11-20 13:32:23'
+  file_name: 000000486438.jpg
+  flickr_url: http://farm8.staticflickr.com/7154/6676693439_47455f5609_z.jpg
+  height: 427
+  id: 486438
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000400573.jpg
+  date_captured: '2013-11-20 13:32:33'
+  file_name: 000000400573.jpg
+  flickr_url: http://farm5.staticflickr.com/4060/4671923710_9391a0b476_z.jpg
+  height: 640
+  id: 400573
+  license: 1
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000109798.jpg
+  date_captured: '2013-11-20 13:33:45'
+  file_name: 000000109798.jpg
+  flickr_url: http://farm5.staticflickr.com/4050/4281720883_039e354b4d_z.jpg
+  height: 333
+  id: 109798
+  license: 5
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000370677.jpg
+  date_captured: '2013-11-20 13:58:58'
+  file_name: 000000370677.jpg
+  flickr_url: http://farm4.staticflickr.com/3498/3210819975_ffb1394426_z.jpg
+  height: 332
+  id: 370677
+  license: 3
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000238866.jpg
+  date_captured: '2013-11-20 14:40:43'
+  file_name: 000000238866.jpg
+  flickr_url: http://farm8.staticflickr.com/7013/6610035555_f0429c52e9_z.jpg
+  height: 439
+  id: 238866
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000369370.jpg
+  date_captured: '2013-11-20 15:44:05'
+  file_name: 000000369370.jpg
+  flickr_url: http://farm6.staticflickr.com/5145/5678857547_d84fa04ce4_z.jpg
+  height: 480
+  id: 369370
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000502737.jpg
+  date_captured: '2013-11-20 16:07:14'
+  file_name: 000000502737.jpg
+  flickr_url: http://farm2.staticflickr.com/1370/1343129188_df1aebda3f_z.jpg
+  height: 640
+  id: 502737
+  license: 4
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000515579.jpg
+  date_captured: '2013-11-20 17:19:27'
+  file_name: 000000515579.jpg
+  flickr_url: http://farm4.staticflickr.com/3199/2865434771_dca1c5e149_z.jpg
+  height: 332
+  id: 515579
+  license: 6
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000515445.jpg
+  date_captured: '2013-11-20 19:32:34'
+  file_name: 000000515445.jpg
+  flickr_url: http://farm1.staticflickr.com/105/301376641_ad9f966666_z.jpg
+  height: 480
+  id: 515445
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000173383.jpg
+  date_captured: '2013-11-20 19:36:42'
+  file_name: 000000173383.jpg
+  flickr_url: http://farm8.staticflickr.com/7298/10229885046_3b4ef771c1_z.jpg
+  height: 425
+  id: 173383
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000438862.jpg
+  date_captured: '2013-11-20 20:23:56'
+  file_name: 000000438862.jpg
+  flickr_url: http://farm9.staticflickr.com/8198/8270500113_8372807c4d_z.jpg
+  height: 427
+  id: 438862
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000180560.jpg
+  date_captured: '2013-11-20 21:18:55'
+  file_name: 000000180560.jpg
+  flickr_url: http://farm9.staticflickr.com/8373/8410408682_986cd1a140_z.jpg
+  height: 426
+  id: 180560
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000347693.jpg
+  date_captured: '2013-11-20 21:32:33'
+  file_name: 000000347693.jpg
+  flickr_url: http://farm4.staticflickr.com/3317/3427794620_9db24fe462_z.jpg
+  height: 427
+  id: 347693
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000039956.jpg
+  date_captured: '2013-11-20 21:40:01'
+  file_name: 000000039956.jpg
+  flickr_url: http://farm3.staticflickr.com/2692/4164666887_536163f782_z.jpg
+  height: 427
+  id: 39956
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000321214.jpg
+  date_captured: '2013-11-20 22:11:08'
+  file_name: 000000321214.jpg
+  flickr_url: http://farm9.staticflickr.com/8030/8037209348_6491cf571e_z.jpg
+  height: 480
+  id: 321214
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000474028.jpg
+  date_captured: '2013-11-20 22:40:01'
+  file_name: 000000474028.jpg
+  flickr_url: http://farm8.staticflickr.com/7086/7258228366_b29766be26_z.jpg
+  height: 427
+  id: 474028
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000066523.jpg
+  date_captured: '2013-11-20 23:15:23'
+  file_name: 000000066523.jpg
+  flickr_url: http://farm4.staticflickr.com/3018/2471041106_3346281447_z.jpg
+  height: 640
+  id: 66523
+  license: 3
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000355257.jpg
+  date_captured: '2013-11-20 23:51:16'
+  file_name: 000000355257.jpg
+  flickr_url: http://farm3.staticflickr.com/2869/8759177830_2ecb0f9160_z.jpg
+  height: 427
+  id: 355257
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000142092.jpg
+  date_captured: '2013-11-21 00:23:13'
+  file_name: 000000142092.jpg
+  flickr_url: http://farm4.staticflickr.com/3204/5745241446_6a040560ae_z.jpg
+  height: 480
+  id: 142092
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000063154.jpg
+  date_captured: '2013-11-21 00:23:50'
+  file_name: 000000063154.jpg
+  flickr_url: http://farm5.staticflickr.com/4151/5180741702_d26cd9e67d_z.jpg
+  height: 426
+  id: 63154
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000199551.jpg
+  date_captured: '2013-11-21 01:05:17'
+  file_name: 000000199551.jpg
+  flickr_url: http://farm8.staticflickr.com/7123/7826328046_0165984695_z.jpg
+  height: 428
+  id: 199551
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000239347.jpg
+  date_captured: '2013-11-21 01:25:58'
+  file_name: 000000239347.jpg
+  flickr_url: http://farm8.staticflickr.com/7084/7311947216_1eb6416561_z.jpg
+  height: 480
+  id: 239347
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000514508.jpg
+  date_captured: '2013-11-21 01:27:06'
+  file_name: 000000514508.jpg
+  flickr_url: http://farm9.staticflickr.com/8039/8027872891_593989d862_z.jpg
+  height: 480
+  id: 514508
+  license: 6
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000473237.jpg
+  date_captured: '2013-11-21 01:56:27'
+  file_name: 000000473237.jpg
+  flickr_url: http://farm9.staticflickr.com/8076/8343979767_679dfefda2_z.jpg
+  height: 426
+  id: 473237
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000228144.jpg
+  date_captured: '2013-11-21 03:26:21'
+  file_name: 000000228144.jpg
+  flickr_url: http://farm4.staticflickr.com/3800/9678757658_774e298ba2_z.jpg
+  height: 426
+  id: 228144
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000206027.jpg
+  date_captured: '2013-11-21 05:13:42'
+  file_name: 000000206027.jpg
+  flickr_url: http://farm5.staticflickr.com/4105/4998256912_85bb59539a_z.jpg
+  height: 480
+  id: 206027
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000078915.jpg
+  date_captured: '2013-11-21 05:24:27'
+  file_name: 000000078915.jpg
+  flickr_url: http://farm5.staticflickr.com/4080/4757379654_6f0599d2ae_z.jpg
+  height: 640
+  id: 78915
+  license: 1
+  width: 481
 info:
+  contributor: COCO Consortium
+  date_created: 2017/09/01
   description: COCO 2017 Dataset
   url: http://cocodataset.org
   version: '1.0'

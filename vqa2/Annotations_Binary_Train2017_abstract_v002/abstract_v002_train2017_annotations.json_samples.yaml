@@ -33,6 +33,7 @@ annotations:
     answer_id: 10
   image_id: 87
   multiple_choice_answer: 'yes'
+  question_id: 870
   question_type: is the boy
 - answer_type: yes/no
   answers:
@@ -58,6 +59,7 @@ annotations:
     answer_id: 10
   image_id: 900000870
   multiple_choice_answer: 'no'
+  question_id: 900000870
   question_type: is the boy
 - answer_type: yes/no
   answers:
@@ -93,6 +95,7 @@ annotations:
     answer_id: 10
   image_id: 14962
   multiple_choice_answer: 'no'
+  question_id: 149620
   question_type: is it
 - answer_type: yes/no
   answers:
@@ -118,6 +121,7 @@ annotations:
     answer_id: 10
   image_id: 900149620
   multiple_choice_answer: 'yes'
+  question_id: 900149620
   question_type: is it
 - answer_type: yes/no
   answers:
@@ -153,6 +157,7 @@ annotations:
     answer_id: 10
   image_id: 8277
   multiple_choice_answer: 'yes'
+  question_id: 82771
   question_type: is the boy
 - answer_type: yes/no
   answers:
@@ -178,6 +183,7 @@ annotations:
     answer_id: 10
   image_id: 900082771
   multiple_choice_answer: 'no'
+  question_id: 900082771
   question_type: is the boy
 - answer_type: yes/no
   answers:
@@ -213,6 +219,7 @@ annotations:
     answer_id: 10
   image_id: 15675
   multiple_choice_answer: 'yes'
+  question_id: 156750
   question_type: is there
 - answer_type: yes/no
   answers:
@@ -238,6 +245,7 @@ annotations:
     answer_id: 10
   image_id: 900156750
   multiple_choice_answer: 'no'
+  question_id: 900156750
   question_type: is there
 - answer_type: yes/no
   answers:
@@ -273,6 +281,7 @@ annotations:
     answer_id: 10
   image_id: 10466
   multiple_choice_answer: 'yes'
+  question_id: 104662
   question_type: is the boy
 - answer_type: yes/no
   answers:
@@ -298,11 +307,2813 @@ annotations:
     answer_id: 10
   image_id: 900104662
   multiple_choice_answer: 'no'
+  question_id: 900104662
   question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 10882
+  multiple_choice_answer: 'yes'
+  question_id: 108821
+  question_type: is there a
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900108821
+  multiple_choice_answer: 'no'
+  question_id: 900108821
+  question_type: is there a
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 16397
+  multiple_choice_answer: 'yes'
+  question_id: 163971
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900163971
+  multiple_choice_answer: 'no'
+  question_id: 900163971
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 11895
+  multiple_choice_answer: 'yes'
+  question_id: 118952
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900118952
+  multiple_choice_answer: 'no'
+  question_id: 900118952
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 12630
+  multiple_choice_answer: 'no'
+  question_id: 126300
+  question_type: are
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900126300
+  multiple_choice_answer: 'yes'
+  question_id: 900126300
+  question_type: are
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 19935
+  multiple_choice_answer: 'yes'
+  question_id: 199352
+  question_type: can
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900199352
+  multiple_choice_answer: 'no'
+  question_id: 900199352
+  question_type: can
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 5426
+  multiple_choice_answer: 'no'
+  question_id: 54262
+  question_type: is the woman
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900054262
+  multiple_choice_answer: 'yes'
+  question_id: 900054262
+  question_type: is the woman
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 194
+  multiple_choice_answer: 'yes'
+  question_id: 1940
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900001940
+  multiple_choice_answer: 'no'
+  question_id: 900001940
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: nk
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 1815
+  multiple_choice_answer: 'no'
+  question_id: 18151
+  question_type: are there any
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900018151
+  multiple_choice_answer: 'yes'
+  question_id: 900018151
+  question_type: are there any
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 7953
+  multiple_choice_answer: 'yes'
+  question_id: 79531
+  question_type: are the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900079531
+  multiple_choice_answer: 'no'
+  question_id: 900079531
+  question_type: are the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 1327
+  multiple_choice_answer: 'no'
+  question_id: 13271
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900013271
+  multiple_choice_answer: 'yes'
+  question_id: 900013271
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 12858
+  multiple_choice_answer: 'yes'
+  question_id: 128580
+  question_type: will the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900128580
+  multiple_choice_answer: 'no'
+  question_id: 900128580
+  question_type: will the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 9808
+  multiple_choice_answer: 'yes'
+  question_id: 98080
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900098080
+  multiple_choice_answer: 'no'
+  question_id: 900098080
+  question_type: is the boy
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 13807
+  multiple_choice_answer: 'no'
+  question_id: 138072
+  question_type: is this
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900138072
+  multiple_choice_answer: 'yes'
+  question_id: 900138072
+  question_type: is this
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 8000
+  multiple_choice_answer: 'yes'
+  question_id: 80002
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900080002
+  multiple_choice_answer: 'no'
+  question_id: 900080002
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 19701
+  multiple_choice_answer: 'no'
+  question_id: 197011
+  question_type: is there a
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900197011
+  multiple_choice_answer: 'yes'
+  question_id: 900197011
+  question_type: is there a
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 13206
+  multiple_choice_answer: 'no'
+  question_id: 132062
+  question_type: is it
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900132062
+  multiple_choice_answer: 'yes'
+  question_id: 900132062
+  question_type: is it
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: holding basket
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 14145
+  multiple_choice_answer: 'yes'
+  question_id: 141451
+  question_type: is the lady
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900141451
+  multiple_choice_answer: 'no'
+  question_id: 900141451
+  question_type: is the lady
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 3981
+  multiple_choice_answer: 'no'
+  question_id: 39812
+  question_type: is there a
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900039812
+  multiple_choice_answer: 'yes'
+  question_id: 900039812
+  question_type: is there a
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'no'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 5754
+  multiple_choice_answer: 'yes'
+  question_id: 57540
+  question_type: is the girl
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900057540
+  multiple_choice_answer: 'no'
+  question_id: 900057540
+  question_type: is the girl
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 19946
+  multiple_choice_answer: 'yes'
+  question_id: 199461
+  question_type: is the woman
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900199461
+  multiple_choice_answer: 'no'
+  question_id: 900199461
+  question_type: is the woman
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 12967
+  multiple_choice_answer: 'yes'
+  question_id: 129672
+  question_type: is he
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900129672
+  multiple_choice_answer: 'no'
+  question_id: 900129672
+  question_type: is he
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 14201
+  multiple_choice_answer: 'yes'
+  question_id: 142010
+  question_type: is the old man
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900142010
+  multiple_choice_answer: 'no'
+  question_id: 900142010
+  question_type: is the old man
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 12754
+  multiple_choice_answer: 'yes'
+  question_id: 127540
+  question_type: is the man
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900127540
+  multiple_choice_answer: 'no'
+  question_id: 900127540
+  question_type: is the man
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 14339
+  multiple_choice_answer: 'no'
+  question_id: 143392
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900143392
+  multiple_choice_answer: 'yes'
+  question_id: 900143392
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 3294
+  multiple_choice_answer: 'no'
+  question_id: 32941
+  question_type: is the woman
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900032941
+  multiple_choice_answer: 'yes'
+  question_id: 900032941
+  question_type: is the woman
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 6546
+  multiple_choice_answer: 'yes'
+  question_id: 65460
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 3916
+  multiple_choice_answer: 'yes'
+  question_id: 39161
+  question_type: is there
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900039161
+  multiple_choice_answer: 'no'
+  question_id: 900039161
+  question_type: is there
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 841
+  multiple_choice_answer: 'yes'
+  question_id: 8410
+  question_type: are the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900008410
+  multiple_choice_answer: 'no'
+  question_id: 900008410
+  question_type: are the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 4895
+  multiple_choice_answer: 'yes'
+  question_id: 48951
+  question_type: is the man
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900048951
+  multiple_choice_answer: 'no'
+  question_id: 900048951
+  question_type: is the man
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 1525
+  multiple_choice_answer: 'yes'
+  question_id: 15251
+  question_type: is the tv
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900015251
+  multiple_choice_answer: 'no'
+  question_id: 900015251
+  question_type: is the tv
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'no'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 13821
+  multiple_choice_answer: 'yes'
+  question_id: 138212
+  question_type: does
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 10
+  image_id: 16522
+  multiple_choice_answer: 'no'
+  question_id: 165222
+  question_type: will the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900165222
+  multiple_choice_answer: 'yes'
+  question_id: 900165222
+  question_type: will the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 6215
+  multiple_choice_answer: 'yes'
+  question_id: 62152
+  question_type: does the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900062152
+  multiple_choice_answer: 'no'
+  question_id: 900062152
+  question_type: does the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 12049
+  multiple_choice_answer: 'yes'
+  question_id: 120491
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900120491
+  multiple_choice_answer: 'no'
+  question_id: 900120491
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 17312
+  multiple_choice_answer: 'no'
+  question_id: 173122
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900173122
+  multiple_choice_answer: 'yes'
+  question_id: 900173122
+  question_type: is the
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 17278
+  multiple_choice_answer: 'yes'
+  question_id: 172782
+  question_type: is the tv
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900172782
+  multiple_choice_answer: 'no'
+  question_id: 900172782
+  question_type: is the tv
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: sandwich
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: pie
+    answer_confidence: maybe
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 6488
+  multiple_choice_answer: 'yes'
+  question_id: 64882
+  question_type: is the lady
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900064882
+  multiple_choice_answer: 'no'
+  question_id: 900064882
+  question_type: is the lady
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 18130
+  multiple_choice_answer: 'no'
+  question_id: 181300
+  question_type: is this
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900181300
+  multiple_choice_answer: 'yes'
+  question_id: 900181300
+  question_type: is this
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 17949
+  multiple_choice_answer: 'no'
+  question_id: 179492
+  question_type: is the woman
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900179492
+  multiple_choice_answer: 'yes'
+  question_id: 900179492
+  question_type: is the woman
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 16888
+  multiple_choice_answer: 'yes'
+  question_id: 168881
+  question_type: will the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900168881
+  multiple_choice_answer: 'no'
+  question_id: 900168881
+  question_type: will the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 12560
+  multiple_choice_answer: 'yes'
+  question_id: 125602
+  question_type: are the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900125602
+  multiple_choice_answer: 'no'
+  question_id: 900125602
+  question_type: are the
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: maybe
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 1099
+  multiple_choice_answer: 'no'
+  question_id: 10990
+  question_type: can
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900010990
+  multiple_choice_answer: 'yes'
+  question_id: 900010990
+  question_type: can
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 12917
+  multiple_choice_answer: 'yes'
+  question_id: 129170
+  question_type: is there a
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900129170
+  multiple_choice_answer: 'no'
+  question_id: 900129170
+  question_type: is there a
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: maybe
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 19825
+  multiple_choice_answer: 'yes'
+  question_id: 198251
+  question_type: can
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900198251
+  multiple_choice_answer: 'no'
+  question_id: 900198251
+  question_type: can
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 8
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'no'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 12846
+  multiple_choice_answer: 'no'
+  question_id: 128462
+  question_type: is anyone
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_id: 8
+  - answer: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_id: 10
+  image_id: 900128462
+  multiple_choice_answer: 'yes'
+  question_id: 900128462
+  question_type: is anyone
+- answer_type: yes/no
+  answers:
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 1
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 2
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 3
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 4
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 5
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 6
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 7
+  - answer: 'yes'
+    answer_confidence: 'no'
+    answer_id: 8
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 9
+  - answer: 'yes'
+    answer_confidence: 'yes'
+    answer_id: 10
+  image_id: 4062
+  multiple_choice_answer: 'yes'
+  question_id: 40620
+  question_type: does
+- answer_type: yes/no
+  answers:
+  - answer: 'no'
+    answer_id: 1
+  - answer: 'no'
+    answer_id: 2
+  - answer: 'no'
+    answer_id: 3
+  - answer: 'no'
+    answer_id: 4
+  - answer: 'no'
+    answer_id: 5
+  - answer: 'no'
+    answer_id: 6
+  - answer: 'no'
+    answer_id: 7
+  - answer: 'no'
+    answer_id: 8
+  - answer: 'no'
+    answer_id: 9
+  - answer: 'no'
+    answer_id: 10
+  image_id: 900040620
+  multiple_choice_answer: 'no'
+  question_id: 900040620
+  question_type: does
 data_subtype: train2017
 data_type: abstract_v002
 info:
   contributor: VQA Team
+  date_created: '2017-03-09 14:27:27'
   description: This is Balanced Binary Abstract Scenes VQA dataset.
   url: http://visualqa.org
   version: '1.0'

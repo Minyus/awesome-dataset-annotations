@@ -1,236 +1,5668 @@
 info:
+  date: 2/14/2017
   license: Creative Commons Attribution (CC BY 4.0)
   split: val
+  version: '1.0'
 questions:
-- image_index: 0
+- answer: 'no'
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 0
+    value_inputs:
+    - large
   - function: filter_material
     inputs:
     - 1
+    value_inputs:
+    - metal
   - function: unique
     inputs:
     - 2
+    value_inputs: []
   - function: same_shape
     inputs:
     - 3
+    value_inputs: []
   - function: exist
     inputs:
     - 4
-- image_index: 0
+    value_inputs: []
+  question: Are there any other things that are the same shape as the big metallic
+    object?
+  question_family_index: 39
+  question_index: 0
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_color
     inputs:
     - 0
+    value_inputs:
+    - green
   - function: unique
     inputs:
     - 1
+    value_inputs: []
   - function: same_shape
     inputs:
     - 2
+    value_inputs: []
   - function: filter_size
     inputs:
     - 3
+    value_inputs:
+    - large
   - function: filter_color
     inputs:
     - 4
+    value_inputs:
+    - brown
   - function: exist
     inputs:
     - 5
-- image_index: 0
+    value_inputs: []
+  question: Is there a big brown object of the same shape as the green thing?
+  question_family_index: 47
+  question_index: 1
+  split: val
+- answer: metal
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 0
+    value_inputs:
+    - large
   - function: filter_color
     inputs:
     - 1
+    value_inputs:
+    - purple
   - function: unique
     inputs:
     - 2
+    value_inputs: []
   - function: query_material
     inputs:
     - 3
-- image_index: 0
+    value_inputs: []
+  question: What is the material of the big purple object?
+  question_family_index: 87
+  question_index: 2
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 0
+    value_inputs:
+    - small
   - function: filter_color
     inputs:
     - 1
+    value_inputs:
+    - gray
   - function: filter_shape
     inputs:
     - 2
+    value_inputs:
+    - cube
   - function: unique
     inputs:
     - 3
+    value_inputs: []
   - function: relate
     inputs:
     - 4
+    value_inputs:
+    - left
   - function: filter_shape
     inputs:
     - 5
+    value_inputs:
+    - sphere
   - function: exist
     inputs:
     - 6
-- image_index: 0
+    value_inputs: []
+  question: There is a small gray block; are there any spheres to the left of it?
+  question_family_index: 73
+  question_index: 3
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_color
     inputs:
     - 0
+    value_inputs:
+    - purple
   - function: unique
     inputs:
     - 1
+    value_inputs: []
   - function: query_shape
     inputs:
     - 2
+    value_inputs: []
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 4
+    value_inputs:
+    - large
   - function: filter_color
     inputs:
     - 5
+    value_inputs:
+    - gray
   - function: filter_material
     inputs:
     - 6
+    value_inputs:
+    - rubber
   - function: unique
     inputs:
     - 7
+    value_inputs: []
   - function: query_shape
     inputs:
     - 8
-- image_index: 0
+    value_inputs: []
+  - function: equal_shape
+    inputs:
+    - 3
+    - 9
+    value_inputs: []
+  question: Is the purple thing the same shape as the large gray rubber thing?
+  question_family_index: 12
+  question_index: 4
+  split: val
+- answer: '2'
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_color
     inputs:
     - 0
+    value_inputs:
+    - purple
   - function: filter_material
     inputs:
     - 1
+    value_inputs:
+    - metal
   - function: unique
     inputs:
     - 2
+    value_inputs: []
   - function: same_size
     inputs:
     - 3
+    value_inputs: []
   - function: count
     inputs:
     - 4
-- image_index: 0
+    value_inputs: []
+  question: What number of other objects are the same size as the purple shiny object?
+  question_family_index: 40
+  question_index: 5
+  split: val
+- answer: '2'
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 0
+    value_inputs:
+    - small
   - function: filter_color
     inputs:
     - 1
+    value_inputs:
+    - green
   - function: filter_material
     inputs:
     - 2
+    value_inputs:
+    - rubber
   - function: filter_shape
     inputs:
     - 3
+    value_inputs:
+    - cylinder
   - function: unique
     inputs:
     - 4
+    value_inputs: []
   - function: relate
     inputs:
     - 5
+    value_inputs:
+    - behind
   - function: filter_material
     inputs:
     - 6
+    value_inputs:
+    - metal
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 8
-- image_index: 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 9
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 10
+    value_inputs:
+    - rubber
+  - function: union
+    inputs:
+    - 7
+    - 11
+    value_inputs: []
+  - function: count
+    inputs:
+    - 12
+    value_inputs: []
+  question: How many objects are either metal things behind the small green rubber
+    cylinder or small green rubber objects?
+  question_family_index: 70
+  question_index: 6
+  split: val
+- answer: purple
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 0
+    value_inputs:
+    - large
   - function: filter_material
     inputs:
     - 1
+    value_inputs:
+    - metal
   - function: filter_shape
     inputs:
     - 2
+    value_inputs:
+    - sphere
   - function: unique
     inputs:
     - 3
+    value_inputs: []
   - function: query_color
     inputs:
     - 4
-- image_index: 0
+    value_inputs: []
+  question: What is the color of the large shiny sphere?
+  question_family_index: 88
+  question_index: 7
+  split: val
+- answer: rubber
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 0
+    value_inputs:
+    - small
   - function: filter_material
     inputs:
     - 1
+    value_inputs:
+    - metal
   - function: unique
     inputs:
     - 2
+    value_inputs: []
   - function: relate
     inputs:
     - 3
+    value_inputs:
+    - front
   - function: unique
     inputs:
     - 4
+    value_inputs: []
   - function: query_material
     inputs:
     - 5
-- image_index: 0
+    value_inputs: []
+  question: What is the thing in front of the small metallic object made of?
+  question_family_index: 76
+  question_index: 8
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000000.png
+  image_index: 0
   program:
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_color
     inputs:
     - 0
+    value_inputs:
+    - green
   - function: filter_material
     inputs:
     - 1
+    value_inputs:
+    - rubber
   - function: unique
     inputs:
     - 2
+    value_inputs: []
   - function: query_shape
     inputs:
     - 3
+    value_inputs: []
   - function: scene
     inputs: []
+    value_inputs: []
   - function: filter_size
     inputs:
     - 5
+    value_inputs:
+    - large
   - function: filter_color
     inputs:
     - 6
+    value_inputs:
+    - purple
   - function: unique
     inputs:
     - 7
+    value_inputs: []
   - function: relate
     inputs:
     - 8
+    value_inputs:
+    - right
+  - function: filter_color
+    inputs:
+    - 9
+    value_inputs:
+    - gray
+  - function: unique
+    inputs:
+    - 10
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 11
+    value_inputs: []
+  - function: equal_shape
+    inputs:
+    - 4
+    - 12
+    value_inputs: []
+  question: Does the green rubber object have the same shape as the gray thing that
+    is on the right side of the big purple object?
+  question_family_index: 23
+  question_index: 9
+  split: val
+- answer: cyan
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 4
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 5
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 6
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 8
+    value_inputs: []
+  question: The other small shiny thing that is the same shape as the tiny yellow
+    shiny object is what color?
+  question_family_index: 62
+  question_index: 10
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 4
+    value_inputs: []
+  - function: exist
+    inputs:
+    - 5
+    value_inputs: []
+  question: Is there anything else that has the same color as the large shiny cube?
+  question_family_index: 37
+  question_index: 11
+  split: val
+- answer: '2'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - blue
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 4
+    value_inputs:
+    - blue
+  - function: union
+    inputs:
+    - 3
+    - 5
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 6
+    value_inputs:
+    - metal
+  - function: count
+    inputs:
+    - 7
+    value_inputs: []
+  question: How many metallic objects are big blue cubes or blue objects?
+  question_family_index: 68
+  question_index: 12
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 8
+    value_inputs: []
+  - function: equal_color
+    inputs:
+    - 9
+    - 10
+    value_inputs: []
+  question: Is the color of the big matte object the same as the large metal cube?
+  question_family_index: 10
+  question_index: 13
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - left
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - metal
+  - function: count
+    inputs:
+    - 5
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 7
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 8
+    value_inputs:
+    - red
+  - function: filter_shape
+    inputs:
+    - 9
+    value_inputs:
+    - sphere
+  - function: count
+    inputs:
+    - 10
+    value_inputs: []
+  - function: greater_than
+    inputs:
+    - 6
+    - 11
+    value_inputs: []
+  question: Are there more shiny things that are to the left of the yellow rubber
+    thing than small red spheres?
+  question_family_index: 5
+  question_index: 14
+  split: val
+- answer: '6'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - gray
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_material
+    inputs:
+    - 4
+    value_inputs: []
+  - function: count
+    inputs:
+    - 5
+    value_inputs: []
+  question: What number of other things are the same material as the big gray cylinder?
+  question_family_index: 42
+  question_index: 15
+  split: val
+- answer: '0'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - cyan
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 4
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - cube
+  - function: union
+    inputs:
+    - 3
+    - 6
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 7
+    value_inputs:
+    - large
+  - function: count
+    inputs:
+    - 8
+    value_inputs: []
+  question: How many large things are either cyan metallic cylinders or yellow blocks?
+  question_family_index: 65
+  question_index: 16
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 3
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 8
+    value_inputs: []
+  - function: equal_material
+    inputs:
+    - 4
+    - 9
+    value_inputs: []
+  question: Is the material of the yellow block the same as the yellow cylinder?
+  question_family_index: 11
+  question_index: 17
+  split: val
+- answer: '0'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - cyan
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 3
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 5
+    value_inputs:
+    - front
+  - function: filter_color
+    inputs:
+    - 6
+    value_inputs:
+    - purple
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 8
+    value_inputs:
+    - right
+  - function: filter_size
+    inputs:
+    - 9
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 10
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 11
+    value_inputs:
+    - rubber
+  - function: count
+    inputs:
+    - 12
+    value_inputs: []
+  question: How many tiny yellow matte things are to the right of the purple thing
+    in front of the small cyan shiny cube?
+  question_family_index: 78
+  question_index: 18
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000001.png
+  image_index: 1
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - green
+  - function: exist
+    inputs:
+    - 6
+    value_inputs: []
+  question: Is there another tiny green object that has the same shape as the green
+    shiny object?
+  question_family_index: 47
+  question_index: 19
+  split: val
+- answer: metal
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - left
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 7
+    value_inputs:
+    - right
+  - function: filter_color
+    inputs:
+    - 8
+    value_inputs:
+    - yellow
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 10
+    value_inputs: []
+  question: There is a yellow thing to the right of the rubber thing on the left side
+    of the gray rubber cylinder; what is its material?
+  question_family_index: 82
+  question_index: 20
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - right
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 7
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 9
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 10
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 11
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 12
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 13
+    value_inputs: []
+  - function: equal_color
+    inputs:
+    - 8
+    - 14
+    value_inputs: []
+  question: Is the color of the metal block that is right of the yellow rubber object
+    the same as the large metal cylinder?
+  question_family_index: 16
+  question_index: 21
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 4
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 8
+    value_inputs: []
+  - function: equal_color
+    inputs:
+    - 9
+    - 10
+    value_inputs: []
+  question: Do the large metal sphere and the matte block have the same color?
+  question_family_index: 10
+  question_index: 22
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 4
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 5
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 6
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 7
+    value_inputs:
+    - cube
+  - function: exist
+    inputs:
+    - 8
+    value_inputs: []
+  question: Are there any large matte blocks of the same color as the large metal
+    ball?
+  question_family_index: 45
+  question_index: 23
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - front
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - gray
+  - function: count
+    inputs:
+    - 6
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 8
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 9
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 10
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 11
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 12
+    value_inputs:
+    - right
+  - function: filter_color
+    inputs:
+    - 13
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 14
+    value_inputs:
+    - sphere
+  - function: count
+    inputs:
+    - 15
+    value_inputs: []
+  - function: greater_than
+    inputs:
+    - 7
+    - 16
+    value_inputs: []
+  question: Is the number of gray objects in front of the large yellow metal object
+    greater than the number of yellow spheres to the right of the small metal sphere?
+  question_family_index: 8
+  question_index: 24
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 4
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 6
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - blue
+  - function: unique
+    inputs:
+    - 8
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 9
+    value_inputs:
+    - front
+  - function: filter_shape
+    inputs:
+    - 10
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 11
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 12
+    value_inputs: []
+  - function: equal_material
+    inputs:
+    - 5
+    - 13
+    value_inputs: []
+  question: Does the large yellow sphere have the same material as the sphere in front
+    of the tiny blue object?
+  question_family_index: 20
+  question_index: 25
+  split: val
+- answer: brown
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 4
+    value_inputs: []
+  question: The tiny shiny cylinder has what color?
+  question_family_index: 88
+  question_index: 26
+  split: val
+- answer: sphere
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - green
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - left
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 7
+    value_inputs: []
+  question: There is a big metallic thing left of the tiny green object; what is its
+    shape?
+  question_family_index: 77
+  question_index: 27
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - metal
+  - function: union
+    inputs:
+    - 3
+    - 6
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - yellow
+  - function: count
+    inputs:
+    - 8
+    value_inputs: []
+  question: What number of yellow objects are big matte cubes or small metal objects?
+  question_family_index: 66
+  question_index: 28
+  split: val
+- answer: yellow
+  image_filename: CLEVR_val_000002.png
+  image_index: 2
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: unique
+    inputs:
+    - 1
+    value_inputs: []
+  - function: same_material
+    inputs:
+    - 2
+    value_inputs: []
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 4
+    value_inputs: []
+  question: There is another thing that is the same material as the gray object; what
+    is its color?
+  question_family_index: 59
+  question_index: 29
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 7
+    value_inputs: []
+  - function: equal_color
+    inputs:
+    - 8
+    - 9
+    value_inputs: []
+  question: Do the small shiny object and the matte cylinder have the same color?
+  question_family_index: 10
+  question_index: 30
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - sphere
+  - function: exist
+    inputs:
+    - 7
+    value_inputs: []
+  question: Are there any tiny matte spheres that have the same color as the big cylinder?
+  question_family_index: 45
+  question_index: 31
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: filter_size
+    inputs:
+    - 1
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 3
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - rubber
+  - function: union
+    inputs:
+    - 2
+    - 5
+    value_inputs: []
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - cylinder
+  - function: count
+    inputs:
+    - 7
+    value_inputs: []
+  question: What number of cylinders are gray objects or tiny brown matte objects?
+  question_family_index: 69
+  question_index: 32
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 4
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 5
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 6
+    value_inputs:
+    - blue
+  - function: filter_material
+    inputs:
+    - 7
+    value_inputs:
+    - metal
+  - function: exist
+    inputs:
+    - 8
+    value_inputs: []
+  question: Are there any large blue metallic things that have the same shape as the
+    small brown matte object?
+  question_family_index: 47
+  question_index: 33
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 0
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 3
+    value_inputs: []
+  - function: count
+    inputs:
+    - 4
+    value_inputs: []
+  question: How many other objects are there of the same color as the matte cylinder?
+  question_family_index: 41
+  question_index: 34
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - front
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - brown
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - cylinder
+  - function: count
+    inputs:
+    - 7
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 9
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 10
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 11
+    value_inputs:
+    - cylinder
+  - function: count
+    inputs:
+    - 12
+    value_inputs: []
+  - function: less_than
+    inputs:
+    - 8
+    - 13
+    value_inputs: []
+  question: Is the number of brown cylinders in front of the brown matte cylinder
+    less than the number of brown rubber cylinders?
+  question_family_index: 4
+  question_index: 35
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: count
+    inputs:
+    - 3
+    value_inputs: []
+  question: What number of gray matte blocks are there?
+  question_family_index: 84
+  question_index: 36
+  split: val
+- answer: '0'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_material
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - sphere
+  - function: count
+    inputs:
+    - 6
+    value_inputs: []
+  question: What number of other small balls have the same material as the yellow
+    ball?
+  question_family_index: 50
+  question_index: 37
+  split: val
+- answer: '3'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - gray
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - behind
+  - function: filter_size
+    inputs:
+    - 5
+    value_inputs:
+    - large
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 7
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 8
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 9
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 10
+    value_inputs:
+    - sphere
+  - function: union
+    inputs:
+    - 6
+    - 11
+    value_inputs: []
+  - function: count
+    inputs:
+    - 12
+    value_inputs: []
+  question: What number of objects are either big objects that are behind the big
+    gray block or tiny brown rubber balls?
+  question_family_index: 70
+  question_index: 38
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000003.png
+  image_index: 3
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - blue
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - right
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - purple
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - sphere
+  - function: count
+    inputs:
+    - 7
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 9
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 10
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 11
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 12
+    value_inputs:
+    - left
+  - function: filter_size
+    inputs:
+    - 13
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 14
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 15
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 16
+    value_inputs:
+    - cylinder
+  - function: count
+    inputs:
+    - 17
+    value_inputs: []
+  - function: less_than
+    inputs:
+    - 8
+    - 18
+    value_inputs: []
+  question: Are there fewer large purple spheres that are to the right of the big
+    blue thing than tiny brown metal cylinders that are left of the matte cylinder?
+  question_family_index: 7
+  question_index: 39
+  split: val
+- answer: rubber
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - purple
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - gray
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 7
+    value_inputs: []
+  question: There is a big gray object that is the same shape as the purple rubber
+    object; what is it made of?
+  question_family_index: 63
+  question_index: 40
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - front
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - large
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 7
+    value_inputs:
+    - behind
+  - function: filter_color
+    inputs:
+    - 8
+    value_inputs:
+    - gray
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 10
+    value_inputs:
+    - left
+  - function: filter_material
+    inputs:
+    - 11
+    value_inputs:
+    - metal
+  - function: exist
+    inputs:
+    - 12
+    value_inputs: []
+  question: Is there a metallic object left of the gray object that is behind the
+    large cylinder that is in front of the green matte object?
+  question_family_index: 26
+  question_index: 41
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - red
+  - function: unique
+    inputs:
+    - 1
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 2
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 8
+    value_inputs:
+    - left
+  - function: filter_size
+    inputs:
+    - 9
+    value_inputs:
+    - large
+  - function: unique
+    inputs:
+    - 10
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 11
+    value_inputs: []
+  - function: equal_shape
+    inputs:
+    - 3
+    - 12
+    value_inputs: []
+  question: There is a red object; does it have the same shape as the big object that
+    is left of the big rubber ball?
+  question_family_index: 23
+  question_index: 42
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 4
+    value_inputs: []
+  - function: exist
+    inputs:
+    - 5
+    value_inputs: []
+  question: Is there any other thing that has the same color as the small matte sphere?
+  question_family_index: 37
+  question_index: 43
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - left
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 5
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - purple
+  - function: unique
+    inputs:
+    - 8
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 9
+    value_inputs:
+    - right
+  - function: filter_shape
+    inputs:
+    - 10
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 11
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 12
+    value_inputs: []
+  - function: equal_color
+    inputs:
+    - 6
+    - 13
+    value_inputs: []
+  question: Is the color of the object to the left of the small sphere the same as
+    the cylinder right of the purple thing?
+  question_family_index: 18
+  question_index: 44
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - metal
+  - function: exist
+    inputs:
+    - 3
+    value_inputs: []
+  question: Are any tiny green metal things visible?
+  question_family_index: 85
+  question_index: 45
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - brown
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_material
+    inputs:
+    - 4
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 5
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 6
+    value_inputs:
+    - green
+  - function: exist
+    inputs:
+    - 7
+    value_inputs: []
+  question: Is there a small green thing that has the same material as the large brown
+    ball?
+  question_family_index: 46
+  question_index: 46
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - red
+  - function: unique
+    inputs:
+    - 1
+    value_inputs: []
+  - function: same_material
+    inputs:
+    - 2
+    value_inputs: []
+  - function: exist
+    inputs:
+    - 3
+    value_inputs: []
+  question: Is there anything else that has the same material as the red thing?
+  question_family_index: 38
+  question_index: 47
+  split: val
+- answer: red
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 3
+    value_inputs: []
+  question: What color is the small ball?
+  question_family_index: 88
+  question_index: 48
+  split: val
+- answer: cylinder
+  image_filename: CLEVR_val_000004.png
+  image_index: 4
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 3
+    value_inputs: []
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 5
+    value_inputs: []
+  question: The other object that is the same color as the large shiny thing is what
+    shape?
+  question_family_index: 57
+  question_index: 49
+  split: val
+- answer: cube
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - behind
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 6
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 7
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 8
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 9
+    value_inputs:
+    - front
+  - function: filter_size
+    inputs:
+    - 10
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 11
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 12
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 13
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 14
+    value_inputs: []
+  question: What is the shape of the small yellow rubber thing that is in front of
+    the large yellow metal ball that is behind the small matte object?
+  question_family_index: 83
+  question_index: 50
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - left
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 5
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 6
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 8
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 9
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 10
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 11
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 12
+    value_inputs: []
+  - function: equal_size
+    inputs:
+    - 7
+    - 13
+    value_inputs: []
+  question: There is a rubber object that is left of the yellow block; is it the same
+    size as the tiny rubber block?
+  question_family_index: 13
+  question_index: 51
+  split: val
+- answer: '2'
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 3
+    value_inputs: []
+  - function: count
+    inputs:
+    - 4
+    value_inputs: []
+  question: What number of other things are there of the same shape as the tiny matte
+    object?
+  question_family_index: 43
+  question_index: 52
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - behind
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 7
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 9
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 10
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 11
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 12
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 13
+    value_inputs: []
+  - function: equal_color
+    inputs:
+    - 8
+    - 14
+    value_inputs: []
+  question: Does the matte object behind the gray metallic ball have the same color
+    as the big rubber sphere?
+  question_family_index: 16
+  question_index: 53
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: exist
+    inputs:
+    - 5
+    value_inputs: []
+  question: Are there any tiny objects that have the same color as the big rubber
+    object?
+  question_family_index: 45
+  question_index: 54
+  split: val
+- answer: '0'
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - yellow
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - left
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: count
+    inputs:
+    - 6
+    value_inputs: []
+  question: How many tiny matte objects are to the left of the small yellow thing?
+  question_family_index: 72
+  question_index: 55
+  split: val
+- answer: '3'
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_size
+    inputs:
+    - 4
+    value_inputs: []
+  - function: count
+    inputs:
+    - 5
+    value_inputs: []
+  question: How many other things are the same size as the yellow rubber ball?
+  question_family_index: 40
+  question_index: 56
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 3
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 5
+    value_inputs:
+    - behind
+  - function: filter_size
+    inputs:
+    - 6
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 8
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 10
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 12
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 13
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 14
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 15
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 16
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 17
+    value_inputs:
+    - front
+  - function: filter_size
+    inputs:
+    - 18
+    value_inputs:
+    - large
+  - function: unique
+    inputs:
+    - 19
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 20
+    value_inputs: []
+  - function: equal_material
+    inputs:
+    - 11
+    - 21
+    value_inputs: []
+  question: Do the large yellow ball behind the small yellow matte cube and the big
+    object that is in front of the big gray shiny sphere have the same material?
+  question_family_index: 21
+  question_index: 57
+  split: val
+- answer: yellow
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_size
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 7
+    value_inputs: []
+  question: What color is the matte ball that is the same size as the gray metal thing?
+  question_family_index: 52
+  question_index: 58
+  split: val
+- answer: large
+  image_filename: CLEVR_val_000005.png
+  image_index: 5
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - behind
+  - function: unique
+    inputs:
+    - 5
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 6
+    value_inputs:
+    - right
+  - function: filter_shape
+    inputs:
+    - 7
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 8
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 9
+    value_inputs:
+    - behind
+  - function: filter_color
+    inputs:
+    - 10
+    value_inputs:
+    - yellow
+  - function: filter_shape
+    inputs:
+    - 11
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 12
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 13
+    value_inputs: []
+  question: What size is the yellow ball behind the sphere that is on the right side
+    of the object that is behind the tiny yellow matte thing?
+  question_family_index: 27
+  question_index: 59
+  split: val
+- answer: rubber
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 3
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 5
+    value_inputs:
+    - right
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - blue
+  - function: filter_shape
+    inputs:
+    - 8
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 10
+    value_inputs:
+    - left
+  - function: intersect
+    inputs:
+    - 6
+    - 11
+    value_inputs: []
+  - function: unique
+    inputs:
+    - 12
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 13
+    value_inputs: []
+  question: What is the material of the thing that is left of the blue block and on
+    the right side of the big green matte block?
+  question_family_index: 34
+  question_index: 60
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 4
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 6
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 8
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 10
+    value_inputs:
+    - behind
+  - function: unique
+    inputs:
+    - 11
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 12
+    value_inputs: []
+  - function: equal_shape
+    inputs:
+    - 5
+    - 13
+    value_inputs: []
+  question: Is the shape of the small gray matte thing the same as the object behind
+    the big green rubber object?
+  question_family_index: 23
+  question_index: 61
+  split: val
+- answer: rubber
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - front
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 7
+    value_inputs:
+    - behind
+  - function: filter_shape
+    inputs:
+    - 8
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 10
+    value_inputs:
+    - front
+  - function: filter_size
+    inputs:
+    - 11
+    value_inputs:
+    - large
+  - function: unique
+    inputs:
+    - 12
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 13
+    value_inputs: []
+  question: What is the big thing that is in front of the block that is behind the
+    block that is in front of the large shiny block made of?
+  question_family_index: 30
+  question_index: 62
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_size
+    inputs:
+    - 3
+    value_inputs: []
+  - function: count
+    inputs:
+    - 4
+    value_inputs: []
+  question: How many other objects are the same size as the green rubber object?
+  question_family_index: 40
+  question_index: 63
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 7
+    value_inputs: []
+  - function: equal_color
+    inputs:
+    - 8
+    - 9
+    value_inputs: []
+  question: Is the color of the large shiny object the same as the small ball?
+  question_family_index: 10
+  question_index: 64
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 3
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 5
+    value_inputs:
+    - right
+  - function: filter_material
+    inputs:
+    - 6
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 8
+    value_inputs:
+    - left
+  - function: filter_shape
+    inputs:
+    - 9
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 10
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 11
+    value_inputs:
+    - right
+  - function: filter_size
+    inputs:
+    - 12
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 13
+    value_inputs:
+    - blue
+  - function: filter_material
+    inputs:
+    - 14
+    value_inputs:
+    - metal
+  - function: count
+    inputs:
+    - 15
+    value_inputs: []
+  question: There is a cube to the left of the rubber thing that is on the right side
+    of the large green matte block; how many big blue metallic objects are right of
+    it?
+  question_family_index: 25
+  question_index: 65
+  split: val
+- answer: metal
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - blue
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - left
+  - function: filter_shape
+    inputs:
+    - 4
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 5
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 6
+    value_inputs:
+    - behind
+  - function: filter_size
+    inputs:
+    - 7
+    value_inputs:
+    - large
+  - function: filter_shape
+    inputs:
+    - 8
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: query_material
+    inputs:
+    - 10
+    value_inputs: []
+  question: There is a large block that is behind the block to the left of the big
+    blue thing; what is it made of?
+  question_family_index: 82
+  question_index: 66
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - green
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - gray
+  - function: exist
+    inputs:
+    - 6
+    value_inputs: []
+  question: Is there a small gray thing that has the same shape as the big green object?
+  question_family_index: 47
+  question_index: 67
+  split: val
+- answer: blue
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_size
+    inputs:
+    - 4
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 7
+    value_inputs: []
+  question: What is the color of the metal object that is the same size as the green
+    rubber block?
+  question_family_index: 52
+  question_index: 68
+  split: val
+- answer: '3'
+  image_filename: CLEVR_val_000006.png
+  image_index: 6
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - green
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 3
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 5
+    value_inputs:
+    - behind
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 7
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 8
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 10
+    value_inputs:
+    - front
+  - function: union
+    inputs:
+    - 6
+    - 11
+    value_inputs: []
+  - function: count
+    inputs:
+    - 12
+    value_inputs: []
+  question: What number of things are objects behind the big green matte cube or things
+    that are in front of the big shiny thing?
+  question_family_index: 67
+  question_index: 69
+  split: val
+- answer: large
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 3
+    value_inputs: []
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 5
+    value_inputs: []
+  question: The object that is the same color as the tiny cube is what size?
+  question_family_index: 55
+  question_index: 70
+  split: val
+- answer: '2'
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - sphere
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 3
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 5
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 6
+    value_inputs:
+    - behind
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - brown
+  - function: filter_shape
+    inputs:
+    - 8
+    value_inputs:
+    - cube
+  - function: union
+    inputs:
+    - 2
+    - 9
+    value_inputs: []
+  - function: count
+    inputs:
+    - 10
+    value_inputs: []
+  question: What number of objects are tiny spheres or brown blocks behind the gray
+    matte object?
+  question_family_index: 71
+  question_index: 71
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - right
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 8
+    value_inputs:
+    - left
+  - function: filter_color
+    inputs:
+    - 9
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 10
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 11
+    value_inputs:
+    - sphere
+  - function: exist
+    inputs:
+    - 12
+    value_inputs: []
+  question: Are there any gray rubber spheres on the left side of the matte block
+    that is to the right of the tiny rubber cylinder?
+  question_family_index: 79
+  question_index: 72
+  split: val
+- answer: cyan
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - front
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 5
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 6
+    value_inputs: []
+  question: What color is the matte thing in front of the large cube?
+  question_family_index: 75
+  question_index: 73
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: unique
+    inputs:
+    - 1
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 2
+    value_inputs:
+    - left
+  - function: filter_size
+    inputs:
+    - 3
+    value_inputs:
+    - small
+  - function: count
+    inputs:
+    - 4
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 6
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - cyan
+  - function: filter_material
+    inputs:
+    - 8
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 9
+    value_inputs:
+    - sphere
+  - function: count
+    inputs:
+    - 10
+    value_inputs: []
+  - function: equal_integer
+    inputs:
+    - 5
+    - 11
+    value_inputs: []
+  question: Are there an equal number of small things that are left of the gray object
+    and large cyan matte balls?
+  question_family_index: 3
+  question_index: 74
+  split: val
+- answer: cube
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - right
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - gray
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 8
+    value_inputs:
+    - left
+  - function: intersect
+    inputs:
+    - 4
+    - 9
+    value_inputs: []
+  - function: unique
+    inputs:
+    - 10
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 11
+    value_inputs: []
+  question: There is a thing that is both to the left of the gray sphere and to the
+    right of the small cylinder; what shape is it?
+  question_family_index: 35
+  question_index: 75
+  split: val
+- answer: brown
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 4
+    value_inputs: []
+  - function: unique
+    inputs:
+    - 5
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 6
+    value_inputs: []
+  question: What color is the other object that is the same shape as the large brown
+    matte thing?
+  question_family_index: 62
+  question_index: 76
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_shape
+    inputs:
+    - 0
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 1
+    value_inputs: []
+  - function: same_color
+    inputs:
+    - 2
+    value_inputs: []
+  - function: exist
+    inputs:
+    - 3
+    value_inputs: []
+  question: Is there any other thing that is the same color as the cylinder?
+  question_family_index: 37
+  question_index: 77
+  split: val
+- answer: cube
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - left
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 7
+    value_inputs:
+    - right
+  - function: filter_color
+    inputs:
+    - 8
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 9
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 10
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 11
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 12
+    value_inputs:
+    - front
+  - function: filter_color
+    inputs:
+    - 13
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 14
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 15
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 16
+    value_inputs: []
+  question: What shape is the brown rubber object that is in front of the brown rubber
+    block on the right side of the matte object that is on the left side of the tiny
+    rubber cylinder?
+  question_family_index: 28
+  question_index: 78
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000007.png
+  image_index: 7
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - gray
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - behind
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 5
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 7
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 8
+    value_inputs:
+    - brown
+  - function: filter_shape
+    inputs:
+    - 9
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 10
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 11
+    value_inputs:
+    - front
+  - function: filter_material
+    inputs:
+    - 12
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 13
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 14
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 15
+    value_inputs: []
+  - function: equal_size
+    inputs:
+    - 6
+    - 16
+    value_inputs: []
+  question: There is a thing that is behind the small gray object; is its size the
+    same as the matte block in front of the small brown block?
+  question_family_index: 15
+  question_index: 79
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - purple
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 4
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 7
+    value_inputs: []
+  - function: equal_size
+    inputs:
+    - 8
+    - 9
+    value_inputs: []
+  question: Do the purple cylinder and the yellow rubber thing have the same size?
+  question_family_index: 9
+  question_index: 80
+  split: val
+- answer: sphere
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - purple
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_material
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - large
+  - function: unique
+    inputs:
+    - 5
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 6
+    value_inputs: []
+  question: What is the shape of the large object that is made of the same material
+    as the purple ball?
+  question_family_index: 60
+  question_index: 81
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - purple
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 3
+    value_inputs: []
+  - function: count
+    inputs:
+    - 4
+    value_inputs: []
+  question: What number of other things are the same shape as the purple matte thing?
+  question_family_index: 43
+  question_index: 82
+  split: val
+- answer: cylinder
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - right
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 7
+    value_inputs:
+    - front
+  - function: filter_color
+    inputs:
+    - 8
+    value_inputs:
+    - yellow
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 10
+    value_inputs:
+    - right
+  - function: filter_size
+    inputs:
+    - 11
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 12
+    value_inputs:
+    - yellow
+  - function: unique
+    inputs:
+    - 13
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 14
+    value_inputs: []
+  question: There is a big yellow thing that is right of the yellow thing that is
+    in front of the matte cylinder that is right of the yellow matte thing; what is
+    its shape?
+  question_family_index: 28
+  question_index: 83
+  split: val
+- answer: '2'
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 2
+    value_inputs:
+    - purple
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - rubber
+  - function: union
+    inputs:
+    - 3
+    - 5
+    value_inputs: []
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - cylinder
+  - function: count
+    inputs:
+    - 7
+    value_inputs: []
+  question: What number of cylinders are small purple things or yellow rubber things?
+  question_family_index: 69
+  question_index: 84
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - yellow
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 3
+    value_inputs:
+    - behind
+  - function: filter_material
+    inputs:
+    - 4
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 7
+    value_inputs:
+    - left
+  - function: filter_color
+    inputs:
+    - 8
+    value_inputs:
+    - yellow
+  - function: filter_material
+    inputs:
+    - 9
+    value_inputs:
+    - rubber
+  - function: exist
+    inputs:
+    - 10
+    value_inputs: []
+  question: There is a metal cube that is behind the tiny yellow thing; is there a
+    yellow rubber object on the left side of it?
+  question_family_index: 79
+  question_index: 85
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - purple
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 4
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 6
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 7
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 8
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 9
+    value_inputs:
+    - left
+  - function: filter_color
+    inputs:
+    - 10
+    value_inputs:
+    - brown
+  - function: unique
+    inputs:
+    - 11
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 12
+    value_inputs: []
+  - function: equal_shape
+    inputs:
+    - 5
+    - 13
+    value_inputs: []
+  question: There is a tiny purple rubber thing; does it have the same shape as the
+    brown object that is on the left side of the rubber sphere?
+  question_family_index: 23
+  question_index: 86
+  split: val
+- answer: '5'
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_size
+    inputs:
+    - 3
+    value_inputs: []
+  - function: count
+    inputs:
+    - 4
+    value_inputs: []
+  question: What number of other objects are there of the same size as the gray sphere?
+  question_family_index: 40
+  question_index: 87
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - sphere
+  - function: union
+    inputs:
+    - 3
+    - 6
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - gray
+  - function: count
+    inputs:
+    - 8
+    value_inputs: []
+  question: What number of gray things are either large rubber cylinders or small
+    spheres?
+  question_family_index: 66
+  question_index: 88
+  split: val
+- answer: '1'
+  image_filename: CLEVR_val_000008.png
+  image_index: 8
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - right
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 6
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 7
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 8
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 10
+    value_inputs:
+    - left
+  - function: intersect
+    inputs:
+    - 5
+    - 11
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 12
+    value_inputs:
+    - small
+  - function: count
+    inputs:
+    - 13
+    value_inputs: []
+  question: What number of tiny things are both on the left side of the gray shiny
+    sphere and to the right of the brown rubber cube?
+  question_family_index: 31
+  question_index: 89
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - brown
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 3
+    value_inputs: []
+  - function: exist
+    inputs:
+    - 4
+    value_inputs: []
+  question: Are there any other things that are the same shape as the big brown object?
+  question_family_index: 39
+  question_index: 90
+  split: val
+- answer: '2'
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - blue
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - front
+  - function: filter_color
+    inputs:
+    - 5
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 6
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 7
+    value_inputs:
+    - sphere
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 9
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 10
+    value_inputs:
+    - blue
+  - function: filter_shape
+    inputs:
+    - 11
+    value_inputs:
+    - cube
+  - function: union
+    inputs:
+    - 8
+    - 12
+    value_inputs: []
+  - function: count
+    inputs:
+    - 13
+    value_inputs: []
+  question: What number of objects are gray metallic spheres in front of the tiny
+    blue metallic thing or large blue blocks?
+  question_family_index: 70
+  question_index: 91
+  split: val
+- answer: gray
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - large
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - brown
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_material
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 4
+    value_inputs:
+    - small
+  - function: filter_shape
+    inputs:
+    - 5
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 7
+    value_inputs: []
+  question: What is the color of the small block that is the same material as the
+    big brown thing?
+  question_family_index: 59
+  question_index: 92
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_size
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 4
+    value_inputs:
+    - blue
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - metal
+  - function: exist
+    inputs:
+    - 6
+    value_inputs: []
+  question: Is there a blue metal object that has the same size as the gray metal
+    object?
+  question_family_index: 44
+  question_index: 93
+  split: val
+- answer: 'no'
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - behind
+  - function: filter_size
+    inputs:
+    - 5
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 6
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 7
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 8
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 9
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 11
+    value_inputs:
+    - large
+  - function: filter_material
+    inputs:
+    - 12
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 13
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 14
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 15
+    value_inputs: []
+  - function: equal_color
+    inputs:
+    - 10
+    - 16
+    value_inputs: []
+  question: Do the big rubber cube that is behind the small rubber cube and the large
+    matte cylinder have the same color?
+  question_family_index: 16
+  question_index: 94
+  split: val
+- answer: brown
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 2
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 3
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 4
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 5
+    value_inputs:
+    - behind
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 7
+    value_inputs:
+    - purple
+  - function: filter_material
+    inputs:
+    - 8
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 9
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 10
+    value_inputs:
+    - left
+  - function: intersect
+    inputs:
+    - 6
+    - 11
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 12
+    value_inputs:
+    - large
+  - function: unique
+    inputs:
+    - 13
+    value_inputs: []
+  - function: query_color
+    inputs:
+    - 14
+    value_inputs: []
+  question: The large thing that is both on the left side of the purple shiny object
+    and behind the tiny gray metallic ball is what color?
+  question_family_index: 33
+  question_index: 95
+  split: val
+- answer: cube
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - gray
+  - function: filter_shape
+    inputs:
+    - 1
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_size
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 4
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - rubber
+  - function: unique
+    inputs:
+    - 6
+    value_inputs: []
+  - function: query_shape
+    inputs:
+    - 7
+    value_inputs: []
+  question: There is a gray rubber thing that is the same size as the gray sphere;
+    what shape is it?
+  question_family_index: 54
+  question_index: 96
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 2
+    value_inputs: []
+  - function: same_shape
+    inputs:
+    - 3
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 4
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - metal
+  - function: exist
+    inputs:
+    - 6
+    value_inputs: []
+  question: Is there a gray metal object that has the same shape as the brown shiny
+    object?
+  question_family_index: 47
+  question_index: 97
+  split: val
+- answer: 'yes'
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 0
+    value_inputs:
+    - brown
+  - function: filter_material
+    inputs:
+    - 1
+    value_inputs:
+    - rubber
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cylinder
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - right
+  - function: filter_material
+    inputs:
+    - 5
+    value_inputs:
+    - metal
+  - function: filter_shape
+    inputs:
+    - 6
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 7
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 8
+    value_inputs: []
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 10
+    value_inputs:
+    - gray
+  - function: filter_material
+    inputs:
+    - 11
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 12
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 13
+    value_inputs: []
+  - function: equal_size
+    inputs:
+    - 9
+    - 14
+    value_inputs: []
+  question: Do the metallic sphere to the right of the brown matte cylinder and the
+    gray metallic thing have the same size?
+  question_family_index: 13
+  question_index: 98
+  split: val
+- answer: small
+  image_filename: CLEVR_val_000009.png
+  image_index: 9
+  program:
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_size
+    inputs:
+    - 0
+    value_inputs:
+    - small
+  - function: filter_color
+    inputs:
+    - 1
+    value_inputs:
+    - blue
+  - function: filter_shape
+    inputs:
+    - 2
+    value_inputs:
+    - cube
+  - function: unique
+    inputs:
+    - 3
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 4
+    value_inputs:
+    - front
+  - function: scene
+    inputs: []
+    value_inputs: []
+  - function: filter_color
+    inputs:
+    - 6
+    value_inputs:
+    - brown
+  - function: filter_shape
+    inputs:
+    - 7
+    value_inputs:
+    - sphere
+  - function: unique
+    inputs:
+    - 8
+    value_inputs: []
+  - function: relate
+    inputs:
+    - 9
+    value_inputs:
+    - left
+  - function: intersect
+    inputs:
+    - 5
+    - 10
+    value_inputs: []
+  - function: filter_material
+    inputs:
+    - 11
+    value_inputs:
+    - metal
+  - function: unique
+    inputs:
+    - 12
+    value_inputs: []
+  - function: query_size
+    inputs:
+    - 13
+    value_inputs: []
+  question: There is a metallic object that is left of the brown ball and in front
+    of the tiny blue block; what is its size?
+  question_family_index: 32
+  question_index: 99
+  split: val

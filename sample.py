@@ -7,7 +7,8 @@ for p in Path(".").rglob("*.json"):
         print("[Processing] {}".format(p))
         try:
             SmallDict(str(p)).get(
-                list_limit=10,
+                dict_limit=100,
+                list_limit=100,
                 json_out=str(p) + "_samples.json",
                 yaml_out=str(p) + "_samples.yaml",
             )

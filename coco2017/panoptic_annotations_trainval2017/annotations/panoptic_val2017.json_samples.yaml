@@ -92,6 +92,186 @@ annotations:
     category_id: 72
     id: 2038814
     iscrowd: 0
+  - area: 5846
+    bbox:
+    - 557
+    - 209
+    - 82
+    - 79
+    category_id: 72
+    id: 3289671
+    iscrowd: 0
+  - area: 224
+    bbox:
+    - 512
+    - 206
+    - 15
+    - 16
+    category_id: 78
+    id: 2437710
+    iscrowd: 0
+  - area: 2056
+    bbox:
+    - 493
+    - 174
+    - 20
+    - 108
+    category_id: 82
+    id: 4159376
+    iscrowd: 0
+  - area: 324
+    bbox:
+    - 613
+    - 308
+    - 13
+    - 46
+    category_id: 84
+    id: 3423599
+    iscrowd: 0
+  - area: 331
+    bbox:
+    - 605
+    - 306
+    - 14
+    - 45
+    category_id: 84
+    id: 3094634
+    iscrowd: 0
+  - area: 227
+    bbox:
+    - 448
+    - 121
+    - 14
+    - 22
+    category_id: 85
+    id: 3296100
+    iscrowd: 0
+  - area: 187
+    bbox:
+    - 241
+    - 195
+    - 14
+    - 18
+    category_id: 86
+    id: 6054280
+    iscrowd: 0
+  - area: 2171
+    bbox:
+    - 549
+    - 309
+    - 36
+    - 90
+    category_id: 86
+    id: 5942189
+    iscrowd: 0
+  - area: 178
+    bbox:
+    - 351
+    - 209
+    - 11
+    - 22
+    category_id: 86
+    id: 4086154
+    iscrowd: 0
+  - area: 120
+    bbox:
+    - 337
+    - 200
+    - 10
+    - 16
+    category_id: 86
+    id: 7438777
+    iscrowd: 0
+  - area: 49754
+    bbox:
+    - 0
+    - 269
+    - 564
+    - 157
+    category_id: 118
+    id: 3031159
+    iscrowd: 0
+  - area: 842
+    bbox:
+    - 338
+    - 166
+    - 29
+    - 50
+    category_id: 119
+    id: 9284267
+    iscrowd: 0
+  - area: 3391
+    bbox:
+    - 212
+    - 11
+    - 321
+    - 127
+    category_id: 130
+    id: 6068135
+    iscrowd: 0
+  - area: 5699
+    bbox:
+    - 129
+    - 168
+    - 351
+    - 162
+    category_id: 156
+    id: 2567230
+    iscrowd: 0
+  - area: 15587
+    bbox:
+    - 204
+    - 63
+    - 234
+    - 174
+    category_id: 181
+    id: 10334639
+    iscrowd: 0
+  - area: 20106
+    bbox:
+    - 136
+    - 0
+    - 473
+    - 116
+    category_id: 186
+    id: 6266027
+    iscrowd: 0
+  - area: 25483
+    bbox:
+    - 0
+    - 38
+    - 549
+    - 297
+    category_id: 188
+    id: 5274512
+    iscrowd: 0
+  - area: 9421
+    bbox:
+    - 457
+    - 350
+    - 183
+    - 76
+    category_id: 189
+    id: 7238567
+    iscrowd: 0
+  - area: 83201
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 358
+    category_id: 199
+    id: 4224910
+    iscrowd: 0
+  - area: 12618
+    bbox:
+    - 135
+    - 359
+    - 336
+    - 67
+    category_id: 200
+    id: 6391959
+    iscrowd: 0
 - file_name: 000000000285.png
   image_id: 285
   segments_info:
@@ -205,6 +385,105 @@ annotations:
     - 36
     category_id: 84
     id: 1251357
+    iscrowd: 0
+  - area: 202
+    bbox:
+    - 456
+    - 193
+    - 9
+    - 34
+    category_id: 84
+    id: 4478559
+    iscrowd: 0
+  - area: 90
+    bbox:
+    - 488
+    - 200
+    - 7
+    - 27
+    category_id: 84
+    id: 6252377
+    iscrowd: 0
+  - area: 179
+    bbox:
+    - 445
+    - 298
+    - 5
+    - 39
+    category_id: 84
+    id: 5663612
+    iscrowd: 0
+  - area: 120
+    bbox:
+    - 455
+    - 245
+    - 48
+    - 12
+    category_id: 84
+    id: 3882561
+    iscrowd: 0
+  - area: 192
+    bbox:
+    - 506
+    - 191
+    - 12
+    - 37
+    category_id: 84
+    id: 5269121
+    iscrowd: 0
+  - area: 242
+    bbox:
+    - 527
+    - 249
+    - 24
+    - 40
+    category_id: 84
+    id: 4279416
+    iscrowd: 0
+  - area: 193
+    bbox:
+    - 493
+    - 156
+    - 33
+    - 6
+    category_id: 84
+    id: 4676964
+    iscrowd: 0
+  - area: 19697
+    bbox:
+    - 416
+    - 43
+    - 154
+    - 304
+    category_id: 84
+    id: 3094598
+    iscrowd: 1
+  - area: 5104
+    bbox:
+    - 0
+    - 300
+    - 392
+    - 183
+    category_id: 93
+    id: 3286041
+    iscrowd: 0
+  - area: 175494
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 483
+    category_id: 128
+    id: 4014916
+    iscrowd: 0
+  - area: 26543
+    bbox:
+    - 264
+    - 33
+    - 138
+    - 219
+    category_id: 184
+    id: 6266740
     iscrowd: 0
 - file_name: 000000000724.png
   image_id: 724
@@ -575,6 +854,15 @@ annotations:
     category_id: 190
     id: 7178621
     iscrowd: 0
+  - area: 131898
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 255
+    category_id: 199
+    id: 4074010
+    iscrowd: 0
 - file_name: 000000001000.png
   image_id: 1000
   segments_info:
@@ -668,6 +956,9051 @@ annotations:
     category_id: 1
     id: 3097424
     iscrowd: 0
+  - area: 3810
+    bbox:
+    - 411
+    - 107
+    - 88
+    - 121
+    category_id: 1
+    id: 5859200
+    iscrowd: 0
+  - area: 5849
+    bbox:
+    - 53
+    - 185
+    - 58
+    - 213
+    category_id: 1
+    id: 9018030
+    iscrowd: 0
+  - area: 181
+    bbox:
+    - 43
+    - 224
+    - 55
+    - 49
+    category_id: 27
+    id: 7306419
+    iscrowd: 0
+  - area: 677
+    bbox:
+    - 209
+    - 164
+    - 63
+    - 58
+    category_id: 27
+    id: 2633793
+    iscrowd: 0
+  - area: 2219
+    bbox:
+    - 197
+    - 225
+    - 70
+    - 117
+    category_id: 31
+    id: 6383219
+    iscrowd: 0
+  - area: 2502
+    bbox:
+    - 21
+    - 227
+    - 53
+    - 121
+    category_id: 31
+    id: 7038571
+    iscrowd: 0
+  - area: 2477
+    bbox:
+    - 47
+    - 303
+    - 48
+    - 87
+    category_id: 43
+    id: 9141099
+    iscrowd: 0
+  - area: 13989
+    bbox:
+    - 11
+    - 193
+    - 629
+    - 278
+    category_id: 138
+    id: 8223077
+    iscrowd: 0
+  - area: 47755
+    bbox:
+    - 0
+    - 236
+    - 640
+    - 244
+    category_id: 145
+    id: 11445368
+    iscrowd: 0
+  - area: 167
+    bbox:
+    - 586
+    - 157
+    - 15
+    - 20
+    category_id: 171
+    id: 8565459
+    iscrowd: 0
+  - area: 32670
+    bbox:
+    - 65
+    - 0
+    - 575
+    - 233
+    category_id: 184
+    id: 5076083
+    iscrowd: 0
+  - area: 47717
+    bbox:
+    - 0
+    - 0
+    - 347
+    - 266
+    category_id: 185
+    id: 7446694
+    iscrowd: 0
+  - area: 873
+    bbox:
+    - 533
+    - 228
+    - 107
+    - 26
+    category_id: 194
+    id: 2636620
+    iscrowd: 0
+  - area: 31813
+    bbox:
+    - 342
+    - 32
+    - 254
+    - 207
+    category_id: 199
+    id: 2637857
+    iscrowd: 0
+- file_name: 000000001268.png
+  image_id: 1268
+  segments_info:
+  - area: 22793
+    bbox:
+    - 502
+    - 78
+    - 138
+    - 343
+    category_id: 1
+    id: 1447707
+    iscrowd: 0
+  - area: 1605
+    bbox:
+    - 0
+    - 209
+    - 24
+    - 81
+    category_id: 1
+    id: 4011573
+    iscrowd: 0
+  - area: 3893
+    bbox:
+    - 402
+    - 205
+    - 66
+    - 88
+    category_id: 1
+    id: 1116963
+    iscrowd: 0
+  - area: 1808
+    bbox:
+    - 27
+    - 213
+    - 50
+    - 70
+    category_id: 1
+    id: 1906457
+    iscrowd: 0
+  - area: 1831
+    bbox:
+    - 292
+    - 87
+    - 121
+    - 56
+    category_id: 9
+    id: 8685451
+    iscrowd: 0
+  - area: 1713
+    bbox:
+    - 125
+    - 125
+    - 139
+    - 17
+    category_id: 9
+    id: 5588540
+    iscrowd: 0
+  - area: 1208
+    bbox:
+    - 0
+    - 130
+    - 105
+    - 15
+    category_id: 9
+    id: 4404785
+    iscrowd: 0
+  - area: 1038
+    bbox:
+    - 193
+    - 225
+    - 74
+    - 33
+    category_id: 16
+    id: 5985877
+    iscrowd: 0
+  - area: 664
+    bbox:
+    - 22
+    - 231
+    - 22
+    - 52
+    category_id: 27
+    id: 1183244
+    iscrowd: 0
+  - area: 10016
+    bbox:
+    - 492
+    - 198
+    - 104
+    - 227
+    category_id: 31
+    id: 395290
+    iscrowd: 0
+  - area: 392
+    bbox:
+    - 529
+    - 181
+    - 30
+    - 18
+    category_id: 77
+    id: 2433830
+    iscrowd: 0
+  - area: 58519
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 174
+    category_id: 95
+    id: 3027511
+    iscrowd: 0
+  - area: 9876
+    bbox:
+    - 64
+    - 248
+    - 449
+    - 58
+    category_id: 125
+    id: 2500390
+    iscrowd: 0
+  - area: 50922
+    bbox:
+    - 0
+    - 130
+    - 640
+    - 144
+    category_id: 148
+    id: 11645618
+    iscrowd: 0
+  - area: 13629
+    bbox:
+    - 0
+    - 53
+    - 358
+    - 72
+    category_id: 184
+    id: 4607051
+    iscrowd: 0
+  - area: 3475
+    bbox:
+    - 0
+    - 28
+    - 138
+    - 45
+    category_id: 187
+    id: 15395563
+    iscrowd: 0
+  - area: 64972
+    bbox:
+    - 0
+    - 272
+    - 640
+    - 155
+    category_id: 191
+    id: 3288623
+    iscrowd: 0
+  - area: 11231
+    bbox:
+    - 0
+    - 39
+    - 404
+    - 111
+    category_id: 197
+    id: 5853260
+    iscrowd: 0
+  - area: 4082
+    bbox:
+    - 298
+    - 238
+    - 111
+    - 65
+    category_id: 198
+    id: 3682863
+    iscrowd: 0
+  - area: 4555
+    bbox:
+    - 387
+    - 268
+    - 157
+    - 59
+    category_id: 199
+    id: 2697775
+    iscrowd: 0
+- file_name: 000000001296.png
+  image_id: 1296
+  segments_info:
+  - area: 14098
+    bbox:
+    - 263
+    - 25
+    - 146
+    - 213
+    category_id: 1
+    id: 2698051
+    iscrowd: 0
+  - area: 192000
+    bbox:
+    - 7
+    - 2
+    - 420
+    - 634
+    category_id: 1
+    id: 6185598
+    iscrowd: 0
+  - area: 7653
+    bbox:
+    - 299
+    - 143
+    - 72
+    - 135
+    category_id: 77
+    id: 12168132
+    iscrowd: 0
+  - area: 207
+    bbox:
+    - 372
+    - 408
+    - 17
+    - 17
+    category_id: 85
+    id: 3355192
+    iscrowd: 0
+- file_name: 000000001353.png
+  image_id: 1353
+  segments_info:
+  - area: 11518
+    bbox:
+    - 145
+    - 199
+    - 122
+    - 183
+    category_id: 1
+    id: 3095374
+    iscrowd: 0
+  - area: 2322
+    bbox:
+    - 218
+    - 155
+    - 63
+    - 128
+    category_id: 1
+    id: 1452642
+    iscrowd: 0
+  - area: 982
+    bbox:
+    - 189
+    - 183
+    - 32
+    - 62
+    category_id: 1
+    id: 793662
+    iscrowd: 0
+  - area: 10293
+    bbox:
+    - 62
+    - 214
+    - 117
+    - 143
+    category_id: 1
+    id: 988966
+    iscrowd: 0
+  - area: 2041
+    bbox:
+    - 149
+    - 137
+    - 75
+    - 52
+    category_id: 1
+    id: 1322322
+    iscrowd: 0
+  - area: 3145
+    bbox:
+    - 134
+    - 183
+    - 73
+    - 70
+    category_id: 1
+    id: 1715025
+    iscrowd: 0
+  - area: 19447
+    bbox:
+    - 66
+    - 327
+    - 190
+    - 136
+    category_id: 7
+    id: 1519251
+    iscrowd: 0
+  - area: 10227
+    bbox:
+    - 69
+    - 192
+    - 306
+    - 308
+    category_id: 147
+    id: 926018
+    iscrowd: 0
+  - area: 40085
+    bbox:
+    - 0
+    - 0
+    - 375
+    - 199
+    category_id: 177
+    id: 857138
+    iscrowd: 0
+- file_name: 000000001425.png
+  image_id: 1425
+  segments_info:
+  - area: 24768
+    bbox:
+    - 487
+    - 183
+    - 153
+    - 200
+    category_id: 51
+    id: 10461087
+    iscrowd: 0
+  - area: 61496
+    bbox:
+    - 64
+    - 185
+    - 377
+    - 218
+    category_id: 54
+    id: 8092539
+    iscrowd: 0
+  - area: 42101
+    bbox:
+    - 0
+    - 414
+    - 640
+    - 98
+    category_id: 189
+    id: 3947580
+    iscrowd: 0
+  - area: 25756
+    bbox:
+    - 0
+    - 144
+    - 434
+    - 247
+    category_id: 196
+    id: 8618883
+    iscrowd: 0
+- file_name: 000000001490.png
+  image_id: 1490
+  segments_info:
+  - area: 2436
+    bbox:
+    - 449
+    - 119
+    - 51
+    - 122
+    category_id: 1
+    id: 2500134
+    iscrowd: 0
+  - area: 1025
+    bbox:
+    - 360
+    - 230
+    - 218
+    - 15
+    category_id: 42
+    id: 13948116
+    iscrowd: 0
+  - area: 146579
+    bbox:
+    - 0
+    - 68
+    - 640
+    - 247
+    category_id: 155
+    id: 8224125
+    iscrowd: 0
+  - area: 129
+    bbox:
+    - 113
+    - 61
+    - 23
+    - 9
+    category_id: 184
+    id: 7237230
+    iscrowd: 0
+  - area: 41440
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 75
+    category_id: 187
+    id: 14540253
+    iscrowd: 0
+  - area: 7737
+    bbox:
+    - 0
+    - 57
+    - 508
+    - 28
+    category_id: 197
+    id: 12369084
+    iscrowd: 0
+- file_name: 000000001503.png
+  image_id: 1503
+  segments_info:
+  - area: 8509
+    bbox:
+    - 126
+    - 11
+    - 111
+    - 90
+    category_id: 72
+    id: 10393490
+    iscrowd: 0
+  - area: 10031
+    bbox:
+    - 1
+    - 100
+    - 125
+    - 135
+    category_id: 73
+    id: 9472646
+    iscrowd: 0
+  - area: 111
+    bbox:
+    - 306
+    - 154
+    - 14
+    - 10
+    category_id: 74
+    id: 2439463
+    iscrowd: 0
+  - area: 553
+    bbox:
+    - 121
+    - 178
+    - 38
+    - 22
+    category_id: 74
+    id: 10790308
+    iscrowd: 0
+  - area: 4083
+    bbox:
+    - 161
+    - 152
+    - 154
+    - 46
+    category_id: 76
+    id: 10922152
+    iscrowd: 0
+  - area: 512
+    bbox:
+    - 269
+    - 5
+    - 27
+    - 97
+    category_id: 130
+    id: 987667
+    iscrowd: 0
+  - area: 8366
+    bbox:
+    - 0
+    - 0
+    - 81
+    - 115
+    category_id: 180
+    id: 10790306
+    iscrowd: 0
+  - area: 15314
+    bbox:
+    - 0
+    - 139
+    - 320
+    - 101
+    category_id: 189
+    id: 6515048
+    iscrowd: 0
+  - area: 558
+    bbox:
+    - 305
+    - 0
+    - 15
+    - 39
+    category_id: 195
+    id: 1974569
+    iscrowd: 0
+  - area: 15875
+    bbox:
+    - 57
+    - 0
+    - 263
+    - 142
+    category_id: 199
+    id: 5069404
+    iscrowd: 0
+- file_name: 000000001532.png
+  image_id: 1532
+  segments_info:
+  - area: 2865
+    bbox:
+    - 426
+    - 400
+    - 65
+    - 55
+    category_id: 3
+    id: 4736836
+    iscrowd: 0
+  - area: 9471
+    bbox:
+    - 1
+    - 370
+    - 119
+    - 102
+    category_id: 3
+    id: 8421500
+    iscrowd: 0
+  - area: 1689
+    bbox:
+    - 502
+    - 397
+    - 49
+    - 46
+    category_id: 3
+    id: 4211003
+    iscrowd: 0
+  - area: 19427
+    bbox:
+    - 225
+    - 362
+    - 195
+    - 118
+    category_id: 3
+    id: 4473405
+    iscrowd: 0
+  - area: 600
+    bbox:
+    - 201
+    - 402
+    - 32
+    - 26
+    category_id: 3
+    id: 5262147
+    iscrowd: 0
+  - area: 496
+    bbox:
+    - 406
+    - 402
+    - 25
+    - 28
+    category_id: 3
+    id: 5328458
+    iscrowd: 0
+  - area: 3984
+    bbox:
+    - 106
+    - 376
+    - 79
+    - 59
+    category_id: 3
+    id: 7960693
+    iscrowd: 0
+  - area: 248
+    bbox:
+    - 226
+    - 391
+    - 19
+    - 16
+    category_id: 8
+    id: 8093050
+    iscrowd: 0
+  - area: 13246
+    bbox:
+    - 112
+    - 397
+    - 482
+    - 83
+    category_id: 149
+    id: 9739936
+    iscrowd: 0
+  - area: 1091
+    bbox:
+    - 577
+    - 0
+    - 33
+    - 91
+    category_id: 184
+    id: 9140325
+    iscrowd: 0
+  - area: 101660
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 190
+    category_id: 187
+    id: 15123877
+    iscrowd: 0
+  - area: 150854
+    bbox:
+    - 0
+    - 91
+    - 640
+    - 389
+    category_id: 197
+    id: 6973791
+    iscrowd: 0
+- file_name: 000000001584.png
+  image_id: 1584
+  segments_info:
+  - area: 241
+    bbox:
+    - 436
+    - 339
+    - 16
+    - 24
+    category_id: 1
+    id: 2961203
+    iscrowd: 0
+  - area: 289
+    bbox:
+    - 212
+    - 169
+    - 19
+    - 20
+    category_id: 1
+    id: 4929350
+    iscrowd: 0
+  - area: 1525
+    bbox:
+    - 191
+    - 305
+    - 59
+    - 65
+    category_id: 1
+    id: 5522002
+    iscrowd: 0
+  - area: 284
+    bbox:
+    - 114
+    - 392
+    - 12
+    - 38
+    category_id: 1
+    id: 3880263
+    iscrowd: 0
+  - area: 705
+    bbox:
+    - 78
+    - 378
+    - 19
+    - 52
+    category_id: 1
+    id: 6195118
+    iscrowd: 0
+  - area: 672
+    bbox:
+    - 299
+    - 335
+    - 35
+    - 33
+    category_id: 1
+    id: 4734283
+    iscrowd: 0
+  - area: 45
+    bbox:
+    - 121
+    - 390
+    - 7
+    - 21
+    category_id: 1
+    id: 4605536
+    iscrowd: 0
+  - area: 382
+    bbox:
+    - 297
+    - 161
+    - 25
+    - 21
+    category_id: 1
+    id: 4010297
+    iscrowd: 0
+  - area: 579
+    bbox:
+    - 174
+    - 170
+    - 30
+    - 23
+    category_id: 1
+    id: 6507353
+    iscrowd: 0
+  - area: 318
+    bbox:
+    - 102
+    - 398
+    - 13
+    - 32
+    category_id: 1
+    id: 4341325
+    iscrowd: 0
+  - area: 265
+    bbox:
+    - 91
+    - 389
+    - 13
+    - 34
+    category_id: 1
+    id: 5989276
+    iscrowd: 0
+  - area: 3718
+    bbox:
+    - 503
+    - 316
+    - 63
+    - 70
+    category_id: 6
+    id: 3156032
+    iscrowd: 0
+  - area: 3277
+    bbox:
+    - 568
+    - 317
+    - 44
+    - 88
+    category_id: 6
+    id: 4669509
+    iscrowd: 0
+  - area: 144843
+    bbox:
+    - 126
+    - 91
+    - 398
+    - 444
+    category_id: 6
+    id: 4207751
+    iscrowd: 0
+  - area: 82261
+    bbox:
+    - 0
+    - 338
+    - 612
+    - 274
+    category_id: 149
+    id: 7105146
+    iscrowd: 0
+  - area: 38145
+    bbox:
+    - 0
+    - 117
+    - 612
+    - 267
+    category_id: 184
+    id: 3096635
+    iscrowd: 0
+  - area: 59563
+    bbox:
+    - 0
+    - 0
+    - 612
+    - 165
+    category_id: 187
+    id: 10396842
+    iscrowd: 0
+  - area: 36923
+    bbox:
+    - 0
+    - 50
+    - 612
+    - 406
+    category_id: 197
+    id: 5856362
+    iscrowd: 0
+- file_name: 000000001675.png
+  image_id: 1675
+  segments_info:
+  - area: 143933
+    bbox:
+    - 0
+    - 14
+    - 640
+    - 294
+    category_id: 17
+    id: 2172198
+    iscrowd: 0
+  - area: 45121
+    bbox:
+    - 61
+    - 368
+    - 509
+    - 106
+    category_id: 76
+    id: 6908272
+    iscrowd: 0
+  - area: 6465
+    bbox:
+    - 0
+    - 358
+    - 75
+    - 122
+    category_id: 195
+    id: 7174525
+    iscrowd: 0
+  - area: 40567
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 90
+    category_id: 199
+    id: 14737887
+    iscrowd: 0
+- file_name: 000000001761.png
+  image_id: 1761
+  segments_info:
+  - area: 21
+    bbox:
+    - 36
+    - 626
+    - 5
+    - 7
+    category_id: 1
+    id: 4738412
+    iscrowd: 0
+  - area: 46
+    bbox:
+    - 16
+    - 615
+    - 6
+    - 13
+    category_id: 1
+    id: 4143938
+    iscrowd: 0
+  - area: 43
+    bbox:
+    - 21
+    - 617
+    - 7
+    - 11
+    category_id: 1
+    id: 5264481
+    iscrowd: 0
+  - area: 45
+    bbox:
+    - 4
+    - 616
+    - 8
+    - 10
+    category_id: 1
+    id: 2568241
+    iscrowd: 0
+  - area: 36
+    bbox:
+    - 12
+    - 616
+    - 4
+    - 12
+    category_id: 1
+    id: 3090503
+    iscrowd: 0
+  - area: 1464
+    bbox:
+    - 150
+    - 9
+    - 74
+    - 77
+    category_id: 5
+    id: 6971996
+    iscrowd: 0
+  - area: 569
+    bbox:
+    - 285
+    - 141
+    - 48
+    - 42
+    category_id: 5
+    id: 7630186
+    iscrowd: 0
+  - area: 47957
+    bbox:
+    - 0
+    - 421
+    - 427
+    - 190
+    category_id: 95
+    id: 7499631
+    iscrowd: 0
+  - area: 2556
+    bbox:
+    - 118
+    - 626
+    - 309
+    - 14
+    category_id: 155
+    id: 8618878
+    iscrowd: 0
+  - area: 4259
+    bbox:
+    - 0
+    - 587
+    - 377
+    - 53
+    category_id: 184
+    id: 4606279
+    iscrowd: 0
+  - area: 210014
+    bbox:
+    - 0
+    - 0
+    - 427
+    - 625
+    category_id: 187
+    id: 15197154
+    iscrowd: 0
+  - area: 6115
+    bbox:
+    - 0
+    - 592
+    - 427
+    - 48
+    category_id: 197
+    id: 6448230
+    iscrowd: 0
+- file_name: 000000001818.png
+  image_id: 1818
+  segments_info:
+  - area: 89122
+    bbox:
+    - 178
+    - 1
+    - 462
+    - 424
+    category_id: 24
+    id: 5065804
+    iscrowd: 0
+  - area: 120106
+    bbox:
+    - 0
+    - 1
+    - 638
+    - 424
+    category_id: 24
+    id: 8092282
+    iscrowd: 0
+  - area: 52443
+    bbox:
+    - 0
+    - 240
+    - 640
+    - 185
+    category_id: 193
+    id: 11644848
+    iscrowd: 0
+- file_name: 000000001993.png
+  image_id: 1993
+  segments_info:
+  - area: 9943
+    bbox:
+    - 109
+    - 250
+    - 118
+    - 159
+    category_id: 62
+    id: 2698543
+    iscrowd: 0
+  - area: 2281
+    bbox:
+    - 0
+    - 299
+    - 35
+    - 109
+    category_id: 62
+    id: 592651
+    iscrowd: 0
+  - area: 45475
+    bbox:
+    - 259
+    - 195
+    - 356
+    - 219
+    category_id: 65
+    id: 6577250
+    iscrowd: 0
+  - area: 9918
+    bbox:
+    - 0
+    - 251
+    - 154
+    - 168
+    category_id: 67
+    id: 5922667
+    iscrowd: 0
+  - area: 28045
+    bbox:
+    - 266
+    - 0
+    - 128
+    - 247
+    category_id: 112
+    id: 11779782
+    iscrowd: 0
+  - area: 28445
+    bbox:
+    - 133
+    - 0
+    - 130
+    - 259
+    category_id: 175
+    id: 9804703
+    iscrowd: 0
+  - area: 26238
+    bbox:
+    - 0
+    - 0
+    - 114
+    - 267
+    category_id: 180
+    id: 10397096
+    iscrowd: 0
+  - area: 1865
+    bbox:
+    - 271
+    - 223
+    - 86
+    - 44
+    category_id: 190
+    id: 12438752
+    iscrowd: 0
+  - area: 78092
+    bbox:
+    - 32
+    - 0
+    - 608
+    - 419
+    category_id: 199
+    id: 6905191
+    iscrowd: 0
+  - area: 36141
+    bbox:
+    - 0
+    - 290
+    - 610
+    - 129
+    category_id: 200
+    id: 1710112
+    iscrowd: 0
+- file_name: 000000002006.png
+  image_id: 2006
+  segments_info:
+  - area: 361
+    bbox:
+    - 9
+    - 52
+    - 24
+    - 24
+    category_id: 1
+    id: 5918038
+    iscrowd: 0
+  - area: 2221
+    bbox:
+    - 313
+    - 190
+    - 65
+    - 66
+    category_id: 1
+    id: 9403257
+    iscrowd: 0
+  - area: 2009
+    bbox:
+    - 6
+    - 253
+    - 45
+    - 108
+    category_id: 1
+    id: 6247770
+    iscrowd: 0
+  - area: 165533
+    bbox:
+    - 46
+    - 81
+    - 563
+    - 345
+    category_id: 6
+    id: 8282729
+    iscrowd: 0
+  - area: 52
+    bbox:
+    - 122
+    - 65
+    - 6
+    - 11
+    category_id: 10
+    id: 5472930
+    iscrowd: 0
+  - area: 386
+    bbox:
+    - 56
+    - 0
+    - 13
+    - 31
+    category_id: 10
+    id: 7104608
+    iscrowd: 0
+  - area: 83
+    bbox:
+    - 335
+    - 220
+    - 13
+    - 14
+    category_id: 32
+    id: 8806739
+    iscrowd: 0
+  - area: 76
+    bbox:
+    - 27
+    - 277
+    - 5
+    - 27
+    category_id: 32
+    id: 7164241
+    iscrowd: 0
+  - area: 42407
+    bbox:
+    - 0
+    - 323
+    - 640
+    - 157
+    category_id: 149
+    id: 13289674
+    iscrowd: 0
+  - area: 5676
+    bbox:
+    - 464
+    - 15
+    - 176
+    - 74
+    category_id: 151
+    id: 10066593
+    iscrowd: 0
+  - area: 2076
+    bbox:
+    - 0
+    - 232
+    - 52
+    - 92
+    category_id: 175
+    id: 5264215
+    iscrowd: 0
+  - area: 40404
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 400
+    category_id: 184
+    id: 7106167
+    iscrowd: 0
+  - area: 4993
+    bbox:
+    - 0
+    - 52
+    - 640
+    - 79
+    category_id: 185
+    id: 6841711
+    iscrowd: 0
+  - area: 3001
+    bbox:
+    - 502
+    - 0
+    - 138
+    - 43
+    category_id: 187
+    id: 15856114
+    iscrowd: 0
+  - area: 9486
+    bbox:
+    - 138
+    - 371
+    - 502
+    - 96
+    category_id: 191
+    id: 8556444
+    iscrowd: 0
+  - area: 16099
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 112
+    category_id: 197
+    id: 6973814
+    iscrowd: 0
+- file_name: 000000002149.png
+  image_id: 2149
+  segments_info:
+  - area: 154099
+    bbox:
+    - 0
+    - 71
+    - 639
+    - 350
+    category_id: 51
+    id: 3639429
+    iscrowd: 0
+  - area: 39935
+    bbox:
+    - 96
+    - 94
+    - 244
+    - 232
+    category_id: 53
+    id: 1471850
+    iscrowd: 0
+- file_name: 000000002153.png
+  image_id: 2153
+  segments_info:
+  - area: 10858
+    bbox:
+    - 284
+    - 275
+    - 182
+    - 170
+    category_id: 1
+    id: 5784894
+    iscrowd: 0
+  - area: 3395
+    bbox:
+    - 175
+    - 0
+    - 64
+    - 120
+    category_id: 1
+    id: 5919829
+    iscrowd: 0
+  - area: 4737
+    bbox:
+    - 372
+    - 208
+    - 62
+    - 197
+    category_id: 1
+    id: 9335941
+    iscrowd: 0
+  - area: 4837
+    bbox:
+    - 280
+    - 302
+    - 98
+    - 135
+    category_id: 1
+    id: 6245964
+    iscrowd: 0
+  - area: 462
+    bbox:
+    - 373
+    - 184
+    - 86
+    - 53
+    category_id: 39
+    id: 4473413
+    iscrowd: 0
+  - area: 163280
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 328
+    category_id: 193
+    id: 3692098
+    iscrowd: 0
+  - area: 119052
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 480
+    category_id: 194
+    id: 5136513
+    iscrowd: 0
+- file_name: 000000002157.png
+  image_id: 2157
+  segments_info:
+  - area: 1352
+    bbox:
+    - 244
+    - 48
+    - 56
+    - 131
+    category_id: 46
+    id: 6052710
+    iscrowd: 0
+  - area: 3630
+    bbox:
+    - 92
+    - 88
+    - 65
+    - 83
+    category_id: 46
+    id: 5919607
+    iscrowd: 0
+  - area: 4036
+    bbox:
+    - 163
+    - 68
+    - 71
+    - 108
+    category_id: 46
+    id: 5721971
+    iscrowd: 0
+  - area: 3694
+    bbox:
+    - 140
+    - 28
+    - 61
+    - 141
+    category_id: 46
+    id: 5261667
+    iscrowd: 0
+  - area: 2517
+    bbox:
+    - 0
+    - 70
+    - 51
+    - 63
+    category_id: 46
+    id: 4669776
+    iscrowd: 0
+  - area: 4931
+    bbox:
+    - 231
+    - 53
+    - 61
+    - 148
+    category_id: 46
+    id: 6775145
+    iscrowd: 0
+  - area: 2111
+    bbox:
+    - 114
+    - 15
+    - 53
+    - 77
+    category_id: 46
+    id: 4932681
+    iscrowd: 0
+  - area: 1367
+    bbox:
+    - 51
+    - 61
+    - 60
+    - 94
+    category_id: 46
+    id: 6050664
+    iscrowd: 0
+  - area: 4890
+    bbox:
+    - 47
+    - 17
+    - 67
+    - 144
+    category_id: 46
+    id: 4998986
+    iscrowd: 0
+  - area: 2786
+    bbox:
+    - 491
+    - 167
+    - 65
+    - 66
+    category_id: 47
+    id: 3357256
+    iscrowd: 0
+  - area: 4037
+    bbox:
+    - 4
+    - 120
+    - 59
+    - 95
+    category_id: 47
+    id: 7762551
+    iscrowd: 0
+  - area: 3405
+    bbox:
+    - 214
+    - 286
+    - 115
+    - 116
+    category_id: 49
+    id: 6840439
+    iscrowd: 0
+  - area: 1921
+    bbox:
+    - 404
+    - 212
+    - 111
+    - 71
+    category_id: 49
+    id: 8882825
+    iscrowd: 0
+  - area: 4544
+    bbox:
+    - 216
+    - 311
+    - 193
+    - 111
+    category_id: 49
+    id: 8224410
+    iscrowd: 0
+  - area: 40885
+    bbox:
+    - 16
+    - 174
+    - 253
+    - 192
+    category_id: 61
+    id: 8026251
+    iscrowd: 0
+  - area: 153510
+    bbox:
+    - 2
+    - 34
+    - 638
+    - 388
+    category_id: 67
+    id: 4803701
+    iscrowd: 0
+  - area: 29207
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 98
+    category_id: 184
+    id: 858124
+    iscrowd: 0
+  - area: 4073
+    bbox:
+    - 0
+    - 129
+    - 640
+    - 298
+    category_id: 189
+    id: 1907568
+    iscrowd: 0
+- file_name: 000000002261.png
+  image_id: 2261
+  segments_info:
+  - area: 5647
+    bbox:
+    - 284
+    - 152
+    - 98
+    - 120
+    category_id: 1
+    id: 4539470
+    iscrowd: 0
+  - area: 1502
+    bbox:
+    - 265
+    - 251
+    - 87
+    - 45
+    category_id: 42
+    id: 12429450
+    iscrowd: 0
+  - area: 265869
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 427
+    category_id: 155
+    id: 9086350
+    iscrowd: 0
+- file_name: 000000002299.png
+  image_id: 2299
+  segments_info:
+  - area: 4287
+    bbox:
+    - 70
+    - 190
+    - 64
+    - 111
+    category_id: 1
+    id: 11119017
+    iscrowd: 0
+  - area: 4015
+    bbox:
+    - 205
+    - 187
+    - 65
+    - 101
+    category_id: 1
+    id: 8882055
+    iscrowd: 0
+  - area: 2596
+    bbox:
+    - 60
+    - 33
+    - 53
+    - 106
+    category_id: 1
+    id: 10790052
+    iscrowd: 0
+  - area: 1910
+    bbox:
+    - 323
+    - 129
+    - 38
+    - 72
+    category_id: 1
+    id: 11316396
+    iscrowd: 0
+  - area: 4654
+    bbox:
+    - 140
+    - 191
+    - 72
+    - 107
+    category_id: 1
+    id: 5921370
+    iscrowd: 0
+  - area: 3515
+    bbox:
+    - 431
+    - 134
+    - 43
+    - 142
+    category_id: 1
+    id: 11711154
+    iscrowd: 0
+  - area: 2461
+    bbox:
+    - 284
+    - 118
+    - 42
+    - 109
+    category_id: 1
+    id: 8816262
+    iscrowd: 0
+  - area: 1768
+    bbox:
+    - 100
+    - 80
+    - 47
+    - 74
+    category_id: 1
+    id: 11579568
+    iscrowd: 0
+  - area: 4346
+    bbox:
+    - 258
+    - 194
+    - 72
+    - 93
+    category_id: 1
+    id: 5395026
+    iscrowd: 0
+  - area: 3155
+    bbox:
+    - 332
+    - 132
+    - 66
+    - 116
+    category_id: 1
+    id: 13553358
+    iscrowd: 0
+  - area: 4006
+    bbox:
+    - 328
+    - 190
+    - 63
+    - 95
+    category_id: 1
+    id: 5789784
+    iscrowd: 0
+  - area: 3456
+    bbox:
+    - 387
+    - 194
+    - 63
+    - 98
+    category_id: 1
+    id: 4539717
+    iscrowd: 0
+  - area: 2216
+    bbox:
+    - 394
+    - 128
+    - 41
+    - 90
+    category_id: 1
+    id: 11776947
+    iscrowd: 0
+  - area: 74497
+    bbox:
+    - 0
+    - 18
+    - 500
+    - 264
+    category_id: 1
+    id: 7566195
+    iscrowd: 1
+  - area: 42
+    bbox:
+    - 231
+    - 58
+    - 6
+    - 12
+    category_id: 32
+    id: 9671571
+    iscrowd: 0
+  - area: 63
+    bbox:
+    - 410
+    - 62
+    - 7
+    - 14
+    category_id: 32
+    id: 3487029
+    iscrowd: 0
+  - area: 64
+    bbox:
+    - 102
+    - 226
+    - 7
+    - 16
+    category_id: 32
+    id: 5723991
+    iscrowd: 0
+  - area: 50
+    bbox:
+    - 280
+    - 47
+    - 12
+    - 13
+    category_id: 32
+    id: 3487035
+    iscrowd: 0
+  - area: 35
+    bbox:
+    - 234
+    - 221
+    - 10
+    - 14
+    category_id: 32
+    id: 3026478
+    iscrowd: 0
+  - area: 34
+    bbox:
+    - 175
+    - 229
+    - 6
+    - 12
+    category_id: 32
+    id: 1973790
+    iscrowd: 0
+  - area: 34
+    bbox:
+    - 186
+    - 61
+    - 6
+    - 9
+    category_id: 32
+    id: 1184274
+    iscrowd: 0
+  - area: 27
+    bbox:
+    - 293
+    - 228
+    - 6
+    - 8
+    category_id: 32
+    id: 1250067
+    iscrowd: 0
+  - area: 48
+    bbox:
+    - 331
+    - 59
+    - 6
+    - 14
+    category_id: 32
+    id: 1842204
+    iscrowd: 0
+  - area: 22254
+    bbox:
+    - 0
+    - 0
+    - 500
+    - 296
+    category_id: 175
+    id: 4210752
+    iscrowd: 0
+- file_name: 000000002431.png
+  image_id: 2431
+  segments_info:
+  - area: 9177
+    bbox:
+    - 103
+    - 0
+    - 102
+    - 121
+    category_id: 1
+    id: 2106159
+    iscrowd: 0
+  - area: 8879
+    bbox:
+    - 0
+    - 0
+    - 81
+    - 136
+    category_id: 1
+    id: 657414
+    iscrowd: 0
+  - area: 13365
+    bbox:
+    - 308
+    - 1
+    - 122
+    - 209
+    category_id: 46
+    id: 4473415
+    iscrowd: 0
+  - area: 10513
+    bbox:
+    - 107
+    - 391
+    - 128
+    - 176
+    category_id: 47
+    id: 10328984
+    iscrowd: 0
+  - area: 17761
+    bbox:
+    - 358
+    - 416
+    - 99
+    - 217
+    category_id: 47
+    id: 5595249
+    iscrowd: 0
+  - area: 1225
+    bbox:
+    - 181
+    - 117
+    - 63
+    - 76
+    category_id: 49
+    id: 7171178
+    iscrowd: 0
+  - area: 2826
+    bbox:
+    - 44
+    - 378
+    - 139
+    - 91
+    category_id: 50
+    id: 9408659
+    iscrowd: 0
+  - area: 144
+    bbox:
+    - 438
+    - 480
+    - 17
+    - 17
+    category_id: 50
+    id: 3489094
+    iscrowd: 0
+  - area: 195997
+    bbox:
+    - 5
+    - 6
+    - 452
+    - 620
+    category_id: 67
+    id: 8159888
+    iscrowd: 0
+  - area: 5672
+    bbox:
+    - 0
+    - 135
+    - 83
+    - 505
+    category_id: 189
+    id: 6910855
+    iscrowd: 0
+  - area: 2103
+    bbox:
+    - 71
+    - 43
+    - 46
+    - 77
+    category_id: 190
+    id: 6708558
+    iscrowd: 0
+- file_name: 000000002473.png
+  image_id: 2473
+  segments_info:
+  - area: 747
+    bbox:
+    - 119
+    - 341
+    - 24
+    - 44
+    category_id: 1
+    id: 8419451
+    iscrowd: 0
+  - area: 3385
+    bbox:
+    - 437
+    - 281
+    - 61
+    - 99
+    category_id: 1
+    id: 11444648
+    iscrowd: 0
+  - area: 349
+    bbox:
+    - 33
+    - 329
+    - 25
+    - 26
+    category_id: 1
+    id: 9471625
+    iscrowd: 0
+  - area: 6358
+    bbox:
+    - 244
+    - 93
+    - 130
+    - 151
+    category_id: 1
+    id: 9997963
+    iscrowd: 0
+  - area: 861
+    bbox:
+    - 285
+    - 217
+    - 43
+    - 50
+    category_id: 35
+    id: 12628657
+    iscrowd: 0
+  - area: 35760
+    bbox:
+    - 0
+    - 344
+    - 640
+    - 83
+    category_id: 159
+    id: 16381943
+    iscrowd: 0
+  - area: 49532
+    bbox:
+    - 0
+    - 150
+    - 618
+    - 246
+    category_id: 184
+    id: 3618868
+    iscrowd: 0
+  - area: 176022
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 386
+    category_id: 187
+    id: 11759171
+    iscrowd: 0
+- file_name: 000000002532.png
+  image_id: 2532
+  segments_info:
+  - area: 5321
+    bbox:
+    - 183
+    - 305
+    - 101
+    - 168
+    category_id: 1
+    id: 3487018
+    iscrowd: 0
+  - area: 369
+    bbox:
+    - 206
+    - 445
+    - 60
+    - 47
+    category_id: 35
+    id: 9670538
+    iscrowd: 0
+  - area: 111736
+    bbox:
+    - 0
+    - 326
+    - 480
+    - 314
+    category_id: 159
+    id: 13815752
+    iscrowd: 0
+  - area: 13980
+    bbox:
+    - 16
+    - 301
+    - 393
+    - 192
+    category_id: 184
+    id: 6315869
+    iscrowd: 0
+  - area: 158991
+    bbox:
+    - 0
+    - 0
+    - 480
+    - 348
+    category_id: 187
+    id: 11107403
+    iscrowd: 0
+  - area: 16579
+    bbox:
+    - 0
+    - 335
+    - 480
+    - 186
+    category_id: 198
+    id: 4341562
+    iscrowd: 0
+- file_name: 000000002587.png
+  image_id: 2587
+  segments_info:
+  - area: 45349
+    bbox:
+    - 52
+    - 1
+    - 398
+    - 357
+    category_id: 52
+    id: 4884632
+    iscrowd: 0
+  - area: 47400
+    bbox:
+    - 172
+    - 11
+    - 245
+    - 255
+    category_id: 60
+    id: 3821416
+    iscrowd: 0
+  - area: 29149
+    bbox:
+    - 0
+    - 0
+    - 500
+    - 375
+    category_id: 189
+    id: 1516330
+    iscrowd: 0
+- file_name: 000000002592.png
+  image_id: 2592
+  segments_info:
+  - area: 32701
+    bbox:
+    - 223
+    - 35
+    - 210
+    - 213
+    category_id: 47
+    id: 11185060
+    iscrowd: 0
+  - area: 21462
+    bbox:
+    - 29
+    - 217
+    - 588
+    - 98
+    category_id: 49
+    id: 3356725
+    iscrowd: 0
+  - area: 169410
+    bbox:
+    - 1
+    - 1
+    - 637
+    - 360
+    category_id: 67
+    id: 8421750
+    iscrowd: 0
+- file_name: 000000002685.png
+  image_id: 2685
+  segments_info:
+  - area: 35969
+    bbox:
+    - 316
+    - 56
+    - 322
+    - 384
+    category_id: 1
+    id: 3424850
+    iscrowd: 0
+  - area: 3248
+    bbox:
+    - 184
+    - 122
+    - 132
+    - 67
+    category_id: 1
+    id: 8690334
+    iscrowd: 0
+  - area: 14529
+    bbox:
+    - 26
+    - 219
+    - 187
+    - 331
+    category_id: 1
+    id: 3887979
+    iscrowd: 0
+  - area: 10289
+    bbox:
+    - 281
+    - 99
+    - 174
+    - 245
+    category_id: 1
+    id: 3297906
+    iscrowd: 0
+  - area: 22254
+    bbox:
+    - 402
+    - 7
+    - 205
+    - 337
+    category_id: 1
+    id: 5400182
+    iscrowd: 0
+  - area: 46851
+    bbox:
+    - 162
+    - 134
+    - 354
+    - 413
+    category_id: 1
+    id: 8817049
+    iscrowd: 0
+  - area: 1391
+    bbox:
+    - 503
+    - 256
+    - 40
+    - 58
+    category_id: 31
+    id: 1448223
+    iscrowd: 0
+  - area: 66
+    bbox:
+    - 175
+    - 236
+    - 11
+    - 16
+    category_id: 44
+    id: 4354177
+    iscrowd: 0
+  - area: 655
+    bbox:
+    - 138
+    - 264
+    - 38
+    - 47
+    category_id: 44
+    id: 2369107
+    iscrowd: 0
+  - area: 269
+    bbox:
+    - 160
+    - 249
+    - 19
+    - 36
+    category_id: 44
+    id: 2172008
+    iscrowd: 0
+  - area: 162
+    bbox:
+    - 168
+    - 238
+    - 16
+    - 27
+    category_id: 44
+    id: 2502708
+    iscrowd: 0
+  - area: 1140
+    bbox:
+    - 122
+    - 273
+    - 58
+    - 63
+    category_id: 44
+    id: 2369601
+    iscrowd: 0
+  - area: 267
+    bbox:
+    - 141
+    - 256
+    - 37
+    - 35
+    category_id: 44
+    id: 2435633
+    iscrowd: 0
+  - area: 162
+    bbox:
+    - 155
+    - 247
+    - 23
+    - 41
+    category_id: 44
+    id: 1844265
+    iscrowd: 0
+  - area: 929
+    bbox:
+    - 106
+    - 279
+    - 45
+    - 74
+    category_id: 44
+    id: 1976130
+    iscrowd: 0
+  - area: 84
+    bbox:
+    - 284
+    - 148
+    - 14
+    - 7
+    category_id: 46
+    id: 15462643
+    iscrowd: 0
+  - area: 343
+    bbox:
+    - 79
+    - 190
+    - 30
+    - 37
+    category_id: 46
+    id: 8035483
+    iscrowd: 0
+  - area: 255
+    bbox:
+    - 367
+    - 200
+    - 20
+    - 19
+    category_id: 47
+    id: 4282474
+    iscrowd: 0
+  - area: 816
+    bbox:
+    - 141
+    - 316
+    - 34
+    - 37
+    category_id: 47
+    id: 8360865
+    iscrowd: 0
+  - area: 36870
+    bbox:
+    - 88
+    - 302
+    - 250
+    - 253
+    category_id: 107
+    id: 2965598
+    iscrowd: 0
+  - area: 13588
+    bbox:
+    - 215
+    - 0
+    - 267
+    - 152
+    category_id: 112
+    id: 11915740
+    iscrowd: 0
+  - area: 42867
+    bbox:
+    - 137
+    - 240
+    - 503
+    - 315
+    category_id: 118
+    id: 3304610
+    iscrowd: 0
+  - area: 12877
+    bbox:
+    - 0
+    - 136
+    - 171
+    - 169
+    category_id: 156
+    id: 4358048
+    iscrowd: 0
+  - area: 4121
+    bbox:
+    - 93
+    - 0
+    - 547
+    - 555
+    category_id: 177
+    id: 1450544
+    iscrowd: 0
+  - area: 73794
+    bbox:
+    - 0
+    - 0
+    - 557
+    - 555
+    category_id: 199
+    id: 5534313
+    iscrowd: 0
+- file_name: 000000002923.png
+  image_id: 2923
+  segments_info:
+  - area: 637
+    bbox:
+    - 247
+    - 189
+    - 62
+    - 17
+    category_id: 9
+    id: 9664623
+    iscrowd: 0
+  - area: 252
+    bbox:
+    - 24
+    - 197
+    - 28
+    - 18
+    category_id: 9
+    id: 9998476
+    iscrowd: 0
+  - area: 1180
+    bbox:
+    - 464
+    - 147
+    - 36
+    - 69
+    category_id: 9
+    id: 8812660
+    iscrowd: 0
+  - area: 277
+    bbox:
+    - 112
+    - 191
+    - 31
+    - 24
+    category_id: 9
+    id: 8485240
+    iscrowd: 0
+  - area: 44
+    bbox:
+    - 171
+    - 159
+    - 13
+    - 7
+    category_id: 16
+    id: 12560800
+    iscrowd: 0
+  - area: 43
+    bbox:
+    - 270
+    - 242
+    - 11
+    - 13
+    category_id: 16
+    id: 10990778
+    iscrowd: 0
+  - area: 48
+    bbox:
+    - 136
+    - 237
+    - 9
+    - 14
+    category_id: 16
+    id: 9808298
+    iscrowd: 0
+  - area: 1880
+    bbox:
+    - 0
+    - 204
+    - 112
+    - 23
+    category_id: 178
+    id: 5528669
+    iscrowd: 0
+  - area: 89366
+    bbox:
+    - 0
+    - 0
+    - 500
+    - 198
+    category_id: 187
+    id: 12492689
+    iscrowd: 0
+  - area: 2813
+    bbox:
+    - 0
+    - 193
+    - 251
+    - 21
+    category_id: 192
+    id: 7692887
+    iscrowd: 0
+  - area: 80047
+    bbox:
+    - 0
+    - 205
+    - 500
+    - 170
+    category_id: 193
+    id: 2974829
+    iscrowd: 0
+  - area: 886
+    bbox:
+    - 409
+    - 194
+    - 63
+    - 20
+    category_id: 197
+    id: 13157057
+    iscrowd: 0
+- file_name: 000000003156.png
+  image_id: 3156
+  segments_info:
+  - area: 125889
+    bbox:
+    - 4
+    - 16
+    - 362
+    - 620
+    category_id: 1
+    id: 3487029
+    iscrowd: 0
+  - area: 36542
+    bbox:
+    - 256
+    - 248
+    - 187
+    - 368
+    category_id: 70
+    id: 10066329
+    iscrowd: 0
+  - area: 3026
+    bbox:
+    - 0
+    - 163
+    - 61
+    - 61
+    category_id: 81
+    id: 9013641
+    iscrowd: 0
+  - area: 19166
+    bbox:
+    - 0
+    - 0
+    - 443
+    - 263
+    category_id: 176
+    id: 7895160
+    iscrowd: 0
+  - area: 2880
+    bbox:
+    - 356
+    - 0
+    - 87
+    - 37
+    category_id: 181
+    id: 12632256
+    iscrowd: 0
+  - area: 5056
+    bbox:
+    - 258
+    - 517
+    - 185
+    - 105
+    category_id: 190
+    id: 3421236
+    iscrowd: 0
+  - area: 73269
+    bbox:
+    - 0
+    - 0
+    - 443
+    - 594
+    category_id: 199
+    id: 13224393
+    iscrowd: 0
+- file_name: 000000003255.png
+  image_id: 3255
+  segments_info:
+  - area: 253
+    bbox:
+    - 246
+    - 320
+    - 11
+    - 37
+    category_id: 1
+    id: 1644569
+    iscrowd: 0
+  - area: 300
+    bbox:
+    - 271
+    - 314
+    - 18
+    - 44
+    category_id: 1
+    id: 5196619
+    iscrowd: 0
+  - area: 260
+    bbox:
+    - 235
+    - 318
+    - 10
+    - 38
+    category_id: 1
+    id: 2763048
+    iscrowd: 0
+  - area: 290
+    bbox:
+    - 296
+    - 314
+    - 22
+    - 38
+    category_id: 1
+    id: 2105119
+    iscrowd: 0
+  - area: 192
+    bbox:
+    - 243
+    - 315
+    - 8
+    - 41
+    category_id: 1
+    id: 1447190
+    iscrowd: 0
+  - area: 298
+    bbox:
+    - 261
+    - 312
+    - 12
+    - 45
+    category_id: 1
+    id: 1710619
+    iscrowd: 0
+  - area: 133
+    bbox:
+    - 272
+    - 319
+    - 10
+    - 18
+    category_id: 27
+    id: 1643284
+    iscrowd: 0
+  - area: 133
+    bbox:
+    - 307
+    - 332
+    - 10
+    - 17
+    category_id: 27
+    id: 1250068
+    iscrowd: 0
+  - area: 51
+    bbox:
+    - 258
+    - 343
+    - 6
+    - 11
+    category_id: 27
+    id: 1644311
+    iscrowd: 0
+  - area: 34
+    bbox:
+    - 276
+    - 353
+    - 15
+    - 5
+    category_id: 35
+    id: 3033670
+    iscrowd: 0
+  - area: 119151
+    bbox:
+    - 0
+    - 86
+    - 640
+    - 277
+    category_id: 159
+    id: 12696501
+    iscrowd: 0
+  - area: 34955
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 123
+    category_id: 187
+    id: 10642474
+    iscrowd: 0
+  - area: 76148
+    bbox:
+    - 0
+    - 2
+    - 608
+    - 237
+    category_id: 192
+    id: 9668476
+    iscrowd: 0
+- file_name: 000000003501.png
+  image_id: 3501
+  segments_info:
+  - area: 237060
+    bbox:
+    - 12
+    - 8
+    - 592
+    - 575
+    category_id: 51
+    id: 9872311
+    iscrowd: 0
+  - area: 18742
+    bbox:
+    - 75
+    - 175
+    - 183
+    - 186
+    category_id: 56
+    id: 4096610
+    iscrowd: 0
+  - area: 12427
+    bbox:
+    - 125
+    - 68
+    - 138
+    - 155
+    category_id: 56
+    id: 3633221
+    iscrowd: 0
+  - area: 105909
+    bbox:
+    - 0
+    - 0
+    - 612
+    - 612
+    category_id: 189
+    id: 2957123
+    iscrowd: 0
+- file_name: 000000003553.png
+  image_id: 3553
+  segments_info:
+  - area: 50098
+    bbox:
+    - 153
+    - 1
+    - 267
+    - 297
+    category_id: 1
+    id: 2829099
+    iscrowd: 0
+  - area: 11681
+    bbox:
+    - 187
+    - 262
+    - 181
+    - 109
+    category_id: 41
+    id: 3686464
+    iscrowd: 0
+  - area: 108227
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 427
+    category_id: 193
+    id: 4220517
+    iscrowd: 0
+- file_name: 000000003661.png
+  image_id: 3661
+  segments_info:
+  - area: 12442
+    bbox:
+    - 568
+    - 20
+    - 72
+    - 220
+    category_id: 47
+    id: 13943454
+    iscrowd: 0
+  - area: 132891
+    bbox:
+    - 61
+    - 0
+    - 492
+    - 349
+    category_id: 52
+    id: 2782095
+    iscrowd: 0
+  - area: 3580
+    bbox:
+    - 0
+    - 163
+    - 115
+    - 44
+    category_id: 76
+    id: 6317129
+    iscrowd: 0
+  - area: 647
+    bbox:
+    - 216
+    - 163
+    - 62
+    - 26
+    category_id: 122
+    id: 5481632
+    iscrowd: 0
+  - area: 54895
+    bbox:
+    - 0
+    - 213
+    - 640
+    - 171
+    category_id: 189
+    id: 8299705
+    iscrowd: 0
+  - area: 3394
+    bbox:
+    - 586
+    - 161
+    - 54
+    - 98
+    category_id: 195
+    id: 15328474
+    iscrowd: 0
+  - area: 10653
+    bbox:
+    - 0
+    - 90
+    - 231
+    - 95
+    category_id: 199
+    id: 6209936
+    iscrowd: 0
+- file_name: 000000003845.png
+  image_id: 3845
+  segments_info:
+  - area: 3299
+    bbox:
+    - 106
+    - 0
+    - 77
+    - 55
+    category_id: 47
+    id: 7240861
+    iscrowd: 0
+  - area: 2037
+    bbox:
+    - 138
+    - 44
+    - 286
+    - 49
+    category_id: 48
+    id: 6780294
+    iscrowd: 0
+  - area: 547
+    bbox:
+    - 145
+    - 46
+    - 277
+    - 42
+    category_id: 50
+    id: 5989755
+    iscrowd: 0
+  - area: 2691
+    bbox:
+    - 171
+    - 186
+    - 96
+    - 71
+    category_id: 56
+    id: 1532029
+    iscrowd: 0
+  - area: 2244
+    bbox:
+    - 121
+    - 206
+    - 57
+    - 64
+    category_id: 56
+    id: 406075
+    iscrowd: 0
+  - area: 1038
+    bbox:
+    - 50
+    - 162
+    - 53
+    - 44
+    category_id: 56
+    id: 1135719
+    iscrowd: 0
+  - area: 1084
+    bbox:
+    - 171
+    - 83
+    - 34
+    - 53
+    category_id: 57
+    id: 477359
+    iscrowd: 0
+  - area: 2759
+    bbox:
+    - 212
+    - 136
+    - 67
+    - 60
+    category_id: 57
+    id: 1136558
+    iscrowd: 0
+  - area: 1472
+    bbox:
+    - 259
+    - 190
+    - 37
+    - 71
+    category_id: 57
+    id: 407707
+    iscrowd: 0
+  - area: 2643
+    bbox:
+    - 191
+    - 252
+    - 68
+    - 67
+    category_id: 57
+    id: 208029
+    iscrowd: 0
+  - area: 1234
+    bbox:
+    - 109
+    - 86
+    - 53
+    - 37
+    category_id: 57
+    id: 403085
+    iscrowd: 0
+  - area: 158939
+    bbox:
+    - 2
+    - 2
+    - 498
+    - 366
+    category_id: 67
+    id: 4155031
+    iscrowd: 0
+  - area: 6531
+    bbox:
+    - 0
+    - 0
+    - 500
+    - 375
+    category_id: 189
+    id: 2046570
+    iscrowd: 0
+- file_name: 000000003934.png
+  image_id: 3934
+  segments_info:
+  - area: 10914
+    bbox:
+    - 31
+    - 75
+    - 72
+    - 241
+    category_id: 1
+    id: 9997955
+    iscrowd: 0
+  - area: 3955
+    bbox:
+    - 152
+    - 83
+    - 53
+    - 142
+    category_id: 1
+    id: 2238267
+    iscrowd: 0
+  - area: 2230
+    bbox:
+    - 94
+    - 90
+    - 62
+    - 78
+    category_id: 1
+    id: 4477287
+    iscrowd: 0
+  - area: 1191
+    bbox:
+    - 296
+    - 132
+    - 30
+    - 75
+    category_id: 1
+    id: 3096920
+    iscrowd: 0
+  - area: 2674
+    bbox:
+    - 203
+    - 106
+    - 30
+    - 127
+    category_id: 1
+    id: 2635596
+    iscrowd: 0
+  - area: 20442
+    bbox:
+    - 62
+    - 149
+    - 146
+    - 317
+    category_id: 1
+    id: 9866396
+    iscrowd: 0
+  - area: 203
+    bbox:
+    - 259
+    - 142
+    - 19
+    - 21
+    category_id: 1
+    id: 2970771
+    iscrowd: 0
+  - area: 90
+    bbox:
+    - 363
+    - 160
+    - 11
+    - 16
+    category_id: 46
+    id: 2705808
+    iscrowd: 0
+  - area: 246
+    bbox:
+    - 220
+    - 281
+    - 18
+    - 28
+    category_id: 46
+    id: 4736855
+    iscrowd: 0
+  - area: 136
+    bbox:
+    - 353
+    - 158
+    - 10
+    - 20
+    category_id: 46
+    id: 2772102
+    iscrowd: 0
+  - area: 101
+    bbox:
+    - 154
+    - 127
+    - 10
+    - 13
+    category_id: 47
+    id: 4479867
+    iscrowd: 0
+  - area: 10994
+    bbox:
+    - 132
+    - 226
+    - 243
+    - 128
+    category_id: 63
+    id: 5657176
+    iscrowd: 0
+  - area: 325
+    bbox:
+    - 163
+    - 303
+    - 50
+    - 8
+    category_id: 75
+    id: 10059884
+    iscrowd: 0
+  - area: 226
+    bbox:
+    - 186
+    - 210
+    - 31
+    - 13
+    category_id: 75
+    id: 10260878
+    iscrowd: 0
+  - area: 27902
+    bbox:
+    - 0
+    - 110
+    - 375
+    - 390
+    category_id: 118
+    id: 2763583
+    iscrowd: 0
+  - area: 1370
+    bbox:
+    - 0
+    - 67
+    - 39
+    - 87
+    category_id: 181
+    id: 5858665
+    iscrowd: 0
+  - area: 1555
+    bbox:
+    - 0
+    - 23
+    - 42
+    - 97
+    category_id: 185
+    id: 4343370
+    iscrowd: 0
+  - area: 31666
+    bbox:
+    - 0
+    - 0
+    - 375
+    - 110
+    category_id: 186
+    id: 4874096
+    iscrowd: 0
+  - area: 6560
+    bbox:
+    - 222
+    - 165
+    - 153
+    - 65
+    category_id: 189
+    id: 3293532
+    iscrowd: 0
+  - area: 16870
+    bbox:
+    - 0
+    - 36
+    - 375
+    - 211
+    category_id: 199
+    id: 6060953
+    iscrowd: 0
+  - area: 25262
+    bbox:
+    - 56
+    - 399
+    - 319
+    - 101
+    category_id: 200
+    id: 7366749
+    iscrowd: 0
+- file_name: 000000004134.png
+  image_id: 4134
+  segments_info:
+  - area: 5447
+    bbox:
+    - 576
+    - 107
+    - 60
+    - 208
+    category_id: 1
+    id: 2306376
+    iscrowd: 0
+  - area: 11843
+    bbox:
+    - 552
+    - 150
+    - 88
+    - 275
+    category_id: 1
+    id: 460811
+    iscrowd: 0
+  - area: 500
+    bbox:
+    - 516
+    - 142
+    - 21
+    - 39
+    category_id: 1
+    id: 527637
+    iscrowd: 0
+  - area: 6213
+    bbox:
+    - 0
+    - 110
+    - 71
+    - 160
+    category_id: 1
+    id: 856087
+    iscrowd: 0
+  - area: 1253
+    bbox:
+    - 347
+    - 137
+    - 35
+    - 62
+    category_id: 1
+    id: 988448
+    iscrowd: 0
+  - area: 1261
+    bbox:
+    - 275
+    - 186
+    - 36
+    - 84
+    category_id: 1
+    id: 197638
+    iscrowd: 0
+  - area: 51728
+    bbox:
+    - 44
+    - 45
+    - 277
+    - 374
+    category_id: 1
+    id: 7105139
+    iscrowd: 0
+  - area: 1485
+    bbox:
+    - 237
+    - 130
+    - 29
+    - 76
+    category_id: 1
+    id: 922395
+    iscrowd: 0
+  - area: 472
+    bbox:
+    - 258
+    - 165
+    - 18
+    - 38
+    category_id: 1
+    id: 395018
+    iscrowd: 0
+  - area: 3134
+    bbox:
+    - 191
+    - 119
+    - 40
+    - 136
+    category_id: 1
+    id: 2040616
+    iscrowd: 0
+  - area: 65727
+    bbox:
+    - 237
+    - 46
+    - 347
+    - 374
+    category_id: 1
+    id: 4801866
+    iscrowd: 0
+  - area: 3060
+    bbox:
+    - 303
+    - 123
+    - 31
+    - 147
+    category_id: 1
+    id: 461071
+    iscrowd: 0
+  - area: 1917
+    bbox:
+    - 470
+    - 110
+    - 57
+    - 70
+    category_id: 1
+    id: 2503240
+    iscrowd: 0
+  - area: 37
+    bbox:
+    - 323
+    - 147
+    - 7
+    - 17
+    category_id: 32
+    id: 1513496
+    iscrowd: 0
+  - area: 267
+    bbox:
+    - 20
+    - 149
+    - 16
+    - 70
+    category_id: 32
+    id: 1713202
+    iscrowd: 0
+  - area: 4013
+    bbox:
+    - 397
+    - 192
+    - 38
+    - 169
+    category_id: 32
+    id: 8435664
+    iscrowd: 0
+  - area: 184
+    bbox:
+    - 221
+    - 244
+    - 14
+    - 34
+    category_id: 46
+    id: 5268342
+    iscrowd: 0
+  - area: 223
+    bbox:
+    - 225
+    - 255
+    - 15
+    - 26
+    category_id: 46
+    id: 5731469
+    iscrowd: 0
+  - area: 278
+    bbox:
+    - 22
+    - 248
+    - 14
+    - 31
+    category_id: 46
+    id: 3953511
+    iscrowd: 0
+  - area: 67
+    bbox:
+    - 242
+    - 199
+    - 8
+    - 16
+    category_id: 46
+    id: 3492705
+    iscrowd: 0
+  - area: 141
+    bbox:
+    - 290
+    - 171
+    - 11
+    - 24
+    category_id: 62
+    id: 462879
+    iscrowd: 0
+  - area: 865
+    bbox:
+    - 256
+    - 232
+    - 40
+    - 38
+    category_id: 62
+    id: 1186599
+    iscrowd: 0
+  - area: 379
+    bbox:
+    - 278
+    - 183
+    - 20
+    - 31
+    category_id: 62
+    id: 461586
+    iscrowd: 0
+  - area: 121
+    bbox:
+    - 335
+    - 184
+    - 15
+    - 19
+    category_id: 67
+    id: 2904955
+    iscrowd: 0
+  - area: 5062
+    bbox:
+    - 0
+    - 253
+    - 56
+    - 128
+    category_id: 67
+    id: 7569806
+    iscrowd: 0
+  - area: 4866
+    bbox:
+    - 211
+    - 247
+    - 104
+    - 85
+    category_id: 67
+    id: 8162975
+    iscrowd: 0
+  - area: 1469
+    bbox:
+    - 62
+    - 93
+    - 39
+    - 51
+    category_id: 112
+    id: 1449773
+    iscrowd: 0
+  - area: 28665
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 54
+    category_id: 186
+    id: 930899
+    iscrowd: 0
+  - area: 3620
+    bbox:
+    - 0
+    - 346
+    - 367
+    - 79
+    category_id: 190
+    id: 2171170
+    iscrowd: 0
+  - area: 6205
+    bbox:
+    - 335
+    - 334
+    - 183
+    - 91
+    category_id: 195
+    id: 14670552
+    iscrowd: 0
+  - area: 42282
+    bbox:
+    - 0
+    - 28
+    - 640
+    - 151
+    category_id: 199
+    id: 331296
+    iscrowd: 0
+- file_name: 000000004395.png
+  image_id: 4395
+  segments_info:
+  - area: 174729
+    bbox:
+    - 1
+    - 1
+    - 424
+    - 638
+    category_id: 1
+    id: 9215908
+    iscrowd: 0
+  - area: 22476
+    bbox:
+    - 177
+    - 275
+    - 96
+    - 357
+    category_id: 32
+    id: 1910308
+    iscrowd: 0
+  - area: 73053
+    bbox:
+    - 0
+    - 0
+    - 425
+    - 427
+    category_id: 199
+    id: 789771
+    iscrowd: 0
+- file_name: 000000004495.png
+  image_id: 4495
+  segments_info:
+  - area: 12855
+    bbox:
+    - 4
+    - 149
+    - 150
+    - 178
+    category_id: 62
+    id: 5193049
+    iscrowd: 0
+  - area: 39928
+    bbox:
+    - 202
+    - 199
+    - 296
+    - 176
+    category_id: 63
+    id: 7752776
+    iscrowd: 0
+  - area: 4531
+    bbox:
+    - 190
+    - 111
+    - 72
+    - 68
+    category_id: 72
+    id: 4073512
+    iscrowd: 0
+  - area: 6819
+    bbox:
+    - 145
+    - 167
+    - 153
+    - 82
+    category_id: 156
+    id: 3020832
+    iscrowd: 0
+  - area: 83090
+    bbox:
+    - 0
+    - 0
+    - 500
+    - 341
+    category_id: 199
+    id: 7771293
+    iscrowd: 0
+  - area: 25040
+    bbox:
+    - 0
+    - 235
+    - 500
+    - 140
+    category_id: 200
+    id: 5325639
+    iscrowd: 0
+- file_name: 000000004765.png
+  image_id: 4765
+  segments_info:
+  - area: 16892
+    bbox:
+    - 212
+    - 127
+    - 192
+    - 258
+    category_id: 1
+    id: 6516604
+    iscrowd: 0
+  - area: 6475
+    bbox:
+    - 258
+    - 336
+    - 282
+    - 87
+    category_id: 42
+    id: 11582145
+    iscrowd: 0
+- file_name: 000000004795.png
+  image_id: 4795
+  segments_info:
+  - area: 85522
+    bbox:
+    - 153
+    - 114
+    - 395
+    - 364
+    category_id: 17
+    id: 6383217
+    iscrowd: 0
+  - area: 141960
+    bbox:
+    - 20
+    - 2
+    - 620
+    - 350
+    category_id: 72
+    id: 11186095
+    iscrowd: 0
+  - area: 37683
+    bbox:
+    - 0
+    - 192
+    - 175
+    - 283
+    category_id: 73
+    id: 10857645
+    iscrowd: 0
+  - area: 3947
+    bbox:
+    - 449
+    - 414
+    - 176
+    - 66
+    category_id: 189
+    id: 8895704
+    iscrowd: 0
+- file_name: 000000005001.png
+  image_id: 5001
+  segments_info:
+  - area: 2742
+    bbox:
+    - 297
+    - 50
+    - 58
+    - 87
+    category_id: 1
+    id: 4341325
+    iscrowd: 0
+  - area: 2979
+    bbox:
+    - 51
+    - 59
+    - 84
+    - 83
+    category_id: 1
+    id: 2566189
+    iscrowd: 0
+  - area: 36882
+    bbox:
+    - 355
+    - 92
+    - 162
+    - 378
+    category_id: 1
+    id: 2103837
+    iscrowd: 0
+  - area: 13830
+    bbox:
+    - 226
+    - 256
+    - 127
+    - 224
+    category_id: 1
+    id: 10195367
+    iscrowd: 0
+  - area: 1519
+    bbox:
+    - 425
+    - 23
+    - 44
+    - 71
+    category_id: 1
+    id: 6448002
+    iscrowd: 0
+  - area: 7921
+    bbox:
+    - 171
+    - 31
+    - 79
+    - 155
+    category_id: 1
+    id: 10722729
+    iscrowd: 0
+  - area: 3431
+    bbox:
+    - 209
+    - 61
+    - 89
+    - 148
+    category_id: 1
+    id: 5919587
+    iscrowd: 0
+  - area: 3721
+    bbox:
+    - 435
+    - 41
+    - 71
+    - 119
+    category_id: 1
+    id: 4081297
+    iscrowd: 0
+  - area: 10576
+    bbox:
+    - 77
+    - 245
+    - 114
+    - 235
+    category_id: 1
+    id: 7763074
+    iscrowd: 0
+  - area: 5106
+    bbox:
+    - 11
+    - 33
+    - 58
+    - 168
+    category_id: 1
+    id: 2894634
+    iscrowd: 0
+  - area: 7189
+    bbox:
+    - 119
+    - 81
+    - 69
+    - 189
+    category_id: 1
+    id: 1381658
+    iscrowd: 0
+  - area: 18535
+    bbox:
+    - 41
+    - 96
+    - 107
+    - 378
+    category_id: 1
+    id: 1184021
+    iscrowd: 0
+  - area: 10136
+    bbox:
+    - 215
+    - 88
+    - 120
+    - 191
+    category_id: 1
+    id: 5984609
+    iscrowd: 0
+  - area: 10072
+    bbox:
+    - 523
+    - 26
+    - 117
+    - 286
+    category_id: 1
+    id: 2631465
+    iscrowd: 1
+  - area: 1776
+    bbox:
+    - 500
+    - 159
+    - 46
+    - 99
+    category_id: 2
+    id: 3157033
+    iscrowd: 0
+  - area: 2451
+    bbox:
+    - 536
+    - 275
+    - 59
+    - 72
+    category_id: 31
+    id: 65793
+    iscrowd: 0
+  - area: 5657
+    bbox:
+    - 174
+    - 205
+    - 107
+    - 238
+    category_id: 87
+    id: 6775143
+    iscrowd: 0
+  - area: 372
+    bbox:
+    - 451
+    - 334
+    - 19
+    - 58
+    category_id: 87
+    id: 5195868
+    iscrowd: 0
+  - area: 11321
+    bbox:
+    - 209
+    - 0
+    - 255
+    - 131
+    category_id: 171
+    id: 7238528
+    iscrowd: 0
+  - area: 30722
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 144
+    category_id: 181
+    id: 2762270
+    iscrowd: 0
+  - area: 42166
+    bbox:
+    - 0
+    - 240
+    - 580
+    - 240
+    category_id: 191
+    id: 2696993
+    iscrowd: 0
+  - area: 4624
+    bbox:
+    - 0
+    - 0
+    - 219
+    - 250
+    category_id: 199
+    id: 3223858
+    iscrowd: 0
+- file_name: 000000005037.png
+  image_id: 5037
+  segments_info:
+  - area: 255
+    bbox:
+    - 48
+    - 224
+    - 13
+    - 24
+    category_id: 1
+    id: 4673115
+    iscrowd: 0
+  - area: 1478
+    bbox:
+    - 191
+    - 147
+    - 54
+    - 59
+    category_id: 1
+    id: 6708569
+    iscrowd: 0
+  - area: 208
+    bbox:
+    - 596
+    - 243
+    - 18
+    - 28
+    category_id: 1
+    id: 4469040
+    iscrowd: 0
+  - area: 1432
+    bbox:
+    - 623
+    - 217
+    - 17
+    - 144
+    category_id: 1
+    id: 2565674
+    iscrowd: 0
+  - area: 202
+    bbox:
+    - 19
+    - 221
+    - 11
+    - 27
+    category_id: 1
+    id: 2694688
+    iscrowd: 0
+  - area: 190
+    bbox:
+    - 10
+    - 223
+    - 12
+    - 23
+    category_id: 1
+    id: 7166252
+    iscrowd: 0
+  - area: 194
+    bbox:
+    - 29
+    - 226
+    - 15
+    - 21
+    category_id: 1
+    id: 5450866
+    iscrowd: 0
+  - area: 70
+    bbox:
+    - 593
+    - 248
+    - 11
+    - 13
+    category_id: 3
+    id: 12169385
+    iscrowd: 0
+  - area: 412
+    bbox:
+    - 572
+    - 248
+    - 28
+    - 19
+    category_id: 3
+    id: 8950931
+    iscrowd: 0
+  - area: 130331
+    bbox:
+    - 99
+    - 20
+    - 476
+    - 352
+    category_id: 6
+    id: 6511971
+    iscrowd: 0
+  - area: 14785
+    bbox:
+    - 0
+    - 96
+    - 640
+    - 159
+    category_id: 128
+    id: 6382962
+    iscrowd: 0
+  - area: 62094
+    bbox:
+    - 0
+    - 249
+    - 640
+    - 176
+    category_id: 149
+    id: 6186101
+    iscrowd: 0
+  - area: 1565
+    bbox:
+    - 47
+    - 207
+    - 59
+    - 41
+    category_id: 184
+    id: 3488576
+    iscrowd: 0
+  - area: 53722
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 192
+    category_id: 187
+    id: 15721950
+    iscrowd: 0
+  - area: 3770
+    bbox:
+    - 0
+    - 207
+    - 107
+    - 71
+    category_id: 197
+    id: 5527167
+    iscrowd: 0
+- file_name: 000000005060.png
+  image_id: 5060
+  segments_info:
+  - area: 17584
+    bbox:
+    - 159
+    - 310
+    - 165
+    - 188
+    category_id: 1
+    id: 3884104
+    iscrowd: 0
+  - area: 196
+    bbox:
+    - 231
+    - 371
+    - 12
+    - 17
+    category_id: 77
+    id: 1973018
+    iscrowd: 0
+  - area: 53702
+    bbox:
+    - 11
+    - 349
+    - 469
+    - 291
+    category_id: 118
+    id: 4812424
+    iscrowd: 0
+  - area: 101678
+    bbox:
+    - 87
+    - 49
+    - 393
+    - 500
+    category_id: 133
+    id: 5465719
+    iscrowd: 0
+  - area: 3317
+    bbox:
+    - 407
+    - 0
+    - 73
+    - 54
+    category_id: 186
+    id: 10988721
+    iscrowd: 0
+  - area: 7849
+    bbox:
+    - 410
+    - 229
+    - 70
+    - 123
+    category_id: 188
+    id: 1250846
+    iscrowd: 0
+  - area: 111683
+    bbox:
+    - 0
+    - 0
+    - 480
+    - 528
+    category_id: 199
+    id: 6126469
+    iscrowd: 0
+  - area: 3026
+    bbox:
+    - 412
+    - 360
+    - 68
+    - 58
+    category_id: 200
+    id: 9934488
+    iscrowd: 0
+- file_name: 000000005193.png
+  image_id: 5193
+  segments_info:
+  - area: 3046
+    bbox:
+    - 224
+    - 64
+    - 37
+    - 122
+    category_id: 1
+    id: 3688540
+    iscrowd: 0
+  - area: 13441
+    bbox:
+    - 289
+    - 172
+    - 117
+    - 229
+    category_id: 1
+    id: 1711654
+    iscrowd: 0
+  - area: 11201
+    bbox:
+    - 360
+    - 221
+    - 127
+    - 153
+    category_id: 1
+    id: 3160912
+    iscrowd: 0
+  - area: 42733
+    bbox:
+    - 2
+    - 90
+    - 217
+    - 330
+    category_id: 1
+    id: 7966359
+    iscrowd: 0
+  - area: 11348
+    bbox:
+    - 378
+    - 99
+    - 203
+    - 189
+    category_id: 1
+    id: 2895929
+    iscrowd: 0
+  - area: 14265
+    bbox:
+    - 139
+    - 113
+    - 109
+    - 282
+    category_id: 1
+    id: 2434628
+    iscrowd: 0
+  - area: 16318
+    bbox:
+    - 461
+    - 73
+    - 103
+    - 264
+    category_id: 42
+    id: 6708815
+    iscrowd: 0
+  - area: 20977
+    bbox:
+    - 239
+    - 65
+    - 97
+    - 349
+    category_id: 42
+    id: 3106707
+    iscrowd: 0
+  - area: 1278
+    bbox:
+    - 369
+    - 98
+    - 20
+    - 75
+    category_id: 44
+    id: 5262666
+    iscrowd: 0
+  - area: 7415
+    bbox:
+    - 177
+    - 26
+    - 164
+    - 122
+    category_id: 112
+    id: 1579288
+    iscrowd: 0
+  - area: 6797
+    bbox:
+    - 138
+    - 0
+    - 282
+    - 36
+    category_id: 130
+    id: 4874076
+    iscrowd: 0
+  - area: 11762
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 52
+    category_id: 186
+    id: 4803917
+    iscrowd: 0
+  - area: 899
+    bbox:
+    - 224
+    - 354
+    - 28
+    - 61
+    category_id: 190
+    id: 1645855
+    iscrowd: 0
+  - area: 59465
+    bbox:
+    - 0
+    - 6
+    - 640
+    - 300
+    category_id: 199
+    id: 6186085
+    iscrowd: 0
+- file_name: 000000005477.png
+  image_id: 5477
+  segments_info:
+  - area: 40514
+    bbox:
+    - 10
+    - 106
+    - 621
+    - 183
+    category_id: 5
+    id: 5536663
+    iscrowd: 0
+  - area: 2424
+    bbox:
+    - 51
+    - 249
+    - 251
+    - 28
+    category_id: 5
+    id: 9806786
+    iscrowd: 0
+  - area: 1733
+    bbox:
+    - 0
+    - 327
+    - 270
+    - 22
+    category_id: 149
+    id: 7046033
+    iscrowd: 0
+  - area: 126081
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 240
+    category_id: 187
+    id: 12366238
+    iscrowd: 0
+  - area: 38399
+    bbox:
+    - 0
+    - 263
+    - 640
+    - 86
+    category_id: 191
+    id: 7965586
+    iscrowd: 0
+  - area: 4754
+    bbox:
+    - 0
+    - 215
+    - 640
+    - 61
+    category_id: 192
+    id: 7369332
+    iscrowd: 0
+  - area: 7559
+    bbox:
+    - 0
+    - 264
+    - 640
+    - 27
+    category_id: 193
+    id: 5804199
+    iscrowd: 0
+  - area: 834
+    bbox:
+    - 601
+    - 227
+    - 39
+    - 46
+    category_id: 197
+    id: 7042178
+    iscrowd: 0
+- file_name: 000000005503.png
+  image_id: 5503
+  segments_info:
+  - area: 44578
+    bbox:
+    - 35
+    - 179
+    - 240
+    - 294
+    category_id: 70
+    id: 7368816
+    iscrowd: 0
+  - area: 15326
+    bbox:
+    - 196
+    - 0
+    - 137
+    - 196
+    category_id: 168
+    id: 1513239
+    iscrowd: 0
+  - area: 13170
+    bbox:
+    - 12
+    - 241
+    - 239
+    - 259
+    category_id: 190
+    id: 2894892
+    iscrowd: 0
+  - area: 47506
+    bbox:
+    - 0
+    - 0
+    - 333
+    - 500
+    category_id: 199
+    id: 4473924
+    iscrowd: 0
+- file_name: 000000005529.png
+  image_id: 5529
+  segments_info:
+  - area: 28845
+    bbox:
+    - 79
+    - 117
+    - 177
+    - 333
+    category_id: 1
+    id: 5920346
+    iscrowd: 0
+  - area: 1628
+    bbox:
+    - 101
+    - 404
+    - 87
+    - 38
+    category_id: 35
+    id: 5463639
+    iscrowd: 0
+  - area: 253455
+    bbox:
+    - 0
+    - 0
+    - 444
+    - 640
+    category_id: 159
+    id: 11448498
+    iscrowd: 0
+- file_name: 000000005586.png
+  image_id: 5586
+  segments_info:
+  - area: 93
+    bbox:
+    - 186
+    - 32
+    - 12
+    - 12
+    category_id: 1
+    id: 2899294
+    iscrowd: 0
+  - area: 256
+    bbox:
+    - 292
+    - 63
+    - 10
+    - 41
+    category_id: 1
+    id: 4021656
+    iscrowd: 0
+  - area: 1785
+    bbox:
+    - 132
+    - 169
+    - 68
+    - 57
+    category_id: 1
+    id: 3381477
+    iscrowd: 0
+  - area: 52
+    bbox:
+    - 66
+    - 37
+    - 10
+    - 8
+    category_id: 1
+    id: 4411760
+    iscrowd: 0
+  - area: 94
+    bbox:
+    - 178
+    - 26
+    - 8
+    - 18
+    category_id: 1
+    id: 2306120
+    iscrowd: 0
+  - area: 87
+    bbox:
+    - 147
+    - 30
+    - 8
+    - 14
+    category_id: 1
+    id: 3490641
+    iscrowd: 0
+  - area: 1171
+    bbox:
+    - 143
+    - 70
+    - 35
+    - 90
+    category_id: 1
+    id: 5279133
+    iscrowd: 0
+  - area: 36
+    bbox:
+    - 111
+    - 37
+    - 10
+    - 6
+    category_id: 1
+    id: 1649220
+    iscrowd: 0
+  - area: 437
+    bbox:
+    - 272
+    - 73
+    - 23
+    - 38
+    category_id: 1
+    id: 5013965
+    iscrowd: 0
+  - area: 96
+    bbox:
+    - 101
+    - 28
+    - 9
+    - 15
+    category_id: 1
+    id: 4345454
+    iscrowd: 0
+  - area: 154
+    bbox:
+    - 136
+    - 24
+    - 11
+    - 20
+    category_id: 1
+    id: 4607074
+    iscrowd: 0
+  - area: 75
+    bbox:
+    - 154
+    - 31
+    - 8
+    - 13
+    category_id: 1
+    id: 3685972
+    iscrowd: 0
+  - area: 49
+    bbox:
+    - 302
+    - 39
+    - 10
+    - 9
+    category_id: 1
+    id: 4149888
+    iscrowd: 0
+  - area: 30651
+    bbox:
+    - 0
+    - 0
+    - 320
+    - 240
+    category_id: 1
+    id: 5856347
+    iscrowd: 1
+  - area: 129
+    bbox:
+    - 131
+    - 91
+    - 14
+    - 13
+    category_id: 43
+    id: 7436416
+    iscrowd: 0
+  - area: 2505
+    bbox:
+    - 0
+    - 39
+    - 320
+    - 58
+    category_id: 92
+    id: 2766401
+    iscrowd: 0
+  - area: 18560
+    bbox:
+    - 0
+    - 80
+    - 320
+    - 160
+    category_id: 145
+    id: 9735544
+    iscrowd: 0
+  - area: 473
+    bbox:
+    - 192
+    - 0
+    - 26
+    - 47
+    category_id: 161
+    id: 1318958
+    iscrowd: 0
+  - area: 3847
+    bbox:
+    - 0
+    - 53
+    - 320
+    - 49
+    category_id: 199
+    id: 4274482
+    iscrowd: 0
+- file_name: 000000005600.png
+  image_id: 5600
+  segments_info:
+  - area: 6315
+    bbox:
+    - 89
+    - 96
+    - 122
+    - 146
+    category_id: 50
+    id: 659991
+    iscrowd: 0
+  - area: 59957
+    bbox:
+    - 212
+    - 138
+    - 326
+    - 223
+    category_id: 51
+    id: 1594007
+    iscrowd: 0
+  - area: 33855
+    bbox:
+    - 123
+    - 2
+    - 252
+    - 180
+    category_id: 51
+    id: 598861
+    iscrowd: 0
+  - area: 43214
+    bbox:
+    - 0
+    - 0
+    - 498
+    - 361
+    category_id: 189
+    id: 1121309
+    iscrowd: 0
+  - area: 29577
+    bbox:
+    - 102
+    - 62
+    - 456
+    - 299
+    category_id: 195
+    id: 5008262
+    iscrowd: 0
+  - area: 62
+    bbox:
+    - 266
+    - 0
+    - 31
+    - 2
+    category_id: 196
+    id: 1127014
+    iscrowd: 0
+- file_name: 000000005992.png
+  image_id: 5992
+  segments_info:
+  - area: 32267
+    bbox:
+    - 26
+    - 125
+    - 209
+    - 243
+    category_id: 20
+    id: 3686983
+    iscrowd: 0
+  - area: 52150
+    bbox:
+    - 206
+    - 159
+    - 298
+    - 264
+    category_id: 20
+    id: 2897471
+    iscrowd: 0
+  - area: 5429
+    bbox:
+    - 549
+    - 165
+    - 91
+    - 125
+    category_id: 20
+    id: 5459531
+    iscrowd: 0
+  - area: 23077
+    bbox:
+    - 426
+    - 124
+    - 152
+    - 288
+    category_id: 20
+    id: 2830130
+    iscrowd: 0
+  - area: 13255
+    bbox:
+    - 548
+    - 221
+    - 92
+    - 200
+    category_id: 20
+    id: 1581870
+    iscrowd: 0
+  - area: 896
+    bbox:
+    - 238
+    - 61
+    - 57
+    - 24
+    category_id: 151
+    id: 16447988
+    iscrowd: 0
+  - area: 44719
+    bbox:
+    - 308
+    - 0
+    - 332
+    - 196
+    category_id: 171
+    id: 4279647
+    iscrowd: 0
+  - area: 14144
+    bbox:
+    - 205
+    - 0
+    - 173
+    - 183
+    category_id: 177
+    id: 8551805
+    iscrowd: 0
+  - area: 4024
+    bbox:
+    - 0
+    - 9
+    - 306
+    - 65
+    category_id: 184
+    id: 10660769
+    iscrowd: 0
+  - area: 17160
+    bbox:
+    - 0
+    - 27
+    - 257
+    - 119
+    category_id: 185
+    id: 8815228
+    iscrowd: 0
+  - area: 11771
+    bbox:
+    - 0
+    - 0
+    - 309
+    - 63
+    category_id: 187
+    id: 16119282
+    iscrowd: 0
+  - area: 49910
+    bbox:
+    - 0
+    - 78
+    - 563
+    - 350
+    category_id: 193
+    id: 3887945
+    iscrowd: 0
+  - area: 2145
+    bbox:
+    - 344
+    - 153
+    - 95
+    - 40
+    category_id: 199
+    id: 7170417
+    iscrowd: 0
+- file_name: 000000006012.png
+  image_id: 6012
+  segments_info:
+  - area: 56485
+    bbox:
+    - 328
+    - 25
+    - 221
+    - 477
+    category_id: 52
+    id: 2725787
+    iscrowd: 0
+  - area: 54674
+    bbox:
+    - 99
+    - 24
+    - 207
+    - 481
+    category_id: 52
+    id: 2660764
+    iscrowd: 0
+- file_name: 000000006040.png
+  image_id: 6040
+  segments_info:
+  - area: 337
+    bbox:
+    - 332
+    - 202
+    - 24
+    - 27
+    category_id: 1
+    id: 2171682
+    iscrowd: 0
+  - area: 180
+    bbox:
+    - 351
+    - 201
+    - 10
+    - 31
+    category_id: 1
+    id: 3954525
+    iscrowd: 0
+  - area: 203
+    bbox:
+    - 262
+    - 197
+    - 18
+    - 25
+    category_id: 1
+    id: 4411980
+    iscrowd: 0
+  - area: 122
+    bbox:
+    - 199
+    - 199
+    - 9
+    - 18
+    category_id: 1
+    id: 4673092
+    iscrowd: 0
+  - area: 45
+    bbox:
+    - 126
+    - 201
+    - 7
+    - 9
+    category_id: 1
+    id: 3297356
+    iscrowd: 0
+  - area: 38
+    bbox:
+    - 140
+    - 198
+    - 6
+    - 13
+    category_id: 1
+    id: 3160119
+    iscrowd: 0
+  - area: 217
+    bbox:
+    - 296
+    - 202
+    - 21
+    - 24
+    category_id: 1
+    id: 2239790
+    iscrowd: 0
+  - area: 135
+    bbox:
+    - 374
+    - 202
+    - 13
+    - 21
+    category_id: 1
+    id: 1645631
+    iscrowd: 0
+  - area: 196
+    bbox:
+    - 380
+    - 206
+    - 18
+    - 18
+    category_id: 1
+    id: 1448226
+    iscrowd: 0
+  - area: 771
+    bbox:
+    - 1
+    - 180
+    - 29
+    - 40
+    category_id: 3
+    id: 2827552
+    iscrowd: 0
+  - area: 82972
+    bbox:
+    - 63
+    - 84
+    - 538
+    - 223
+    category_id: 7
+    id: 7105121
+    iscrowd: 0
+  - area: 1592
+    bbox:
+    - 0
+    - 158
+    - 55
+    - 53
+    category_id: 8
+    id: 6053208
+    iscrowd: 0
+  - area: 33337
+    bbox:
+    - 180
+    - 0
+    - 460
+    - 145
+    category_id: 184
+    id: 1186841
+    iscrowd: 0
+  - area: 44202
+    bbox:
+    - 0
+    - 0
+    - 330
+    - 191
+    category_id: 187
+    id: 10783595
+    iscrowd: 0
+  - area: 54337
+    bbox:
+    - 0
+    - 175
+    - 640
+    - 176
+    category_id: 191
+    id: 4344655
+    iscrowd: 0
+  - area: 5582
+    bbox:
+    - 576
+    - 134
+    - 64
+    - 109
+    category_id: 199
+    id: 7372164
+    iscrowd: 0
+- file_name: 000000006213.png
+  image_id: 6213
+  segments_info:
+  - area: 1717
+    bbox:
+    - 407
+    - 253
+    - 90
+    - 34
+    category_id: 81
+    id: 9155032
+    iscrowd: 0
+  - area: 742
+    bbox:
+    - 590
+    - 293
+    - 50
+    - 20
+    category_id: 81
+    id: 9812958
+    iscrowd: 0
+  - area: 11014
+    bbox:
+    - 263
+    - 129
+    - 77
+    - 240
+    category_id: 109
+    id: 1514056
+    iscrowd: 0
+  - area: 947
+    bbox:
+    - 603
+    - 0
+    - 34
+    - 37
+    category_id: 130
+    id: 16120828
+    iscrowd: 0
+  - area: 28202
+    bbox:
+    - 419
+    - 63
+    - 221
+    - 193
+    category_id: 133
+    id: 5206927
+    iscrowd: 0
+  - area: 4878
+    bbox:
+    - 164
+    - 251
+    - 119
+    - 63
+    category_id: 176
+    id: 5533840
+    iscrowd: 0
+  - area: 10527
+    bbox:
+    - 151
+    - 0
+    - 253
+    - 64
+    category_id: 186
+    id: 8690356
+    iscrowd: 0
+  - area: 34446
+    bbox:
+    - 365
+    - 278
+    - 275
+    - 147
+    category_id: 188
+    id: 857915
+    iscrowd: 0
+  - area: 5164
+    bbox:
+    - 172
+    - 337
+    - 236
+    - 88
+    category_id: 190
+    id: 5928085
+    iscrowd: 0
+  - area: 114105
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 425
+    category_id: 199
+    id: 8627133
+    iscrowd: 0
+  - area: 4141
+    bbox:
+    - 212
+    - 375
+    - 121
+    - 50
+    category_id: 200
+    id: 1712497
+    iscrowd: 0
+- file_name: 000000006460.png
+  image_id: 6460
+  segments_info:
+  - area: 1804
+    bbox:
+    - 281
+    - 138
+    - 51
+    - 69
+    category_id: 1
+    id: 1973790
+    iscrowd: 0
+  - area: 357
+    bbox:
+    - 276
+    - 139
+    - 10
+    - 92
+    category_id: 42
+    id: 8553090
+    iscrowd: 0
+  - area: 271018
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 427
+    category_id: 155
+    id: 9079434
+    iscrowd: 0
+- file_name: 000000006471.png
+  image_id: 6471
+  segments_info:
+  - area: 9907
+    bbox:
+    - 87
+    - 185
+    - 154
+    - 140
+    category_id: 1
+    id: 5986648
+    iscrowd: 0
+  - area: 8521
+    bbox:
+    - 17
+    - 142
+    - 110
+    - 182
+    category_id: 1
+    id: 4404533
+    iscrowd: 0
+  - area: 1654
+    bbox:
+    - 18
+    - 97
+    - 50
+    - 52
+    category_id: 1
+    id: 2104872
+    iscrowd: 0
+  - area: 1526
+    bbox:
+    - 216
+    - 76
+    - 47
+    - 54
+    category_id: 1
+    id: 3617081
+    iscrowd: 0
+  - area: 367
+    bbox:
+    - 40
+    - 0
+    - 36
+    - 14
+    category_id: 1
+    id: 4144714
+    iscrowd: 0
+  - area: 958
+    bbox:
+    - 49
+    - 81
+    - 53
+    - 63
+    category_id: 1
+    id: 3024166
+    iscrowd: 0
+  - area: 1513
+    bbox:
+    - 390
+    - 60
+    - 85
+    - 54
+    category_id: 1
+    id: 2695975
+    iscrowd: 0
+  - area: 2200
+    bbox:
+    - 87
+    - 72
+    - 66
+    - 69
+    category_id: 1
+    id: 3552314
+    iscrowd: 0
+  - area: 13365
+    bbox:
+    - 257
+    - 71
+    - 97
+    - 232
+    category_id: 1
+    id: 11117725
+    iscrowd: 0
+  - area: 1613
+    bbox:
+    - 170
+    - 74
+    - 52
+    - 57
+    category_id: 1
+    id: 1578267
+    iscrowd: 0
+  - area: 1137
+    bbox:
+    - 341
+    - 98
+    - 78
+    - 21
+    category_id: 15
+    id: 4869200
+    iscrowd: 0
+  - area: 581
+    bbox:
+    - 138
+    - 116
+    - 54
+    - 19
+    category_id: 15
+    id: 3947065
+    iscrowd: 0
+  - area: 487
+    bbox:
+    - 302
+    - 29
+    - 62
+    - 68
+    category_id: 39
+    id: 3747878
+    iscrowd: 0
+  - area: 588
+    bbox:
+    - 214
+    - 230
+    - 28
+    - 33
+    category_id: 40
+    id: 4079417
+    iscrowd: 0
+  - area: 72
+    bbox:
+    - 147
+    - 103
+    - 6
+    - 16
+    category_id: 44
+    id: 7297340
+    iscrowd: 0
+  - area: 63
+    bbox:
+    - 86
+    - 107
+    - 5
+    - 17
+    category_id: 44
+    id: 5389348
+    iscrowd: 0
+  - area: 34595
+    bbox:
+    - 0
+    - 129
+    - 500
+    - 145
+    category_id: 145
+    id: 6127970
+    iscrowd: 0
+  - area: 29249
+    bbox:
+    - 0
+    - 246
+    - 500
+    - 87
+    category_id: 194
+    id: 9476000
+    iscrowd: 0
+  - area: 57225
+    bbox:
+    - 0
+    - 0
+    - 500
+    - 171
+    category_id: 197
+    id: 3682089
+    iscrowd: 0
+- file_name: 000000006614.png
+  image_id: 6614
+  segments_info:
+  - area: 26617
+    bbox:
+    - 19
+    - 41
+    - 463
+    - 211
+    category_id: 53
+    id: 9671571
+    iscrowd: 0
+  - area: 26189
+    bbox:
+    - 123
+    - 68
+    - 184
+    - 183
+    category_id: 55
+    id: 15921906
+    iscrowd: 0
+  - area: 20817
+    bbox:
+    - 36
+    - 20
+    - 372
+    - 162
+    category_id: 122
+    id: 11974326
+    iscrowd: 0
+  - area: 74393
+    bbox:
+    - 0
+    - 157
+    - 500
+    - 239
+    category_id: 196
+    id: 14145495
+    iscrowd: 0
+- file_name: 000000006723.png
+  image_id: 6723
+  segments_info:
+  - area: 54
+    bbox:
+    - 332
+    - 201
+    - 13
+    - 9
+    category_id: 3
+    id: 8286314
+    iscrowd: 0
+  - area: 392
+    bbox:
+    - 172
+    - 204
+    - 35
+    - 19
+    category_id: 3
+    id: 5785671
+    iscrowd: 0
+  - area: 153
+    bbox:
+    - 283
+    - 202
+    - 19
+    - 10
+    category_id: 3
+    id: 5193791
+    iscrowd: 0
+  - area: 747
+    bbox:
+    - 362
+    - 194
+    - 27
+    - 30
+    category_id: 6
+    id: 6050903
+    iscrowd: 0
+  - area: 829
+    bbox:
+    - 205
+    - 201
+    - 37
+    - 28
+    category_id: 8
+    id: 8088169
+    iscrowd: 0
+  - area: 48332
+    bbox:
+    - 0
+    - 194
+    - 436
+    - 167
+    category_id: 149
+    id: 8418677
+    iscrowd: 0
+  - area: 14610
+    bbox:
+    - 462
+    - 101
+    - 178
+    - 168
+    category_id: 184
+    id: 3167056
+    iscrowd: 0
+  - area: 61709
+    bbox:
+    - 96
+    - 0
+    - 544
+    - 171
+    category_id: 187
+    id: 15916491
+    iscrowd: 0
+  - area: 11800
+    bbox:
+    - 0
+    - 207
+    - 519
+    - 154
+    category_id: 191
+    id: 10593965
+    iscrowd: 0
+  - area: 7549
+    bbox:
+    - 107
+    - 211
+    - 300
+    - 150
+    category_id: 193
+    id: 4548193
+    iscrowd: 0
+  - area: 64977
+    bbox:
+    - 0
+    - 0
+    - 544
+    - 246
+    category_id: 197
+    id: 7893367
+    iscrowd: 0
+- file_name: 000000006763.png
+  image_id: 6763
+  segments_info:
+  - area: 44381
+    bbox:
+    - 3
+    - 95
+    - 233
+    - 380
+    category_id: 1
+    id: 3549757
+    iscrowd: 0
+  - area: 3241
+    bbox:
+    - 0
+    - 213
+    - 48
+    - 122
+    category_id: 1
+    id: 2899033
+    iscrowd: 0
+  - area: 35939
+    bbox:
+    - 79
+    - 132
+    - 255
+    - 331
+    category_id: 1
+    id: 4609136
+    iscrowd: 0
+  - area: 5271
+    bbox:
+    - 136
+    - 236
+    - 45
+    - 180
+    category_id: 32
+    id: 2303288
+    iscrowd: 0
+  - area: 9127
+    bbox:
+    - 2
+    - 442
+    - 325
+    - 52
+    category_id: 67
+    id: 2107213
+    iscrowd: 0
+  - area: 11257
+    bbox:
+    - 220
+    - 65
+    - 151
+    - 126
+    category_id: 72
+    id: 6446690
+    iscrowd: 0
+  - area: 444
+    bbox:
+    - 36
+    - 440
+    - 35
+    - 24
+    category_id: 77
+    id: 3552591
+    iscrowd: 0
+  - area: 1737
+    bbox:
+    - 0
+    - 86
+    - 63
+    - 42
+    category_id: 130
+    id: 13102837
+    iscrowd: 0
+  - area: 149
+    bbox:
+    - 0
+    - 237
+    - 10
+    - 29
+    category_id: 177
+    id: 1581387
+    iscrowd: 0
+  - area: 2749
+    bbox:
+    - 0
+    - 433
+    - 340
+    - 67
+    category_id: 189
+    id: 2173519
+    iscrowd: 0
+  - area: 41521
+    bbox:
+    - 0
+    - 0
+    - 375
+    - 293
+    category_id: 199
+    id: 2043967
+    iscrowd: 0
+- file_name: 000000006771.png
+  image_id: 6771
+  segments_info:
+  - area: 33197
+    bbox:
+    - 1
+    - 0
+    - 246
+    - 422
+    category_id: 1
+    id: 4607329
+    iscrowd: 0
+  - area: 5877
+    bbox:
+    - 533
+    - 128
+    - 107
+    - 199
+    category_id: 1
+    id: 9146550
+    iscrowd: 0
+  - area: 11413
+    bbox:
+    - 65
+    - 187
+    - 158
+    - 162
+    category_id: 1
+    id: 8817829
+    iscrowd: 0
+  - area: 17309
+    bbox:
+    - 534
+    - 173
+    - 106
+    - 245
+    category_id: 1
+    id: 3947437
+    iscrowd: 0
+  - area: 6240
+    bbox:
+    - 387
+    - 132
+    - 93
+    - 97
+    category_id: 1
+    id: 5397111
+    iscrowd: 0
+  - area: 50334
+    bbox:
+    - 188
+    - 101
+    - 250
+    - 326
+    category_id: 1
+    id: 5333115
+    iscrowd: 0
+  - area: 31866
+    bbox:
+    - 387
+    - 156
+    - 184
+    - 271
+    category_id: 1
+    id: 4868696
+    iscrowd: 0
+  - area: 4365
+    bbox:
+    - 102
+    - 146
+    - 100
+    - 82
+    category_id: 1
+    id: 7044506
+    iscrowd: 0
+  - area: 649
+    bbox:
+    - 267
+    - 264
+    - 33
+    - 42
+    category_id: 77
+    id: 1513499
+    iscrowd: 0
+  - area: 103619
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 294
+    category_id: 197
+    id: 11118753
+    iscrowd: 0
+- file_name: 000000006818.png
+  image_id: 6818
+  segments_info:
+  - area: 3762
+    bbox:
+    - 187
+    - 472
+    - 101
+    - 56
+    category_id: 70
+    id: 8941399
+    iscrowd: 0
+  - area: 1602
+    bbox:
+    - 392
+    - 562
+    - 35
+    - 78
+    category_id: 112
+    id: 3484191
+    iscrowd: 0
+  - area: 145915
+    bbox:
+    - 0
+    - 0
+    - 427
+    - 640
+    category_id: 176
+    id: 11837319
+    iscrowd: 0
+  - area: 30316
+    bbox:
+    - 201
+    - 0
+    - 226
+    - 152
+    category_id: 181
+    id: 1643791
+    iscrowd: 0
+  - area: 43037
+    bbox:
+    - 46
+    - 435
+    - 366
+    - 205
+    category_id: 190
+    id: 4604215
+    iscrowd: 0
+- file_name: 000000006894.png
+  image_id: 6894
+  segments_info:
+  - area: 97637
+    bbox:
+    - 294
+    - 20
+    - 346
+    - 460
+    category_id: 1
+    id: 8751767
+    iscrowd: 0
+  - area: 131442
+    bbox:
+    - 0
+    - 86
+    - 639
+    - 389
+    category_id: 22
+    id: 5395804
+    iscrowd: 0
+  - area: 13388
+    bbox:
+    - 13
+    - 0
+    - 627
+    - 54
+    category_id: 187
+    id: 16711165
+    iscrowd: 0
+  - area: 59540
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 210
+    category_id: 192
+    id: 12694940
+    iscrowd: 0
+- file_name: 000000006954.png
+  image_id: 6954
+  segments_info:
+  - area: 12556
+    bbox:
+    - 197
+    - 124
+    - 172
+    - 248
+    category_id: 1
+    id: 5662597
+    iscrowd: 0
+  - area: 18663
+    bbox:
+    - 359
+    - 118
+    - 281
+    - 268
+    category_id: 1
+    id: 6447465
+    iscrowd: 0
+  - area: 8288
+    bbox:
+    - 363
+    - 151
+    - 87
+    - 165
+    category_id: 1
+    id: 8620705
+    iscrowd: 0
+  - area: 40351
+    bbox:
+    - 1
+    - 108
+    - 163
+    - 345
+    category_id: 1
+    id: 5921417
+    iscrowd: 0
+  - area: 14090
+    bbox:
+    - 145
+    - 137
+    - 123
+    - 193
+    category_id: 1
+    id: 6845833
+    iscrowd: 0
+  - area: 9914
+    bbox:
+    - 248
+    - 224
+    - 117
+    - 123
+    category_id: 34
+    id: 12436933
+    iscrowd: 0
+  - area: 16079
+    bbox:
+    - 457
+    - 230
+    - 145
+    - 143
+    category_id: 34
+    id: 14277083
+    iscrowd: 0
+  - area: 76301
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 266
+    category_id: 184
+    id: 8227459
+    iscrowd: 0
+  - area: 34099
+    bbox:
+    - 338
+    - 0
+    - 302
+    - 181
+    category_id: 187
+    id: 16514043
+    iscrowd: 0
+  - area: 74039
+    bbox:
+    - 0
+    - 230
+    - 640
+    - 250
+    category_id: 193
+    id: 5476734
+    iscrowd: 0
+- file_name: 000000007088.png
+  image_id: 7088
+  segments_info:
+  - area: 16332
+    bbox:
+    - 179
+    - 210
+    - 98
+    - 252
+    category_id: 1
+    id: 3941741
+    iscrowd: 0
+  - area: 89
+    bbox:
+    - 47
+    - 182
+    - 12
+    - 10
+    category_id: 3
+    id: 11774884
+    iscrowd: 0
+  - area: 2389
+    bbox:
+    - 230
+    - 152
+    - 139
+    - 36
+    category_id: 8
+    id: 9732253
+    iscrowd: 0
+  - area: 9700
+    bbox:
+    - 82
+    - 173
+    - 222
+    - 96
+    category_id: 28
+    id: 11374732
+    iscrowd: 0
+  - area: 13581
+    bbox:
+    - 22
+    - 82
+    - 456
+    - 114
+    category_id: 128
+    id: 13090487
+    iscrowd: 0
+  - area: 3058
+    bbox:
+    - 0
+    - 186
+    - 136
+    - 51
+    category_id: 149
+    id: 15461348
+    iscrowd: 0
+  - area: 98598
+    bbox:
+    - 0
+    - 0
+    - 478
+    - 395
+    category_id: 184
+    id: 6713455
+    iscrowd: 0
+  - area: 29198
+    bbox:
+    - 0
+    - 0
+    - 478
+    - 192
+    category_id: 187
+    id: 16055029
+    iscrowd: 0
+  - area: 131583
+    bbox:
+    - 0
+    - 214
+    - 478
+    - 426
+    category_id: 191
+    id: 10000795
+    iscrowd: 0
+  - area: 818
+    bbox:
+    - 415
+    - 212
+    - 63
+    - 18
+    category_id: 193
+    id: 6143646
+    iscrowd: 0
+- file_name: 000000007108.png
+  image_id: 7108
+  segments_info:
+  - area: 7301
+    bbox:
+    - 568
+    - 50
+    - 69
+    - 323
+    category_id: 22
+    id: 3954842
+    iscrowd: 0
+  - area: 2630
+    bbox:
+    - 121
+    - 219
+    - 83
+    - 127
+    category_id: 22
+    id: 2240855
+    iscrowd: 0
+  - area: 60938
+    bbox:
+    - 401
+    - 77
+    - 230
+    - 349
+    category_id: 22
+    id: 3162214
+    iscrowd: 0
+  - area: 89557
+    bbox:
+    - 126
+    - 26
+    - 292
+    - 395
+    category_id: 22
+    id: 4148328
+    iscrowd: 0
+  - area: 10181
+    bbox:
+    - 339
+    - 1
+    - 165
+    - 92
+    category_id: 22
+    id: 4016503
+    iscrowd: 0
+  - area: 8008
+    bbox:
+    - 0
+    - 191
+    - 165
+    - 89
+    category_id: 154
+    id: 8360354
+    iscrowd: 0
+  - area: 9308
+    bbox:
+    - 0
+    - 253
+    - 204
+    - 97
+    category_id: 178
+    id: 8295330
+    iscrowd: 0
+  - area: 10443
+    bbox:
+    - 0
+    - 119
+    - 136
+    - 115
+    category_id: 184
+    id: 5730407
+    iscrowd: 0
+  - area: 37077
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 151
+    category_id: 187
+    id: 15722718
+    iscrowd: 0
+  - area: 5552
+    bbox:
+    - 0
+    - 292
+    - 120
+    - 76
+    category_id: 193
+    id: 5338997
+    iscrowd: 0
+  - area: 28087
+    bbox:
+    - 0
+    - 285
+    - 640
+    - 141
+    category_id: 194
+    id: 4545940
+    iscrowd: 0
+- file_name: 000000007278.png
+  image_id: 7278
+  segments_info:
+  - area: 5792
+    bbox:
+    - 190
+    - 59
+    - 122
+    - 95
+    category_id: 1
+    id: 6973051
+    iscrowd: 0
+  - area: 1917
+    bbox:
+    - 284
+    - 58
+    - 54
+    - 61
+    category_id: 42
+    id: 12960199
+    iscrowd: 0
+  - area: 300666
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 482
+    category_id: 155
+    id: 8685436
+    iscrowd: 0
+- file_name: 000000007281.png
+  image_id: 7281
+  segments_info:
+  - area: 41
+    bbox:
+    - 573
+    - 202
+    - 7
+    - 11
+    category_id: 1
+    id: 6053478
+    iscrowd: 0
+  - area: 1058
+    bbox:
+    - 0
+    - 226
+    - 34
+    - 45
+    category_id: 1
+    id: 4275773
+    iscrowd: 0
+  - area: 54
+    bbox:
+    - 601
+    - 203
+    - 6
+    - 12
+    category_id: 1
+    id: 7039340
+    iscrowd: 0
+  - area: 13
+    bbox:
+    - 535
+    - 209
+    - 3
+    - 5
+    category_id: 1
+    id: 4407618
+    iscrowd: 0
+  - area: 4690
+    bbox:
+    - 345
+    - 133
+    - 128
+    - 166
+    category_id: 1
+    id: 7958897
+    iscrowd: 0
+  - area: 215
+    bbox:
+    - 551
+    - 193
+    - 18
+    - 29
+    category_id: 1
+    id: 5987173
+    iscrowd: 0
+  - area: 22
+    bbox:
+    - 256
+    - 200
+    - 6
+    - 7
+    category_id: 1
+    id: 5855071
+    iscrowd: 0
+  - area: 58
+    bbox:
+    - 593
+    - 204
+    - 8
+    - 12
+    category_id: 1
+    id: 5723217
+    iscrowd: 0
+  - area: 15
+    bbox:
+    - 635
+    - 210
+    - 4
+    - 5
+    category_id: 1
+    id: 7236714
+    iscrowd: 0
+  - area: 2846
+    bbox:
+    - 465
+    - 122
+    - 63
+    - 74
+    category_id: 1
+    id: 8286578
+    iscrowd: 0
+  - area: 6596
+    bbox:
+    - 350
+    - 189
+    - 111
+    - 168
+    category_id: 19
+    id: 6777710
+    iscrowd: 0
+  - area: 6411
+    bbox:
+    - 472
+    - 182
+    - 77
+    - 173
+    category_id: 19
+    id: 2305346
+    iscrowd: 0
+  - area: 71956
+    bbox:
+    - 0
+    - 215
+    - 640
+    - 146
+    category_id: 154
+    id: 8029581
+    iscrowd: 0
+  - area: 25151
+    bbox:
+    - 0
+    - 167
+    - 640
+    - 72
+    category_id: 155
+    id: 10260594
+    iscrowd: 0
+  - area: 108693
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 186
+    category_id: 187
+    id: 14007968
+    iscrowd: 0
+- file_name: 000000007386.png
+  image_id: 7386
+  segments_info:
+  - area: 2274
+    bbox:
+    - 222
+    - 101
+    - 68
+    - 65
+    category_id: 2
+    id: 855829
+    iscrowd: 0
+  - area: 1553
+    bbox:
+    - 219
+    - 159
+    - 61
+    - 55
+    category_id: 2
+    id: 1052693
+    iscrowd: 0
+  - area: 89091
+    bbox:
+    - 51
+    - 13
+    - 549
+    - 387
+    category_id: 4
+    id: 6252397
+    iscrowd: 0
+  - area: 4969
+    bbox:
+    - 399
+    - 145
+    - 121
+    - 90
+    category_id: 8
+    id: 4604474
+    iscrowd: 0
+  - area: 1208
+    bbox:
+    - 181
+    - 281
+    - 38
+    - 46
+    category_id: 18
+    id: 4807530
+    iscrowd: 0
+  - area: 11959
+    bbox:
+    - 0
+    - 263
+    - 600
+    - 137
+    category_id: 125
+    id: 8950678
+    iscrowd: 0
+  - area: 58528
+    bbox:
+    - 0
+    - 0
+    - 331
+    - 222
+    category_id: 128
+    id: 2700085
+    iscrowd: 0
+  - area: 34892
+    bbox:
+    - 0
+    - 0
+    - 600
+    - 241
+    category_id: 184
+    id: 3559496
+    iscrowd: 0
+  - area: 2352
+    bbox:
+    - 550
+    - 0
+    - 50
+    - 63
+    category_id: 187
+    id: 14402211
+    iscrowd: 0
+  - area: 30282
+    bbox:
+    - 0
+    - 224
+    - 600
+    - 176
+    category_id: 193
+    id: 4218974
+    iscrowd: 0
+- file_name: 000000007511.png
+  image_id: 7511
+  segments_info:
+  - area: 238
+    bbox:
+    - 269
+    - 273
+    - 13
+    - 32
+    category_id: 1
+    id: 9080727
+    iscrowd: 0
+  - area: 64
+    bbox:
+    - 623
+    - 281
+    - 7
+    - 15
+    category_id: 1
+    id: 4145209
+    iscrowd: 0
+  - area: 25
+    bbox:
+    - 386
+    - 274
+    - 6
+    - 8
+    category_id: 1
+    id: 4804456
+    iscrowd: 0
+  - area: 55
+    bbox:
+    - 593
+    - 273
+    - 5
+    - 15
+    category_id: 1
+    id: 6977928
+    iscrowd: 0
+  - area: 67
+    bbox:
+    - 511
+    - 287
+    - 9
+    - 12
+    category_id: 1
+    id: 11581124
+    iscrowd: 0
+  - area: 115
+    bbox:
+    - 523
+    - 276
+    - 9
+    - 21
+    category_id: 1
+    id: 11125452
+    iscrowd: 0
+  - area: 65
+    bbox:
+    - 606
+    - 297
+    - 10
+    - 12
+    category_id: 1
+    id: 7172218
+    iscrowd: 0
+  - area: 83
+    bbox:
+    - 615
+    - 298
+    - 15
+    - 11
+    category_id: 1
+    id: 5267063
+    iscrowd: 0
+  - area: 105
+    bbox:
+    - 596
+    - 293
+    - 11
+    - 15
+    category_id: 1
+    id: 4610384
+    iscrowd: 0
+  - area: 139
+    bbox:
+    - 239
+    - 282
+    - 13
+    - 24
+    category_id: 1
+    id: 7041146
+    iscrowd: 0
+  - area: 14530
+    bbox:
+    - 386
+    - 241
+    - 123
+    - 231
+    category_id: 1
+    id: 3026996
+    iscrowd: 0
+  - area: 28
+    bbox:
+    - 611
+    - 278
+    - 6
+    - 8
+    category_id: 1
+    id: 7445676
+    iscrowd: 0
+  - area: 58
+    bbox:
+    - 602
+    - 277
+    - 8
+    - 12
+    category_id: 1
+    id: 7443106
+    iscrowd: 0
+  - area: 314
+    bbox:
+    - 337
+    - 272
+    - 268
+    - 29
+    category_id: 1
+    id: 7571088
+    iscrowd: 1
+  - area: 927
+    bbox:
+    - 609
+    - 390
+    - 31
+    - 34
+    category_id: 27
+    id: 8017975
+    iscrowd: 0
+  - area: 75
+    bbox:
+    - 555
+    - 169
+    - 11
+    - 11
+    category_id: 38
+    id: 11245443
+    iscrowd: 0
+  - area: 425
+    bbox:
+    - 205
+    - 127
+    - 16
+    - 33
+    category_id: 38
+    id: 13085301
+    iscrowd: 0
+  - area: 110513
+    bbox:
+    - 0
+    - 246
+    - 640
+    - 234
+    category_id: 154
+    id: 8227481
+    iscrowd: 0
+  - area: 7550
+    bbox:
+    - 0
+    - 268
+    - 311
+    - 51
+    category_id: 155
+    id: 8283727
+    iscrowd: 0
+  - area: 28761
+    bbox:
+    - 0
+    - 189
+    - 640
+    - 110
+    category_id: 184
+    id: 2899255
+    iscrowd: 0
+  - area: 141365
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 239
+    category_id: 187
+    id: 15844002
+    iscrowd: 0
+  - area: 674
+    bbox:
+    - 561
+    - 272
+    - 72
+    - 31
+    category_id: 193
+    id: 4026734
+    iscrowd: 0
+  - area: 310
+    bbox:
+    - 116
+    - 230
+    - 19
+    - 26
+    category_id: 197
+    id: 11253185
+    iscrowd: 0
+- file_name: 000000007574.png
+  image_id: 7574
+  segments_info:
+  - area: 1345
+    bbox:
+    - 483
+    - 299
+    - 27
+    - 82
+    category_id: 44
+    id: 8222834
+    iscrowd: 0
+  - area: 2051
+    bbox:
+    - 501
+    - 306
+    - 32
+    - 83
+    category_id: 44
+    id: 10717273
+    iscrowd: 0
+  - area: 553
+    bbox:
+    - 453
+    - 307
+    - 20
+    - 65
+    category_id: 46
+    id: 4003354
+    iscrowd: 0
+  - area: 793
+    bbox:
+    - 464
+    - 312
+    - 22
+    - 68
+    category_id: 46
+    id: 4264468
+    iscrowd: 0
+  - area: 552
+    bbox:
+    - 103
+    - 75
+    - 50
+    - 14
+    category_id: 51
+    id: 6317671
+    iscrowd: 0
+  - area: 740
+    bbox:
+    - 348
+    - 301
+    - 53
+    - 39
+    category_id: 51
+    id: 4613449
+    iscrowd: 0
+  - area: 4291
+    bbox:
+    - 304
+    - 146
+    - 59
+    - 90
+    category_id: 78
+    id: 3226435
+    iscrowd: 0
+  - area: 6835
+    bbox:
+    - 252
+    - 243
+    - 175
+    - 111
+    category_id: 79
+    id: 2369321
+    iscrowd: 0
+  - area: 10663
+    bbox:
+    - 44
+    - 354
+    - 264
+    - 75
+    category_id: 81
+    id: 7501175
+    iscrowd: 0
+  - area: 22219
+    bbox:
+    - 1
+    - 169
+    - 102
+    - 277
+    category_id: 82
+    id: 8420729
+    iscrowd: 0
+  - area: 651
+    bbox:
+    - 241
+    - 58
+    - 26
+    - 36
+    category_id: 86
+    id: 658958
+    iscrowd: 0
+  - area: 615
+    bbox:
+    - 206
+    - 55
+    - 24
+    - 38
+    category_id: 86
+    id: 1845322
+    iscrowd: 0
+  - area: 5089
+    bbox:
+    - 220
+    - 258
+    - 144
+    - 195
+    category_id: 100
+    id: 5533553
+    iscrowd: 0
+  - area: 41523
+    bbox:
+    - 0
+    - 265
+    - 598
+    - 215
+    category_id: 107
+    id: 3161413
+    iscrowd: 0
+  - area: 30582
+    bbox:
+    - 96
+    - 211
+    - 524
+    - 209
+    category_id: 176
+    id: 9342860
+    iscrowd: 0
+  - area: 18902
+    bbox:
+    - 0
+    - 0
+    - 346
+    - 76
+    category_id: 186
+    id: 3226693
+    iscrowd: 0
+  - area: 86437
+    bbox:
+    - 0
+    - 0
+    - 546
+    - 371
+    category_id: 188
+    id: 5799580
+    iscrowd: 0
+  - area: 6316
+    bbox:
+    - 197
+    - 233
+    - 278
+    - 182
+    category_id: 195
+    id: 9608864
+    iscrowd: 0
+  - area: 51319
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 480
+    category_id: 199
+    id: 6320507
+    iscrowd: 0
+- file_name: 000000007784.png
+  image_id: 7784
+  segments_info:
+  - area: 25243
+    bbox:
+    - 94
+    - 86
+    - 240
+    - 220
+    category_id: 38
+    id: 8881844
+    iscrowd: 0
+  - area: 161927
+    bbox:
+    - 0
+    - 0
+    - 500
+    - 375
+    category_id: 187
+    id: 11893582
+    iscrowd: 0
+- file_name: 000000007795.png
+  image_id: 7795
+  segments_info:
+  - area: 19213
+    bbox:
+    - 164
+    - 190
+    - 319
+    - 121
+    category_id: 65
+    id: 8623005
+    iscrowd: 0
+  - area: 70150
+    bbox:
+    - 1
+    - 191
+    - 454
+    - 227
+    category_id: 65
+    id: 7435899
+    iscrowd: 0
+  - area: 60
+    bbox:
+    - 626
+    - 256
+    - 14
+    - 5
+    category_id: 75
+    id: 3223599
+    iscrowd: 0
+  - area: 86
+    bbox:
+    - 133
+    - 246
+    - 9
+    - 12
+    category_id: 85
+    id: 5062206
+    iscrowd: 0
+  - area: 977
+    bbox:
+    - 0
+    - 195
+    - 292
+    - 126
+    category_id: 93
+    id: 9608354
+    iscrowd: 0
+  - area: 23120
+    bbox:
+    - 507
+    - 77
+    - 118
+    - 231
+    category_id: 112
+    id: 10458772
+    iscrowd: 0
+  - area: 21032
+    bbox:
+    - 440
+    - 286
+    - 200
+    - 141
+    category_id: 118
+    id: 3356997
+    iscrowd: 0
+  - area: 5187
+    bbox:
+    - 132
+    - 97
+    - 212
+    - 133
+    category_id: 130
+    id: 8825019
+    iscrowd: 0
+  - area: 1930
+    bbox:
+    - 0
+    - 321
+    - 187
+    - 106
+    category_id: 168
+    id: 2895157
+    iscrowd: 0
+  - area: 14838
+    bbox:
+    - 334
+    - 90
+    - 148
+    - 122
+    category_id: 181
+    id: 10464177
+    iscrowd: 0
+  - area: 34100
+    bbox:
+    - 173
+    - 0
+    - 467
+    - 98
+    category_id: 186
+    id: 7767436
+    iscrowd: 0
+  - area: 3418
+    bbox:
+    - 595
+    - 252
+    - 45
+    - 121
+    category_id: 188
+    id: 1580066
+    iscrowd: 0
+  - area: 59142
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 291
+    category_id: 199
+    id: 7441298
+    iscrowd: 0
+- file_name: 000000007816.png
+  image_id: 7816
+  segments_info:
+  - area: 1547
+    bbox:
+    - 416
+    - 123
+    - 64
+    - 53
+    category_id: 1
+    id: 6111612
+    iscrowd: 0
+  - area: 1553
+    bbox:
+    - 491
+    - 56
+    - 28
+    - 107
+    category_id: 1
+    id: 3292479
+    iscrowd: 0
+  - area: 1554
+    bbox:
+    - 506
+    - 53
+    - 38
+    - 112
+    category_id: 1
+    id: 3160130
+    iscrowd: 0
+  - area: 500
+    bbox:
+    - 386
+    - 147
+    - 33
+    - 22
+    category_id: 1
+    id: 12368560
+    iscrowd: 0
+  - area: 209
+    bbox:
+    - 573
+    - 54
+    - 25
+    - 27
+    category_id: 1
+    id: 11909576
+    iscrowd: 0
+  - area: 2143
+    bbox:
+    - 244
+    - 34
+    - 51
+    - 110
+    category_id: 1
+    id: 7306366
+    iscrowd: 0
+  - area: 10260
+    bbox:
+    - 271
+    - 78
+    - 185
+    - 199
+    category_id: 1
+    id: 9276804
+    iscrowd: 0
+  - area: 1217
+    bbox:
+    - 564
+    - 59
+    - 23
+    - 115
+    category_id: 1
+    id: 2962254
+    iscrowd: 0
+  - area: 681
+    bbox:
+    - 363
+    - 108
+    - 22
+    - 41
+    category_id: 1
+    id: 9739425
+    iscrowd: 0
+  - area: 2061
+    bbox:
+    - 581
+    - 47
+    - 41
+    - 139
+    category_id: 1
+    id: 4350327
+    iscrowd: 0
+  - area: 27529
+    bbox:
+    - 241
+    - 153
+    - 226
+    - 207
+    category_id: 4
+    id: 8882303
+    iscrowd: 0
+  - area: 71596
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 427
+    category_id: 149
+    id: 8160654
+    iscrowd: 0
+  - area: 6948
+    bbox:
+    - 406
+    - 44
+    - 226
+    - 146
+    category_id: 185
+    id: 4874594
+    iscrowd: 0
+  - area: 138752
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 349
+    category_id: 193
+    id: 4753016
+    iscrowd: 0
+- file_name: 000000007818.png
+  image_id: 7818
+  segments_info:
+  - area: 8741
+    bbox:
+    - 333
+    - 159
+    - 80
+    - 194
+    category_id: 46
+    id: 9737884
+    iscrowd: 0
+  - area: 2302
+    bbox:
+    - 400
+    - 187
+    - 43
+    - 98
+    category_id: 46
+    id: 4999232
+    iscrowd: 0
+  - area: 7159
+    bbox:
+    - 137
+    - 150
+    - 91
+    - 180
+    category_id: 46
+    id: 8947077
+    iscrowd: 0
+  - area: 329
+    bbox:
+    - 122
+    - 305
+    - 47
+    - 28
+    category_id: 48
+    id: 8092809
+    iscrowd: 0
+  - area: 1741
+    bbox:
+    - 461
+    - 314
+    - 179
+    - 44
+    category_id: 49
+    id: 5788503
+    iscrowd: 0
+  - area: 302
+    bbox:
+    - 211
+    - 266
+    - 72
+    - 8
+    category_id: 49
+    id: 9998992
+    iscrowd: 0
+  - area: 507
+    bbox:
+    - 448
+    - 265
+    - 106
+    - 17
+    category_id: 49
+    id: 5263439
+    iscrowd: 0
+  - area: 3881
+    bbox:
+    - 8
+    - 260
+    - 107
+    - 50
+    category_id: 62
+    id: 1250068
+    iscrowd: 0
+  - area: 779
+    bbox:
+    - 616
+    - 274
+    - 24
+    - 44
+    category_id: 62
+    id: 788742
+    iscrowd: 0
+  - area: 77355
+    bbox:
+    - 0
+    - 77
+    - 640
+    - 350
+    category_id: 67
+    id: 7697011
+    iscrowd: 0
+  - area: 4425
+    bbox:
+    - 288
+    - 216
+    - 70
+    - 99
+    category_id: 86
+    id: 8887465
+    iscrowd: 0
+  - area: 54509
+    bbox:
+    - 89
+    - 31
+    - 551
+    - 284
+    category_id: 181
+    id: 2766139
+    iscrowd: 0
+  - area: 98061
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 332
+    category_id: 199
+    id: 328963
+    iscrowd: 0
+- file_name: 000000007888.png
+  image_id: 7888
+  segments_info:
+  - area: 10276
+    bbox:
+    - 184
+    - 250
+    - 118
+    - 167
+    category_id: 85
+    id: 11579568
+    iscrowd: 0
+  - area: 14102
+    bbox:
+    - 319
+    - 243
+    - 151
+    - 160
+    category_id: 85
+    id: 10987431
+    iscrowd: 0
+  - area: 135531
+    bbox:
+    - 0
+    - 318
+    - 638
+    - 322
+    category_id: 187
+    id: 14540253
+    iscrowd: 0
+  - area: 197605
+    bbox:
+    - 0
+    - 0
+    - 638
+    - 402
+    category_id: 193
+    id: 13355979
+    iscrowd: 0
+- file_name: 000000007977.png
+  image_id: 7977
+  segments_info:
+  - area: 51
+    bbox:
+    - 67
+    - 210
+    - 7
+    - 14
+    category_id: 1
+    id: 10330022
+    iscrowd: 0
+  - area: 34
+    bbox:
+    - 39
+    - 213
+    - 4
+    - 11
+    category_id: 1
+    id: 7293743
+    iscrowd: 0
+  - area: 61
+    bbox:
+    - 80
+    - 208
+    - 7
+    - 17
+    category_id: 1
+    id: 9144719
+    iscrowd: 0
+  - area: 61
+    bbox:
+    - 43
+    - 210
+    - 7
+    - 14
+    category_id: 1
+    id: 11446694
+    iscrowd: 0
+  - area: 12934
+    bbox:
+    - 104
+    - 145
+    - 159
+    - 276
+    category_id: 1
+    id: 5855070
+    iscrowd: 0
+  - area: 1201
+    bbox:
+    - 200
+    - 346
+    - 68
+    - 81
+    category_id: 41
+    id: 8223103
+    iscrowd: 0
+  - area: 1683
+    bbox:
+    - 20
+    - 181
+    - 108
+    - 44
+    category_id: 166
+    id: 7694683
+    iscrowd: 0
+  - area: 78738
+    bbox:
+    - 0
+    - 0
+    - 429
+    - 239
+    category_id: 184
+    id: 4412230
+    iscrowd: 0
+  - area: 9146
+    bbox:
+    - 0
+    - 0
+    - 123
+    - 109
+    category_id: 187
+    id: 14343636
+    iscrowd: 0
+  - area: 97906
+    bbox:
+    - 0
+    - 405
+    - 429
+    - 235
+    category_id: 190
+    id: 10790328
+    iscrowd: 0
+  - area: 67090
+    bbox:
+    - 0
+    - 192
+    - 429
+    - 231
+    category_id: 191
+    id: 13357007
+    iscrowd: 0
+  - area: 580
+    bbox:
+    - 50
+    - 187
+    - 40
+    - 32
+    category_id: 193
+    id: 6978410
+    iscrowd: 0
+  - area: 4124
+    bbox:
+    - 235
+    - 208
+    - 194
+    - 36
+    category_id: 199
+    id: 6183519
+    iscrowd: 0
+- file_name: 000000007991.png
+  image_id: 7991
+  segments_info:
+  - area: 2005
+    bbox:
+    - 7
+    - 116
+    - 144
+    - 43
+    category_id: 49
+    id: 1315612
+    iscrowd: 0
+  - area: 2874
+    bbox:
+    - 1
+    - 157
+    - 146
+    - 100
+    category_id: 49
+    id: 2368294
+    iscrowd: 0
+  - area: 52423
+    bbox:
+    - 171
+    - 70
+    - 310
+    - 270
+    category_id: 57
+    id: 2512052
+    iscrowd: 0
+  - area: 17177
+    bbox:
+    - 0
+    - 0
+    - 613
+    - 311
+    category_id: 196
+    id: 4216152
+    iscrowd: 0
+- file_name: 000000008021.png
+  image_id: 8021
+  segments_info:
+  - area: 50765
+    bbox:
+    - 3
+    - 255
+    - 306
+    - 224
+    category_id: 1
+    id: 920627
+    iscrowd: 0
+  - area: 32673
+    bbox:
+    - 244
+    - 101
+    - 197
+    - 267
+    category_id: 1
+    id: 4606360
+    iscrowd: 0
+  - area: 28481
+    bbox:
+    - 436
+    - 285
+    - 204
+    - 195
+    category_id: 1
+    id: 197642
+    iscrowd: 0
+  - area: 1279
+    bbox:
+    - 318
+    - 198
+    - 22
+    - 100
+    category_id: 32
+    id: 5986702
+    iscrowd: 0
+  - area: 71
+    bbox:
+    - 432
+    - 369
+    - 5
+    - 17
+    category_id: 44
+    id: 7638456
+    iscrowd: 0
+  - area: 108
+    bbox:
+    - 437
+    - 369
+    - 8
+    - 17
+    category_id: 44
+    id: 7573177
+    iscrowd: 0
+  - area: 111
+    bbox:
+    - 444
+    - 368
+    - 8
+    - 18
+    category_id: 44
+    id: 7968703
+    iscrowd: 0
+  - area: 39378
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 110
+    category_id: 186
+    id: 1711164
+    iscrowd: 0
+  - area: 3619
+    bbox:
+    - 378
+    - 375
+    - 99
+    - 57
+    category_id: 189
+    id: 6187628
+    iscrowd: 0
+  - area: 140335
+    bbox:
+    - 0
+    - 13
+    - 640
+    - 446
+    category_id: 199
+    id: 9798508
+    iscrowd: 0
+- file_name: 000000008211.png
+  image_id: 8211
+  segments_info:
+  - area: 6760
+    bbox:
+    - 412
+    - 181
+    - 67
+    - 164
+    category_id: 1
+    id: 6575450
+    iscrowd: 0
+  - area: 6998
+    bbox:
+    - 329
+    - 203
+    - 81
+    - 151
+    category_id: 1
+    id: 10584960
+    iscrowd: 0
+  - area: 1158
+    bbox:
+    - 308
+    - 190
+    - 46
+    - 68
+    category_id: 2
+    id: 3687258
+    iscrowd: 0
+  - area: 8722
+    bbox:
+    - 141
+    - 161
+    - 111
+    - 150
+    category_id: 4
+    id: 3158845
+    iscrowd: 0
+  - area: 373
+    bbox:
+    - 412
+    - 283
+    - 37
+    - 56
+    category_id: 62
+    id: 1711655
+    iscrowd: 0
+  - area: 791
+    bbox:
+    - 322
+    - 251
+    - 56
+    - 94
+    category_id: 62
+    id: 5527921
+    iscrowd: 0
+  - area: 50949
+    bbox:
+    - 0
+    - 0
+    - 613
+    - 218
+    category_id: 92
+    id: 8813423
+    iscrowd: 0
+  - area: 90098
+    bbox:
+    - 0
+    - 254
+    - 640
+    - 205
+    category_id: 149
+    id: 7765128
+    iscrowd: 0
+  - area: 3551
+    bbox:
+    - 485
+    - 14
+    - 155
+    - 153
+    category_id: 181
+    id: 659229
+    iscrowd: 0
+  - area: 26605
+    bbox:
+    - 0
+    - 200
+    - 640
+    - 147
+    category_id: 191
+    id: 4082265
+    iscrowd: 0
+  - area: 820
+    bbox:
+    - 337
+    - 7
+    - 28
+    - 48
+    category_id: 197
+    id: 11451844
+    iscrowd: 0
+  - area: 53674
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 276
+    category_id: 199
+    id: 5330784
+    iscrowd: 0
+- file_name: 000000008277.png
+  image_id: 8277
+  segments_info:
+  - area: 11420
+    bbox:
+    - 387
+    - 84
+    - 225
+    - 309
+    category_id: 48
+    id: 6712961
+    iscrowd: 0
+  - area: 189144
+    bbox:
+    - 0
+    - 71
+    - 610
+    - 541
+    category_id: 51
+    id: 6720423
+    iscrowd: 0
+  - area: 66487
+    bbox:
+    - 19
+    - 34
+    - 443
+    - 327
+    category_id: 51
+    id: 795690
+    iscrowd: 0
+  - area: 3958
+    bbox:
+    - 121
+    - 159
+    - 97
+    - 84
+    category_id: 56
+    id: 1137766
+    iscrowd: 0
+  - area: 3095
+    bbox:
+    - 258
+    - 227
+    - 88
+    - 71
+    category_id: 56
+    id: 1072752
+    iscrowd: 0
+  - area: 3957
+    bbox:
+    - 203
+    - 83
+    - 80
+    - 85
+    category_id: 56
+    id: 1333093
+    iscrowd: 0
+  - area: 2347
+    bbox:
+    - 279
+    - 151
+    - 101
+    - 67
+    category_id: 56
+    id: 1334115
+    iscrowd: 0
+  - area: 4890
+    bbox:
+    - 271
+    - 183
+    - 92
+    - 74
+    category_id: 56
+    id: 674121
+    iscrowd: 0
+  - area: 1593
+    bbox:
+    - 291
+    - 99
+    - 62
+    - 70
+    category_id: 56
+    id: 933954
+    iscrowd: 0
+  - area: 1635
+    bbox:
+    - 269
+    - 120
+    - 51
+    - 53
+    category_id: 56
+    id: 742223
+    iscrowd: 0
+  - area: 923
+    bbox:
+    - 360
+    - 211
+    - 26
+    - 54
+    category_id: 56
+    id: 868153
+    iscrowd: 0
+  - area: 2726
+    bbox:
+    - 209
+    - 163
+    - 70
+    - 107
+    category_id: 56
+    id: 677721
+    iscrowd: 0
+  - area: 2820
+    bbox:
+    - 195
+    - 254
+    - 75
+    - 62
+    category_id: 56
+    id: 941410
+    iscrowd: 0
+- file_name: 000000008532.png
+  image_id: 8532
+  segments_info:
+  - area: 94560
+    bbox:
+    - 156
+    - 10
+    - 484
+    - 416
+    category_id: 1
+    id: 6968923
+    iscrowd: 0
+  - area: 2993
+    bbox:
+    - 418
+    - 371
+    - 81
+    - 55
+    category_id: 32
+    id: 3942019
+    iscrowd: 0
+  - area: 22805
+    bbox:
+    - 0
+    - 288
+    - 640
+    - 138
+    category_id: 190
+    id: 14929880
+    iscrowd: 0
+  - area: 129528
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 359
+    category_id: 197
+    id: 7434616
+    iscrowd: 0
+  - area: 22612
+    bbox:
+    - 221
+    - 0
+    - 419
+    - 191
+    category_id: 199
+    id: 11445650
+    iscrowd: 0
+- file_name: 000000008629.png
+  image_id: 8629
+  segments_info:
+  - area: 535
+    bbox:
+    - 593
+    - 285
+    - 29
+    - 52
+    category_id: 48
+    id: 4813965
+    iscrowd: 0
+  - area: 16924
+    bbox:
+    - 45
+    - 426
+    - 138
+    - 177
+    category_id: 59
+    id: 1669559
+    iscrowd: 0
+  - area: 17568
+    bbox:
+    - 232
+    - 434
+    - 192
+    - 191
+    category_id: 59
+    id: 2790841
+    iscrowd: 0
+  - area: 13634
+    bbox:
+    - 436
+    - 430
+    - 169
+    - 150
+    category_id: 59
+    id: 4172496
+    iscrowd: 0
+  - area: 17773
+    bbox:
+    - 430
+    - 20
+    - 191
+    - 168
+    category_id: 59
+    id: 1266812
+    iscrowd: 0
+  - area: 97015
+    bbox:
+    - 21
+    - 14
+    - 393
+    - 331
+    category_id: 59
+    id: 555711
+    iscrowd: 0
+  - area: 19063
+    bbox:
+    - 430
+    - 231
+    - 192
+    - 164
+    category_id: 59
+    id: 3113384
+    iscrowd: 0
+  - area: 2744
+    bbox:
+    - 224
+    - 223
+    - 254
+    - 234
+    category_id: 189
+    id: 2975893
+    iscrowd: 0
+  - area: 218737
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 640
+    category_id: 196
+    id: 10798809
+    iscrowd: 0
+- file_name: 000000008690.png
+  image_id: 8690
+  segments_info:
+  - area: 5002
+    bbox:
+    - 380
+    - 390
+    - 257
+    - 84
+    category_id: 1
+    id: 5855326
+    iscrowd: 0
+  - area: 43892
+    bbox:
+    - 137
+    - 19
+    - 215
+    - 366
+    category_id: 1
+    id: 8945058
+    iscrowd: 0
+  - area: 8203
+    bbox:
+    - 74
+    - 10
+    - 102
+    - 292
+    category_id: 1
+    id: 13227988
+    iscrowd: 0
+  - area: 25674
+    bbox:
+    - 286
+    - 73
+    - 231
+    - 324
+    category_id: 1
+    id: 8025999
+    iscrowd: 0
+  - area: 30153
+    bbox:
+    - 53
+    - 309
+    - 586
+    - 171
+    category_id: 20
+    id: 11577766
+    iscrowd: 0
+  - area: 7566
+    bbox:
+    - 0
+    - 52
+    - 614
+    - 99
+    category_id: 128
+    id: 13882064
+    iscrowd: 0
+  - area: 28797
+    bbox:
+    - 0
+    - 10
+    - 640
+    - 158
+    category_id: 184
+    id: 11718858
+    iscrowd: 0
+  - area: 3340
+    bbox:
+    - 0
+    - 103
+    - 524
+    - 136
+    category_id: 185
+    id: 13425113
+    iscrowd: 0
+  - area: 38137
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 108
+    category_id: 187
+    id: 16579579
+    iscrowd: 0
+  - area: 31843
+    bbox:
+    - 0
+    - 228
+    - 640
+    - 165
+    category_id: 191
+    id: 15527406
+    iscrowd: 0
+  - area: 36547
+    bbox:
+    - 0
+    - 158
+    - 640
+    - 322
+    category_id: 193
+    id: 11919320
+    iscrowd: 0
+- file_name: 000000008762.png
+  image_id: 8762
+  segments_info:
+  - area: 83
+    bbox:
+    - 109
+    - 285
+    - 13
+    - 7
+    category_id: 3
+    id: 6453647
+    iscrowd: 0
+  - area: 565
+    bbox:
+    - 0
+    - 280
+    - 28
+    - 23
+    category_id: 3
+    id: 3159612
+    iscrowd: 0
+  - area: 1203
+    bbox:
+    - 58
+    - 86
+    - 21
+    - 61
+    category_id: 10
+    id: 2237207
+    iscrowd: 0
+  - area: 787
+    bbox:
+    - 495
+    - 179
+    - 20
+    - 41
+    category_id: 10
+    id: 263176
+    iscrowd: 0
+  - area: 143
+    bbox:
+    - 504
+    - 231
+    - 14
+    - 11
+    category_id: 10
+    id: 663883
+    iscrowd: 0
+  - area: 784
+    bbox:
+    - 163
+    - 106
+    - 23
+    - 39
+    category_id: 10
+    id: 4671787
+    iscrowd: 0
+  - area: 122
+    bbox:
+    - 485
+    - 229
+    - 9
+    - 17
+    category_id: 10
+    id: 724498
+    iscrowd: 0
+  - area: 164021
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 288
+    category_id: 187
+    id: 4275256
+    iscrowd: 0
+  - area: 88213
+    bbox:
+    - 0
+    - 281
+    - 640
+    - 146
+    category_id: 191
+    id: 198158
+    iscrowd: 0
+  - area: 17209
+    bbox:
+    - 0
+    - 245
+    - 640
+    - 48
+    category_id: 197
+    id: 461070
+    iscrowd: 0
+- file_name: 000000008844.png
+  image_id: 8844
+  segments_info:
+  - area: 1101
+    bbox:
+    - 341
+    - 187
+    - 27
+    - 61
+    category_id: 1
+    id: 5459025
+    iscrowd: 0
+  - area: 25248
+    bbox:
+    - 357
+    - 58
+    - 224
+    - 218
+    category_id: 1
+    id: 4869984
+    iscrowd: 0
+  - area: 818
+    bbox:
+    - 293
+    - 184
+    - 42
+    - 44
+    category_id: 1
+    id: 1447448
+    iscrowd: 0
+  - area: 18740
+    bbox:
+    - 371
+    - 244
+    - 172
+    - 140
+    category_id: 52
+    id: 5479347
+    iscrowd: 0
+  - area: 1416
+    bbox:
+    - 534
+    - 242
+    - 30
+    - 79
+    category_id: 52
+    id: 3709110
+    iscrowd: 0
+  - area: 82976
+    bbox:
+    - 0
+    - 116
+    - 387
+    - 301
+    category_id: 52
+    id: 5279654
+    iscrowd: 0
+  - area: 8288
+    bbox:
+    - 544
+    - 259
+    - 94
+    - 134
+    category_id: 52
+    id: 5281710
+    iscrowd: 0
+  - area: 5737
+    bbox:
+    - 0
+    - 305
+    - 556
+    - 121
+    category_id: 122
+    id: 1979717
+    iscrowd: 0
+  - area: 107335
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 337
+    category_id: 128
+    id: 4348784
+    iscrowd: 0
+  - area: 2755
+    bbox:
+    - 608
+    - 0
+    - 32
+    - 107
+    category_id: 187
+    id: 16248549
+    iscrowd: 0
+  - area: 16469
+    bbox:
+    - 0
+    - 354
+    - 640
+    - 72
+    category_id: 189
+    id: 4872303
+    iscrowd: 0
+- file_name: 000000008899.png
+  image_id: 8899
+  segments_info:
+  - area: 2181
+    bbox:
+    - 24
+    - 346
+    - 49
+    - 104
+    category_id: 2
+    id: 5657190
+    iscrowd: 0
+  - area: 2476
+    bbox:
+    - 141
+    - 399
+    - 40
+    - 95
+    category_id: 11
+    id: 5132893
+    iscrowd: 0
+  - area: 3694
+    bbox:
+    - 470
+    - 470
+    - 170
+    - 27
+    category_id: 125
+    id: 4806255
+    iscrowd: 0
+  - area: 234962
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 442
+    category_id: 128
+    id: 5001565
+    iscrowd: 0
+  - area: 13943
+    bbox:
+    - 0
+    - 510
+    - 640
+    - 29
+    category_id: 149
+    id: 8356745
+    iscrowd: 0
+  - area: 47681
+    bbox:
+    - 0
+    - 413
+    - 640
+    - 109
+    category_id: 191
+    id: 9673380
+    iscrowd: 0
+  - area: 39875
+    bbox:
+    - 76
+    - 234
+    - 233
+    - 209
+    category_id: 199
+    id: 9604750
+    iscrowd: 0
+- file_name: 000000009378.png
+  image_id: 9378
+  segments_info:
+  - area: 595
+    bbox:
+    - 32
+    - 363
+    - 28
+    - 27
+    category_id: 1
+    id: 532798
+    iscrowd: 0
+  - area: 449
+    bbox:
+    - 10
+    - 361
+    - 25
+    - 31
+    category_id: 1
+    id: 199701
+    iscrowd: 0
+  - area: 2037
+    bbox:
+    - 491
+    - 322
+    - 46
+    - 69
+    category_id: 1
+    id: 133909
+    iscrowd: 0
+  - area: 465
+    bbox:
+    - 422
+    - 351
+    - 20
+    - 39
+    category_id: 1
+    id: 1521237
+    iscrowd: 0
+  - area: 2924
+    bbox:
+    - 308
+    - 331
+    - 86
+    - 62
+    category_id: 1
+    id: 1254447
+    iscrowd: 0
+  - area: 65217
+    bbox:
+    - 67
+    - 45
+    - 406
+    - 348
+    category_id: 1
+    id: 2635588
+    iscrowd: 0
+  - area: 730
+    bbox:
+    - 522
+    - 319
+    - 29
+    - 39
+    category_id: 1
+    id: 67346
+    iscrowd: 0
+  - area: 1761
+    bbox:
+    - 425
+    - 337
+    - 55
+    - 53
+    category_id: 1
+    id: 599097
+    iscrowd: 0
+  - area: 3020
+    bbox:
+    - 526
+    - 296
+    - 62
+    - 79
+    category_id: 1
+    id: 1290
+    iscrowd: 0
+  - area: 4429
+    bbox:
+    - 191
+    - 217
+    - 169
+    - 41
+    category_id: 34
+    id: 7792604
+    iscrowd: 0
+  - area: 26895
+    bbox:
+    - 0
+    - 270
+    - 600
+    - 130
+    category_id: 171
+    id: 4281949
+    iscrowd: 0
+  - area: 122667
+    bbox:
+    - 0
+    - 0
+    - 600
+    - 303
+    category_id: 186
+    id: 1584431
+    iscrowd: 0
+- file_name: 000000009400.png
+  image_id: 9400
+  segments_info:
+  - area: 16327
+    bbox:
+    - 313
+    - 82
+    - 146
+    - 197
+    category_id: 1
+    id: 1188677
+    iscrowd: 0
+  - area: 5825
+    bbox:
+    - 458
+    - 69
+    - 78
+    - 153
+    category_id: 1
+    id: 329741
+    iscrowd: 0
+  - area: 7142
+    bbox:
+    - 277
+    - 61
+    - 89
+    - 137
+    category_id: 1
+    id: 725280
+    iscrowd: 0
+  - area: 4766
+    bbox:
+    - 3
+    - 95
+    - 102
+    - 98
+    category_id: 1
+    id: 1315611
+    iscrowd: 0
+  - area: 5849
+    bbox:
+    - 523
+    - 410
+    - 117
+    - 65
+    category_id: 1
+    id: 791598
+    iscrowd: 0
+  - area: 2735
+    bbox:
+    - 564
+    - 48
+    - 49
+    - 75
+    category_id: 1
+    id: 526606
+    iscrowd: 0
+  - area: 10717
+    bbox:
+    - 145
+    - 96
+    - 136
+    - 165
+    category_id: 1
+    id: 1845828
+    iscrowd: 0
+  - area: 33495
+    bbox:
+    - 448
+    - 89
+    - 192
+    - 276
+    category_id: 1
+    id: 2306634
+    iscrowd: 0
+  - area: 744
+    bbox:
+    - 367
+    - 59
+    - 36
+    - 29
+    category_id: 1
+    id: 1120035
+    iscrowd: 0
+  - area: 3216
+    bbox:
+    - 356
+    - 282
+    - 49
+    - 81
+    category_id: 47
+    id: 1318448
+    iscrowd: 0
+  - area: 2868
+    bbox:
+    - 252
+    - 380
+    - 76
+    - 93
+    category_id: 47
+    id: 1645600
+    iscrowd: 0
+  - area: 3448
+    bbox:
+    - 251
+    - 418
+    - 64
+    - 62
+    category_id: 47
+    id: 4015183
+    iscrowd: 0
+  - area: 1944
+    bbox:
+    - 33
+    - 256
+    - 44
+    - 63
+    category_id: 47
+    id: 1450548
+    iscrowd: 0
+  - area: 5456
+    bbox:
+    - 86
+    - 211
+    - 129
+    - 70
+    category_id: 73
+    id: 791066
+    iscrowd: 0
+  - area: 1136
+    bbox:
+    - 444
+    - 106
+    - 36
+    - 53
+    category_id: 73
+    id: 857115
+    iscrowd: 0
+  - area: 3825
+    bbox:
+    - 329
+    - 220
+    - 171
+    - 111
+    category_id: 73
+    id: 1515824
+    iscrowd: 0
+  - area: 18207
+    bbox:
+    - 266
+    - 231
+    - 223
+    - 249
+    category_id: 73
+    id: 3024418
+    iscrowd: 0
+  - area: 35383
+    bbox:
+    - 1
+    - 174
+    - 262
+    - 299
+    category_id: 73
+    id: 11974327
+    iscrowd: 0
+  - area: 1222
+    bbox:
+    - 460
+    - 355
+    - 82
+    - 28
+    category_id: 74
+    id: 658720
+    iscrowd: 0
+  - area: 6765
+    bbox:
+    - 321
+    - 363
+    - 108
+    - 99
+    category_id: 76
+    id: 592653
+    iscrowd: 0
+  - area: 107
+    bbox:
+    - 190
+    - 254
+    - 20
+    - 14
+    category_id: 76
+    id: 526345
+    iscrowd: 0
+  - area: 1067
+    bbox:
+    - 404
+    - 283
+    - 66
+    - 38
+    category_id: 76
+    id: 2175823
+    iscrowd: 0
+  - area: 414
+    bbox:
+    - 1
+    - 280
+    - 30
+    - 27
+    category_id: 76
+    id: 1520210
+    iscrowd: 0
+  - area: 7223
+    bbox:
+    - 459
+    - 369
+    - 129
+    - 103
+    category_id: 76
+    id: 2114151
+    iscrowd: 0
+  - area: 1471
+    bbox:
+    - 99
+    - 172
+    - 76
+    - 44
+    category_id: 107
+    id: 263431
+    iscrowd: 0
+  - area: 595
+    bbox:
+    - 484
+    - 30
+    - 41
+    - 18
+    category_id: 130
+    id: 15464658
+    iscrowd: 0
+  - area: 1697
+    bbox:
+    - 493
+    - 0
+    - 52
+    - 57
+    category_id: 144
+    id: 1588552
+    iscrowd: 0
+  - area: 4019
+    bbox:
+    - 0
+    - 73
+    - 109
+    - 126
+    category_id: 176
+    id: 329995
+    iscrowd: 0
+  - area: 12602
+    bbox:
+    - 208
+    - 41
+    - 432
+    - 132
+    category_id: 177
+    id: 860211
+    iscrowd: 0
+  - area: 24855
+    bbox:
+    - 54
+    - 86
+    - 572
+    - 394
+    category_id: 189
+    id: 857377
+    iscrowd: 0
+  - area: 8688
+    bbox:
+    - 20
+    - 0
+    - 620
+    - 480
+    category_id: 195
+    id: 1451583
+    iscrowd: 0
+  - area: 3637
+    bbox:
+    - 184
+    - 140
+    - 290
+    - 180
+    category_id: 196
+    id: 1450818
+    iscrowd: 0
+  - area: 38116
+    bbox:
+    - 0
+    - 0
+    - 584
+    - 116
+    category_id: 199
+    id: 1782852
+    iscrowd: 0
+- file_name: 000000009448.png
+  image_id: 9448
+  segments_info:
+  - area: 100507
+    bbox:
+    - 128
+    - 101
+    - 254
+    - 531
+    category_id: 1
+    id: 6372208
+    iscrowd: 0
+  - area: 151117
+    bbox:
+    - 1
+    - 1
+    - 548
+    - 391
+    category_id: 28
+    id: 11164172
+    iscrowd: 0
+  - area: 96128
+    bbox:
+    - 0
+    - 286
+    - 551
+    - 354
+    category_id: 191
+    id: 13352107
+    iscrowd: 0
+- file_name: 000000009483.png
+  image_id: 9483
+  segments_info:
+  - area: 36864
+    bbox:
+    - 36
+    - 62
+    - 141
+    - 418
+    category_id: 1
+    id: 3022625
+    iscrowd: 0
+  - area: 310
+    bbox:
+    - 218
+    - 270
+    - 27
+    - 18
+    category_id: 72
+    id: 15650988
+    iscrowd: 0
+  - area: 389
+    bbox:
+    - 251
+    - 275
+    - 29
+    - 20
+    category_id: 72
+    id: 14533286
+    iscrowd: 0
+  - area: 10757
+    bbox:
+    - 459
+    - 210
+    - 120
+    - 139
+    category_id: 72
+    id: 9270375
+    iscrowd: 0
+  - area: 416
+    bbox:
+    - 376
+    - 362
+    - 34
+    - 19
+    category_id: 74
+    id: 4078407
+    iscrowd: 0
+  - area: 2560
+    bbox:
+    - 307
+    - 318
+    - 116
+    - 43
+    category_id: 76
+    id: 3879474
+    iscrowd: 0
+  - area: 2460
+    bbox:
+    - 0
+    - 309
+    - 65
+    - 81
+    category_id: 176
+    id: 5063234
+    iscrowd: 0
+  - area: 90080
+    bbox:
+    - 181
+    - 30
+    - 402
+    - 315
+    category_id: 181
+    id: 6448229
+    iscrowd: 0
+  - area: 31483
+    bbox:
+    - 0
+    - 263
+    - 640
+    - 217
+    category_id: 189
+    id: 4343378
+    iscrowd: 0
+  - area: 16802
+    bbox:
+    - 0
+    - 373
+    - 326
+    - 107
+    category_id: 190
+    id: 3482404
+    iscrowd: 0
+  - area: 103297
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 480
+    category_id: 199
+    id: 9605264
+    iscrowd: 0
+- file_name: 000000009590.png
+  image_id: 9590
+  segments_info:
+  - area: 3830
+    bbox:
+    - 372
+    - 169
+    - 86
+    - 96
+    category_id: 1
+    id: 2237478
+    iscrowd: 0
+  - area: 48384
+    bbox:
+    - 0
+    - 53
+    - 237
+    - 374
+    category_id: 1
+    id: 1775127
+    iscrowd: 0
+  - area: 2684
+    bbox:
+    - 259
+    - 178
+    - 63
+    - 75
+    category_id: 1
+    id: 4078400
+    iscrowd: 0
+  - area: 7216
+    bbox:
+    - 137
+    - 156
+    - 94
+    - 137
+    category_id: 1
+    id: 4139041
+    iscrowd: 0
+  - area: 10599
+    bbox:
+    - 513
+    - 110
+    - 127
+    - 177
+    category_id: 1
+    id: 2171176
+    iscrowd: 0
+  - area: 5598
+    bbox:
+    - 244
+    - 348
+    - 119
+    - 73
+    category_id: 1
+    id: 7227431
+    iscrowd: 0
+  - area: 867
+    bbox:
+    - 427
+    - 228
+    - 24
+    - 49
+    category_id: 44
+    id: 8422539
+    iscrowd: 0
+  - area: 235
+    bbox:
+    - 325
+    - 251
+    - 21
+    - 15
+    category_id: 47
+    id: 8420737
+    iscrowd: 0
+  - area: 1276
+    bbox:
+    - 347
+    - 271
+    - 39
+    - 39
+    category_id: 47
+    id: 11445146
+    iscrowd: 0
+  - area: 182
+    bbox:
+    - 479
+    - 259
+    - 43
+    - 20
+    category_id: 47
+    id: 8878453
+    iscrowd: 0
+  - area: 457
+    bbox:
+    - 541
+    - 215
+    - 27
+    - 22
+    category_id: 47
+    id: 7498090
+    iscrowd: 0
+  - area: 198
+    bbox:
+    - 185
+    - 280
+    - 22
+    - 26
+    category_id: 47
+    id: 13024434
+    iscrowd: 0
+  - area: 2933
+    bbox:
+    - 523
+    - 238
+    - 59
+    - 54
+    category_id: 47
+    id: 2762793
+    iscrowd: 0
+  - area: 663
+    bbox:
+    - 302
+    - 234
+    - 26
+    - 30
+    category_id: 47
+    id: 9997448
+    iscrowd: 0
+  - area: 748
+    bbox:
+    - 467
+    - 263
+    - 25
+    - 37
+    category_id: 47
+    id: 7170410
+    iscrowd: 0
+  - area: 257
+    bbox:
+    - 252
+    - 250
+    - 24
+    - 20
+    category_id: 47
+    id: 7039351
+    iscrowd: 0
+  - area: 102
+    bbox:
+    - 553
+    - 301
+    - 27
+    - 10
+    category_id: 50
+    id: 8021860
+    iscrowd: 0
+  - area: 1961
+    bbox:
+    - 534
+    - 368
+    - 57
+    - 59
+    category_id: 50
+    id: 3222573
+    iscrowd: 0
+  - area: 90
+    bbox:
+    - 363
+    - 299
+    - 53
+    - 12
+    category_id: 50
+    id: 10589325
+    iscrowd: 0
+  - area: 570
+    bbox:
+    - 288
+    - 274
+    - 36
+    - 20
+    category_id: 51
+    id: 5004148
+    iscrowd: 0
+  - area: 189
+    bbox:
+    - 416
+    - 257
+    - 14
+    - 17
+    category_id: 51
+    id: 5067343
+    iscrowd: 0
+  - area: 315
+    bbox:
+    - 243
+    - 258
+    - 25
+    - 15
+    category_id: 51
+    id: 6316379
+    iscrowd: 0
+  - area: 1088
+    bbox:
+    - 424
+    - 276
+    - 46
+    - 30
+    category_id: 51
+    id: 5066309
+    iscrowd: 0
+  - area: 567
+    bbox:
+    - 339
+    - 257
+    - 66
+    - 16
+    category_id: 51
+    id: 10057576
+    iscrowd: 0
+  - area: 787
+    bbox:
+    - 384
+    - 272
+    - 35
+    - 29
+    category_id: 51
+    id: 5921615
+    iscrowd: 0
+  - area: 230
+    bbox:
+    - 131
+    - 236
+    - 12
+    - 33
+    category_id: 62
+    id: 2565157
+    iscrowd: 0
+  - area: 38391
+    bbox:
+    - 180
+    - 254
+    - 460
+    - 163
+    category_id: 67
+    id: 3881538
+    iscrowd: 0
+  - area: 406
+    bbox:
+    - 179
+    - 98
+    - 20
+    - 26
+    category_id: 85
+    id: 3883590
+    iscrowd: 0
+  - area: 30874
+    bbox:
+    - 290
+    - 0
+    - 302
+    - 263
+    category_id: 109
+    id: 5658725
+    iscrowd: 0
+  - area: 15377
+    bbox:
+    - 81
+    - 114
+    - 221
+    - 159
+    category_id: 112
+    id: 2961725
+    iscrowd: 0
+  - area: 29067
+    bbox:
+    - 324
+    - 0
+    - 316
+    - 262
+    category_id: 181
+    id: 14278110
+    iscrowd: 0
+  - area: 29988
+    bbox:
+    - 0
+    - 0
+    - 400
+    - 118
+    category_id: 186
+    id: 1514287
+    iscrowd: 0
+  - area: 4933
+    bbox:
+    - 173
+    - 270
+    - 467
+    - 157
+    category_id: 189
+    id: 526861
+    iscrowd: 0
+  - area: 12379
+    bbox:
+    - 0
+    - 0
+    - 465
+    - 216
+    category_id: 199
+    id: 1909550
+    iscrowd: 0
+- file_name: 000000009769.png
+  image_id: 9769
+  segments_info:
+  - area: 925
+    bbox:
+    - 311
+    - 204
+    - 39
+    - 38
+    category_id: 1
+    id: 4144942
+    iscrowd: 0
+  - area: 1411
+    bbox:
+    - 140
+    - 201
+    - 43
+    - 73
+    category_id: 1
+    id: 1647670
+    iscrowd: 0
+  - area: 885
+    bbox:
+    - 252
+    - 200
+    - 49
+    - 35
+    category_id: 1
+    id: 3684137
+    iscrowd: 0
+  - area: 45883
+    bbox:
+    - 85
+    - 188
+    - 379
+    - 189
+    category_id: 8
+    id: 5263205
+    iscrowd: 0
+  - area: 161
+    bbox:
+    - 552
+    - 259
+    - 11
+    - 20
+    category_id: 11
+    id: 8105391
+    iscrowd: 0
+  - area: 1266
+    bbox:
+    - 463
+    - 231
+    - 66
+    - 31
+    category_id: 119
+    id: 4407615
+    iscrowd: 0
+  - area: 40005
+    bbox:
+    - 0
+    - 33
+    - 579
+    - 229
+    category_id: 128
+    id: 9408913
+    iscrowd: 0
+  - area: 80535
+    bbox:
+    - 0
+    - 288
+    - 640
+    - 192
+    category_id: 149
+    id: 6909812
+    iscrowd: 0
+  - area: 31411
+    bbox:
+    - 0
+    - 230
+    - 640
+    - 199
+    category_id: 159
+    id: 13619663
+    iscrowd: 0
+  - area: 104408
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 273
+    category_id: 184
+    id: 6382437
+    iscrowd: 0
+- file_name: 000000009772.png
+  image_id: 9772
+  segments_info:
+  - area: 4363
+    bbox:
+    - 276
+    - 231
+    - 57
+    - 125
+    category_id: 1
+    id: 1974313
+    iscrowd: 0
+  - area: 6384
+    bbox:
+    - 427
+    - 91
+    - 90
+    - 96
+    category_id: 72
+    id: 3825532
+    iscrowd: 0
+  - area: 980
+    bbox:
+    - 174
+    - 380
+    - 81
+    - 16
+    category_id: 81
+    id: 12439508
+    iscrowd: 0
+  - area: 1180
+    bbox:
+    - 323
+    - 378
+    - 85
+    - 19
+    category_id: 81
+    id: 12372168
+    iscrowd: 0
+  - area: 479
+    bbox:
+    - 448
+    - 357
+    - 24
+    - 26
+    category_id: 100
+    id: 1021987
+    iscrowd: 0
+  - area: 13678
+    bbox:
+    - 89
+    - 344
+    - 412
+    - 68
+    category_id: 107
+    id: 3757658
+    iscrowd: 0
+  - area: 22678
+    bbox:
+    - 489
+    - 107
+    - 61
+    - 533
+    category_id: 112
+    id: 3901870
+    iscrowd: 0
+  - area: 11240
+    bbox:
+    - 57
+    - 75
+    - 483
+    - 179
+    category_id: 130
+    id: 12443371
+    iscrowd: 0
+  - area: 81426
+    bbox:
+    - 86
+    - 91
+    - 393
+    - 291
+    category_id: 133
+    id: 2518417
+    iscrowd: 0
+  - area: 9165
+    bbox:
+    - 0
+    - 266
+    - 450
+    - 271
+    category_id: 168
+    id: 4424615
+    iscrowd: 0
+  - area: 70531
+    bbox:
+    - 0
+    - 54
+    - 526
+    - 586
+    category_id: 176
+    id: 1660803
+    iscrowd: 0
+  - area: 24297
+    bbox:
+    - 11
+    - 0
+    - 539
+    - 117
+    category_id: 186
+    id: 4555684
+    iscrowd: 0
+  - area: 33644
+    bbox:
+    - 45
+    - 497
+    - 483
+    - 143
+    category_id: 190
+    id: 1855865
+    iscrowd: 0
+  - area: 31192
+    bbox:
+    - 0
+    - 0
+    - 550
+    - 115
+    category_id: 199
+    id: 210019
+    iscrowd: 0
+  - area: 17062
+    bbox:
+    - 147
+    - 560
+    - 278
+    - 80
+    category_id: 200
+    id: 9222866
+    iscrowd: 0
+- file_name: 000000009891.png
+  image_id: 9891
+  segments_info:
+  - area: 8587
+    bbox:
+    - 76
+    - 106
+    - 127
+    - 180
+    category_id: 1
+    id: 7238274
+    iscrowd: 0
+  - area: 961
+    bbox:
+    - 306
+    - 113
+    - 49
+    - 42
+    category_id: 1
+    id: 6845046
+    iscrowd: 0
+  - area: 640
+    bbox:
+    - 438
+    - 119
+    - 38
+    - 34
+    category_id: 1
+    id: 4277319
+    iscrowd: 0
+  - area: 23370
+    bbox:
+    - 207
+    - 93
+    - 150
+    - 324
+    category_id: 1
+    id: 5987431
+    iscrowd: 0
+  - area: 362
+    bbox:
+    - 231
+    - 152
+    - 13
+    - 46
+    category_id: 3
+    id: 10659765
+    iscrowd: 0
+  - area: 876
+    bbox:
+    - 159
+    - 134
+    - 50
+    - 35
+    category_id: 3
+    id: 10262459
+    iscrowd: 0
+  - area: 1582
+    bbox:
+    - 199
+    - 130
+    - 40
+    - 59
+    category_id: 3
+    id: 12369606
+    iscrowd: 0
+  - area: 50907
+    bbox:
+    - 285
+    - 80
+    - 355
+    - 220
+    category_id: 3
+    id: 9210509
+    iscrowd: 0
+  - area: 4863
+    bbox:
+    - 411
+    - 294
+    - 81
+    - 89
+    category_id: 27
+    id: 1777438
+    iscrowd: 0
+  - area: 1046
+    bbox:
+    - 340
+    - 286
+    - 57
+    - 27
+    category_id: 27
+    id: 2567984
+    iscrowd: 0
+  - area: 393
+    bbox:
+    - 108
+    - 137
+    - 16
+    - 51
+    category_id: 32
+    id: 5396069
+    iscrowd: 0
+  - area: 4413
+    bbox:
+    - 415
+    - 244
+    - 78
+    - 104
+    category_id: 33
+    id: 3093815
+    iscrowd: 0
+  - area: 13684
+    bbox:
+    - 175
+    - 245
+    - 136
+    - 161
+    category_id: 33
+    id: 2106662
+    iscrowd: 0
+  - area: 1705
+    bbox:
+    - 69
+    - 100
+    - 36
+    - 84
+    category_id: 100
+    id: 8489114
+    iscrowd: 0
+  - area: 3457
+    bbox:
+    - 157
+    - 158
+    - 86
+    - 148
+    category_id: 149
+    id: 7765126
+    iscrowd: 0
+  - area: 51396
+    bbox:
+    - 0
+    - 0
+    - 640
+    - 117
+    category_id: 186
+    id: 7241360
+    iscrowd: 0
+  - area: 7723
+    bbox:
+    - 0
+    - 69
+    - 239
+    - 90
+    category_id: 187
+    id: 16250874
+    iscrowd: 0
+  - area: 101042
+    bbox:
+    - 0
+    - 162
+    - 640
+    - 318
+    category_id: 190
+    id: 3949639
+    iscrowd: 0
+  - area: 13972
+    bbox:
+    - 0
+    - 0
+    - 413
+    - 225
+    category_id: 199
+    id: 13159891
+    iscrowd: 0
 categories:
 - id: 1
   isthing: 1
@@ -709,59 +10042,1170 @@ categories:
   isthing: 1
   name: traffic light
   supercategory: outdoor
+- id: 11
+  isthing: 1
+  name: fire hydrant
+  supercategory: outdoor
+- id: 13
+  isthing: 1
+  name: stop sign
+  supercategory: outdoor
+- id: 14
+  isthing: 1
+  name: parking meter
+  supercategory: outdoor
+- id: 15
+  isthing: 1
+  name: bench
+  supercategory: outdoor
+- id: 16
+  isthing: 1
+  name: bird
+  supercategory: animal
+- id: 17
+  isthing: 1
+  name: cat
+  supercategory: animal
+- id: 18
+  isthing: 1
+  name: dog
+  supercategory: animal
+- id: 19
+  isthing: 1
+  name: horse
+  supercategory: animal
+- id: 20
+  isthing: 1
+  name: sheep
+  supercategory: animal
+- id: 21
+  isthing: 1
+  name: cow
+  supercategory: animal
+- id: 22
+  isthing: 1
+  name: elephant
+  supercategory: animal
+- id: 23
+  isthing: 1
+  name: bear
+  supercategory: animal
+- id: 24
+  isthing: 1
+  name: zebra
+  supercategory: animal
+- id: 25
+  isthing: 1
+  name: giraffe
+  supercategory: animal
+- id: 27
+  isthing: 1
+  name: backpack
+  supercategory: accessory
+- id: 28
+  isthing: 1
+  name: umbrella
+  supercategory: accessory
+- id: 31
+  isthing: 1
+  name: handbag
+  supercategory: accessory
+- id: 32
+  isthing: 1
+  name: tie
+  supercategory: accessory
+- id: 33
+  isthing: 1
+  name: suitcase
+  supercategory: accessory
+- id: 34
+  isthing: 1
+  name: frisbee
+  supercategory: sports
+- id: 35
+  isthing: 1
+  name: skis
+  supercategory: sports
+- id: 36
+  isthing: 1
+  name: snowboard
+  supercategory: sports
+- id: 37
+  isthing: 1
+  name: sports ball
+  supercategory: sports
+- id: 38
+  isthing: 1
+  name: kite
+  supercategory: sports
+- id: 39
+  isthing: 1
+  name: baseball bat
+  supercategory: sports
+- id: 40
+  isthing: 1
+  name: baseball glove
+  supercategory: sports
+- id: 41
+  isthing: 1
+  name: skateboard
+  supercategory: sports
+- id: 42
+  isthing: 1
+  name: surfboard
+  supercategory: sports
+- id: 43
+  isthing: 1
+  name: tennis racket
+  supercategory: sports
+- id: 44
+  isthing: 1
+  name: bottle
+  supercategory: kitchen
+- id: 46
+  isthing: 1
+  name: wine glass
+  supercategory: kitchen
+- id: 47
+  isthing: 1
+  name: cup
+  supercategory: kitchen
+- id: 48
+  isthing: 1
+  name: fork
+  supercategory: kitchen
+- id: 49
+  isthing: 1
+  name: knife
+  supercategory: kitchen
+- id: 50
+  isthing: 1
+  name: spoon
+  supercategory: kitchen
+- id: 51
+  isthing: 1
+  name: bowl
+  supercategory: kitchen
+- id: 52
+  isthing: 1
+  name: banana
+  supercategory: food
+- id: 53
+  isthing: 1
+  name: apple
+  supercategory: food
+- id: 54
+  isthing: 1
+  name: sandwich
+  supercategory: food
+- id: 55
+  isthing: 1
+  name: orange
+  supercategory: food
+- id: 56
+  isthing: 1
+  name: broccoli
+  supercategory: food
+- id: 57
+  isthing: 1
+  name: carrot
+  supercategory: food
+- id: 58
+  isthing: 1
+  name: hot dog
+  supercategory: food
+- id: 59
+  isthing: 1
+  name: pizza
+  supercategory: food
+- id: 60
+  isthing: 1
+  name: donut
+  supercategory: food
+- id: 61
+  isthing: 1
+  name: cake
+  supercategory: food
+- id: 62
+  isthing: 1
+  name: chair
+  supercategory: furniture
+- id: 63
+  isthing: 1
+  name: couch
+  supercategory: furniture
+- id: 64
+  isthing: 1
+  name: potted plant
+  supercategory: furniture
+- id: 65
+  isthing: 1
+  name: bed
+  supercategory: furniture
+- id: 67
+  isthing: 1
+  name: dining table
+  supercategory: furniture
+- id: 70
+  isthing: 1
+  name: toilet
+  supercategory: furniture
+- id: 72
+  isthing: 1
+  name: tv
+  supercategory: electronic
+- id: 73
+  isthing: 1
+  name: laptop
+  supercategory: electronic
+- id: 74
+  isthing: 1
+  name: mouse
+  supercategory: electronic
+- id: 75
+  isthing: 1
+  name: remote
+  supercategory: electronic
+- id: 76
+  isthing: 1
+  name: keyboard
+  supercategory: electronic
+- id: 77
+  isthing: 1
+  name: cell phone
+  supercategory: electronic
+- id: 78
+  isthing: 1
+  name: microwave
+  supercategory: appliance
+- id: 79
+  isthing: 1
+  name: oven
+  supercategory: appliance
+- id: 80
+  isthing: 1
+  name: toaster
+  supercategory: appliance
+- id: 81
+  isthing: 1
+  name: sink
+  supercategory: appliance
+- id: 82
+  isthing: 1
+  name: refrigerator
+  supercategory: appliance
+- id: 84
+  isthing: 1
+  name: book
+  supercategory: indoor
+- id: 85
+  isthing: 1
+  name: clock
+  supercategory: indoor
+- id: 86
+  isthing: 1
+  name: vase
+  supercategory: indoor
+- id: 87
+  isthing: 1
+  name: scissors
+  supercategory: indoor
+- id: 88
+  isthing: 1
+  name: teddy bear
+  supercategory: indoor
+- id: 89
+  isthing: 1
+  name: hair drier
+  supercategory: indoor
+- id: 90
+  isthing: 1
+  name: toothbrush
+  supercategory: indoor
+- id: 92
+  isthing: 0
+  name: banner
+  supercategory: textile
+- id: 93
+  isthing: 0
+  name: blanket
+  supercategory: textile
+- id: 95
+  isthing: 0
+  name: bridge
+  supercategory: building
+- id: 100
+  isthing: 0
+  name: cardboard
+  supercategory: raw-material
+- id: 107
+  isthing: 0
+  name: counter
+  supercategory: furniture-stuff
+- id: 109
+  isthing: 0
+  name: curtain
+  supercategory: textile
+- id: 112
+  isthing: 0
+  name: door-stuff
+  supercategory: furniture-stuff
+- id: 118
+  isthing: 0
+  name: floor-wood
+  supercategory: floor
+- id: 119
+  isthing: 0
+  name: flower
+  supercategory: plant
+- id: 122
+  isthing: 0
+  name: fruit
+  supercategory: food-stuff
+- id: 125
+  isthing: 0
+  name: gravel
+  supercategory: ground
+- id: 128
+  isthing: 0
+  name: house
+  supercategory: building
+- id: 130
+  isthing: 0
+  name: light
+  supercategory: furniture-stuff
+- id: 133
+  isthing: 0
+  name: mirror-stuff
+  supercategory: furniture-stuff
+- id: 138
+  isthing: 0
+  name: net
+  supercategory: structural
+- id: 141
+  isthing: 0
+  name: pillow
+  supercategory: textile
+- id: 144
+  isthing: 0
+  name: platform
+  supercategory: ground
+- id: 145
+  isthing: 0
+  name: playingfield
+  supercategory: ground
+- id: 147
+  isthing: 0
+  name: railroad
+  supercategory: ground
+- id: 148
+  isthing: 0
+  name: river
+  supercategory: water
 images:
 - coco_url: http://images.cocodataset.org/val2017/000000397133.jpg
+  date_captured: '2013-11-14 17:02:52'
   file_name: 000000397133.jpg
+  flickr_url: http://farm7.staticflickr.com/6116/6255196340_da26cf2c9e_z.jpg
   height: 427
+  id: 397133
   license: 4
   width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000037777.jpg
+  date_captured: '2013-11-14 20:55:31'
   file_name: 000000037777.jpg
+  flickr_url: http://farm9.staticflickr.com/8429/7839199426_f6d48aa585_z.jpg
   height: 230
+  id: 37777
   license: 1
   width: 352
 - coco_url: http://images.cocodataset.org/val2017/000000252219.jpg
+  date_captured: '2013-11-14 22:32:02'
   file_name: 000000252219.jpg
+  flickr_url: http://farm4.staticflickr.com/3446/3232237447_13d84bd0a1_z.jpg
   height: 428
+  id: 252219
   license: 4
   width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000087038.jpg
+  date_captured: '2013-11-14 23:11:37'
   file_name: 000000087038.jpg
+  flickr_url: http://farm8.staticflickr.com/7355/8825114508_b0fa4d7168_z.jpg
   height: 480
+  id: 87038
   license: 1
   width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000174482.jpg
+  date_captured: '2013-11-14 23:16:55'
   file_name: 000000174482.jpg
+  flickr_url: http://farm8.staticflickr.com/7020/6478877255_242f741dd1_z.jpg
   height: 388
+  id: 174482
   license: 6
   width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000403385.jpg
+  date_captured: '2013-11-15 00:09:17'
   file_name: 000000403385.jpg
+  flickr_url: http://farm4.staticflickr.com/3526/3768289025_b29315b582_z.jpg
   height: 511
+  id: 403385
   license: 4
   width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000006818.jpg
+  date_captured: '2013-11-15 01:52:52'
   file_name: 000000006818.jpg
+  flickr_url: http://farm3.staticflickr.com/2318/2068039201_b967c69504_z.jpg
   height: 640
+  id: 6818
   license: 4
   width: 427
 - coco_url: http://images.cocodataset.org/val2017/000000480985.jpg
+  date_captured: '2013-11-15 13:09:24'
   file_name: 000000480985.jpg
+  flickr_url: http://farm3.staticflickr.com/2336/1634911562_703ff01cff_z.jpg
   height: 500
+  id: 480985
   license: 6
   width: 375
 - coco_url: http://images.cocodataset.org/val2017/000000458054.jpg
+  date_captured: '2013-11-15 13:13:31'
   file_name: 000000458054.jpg
+  flickr_url: http://farm9.staticflickr.com/8010/7579121084_7f1d01cd39_z.jpg
   height: 426
+  id: 458054
   license: 4
   width: 640
 - coco_url: http://images.cocodataset.org/val2017/000000331352.jpg
+  date_captured: '2013-11-15 13:55:22'
   file_name: 000000331352.jpg
+  flickr_url: http://farm1.staticflickr.com/53/136223761_7764eb56fa_z.jpg
   height: 500
+  id: 331352
   license: 4
   width: 351
+- coco_url: http://images.cocodataset.org/val2017/000000296649.jpg
+  date_captured: '2013-11-15 15:26:19'
+  file_name: 000000296649.jpg
+  flickr_url: http://farm4.staticflickr.com/3577/3491669985_d81e1050c6_z.jpg
+  height: 427
+  id: 296649
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000386912.jpg
+  date_captured: '2013-11-15 16:38:19'
+  file_name: 000000386912.jpg
+  flickr_url: http://farm5.staticflickr.com/4088/4980393979_fb7325e0b6_z.jpg
+  height: 480
+  id: 386912
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000502136.jpg
+  date_captured: '2013-11-15 17:08:30'
+  file_name: 000000502136.jpg
+  flickr_url: http://farm3.staticflickr.com/2253/1755223462_fabbeb8dc3_z.jpg
+  height: 423
+  id: 502136
+  license: 3
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000491497.jpg
+  date_captured: '2013-11-15 17:19:41'
+  file_name: 000000491497.jpg
+  flickr_url: http://farm3.staticflickr.com/2076/2227048481_0ed8653652_z.jpg
+  height: 500
+  id: 491497
+  license: 3
+  width: 375
+- coco_url: http://images.cocodataset.org/val2017/000000184791.jpg
+  date_captured: '2013-11-15 18:08:29'
+  file_name: 000000184791.jpg
+  flickr_url: http://farm1.staticflickr.com/50/138352202_f4983aa717_z.jpg
+  height: 500
+  id: 184791
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000348881.jpg
+  date_captured: '2013-11-16 04:50:43'
+  file_name: 000000348881.jpg
+  flickr_url: http://farm5.staticflickr.com/4127/5172389204_31214fdc50_z.jpg
+  height: 462
+  id: 348881
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000289393.jpg
+  date_captured: '2013-11-16 12:07:13'
+  file_name: 000000289393.jpg
+  flickr_url: http://farm3.staticflickr.com/2053/2225000544_2cd9e6628c_z.jpg
+  height: 480
+  id: 289393
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000522713.jpg
+  date_captured: '2013-11-16 13:25:17'
+  file_name: 000000522713.jpg
+  flickr_url: http://farm4.staticflickr.com/3146/2353513897_17393f1b00_z.jpg
+  height: 480
+  id: 522713
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000181666.jpg
+  date_captured: '2013-11-16 13:58:29'
+  file_name: 000000181666.jpg
+  flickr_url: http://farm3.staticflickr.com/2572/4127484314_23525e6e9c_z.jpg
+  height: 425
+  id: 181666
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000017627.jpg
+  date_captured: '2013-11-16 15:13:53'
+  file_name: 000000017627.jpg
+  flickr_url: http://farm5.staticflickr.com/4145/4977243989_c2efb1b911_z.jpg
+  height: 480
+  id: 17627
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000143931.jpg
+  date_captured: '2013-11-16 15:38:46'
+  file_name: 000000143931.jpg
+  flickr_url: http://farm9.staticflickr.com/8474/8145963753_2e334946c7_z.jpg
+  height: 480
+  id: 143931
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000303818.jpg
+  date_captured: '2013-11-16 15:51:16'
+  file_name: 000000303818.jpg
+  flickr_url: http://farm8.staticflickr.com/7296/9604033757_c21f78484e_z.jpg
+  height: 640
+  id: 303818
+  license: 4
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000463730.jpg
+  date_captured: '2013-11-16 17:37:49'
+  file_name: 000000463730.jpg
+  flickr_url: http://farm4.staticflickr.com/3646/3426989867_e5b8439938_z.jpg
+  height: 427
+  id: 463730
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000460347.jpg
+  date_captured: '2013-11-17 00:11:09'
+  file_name: 000000460347.jpg
+  flickr_url: http://farm9.staticflickr.com/8203/8262915638_911e6c6ea8_z.jpg
+  height: 640
+  id: 460347
+  license: 3
+  width: 427
+- coco_url: http://images.cocodataset.org/val2017/000000322864.jpg
+  date_captured: '2013-11-17 01:05:46'
+  file_name: 000000322864.jpg
+  flickr_url: http://farm4.staticflickr.com/3833/9414555779_75b9652a03_z.jpg
+  height: 640
+  id: 322864
+  license: 6
+  width: 427
+- coco_url: http://images.cocodataset.org/val2017/000000226111.jpg
+  date_captured: '2013-11-17 01:19:58'
+  file_name: 000000226111.jpg
+  flickr_url: http://farm4.staticflickr.com/3348/3333755023_1a0381e95f_z.jpg
+  height: 640
+  id: 226111
+  license: 4
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000153299.jpg
+  date_captured: '2013-11-17 01:35:43'
+  file_name: 000000153299.jpg
+  flickr_url: http://farm1.staticflickr.com/88/233835328_6c4490cf34_z.jpg
+  height: 500
+  id: 153299
+  license: 1
+  width: 461
+- coco_url: http://images.cocodataset.org/val2017/000000308394.jpg
+  date_captured: '2013-11-17 03:48:10'
+  file_name: 000000308394.jpg
+  flickr_url: http://farm4.staticflickr.com/3152/2818802025_2a91e90799_z.jpg
+  height: 428
+  id: 308394
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000456496.jpg
+  date_captured: '2013-11-17 03:50:41'
+  file_name: 000000456496.jpg
+  flickr_url: http://farm4.staticflickr.com/3810/10095484263_8ff0024f65_z.jpg
+  height: 426
+  id: 456496
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000058636.jpg
+  date_captured: '2013-11-17 04:21:31'
+  file_name: 000000058636.jpg
+  flickr_url: http://farm3.staticflickr.com/2753/5744540082_707eaf8887_z.jpg
+  height: 640
+  id: 58636
+  license: 4
+  width: 634
+- coco_url: http://images.cocodataset.org/val2017/000000041888.jpg
+  date_captured: '2013-11-17 05:17:27'
+  file_name: 000000041888.jpg
+  flickr_url: http://farm3.staticflickr.com/2838/9552386421_f1ccb033d6_z.jpg
+  height: 480
+  id: 41888
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000184321.jpg
+  date_captured: '2013-11-17 07:10:16'
+  file_name: 000000184321.jpg
+  flickr_url: http://farm4.staticflickr.com/3738/9619673502_7bb5875df3_z.jpg
+  height: 480
+  id: 184321
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000565778.jpg
+  date_captured: '2013-11-17 08:58:44'
+  file_name: 000000565778.jpg
+  flickr_url: http://farm6.staticflickr.com/5523/9117236902_bea84134a9_z.jpg
+  height: 400
+  id: 565778
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000297343.jpg
+  date_captured: '2013-11-17 09:20:59'
+  file_name: 000000297343.jpg
+  flickr_url: http://farm5.staticflickr.com/4045/4693556483_48778c7494_z.jpg
+  height: 432
+  id: 297343
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000336587.jpg
+  date_captured: '2013-11-17 09:38:40'
+  file_name: 000000336587.jpg
+  flickr_url: http://farm4.staticflickr.com/3136/3036562391_57325b7c1a_z.jpg
+  height: 480
+  id: 336587
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000122745.jpg
+  date_captured: '2013-11-17 09:58:05'
+  file_name: 000000122745.jpg
+  flickr_url: http://farm2.staticflickr.com/1028/1143164889_bf35e363ed_z.jpg
+  height: 640
+  id: 122745
+  license: 4
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000219578.jpg
+  date_captured: '2013-11-17 16:03:13'
+  file_name: 000000219578.jpg
+  flickr_url: http://farm5.staticflickr.com/4094/4917146875_e48e614ff2_z.jpg
+  height: 427
+  id: 219578
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000555705.jpg
+  date_captured: '2013-11-17 16:54:19'
+  file_name: 000000555705.jpg
+  flickr_url: http://farm6.staticflickr.com/5266/5808419943_81314ba194_z.jpg
+  height: 371
+  id: 555705
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000443303.jpg
+  date_captured: '2013-11-17 17:28:10'
+  file_name: 000000443303.jpg
+  flickr_url: http://farm4.staticflickr.com/3181/2888219798_a8fdeeb54b_z.jpg
+  height: 375
+  id: 443303
+  license: 2
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000500663.jpg
+  date_captured: '2013-11-17 18:01:17'
+  file_name: 000000500663.jpg
+  flickr_url: http://farm3.staticflickr.com/2452/4046745441_5a2f435499_z.jpg
+  height: 480
+  id: 500663
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000418281.jpg
+  date_captured: '2013-11-17 20:06:02'
+  file_name: 000000418281.jpg
+  flickr_url: http://farm3.staticflickr.com/2826/10096943865_4342e11627_z.jpg
+  height: 427
+  id: 418281
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000025560.jpg
+  date_captured: '2013-11-17 21:48:19'
+  file_name: 000000025560.jpg
+  flickr_url: http://farm1.staticflickr.com/198/488201322_ef2ebfeccb_z.jpg
+  height: 480
+  id: 25560
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000403817.jpg
+  date_captured: '2013-11-18 00:09:14'
+  file_name: 000000403817.jpg
+  flickr_url: http://farm1.staticflickr.com/40/122334986_1c6fd10c4c_z.jpg
+  height: 375
+  id: 403817
+  license: 3
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000085329.jpg
+  date_captured: '2013-11-18 02:44:13'
+  file_name: 000000085329.jpg
+  flickr_url: http://farm9.staticflickr.com/8143/7573269216_9e5b752281_z.jpg
+  height: 449
+  id: 85329
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000329323.jpg
+  date_captured: '2013-11-18 03:20:36'
+  file_name: 000000329323.jpg
+  flickr_url: http://farm7.staticflickr.com/6183/6100180267_cecedd78ba_z.jpg
+  height: 640
+  id: 329323
+  license: 5
+  width: 425
+- coco_url: http://images.cocodataset.org/val2017/000000239274.jpg
+  date_captured: '2013-11-18 03:40:24'
+  file_name: 000000239274.jpg
+  flickr_url: http://farm8.staticflickr.com/7416/10079494584_8dd76f48cb_z.jpg
+  height: 640
+  id: 239274
+  license: 3
+  width: 581
+- coco_url: http://images.cocodataset.org/val2017/000000286994.jpg
+  date_captured: '2013-11-18 03:47:59'
+  file_name: 000000286994.jpg
+  flickr_url: http://farm3.staticflickr.com/2879/9593058971_c198b320ee_z.jpg
+  height: 480
+  id: 286994
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000511321.jpg
+  date_captured: '2013-11-18 04:00:03'
+  file_name: 000000511321.jpg
+  flickr_url: http://farm4.staticflickr.com/3668/9987909545_5c30c1ce40_z.jpg
+  height: 640
+  id: 511321
+  license: 5
+  width: 427
+- coco_url: http://images.cocodataset.org/val2017/000000314294.jpg
+  date_captured: '2013-11-18 04:46:33'
+  file_name: 000000314294.jpg
+  flickr_url: http://farm9.staticflickr.com/8220/8445739283_05133941ff_z.jpg
+  height: 360
+  id: 314294
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000233771.jpg
+  date_captured: '2013-11-18 05:20:56'
+  file_name: 000000233771.jpg
+  flickr_url: http://farm2.staticflickr.com/1304/4660238513_56f3b73555_z.jpg
+  height: 640
+  id: 233771
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000475779.jpg
+  date_captured: '2013-11-18 07:11:19'
+  file_name: 000000475779.jpg
+  flickr_url: http://farm4.staticflickr.com/3004/5840536253_27004298cc_z.jpg
+  height: 480
+  id: 475779
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000301867.jpg
+  date_captured: '2013-11-18 08:07:48'
+  file_name: 000000301867.jpg
+  flickr_url: http://farm4.staticflickr.com/3702/9562977618_bf24da96c4_z.jpg
+  height: 480
+  id: 301867
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000312421.jpg
+  date_captured: '2013-11-18 08:23:25'
+  file_name: 000000312421.jpg
+  flickr_url: http://farm8.staticflickr.com/7417/10072949756_a273bd03da_z.jpg
+  height: 427
+  id: 312421
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000185250.jpg
+  date_captured: '2013-11-18 10:07:10'
+  file_name: 000000185250.jpg
+  flickr_url: http://farm8.staticflickr.com/7040/6810762896_6429b482b6_z.jpg
+  height: 640
+  id: 185250
+  license: 1
+  width: 399
+- coco_url: http://images.cocodataset.org/val2017/000000356427.jpg
+  date_captured: '2013-11-18 12:00:34'
+  file_name: 000000356427.jpg
+  flickr_url: http://farm4.staticflickr.com/3053/2634837936_186c01f72b_z.jpg
+  height: 427
+  id: 356427
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000572517.jpg
+  date_captured: '2013-11-18 13:23:38'
+  file_name: 000000572517.jpg
+  flickr_url: http://farm4.staticflickr.com/3744/8754578923_aa3309cca9_z.jpg
+  height: 424
+  id: 572517
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000270244.jpg
+  date_captured: '2013-11-18 16:50:26'
+  file_name: 000000270244.jpg
+  flickr_url: http://farm3.staticflickr.com/2867/8764646161_bd1daa5b2a_z.jpg
+  height: 428
+  id: 270244
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000516316.jpg
+  date_captured: '2013-11-18 18:15:05'
+  file_name: 000000516316.jpg
+  flickr_url: http://farm6.staticflickr.com/5142/5840536817_38a20b2796_z.jpg
+  height: 480
+  id: 516316
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000125211.jpg
+  date_captured: '2013-11-18 18:25:28'
+  file_name: 000000125211.jpg
+  flickr_url: http://farm6.staticflickr.com/5268/5616414260_106febb605_z.jpg
+  height: 480
+  id: 125211
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000562121.jpg
+  date_captured: '2013-11-18 18:27:43'
+  file_name: 000000562121.jpg
+  flickr_url: http://farm6.staticflickr.com/5260/5536366901_d00048ac6c_z.jpg
+  height: 454
+  id: 562121
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000360661.jpg
+  date_captured: '2013-11-18 21:33:43'
+  file_name: 000000360661.jpg
+  flickr_url: http://farm4.staticflickr.com/3670/9709793032_f9ee4f0aa2_z.jpg
+  height: 480
+  id: 360661
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000016228.jpg
+  date_captured: '2013-11-19 00:09:53'
+  file_name: 000000016228.jpg
+  flickr_url: http://farm4.staticflickr.com/3737/10031812195_372ae7538f_z.jpg
+  height: 440
+  id: 16228
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000382088.jpg
+  date_captured: '2013-11-19 02:48:18'
+  file_name: 000000382088.jpg
+  flickr_url: http://farm9.staticflickr.com/8253/8637472246_0783196c6f_z.jpg
+  height: 426
+  id: 382088
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000266409.jpg
+  date_captured: '2013-11-19 20:30:17'
+  file_name: 000000266409.jpg
+  flickr_url: http://farm9.staticflickr.com/8081/8331940980_ef74d48dff_z.jpg
+  height: 480
+  id: 266409
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000430961.jpg
+  date_captured: '2013-11-19 20:35:21'
+  file_name: 000000430961.jpg
+  flickr_url: http://farm4.staticflickr.com/3455/3180605599_f895f404f0_z.jpg
+  height: 319
+  id: 430961
+  license: 3
+  width: 450
+- coco_url: http://images.cocodataset.org/val2017/000000080671.jpg
+  date_captured: '2013-11-19 20:52:10'
+  file_name: 000000080671.jpg
+  flickr_url: http://farm8.staticflickr.com/7067/7040483871_bae1b789be_z.jpg
+  height: 427
+  id: 80671
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000577539.jpg
+  date_captured: '2013-11-19 21:39:18'
+  file_name: 000000577539.jpg
+  flickr_url: http://farm4.staticflickr.com/3494/3850219428_10c4b01c88_z.jpg
+  height: 334
+  id: 577539
+  license: 4
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000104612.jpg
+  date_captured: '2013-11-19 23:42:58'
+  file_name: 000000104612.jpg
+  flickr_url: http://farm3.staticflickr.com/2060/2280818350_cabd27fb73_z.jpg
+  height: 480
+  id: 104612
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000476258.jpg
+  date_captured: '2013-11-20 01:25:33'
+  file_name: 000000476258.jpg
+  flickr_url: http://farm7.staticflickr.com/6231/6338462434_97b55c2888_z.jpg
+  height: 367
+  id: 476258
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000448365.jpg
+  date_captured: '2013-11-20 01:39:25'
+  file_name: 000000448365.jpg
+  flickr_url: http://farm7.staticflickr.com/6079/6052677323_be8098b1a0_z.jpg
+  height: 428
+  id: 448365
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000035197.jpg
+  date_captured: '2013-11-20 05:20:09'
+  file_name: 000000035197.jpg
+  flickr_url: http://farm5.staticflickr.com/4138/4891774391_e2fe44e390_z.jpg
+  height: 640
+  id: 35197
+  license: 1
+  width: 429
+- coco_url: http://images.cocodataset.org/val2017/000000349860.jpg
+  date_captured: '2013-11-20 06:00:23'
+  file_name: 000000349860.jpg
+  flickr_url: http://farm5.staticflickr.com/4025/4590246533_c351aefccd_z.jpg
+  height: 426
+  id: 349860
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000180135.jpg
+  date_captured: '2013-11-20 08:23:08'
+  file_name: 000000180135.jpg
+  flickr_url: http://farm3.staticflickr.com/2046/3527197619_4920e79db6_z.jpg
+  height: 500
+  id: 180135
+  license: 1
+  width: 333
+- coco_url: http://images.cocodataset.org/val2017/000000486438.jpg
+  date_captured: '2013-11-20 13:32:23'
+  file_name: 000000486438.jpg
+  flickr_url: http://farm8.staticflickr.com/7154/6676693439_47455f5609_z.jpg
+  height: 427
+  id: 486438
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000400573.jpg
+  date_captured: '2013-11-20 13:32:33'
+  file_name: 000000400573.jpg
+  flickr_url: http://farm5.staticflickr.com/4060/4671923710_9391a0b476_z.jpg
+  height: 640
+  id: 400573
+  license: 1
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000109798.jpg
+  date_captured: '2013-11-20 13:33:45'
+  file_name: 000000109798.jpg
+  flickr_url: http://farm5.staticflickr.com/4050/4281720883_039e354b4d_z.jpg
+  height: 333
+  id: 109798
+  license: 5
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000370677.jpg
+  date_captured: '2013-11-20 13:58:58'
+  file_name: 000000370677.jpg
+  flickr_url: http://farm4.staticflickr.com/3498/3210819975_ffb1394426_z.jpg
+  height: 332
+  id: 370677
+  license: 3
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000238866.jpg
+  date_captured: '2013-11-20 14:40:43'
+  file_name: 000000238866.jpg
+  flickr_url: http://farm8.staticflickr.com/7013/6610035555_f0429c52e9_z.jpg
+  height: 439
+  id: 238866
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000369370.jpg
+  date_captured: '2013-11-20 15:44:05'
+  file_name: 000000369370.jpg
+  flickr_url: http://farm6.staticflickr.com/5145/5678857547_d84fa04ce4_z.jpg
+  height: 480
+  id: 369370
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000502737.jpg
+  date_captured: '2013-11-20 16:07:14'
+  file_name: 000000502737.jpg
+  flickr_url: http://farm2.staticflickr.com/1370/1343129188_df1aebda3f_z.jpg
+  height: 640
+  id: 502737
+  license: 4
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000515579.jpg
+  date_captured: '2013-11-20 17:19:27'
+  file_name: 000000515579.jpg
+  flickr_url: http://farm4.staticflickr.com/3199/2865434771_dca1c5e149_z.jpg
+  height: 332
+  id: 515579
+  license: 6
+  width: 500
+- coco_url: http://images.cocodataset.org/val2017/000000515445.jpg
+  date_captured: '2013-11-20 19:32:34'
+  file_name: 000000515445.jpg
+  flickr_url: http://farm1.staticflickr.com/105/301376641_ad9f966666_z.jpg
+  height: 480
+  id: 515445
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000173383.jpg
+  date_captured: '2013-11-20 19:36:42'
+  file_name: 000000173383.jpg
+  flickr_url: http://farm8.staticflickr.com/7298/10229885046_3b4ef771c1_z.jpg
+  height: 425
+  id: 173383
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000438862.jpg
+  date_captured: '2013-11-20 20:23:56'
+  file_name: 000000438862.jpg
+  flickr_url: http://farm9.staticflickr.com/8198/8270500113_8372807c4d_z.jpg
+  height: 427
+  id: 438862
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000180560.jpg
+  date_captured: '2013-11-20 21:18:55'
+  file_name: 000000180560.jpg
+  flickr_url: http://farm9.staticflickr.com/8373/8410408682_986cd1a140_z.jpg
+  height: 426
+  id: 180560
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000347693.jpg
+  date_captured: '2013-11-20 21:32:33'
+  file_name: 000000347693.jpg
+  flickr_url: http://farm4.staticflickr.com/3317/3427794620_9db24fe462_z.jpg
+  height: 427
+  id: 347693
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000039956.jpg
+  date_captured: '2013-11-20 21:40:01'
+  file_name: 000000039956.jpg
+  flickr_url: http://farm3.staticflickr.com/2692/4164666887_536163f782_z.jpg
+  height: 427
+  id: 39956
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000321214.jpg
+  date_captured: '2013-11-20 22:11:08'
+  file_name: 000000321214.jpg
+  flickr_url: http://farm9.staticflickr.com/8030/8037209348_6491cf571e_z.jpg
+  height: 480
+  id: 321214
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000474028.jpg
+  date_captured: '2013-11-20 22:40:01'
+  file_name: 000000474028.jpg
+  flickr_url: http://farm8.staticflickr.com/7086/7258228366_b29766be26_z.jpg
+  height: 427
+  id: 474028
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000066523.jpg
+  date_captured: '2013-11-20 23:15:23'
+  file_name: 000000066523.jpg
+  flickr_url: http://farm4.staticflickr.com/3018/2471041106_3346281447_z.jpg
+  height: 640
+  id: 66523
+  license: 3
+  width: 480
+- coco_url: http://images.cocodataset.org/val2017/000000355257.jpg
+  date_captured: '2013-11-20 23:51:16'
+  file_name: 000000355257.jpg
+  flickr_url: http://farm3.staticflickr.com/2869/8759177830_2ecb0f9160_z.jpg
+  height: 427
+  id: 355257
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000142092.jpg
+  date_captured: '2013-11-21 00:23:13'
+  file_name: 000000142092.jpg
+  flickr_url: http://farm4.staticflickr.com/3204/5745241446_6a040560ae_z.jpg
+  height: 480
+  id: 142092
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000063154.jpg
+  date_captured: '2013-11-21 00:23:50'
+  file_name: 000000063154.jpg
+  flickr_url: http://farm5.staticflickr.com/4151/5180741702_d26cd9e67d_z.jpg
+  height: 426
+  id: 63154
+  license: 2
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000199551.jpg
+  date_captured: '2013-11-21 01:05:17'
+  file_name: 000000199551.jpg
+  flickr_url: http://farm8.staticflickr.com/7123/7826328046_0165984695_z.jpg
+  height: 428
+  id: 199551
+  license: 3
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000239347.jpg
+  date_captured: '2013-11-21 01:25:58'
+  file_name: 000000239347.jpg
+  flickr_url: http://farm8.staticflickr.com/7084/7311947216_1eb6416561_z.jpg
+  height: 480
+  id: 239347
+  license: 5
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000514508.jpg
+  date_captured: '2013-11-21 01:27:06'
+  file_name: 000000514508.jpg
+  flickr_url: http://farm9.staticflickr.com/8039/8027872891_593989d862_z.jpg
+  height: 480
+  id: 514508
+  license: 6
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000473237.jpg
+  date_captured: '2013-11-21 01:56:27'
+  file_name: 000000473237.jpg
+  flickr_url: http://farm9.staticflickr.com/8076/8343979767_679dfefda2_z.jpg
+  height: 426
+  id: 473237
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000228144.jpg
+  date_captured: '2013-11-21 03:26:21'
+  file_name: 000000228144.jpg
+  flickr_url: http://farm4.staticflickr.com/3800/9678757658_774e298ba2_z.jpg
+  height: 426
+  id: 228144
+  license: 4
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000206027.jpg
+  date_captured: '2013-11-21 05:13:42'
+  file_name: 000000206027.jpg
+  flickr_url: http://farm5.staticflickr.com/4105/4998256912_85bb59539a_z.jpg
+  height: 480
+  id: 206027
+  license: 1
+  width: 640
+- coco_url: http://images.cocodataset.org/val2017/000000078915.jpg
+  date_captured: '2013-11-21 05:24:27'
+  file_name: 000000078915.jpg
+  flickr_url: http://farm5.staticflickr.com/4080/4757379654_6f0599d2ae_z.jpg
+  height: 640
+  id: 78915
+  license: 1
+  width: 481
 info:
   contributor: https://arxiv.org/abs/1801.00868
+  date_created: '2018-06-01 00:00:00.0'
   description: COCO 2018 Panoptic Dataset
   url: http://cocodataset.org
   version: '1.0'

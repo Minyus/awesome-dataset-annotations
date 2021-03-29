@@ -1,5 +1,17 @@
 data:
-- flickr_original_url: https://farm2.staticflickr.com/4/5566811_bc00d504a6_o.jpg
+- answers:
+  - nous les gosses
+  - dakota
+  - clos culombu
+  - dakota digital
+  - dakota
+  - dakota
+  - dakota digital
+  - dakota digital
+  - dakota
+  - dakota
+  flickr_300k_url: https://farm2.staticflickr.com/4/5566811_bc00d504a6_o.jpg
+  flickr_original_url: https://farm2.staticflickr.com/4/5566811_bc00d504a6_o.jpg
   image_classes:
   - Cassette deck
   - Printer
@@ -10,71 +22,3252 @@ data:
   - Camera
   - Ipod
   - Remote control
+  image_height: 664
   image_id: 003a8ae2ef43b901
+  image_width: 1024
   question: what is the brand of this camera?
-- flickr_original_url: https://farm5.staticflickr.com/4136/4920614800_0f04f8f0a4_o.jpg
+  question_id: 34602
+  question_tokens:
+  - what
+  - is
+  - the
+  - brand
+  - of
+  - this
+  - camera
+  set_name: val
+- answers:
+  - copenhagen
+  - copenhagen
+  - copenhagen
+  - copenhagen
+  - copenhagen
+  - thursday
+  - copenhagen
+  - copenhagen
+  - copenhagen
+  - copenhagen
+  flickr_300k_url: https://c7.staticflickr.com/5/4136/4920614800_0d28448d76_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/4136/4920614800_0f04f8f0a4_o.jpg
   image_classes:
   - Billboard
+  image_height: 683
   image_id: b9dc400eb20bad64
+  image_width: 1024
   question: what does the small white text spell?
-- flickr_original_url: https://farm2.staticflickr.com/3519/5721283932_bc1e954b5c_o.jpg
+  question_id: 34603
+  question_tokens:
+  - what
+  - does
+  - the
+  - small
+  - white
+  - text
+  - spell
+  set_name: val
+- answers:
+  - ale
+  - sublimely self-righteous ale
+  - stone
+  - ale
+  - self righteous
+  - ale
+  - ale
+  - ale
+  - ale
+  - ale
+  flickr_300k_url: https://c8.staticflickr.com/4/3519/5721283932_2f54453aca_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/3519/5721283932_bc1e954b5c_o.jpg
   image_classes:
   - Surfboard
   - Drink
   - Bottle
   - Wine
+  image_height: 1024
   image_id: 2b538a43dd933fc1
+  image_width: 1024
   question: what kind of beer is this?
-- flickr_original_url: https://farm5.staticflickr.com/5590/15223897342_cfd1371970_o.jpg
+  question_id: 34604
+  question_tokens:
+  - what
+  - kind
+  - of
+  - beer
+  - is
+  - this
+  set_name: val
+- answers:
+  - 'bowmore '
+  - bowmore
+  - bowmore
+  - bowmore
+  - bowmore
+  - bowmore
+  - bowmore
+  - bowmore islay
+  - dowmore islay
+  - bowmore islay
+  flickr_300k_url: https://c6.staticflickr.com/6/5590/15223897342_3cbf78f4c9_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/5590/15223897342_cfd1371970_o.jpg
   image_classes:
   - Beer
   - Drink
   - Bottle
   - Wine
+  image_height: 576
   image_id: 831bcec304a17054
+  image_width: 1024
   question: what brand liquor is on the right?
-- flickr_original_url: https://farm5.staticflickr.com/5590/15223897342_cfd1371970_o.jpg
+  question_id: 34605
+  question_tokens:
+  - what
+  - brand
+  - liquor
+  - is
+  - 'on'
+  - the
+  - right
+  set_name: val
+- answers:
+  - 10 years
+  - 10 year
+  - 10 years
+  - '10 years '
+  - 10 years
+  - 10 years
+  - 10 years
+  - 10 years
+  - martial arts
+  - '10'
+  flickr_300k_url: https://c6.staticflickr.com/6/5590/15223897342_3cbf78f4c9_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/5590/15223897342_cfd1371970_o.jpg
   image_classes:
   - Beer
   - Drink
   - Bottle
   - Wine
+  image_height: 576
   image_id: 831bcec304a17054
+  image_width: 1024
   question: how long has the drink on the right been aged?
-- flickr_original_url: https://farm3.staticflickr.com/447/17925009343_dd1d02e96a_o.jpg
+  question_id: 34606
+  question_tokens:
+  - how
+  - long
+  - has
+  - the
+  - drink
+  - 'on'
+  - the
+  - right
+  - been
+  - aged
+  set_name: val
+- answers:
+  - '22'
+  - '22'
+  - '22'
+  - '22'
+  - '22'
+  - '22'
+  - '22'
+  - '22'
+  - '22'
+  - '22'
+  flickr_300k_url: https://c6.staticflickr.com/1/447/17925009343_f30598134b_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/447/17925009343_dd1d02e96a_o.jpg
   image_classes:
   - Boy
   - Person
   - Man
   - Sports equipment
   - Sports uniform
+  image_height: 670
   image_id: 94ad4aad01e27a32
+  image_width: 1024
   question: what number is on the player's jersey?
-- flickr_original_url: https://farm7.staticflickr.com/8446/7993695789_77f02fb316_o.jpg
+  question_id: 34607
+  question_tokens:
+  - what
+  - number
+  - is
+  - 'on'
+  - the
+  - player
+  - ''''
+  - s
+  - jersey
+  set_name: val
+- answers:
+  - '5:41'
+  - '5:41'
+  - '8:00'
+  - '5:41'
+  - '5:40'
+  - '5:41'
+  - '5:42'
+  - '5:41'
+  - '8:00'
+  - '5:41'
+  flickr_300k_url: https://c4.staticflickr.com/9/8446/7993695789_2c52c0c652_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/8446/7993695789_77f02fb316_o.jpg
   image_classes:
   - Clock
   - Fashion accessory
   - Watch
+  image_height: 729
   image_id: 181f00d3ee2b2076
+  image_width: 1024
   question: what is the time?
-- flickr_original_url: https://farm7.staticflickr.com/8446/7993695789_77f02fb316_o.jpg
+  question_id: 34608
+  question_tokens:
+  - what
+  - is
+  - the
+  - time
+  set_name: val
+- answers:
+  - ap
+  - unanswerable
+  - unanswerable
+  - ap
+  - af
+  - unanswerable
+  - audemars
+  - unanswerable
+  - unanswerable
+  - ap
+  flickr_300k_url: https://c4.staticflickr.com/9/8446/7993695789_2c52c0c652_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/8446/7993695789_77f02fb316_o.jpg
   image_classes:
   - Clock
   - Fashion accessory
   - Watch
+  image_height: 729
   image_id: 181f00d3ee2b2076
+  image_width: 1024
   question: what brand of watch is that?
-- flickr_original_url: https://farm7.staticflickr.com/5486/10254469926_93b82ff07f_o.jpg
+  question_id: 34609
+  question_tokens:
+  - what
+  - brand
+  - of
+  - watch
+  - is
+  - that
+  set_name: val
+- answers:
+  - bryan owens
+  - alexa curtis
+  - bryan owens
+  - bryan owens
+  - bryan owens
+  - bryan owens
+  - bryan owens
+  - bryan owens
+  - mahou
+  - agile experience design makeup
+  flickr_300k_url: https://c4.staticflickr.com/6/5486/10254469926_047ac23028_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/5486/10254469926_93b82ff07f_o.jpg
   image_classes:
   - Whiteboard
+  image_height: 683
   image_id: 30f9b48158fc56e6
+  image_width: 1024
   question: who is at the center of all of this?
-- flickr_original_url: https://c7.staticflickr.com/6/5211/5385510861_491abe57a5_o.jpg
+  question_id: 34610
+  question_tokens:
+  - who
+  - is
+  - at
+  - the
+  - center
+  - of
+  - all
+  - of
+  - this
+  set_name: val
+- answers:
+  - philippe molitor
+  - philippe molitor
+  - philippe molitor
+  - philippe molitor
+  - clardajne
+  - phillipe molida
+  - l
+  - 'no'
+  - phillipe meltow
+  - philippe molitar
+  flickr_300k_url: https://c7.staticflickr.com/6/5211/5385510861_291d1d1f23_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/6/5211/5385510861_491abe57a5_o.jpg
   image_classes:
   - Person
   - Drink
+  image_height: 681
   image_id: 4ffbb21f379cccbe
+  image_width: 1024
   question: who was the photographer?
+  question_id: 34611
+  question_tokens:
+  - who
+  - was
+  - the
+  - photographer
+  set_name: val
+- answers:
+  - 'off'
+  - 'off'
+  - 'off'
+  - 'off'
+  - 'off'
+  - 'off'
+  - 'off'
+  - 'off'
+  - 'off'
+  - 'off'
+  flickr_300k_url: https://c2.staticflickr.com/3/2686/4333070249_384da2502d_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/3/2686/4333070249_6b317f3a62_o.jpg
+  image_classes:
+  - Food
+  - Light switch
+  image_height: 683
+  image_id: 4dc59c7e57fa8968
+  image_width: 1024
+  question: are these switches on or off?
+  question_id: 34612
+  question_tokens:
+  - are
+  - these
+  - switches
+  - 'on'
+  - or
+  - 'off'
+  set_name: val
+- answers:
+  - hersheys
+  - hershey's
+  - hersheys
+  - hershey's
+  - hershey's
+  - hershey's
+  - hershey's
+  - hershey's
+  - hershey's
+  - hershey's
+  flickr_300k_url: https://c3.staticflickr.com/8/7355/16317562400_56b7fa8dd0_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/8/7355/16317562400_7bc62b03d6_o.jpg
+  image_classes:
+  - Food
+  - Beer
+  - Drink
+  - Bottle
+  - Wine
+  image_height: 768
+  image_id: 45dc5b66e3f3f31b
+  image_width: 1024
+  question: what candy bar is down there on the bottom?
+  question_id: 34613
+  question_tokens:
+  - what
+  - candy
+  - bar
+  - is
+  - down
+  - there
+  - 'on'
+  - the
+  - bottom
+  set_name: val
+- answers:
+  - bud light
+  - bud light
+  - bud light
+  - bud light
+  - all 2 liters
+  - bud light
+  - bud light
+  - bud light
+  - bud light
+  - bud light
+  flickr_300k_url: https://c3.staticflickr.com/1/559/18386954540_abe56a93cf_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/559/18386954540_4034fe71ec_o.jpg
+  image_classes:
+  - Bicycle
+  - Bicycle wheel
+  - Person
+  - Vehicle registration plate
+  - Land vehicle
+  - Sports equipment
+  - Vehicle
+  - Wheel
+  - Building
+  - Convenience store
+  image_height: 680
+  image_id: fa9ffd5aca1e4e51
+  image_width: 1024
+  question: what does the light sign read on the farthest right window?
+  question_id: 34614
+  question_tokens:
+  - what
+  - does
+  - the
+  - light
+  - sign
+  - read
+  - 'on'
+  - the
+  - farthest
+  - right
+  - window
+  set_name: val
+- answers:
+  - '3.82'
+  - $3.32
+  - '3.82'
+  - '3.82'
+  - '3.82'
+  - '3.82'
+  - $3.82
+  - '3.82'
+  - $3.82
+  - $3.82
+  flickr_300k_url: https://c3.staticflickr.com/1/559/18386954540_abe56a93cf_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/559/18386954540_4034fe71ec_o.jpg
+  image_classes:
+  - Bicycle
+  - Bicycle wheel
+  - Person
+  - Vehicle registration plate
+  - Land vehicle
+  - Sports equipment
+  - Vehicle
+  - Wheel
+  - Building
+  - Convenience store
+  image_height: 680
+  image_id: fa9ffd5aca1e4e51
+  image_width: 1024
+  question: how much for a can of skoal?
+  question_id: 34615
+  question_tokens:
+  - how
+  - much
+  - for
+  - a
+  - can
+  - of
+  - skoal
+  set_name: val
+- answers:
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - pet center
+  - 'yes'
+  - 'yes'
+  - one man show
+  - 'yes'
+  flickr_300k_url: https://c4.staticflickr.com/2/1091/1319111674_e6414067bf_z.jpg?zz=1
+  flickr_original_url: https://c8.staticflickr.com/2/1091/1319111674_7c6d9b3e88_o.jpg
+  image_classes:
+  - Billboard
+  image_height: 768
+  image_id: 5ce862cbefd8458f
+  image_width: 1024
+  question: is this denny's?
+  question_id: 34616
+  question_tokens:
+  - is
+  - this
+  - denny
+  - ''''
+  - s
+  set_name: val
+- answers:
+  - red
+  - red
+  - red
+  - first
+  - red
+  - red
+  - red
+  - reds
+  - red
+  - answering does not require reading text in the image
+  flickr_300k_url: https://c4.staticflickr.com/2/1091/1319111674_e6414067bf_z.jpg?zz=1
+  flickr_original_url: https://c8.staticflickr.com/2/1091/1319111674_7c6d9b3e88_o.jpg
+  image_classes:
+  - Billboard
+  image_height: 768
+  image_id: 5ce862cbefd8458f
+  image_width: 1024
+  question: what color are the letters on this sign?
+  question_id: 34617
+  question_tokens:
+  - what
+  - color
+  - are
+  - the
+  - letters
+  - 'on'
+  - this
+  - sign
+  set_name: val
+- answers:
+  - red label
+  - johnnie walker
+  - jonnie walker
+  - black label
+  - red label
+  - johnny walker
+  - answering does not require reading text in the image
+  - red label
+  - johnnie walker
+  - jonnie walker
+  flickr_300k_url: https://c3.staticflickr.com/3/2641/3822926536_119b823e62_z.jpg?zz=1
+  flickr_original_url: https://c1.staticflickr.com/3/2641/3822926536_bfa97cacd2_o.jpg
+  image_classes:
+  - Food
+  - Drink
+  - Bottle
+  - Building
+  - Convenience store
+  image_height: 679
+  image_id: 270ee71a340f50e8
+  image_width: 1024
+  question: what brand is the bottle with red label?
+  question_id: 34618
+  question_tokens:
+  - what
+  - brand
+  - is
+  - the
+  - bottle
+  - with
+  - red
+  - label
+  set_name: val
+- answers:
+  - 5 and 10
+  - '0'
+  - 0%
+  - '0'
+  - '5% and 10% '
+  - '0'
+  - '0'
+  - '0'
+  - '10'
+  - '0'
+  flickr_300k_url: https://c4.staticflickr.com/9/8466/8082398402_3f79036206_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/8466/8082398402_eeef546809_o.jpg
+  image_classes:
+  - Toy
+  - Person
+  - Woman
+  - Girl
+  - Clothing
+  - Building
+  - Convenience store
+  image_height: 680
+  image_id: 7de24c1c61b63f52
+  image_width: 1024
+  question: how many percent is shown on the poster?
+  question_id: 34619
+  question_tokens:
+  - how
+  - many
+  - percent
+  - is
+  - shown
+  - 'on'
+  - the
+  - poster
+  set_name: val
+- answers:
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  - 3 for $5
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  - '3'
+  flickr_300k_url: https://c7.staticflickr.com/9/8665/15979924529_ed39ce93b7_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/9/8665/15979924529_cd8df2644c_o.jpg
+  image_classes:
+  - Food
+  - Clothing
+  - Footwear
+  - Convenience store
+  image_height: 1024
+  image_id: 40c6b4dd3caa006f
+  image_width: 1024
+  question: how many items can you get for $5?
+  question_id: 34620
+  question_tokens:
+  - how
+  - many
+  - items
+  - can
+  - you
+  - get
+  - for
+  - $
+  - '5'
+  set_name: val
+- answers:
+  - answering does not require reading text in the image
+  - '4'
+  - '4'
+  - '4'
+  - answering does not require reading text in the image
+  - answering does not require reading text in the image
+  - answering does not require reading text in the image
+  - answering does not require reading text in the image
+  - '4'
+  - '4'
+  flickr_300k_url: https://c7.staticflickr.com/9/8665/15979924529_ed39ce93b7_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/9/8665/15979924529_cd8df2644c_o.jpg
+  image_classes:
+  - Food
+  - Clothing
+  - Footwear
+  - Convenience store
+  image_height: 1024
+  image_id: 40c6b4dd3caa006f
+  image_width: 1024
+  question: how man price tags are on the bottom shelf?
+  question_id: 34621
+  question_tokens:
+  - how
+  - man
+  - price
+  - tags
+  - are
+  - 'on'
+  - the
+  - bottom
+  - shelf
+  set_name: val
+- answers:
+  - yamaha
+  - yamaha
+  - yamaha
+  - yamaha
+  - yahama
+  - yamaha
+  - yamaha
+  - yamaha
+  - yamaha
+  - peugeot
+  flickr_300k_url: https://c2.staticflickr.com/6/5554/14697343743_27aa8e37ff_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/5554/14697343743_b1289970bb_o.jpg
+  image_classes:
+  - Bottle
+  - Scoreboard
+  image_height: 768
+  image_id: cc9c3bff02242301
+  image_width: 1024
+  question: what is one of the brands being advertised?
+  question_id: 34622
+  question_tokens:
+  - what
+  - is
+  - one
+  - of
+  - the
+  - brands
+  - being
+  - advertised
+  set_name: val
+- answers:
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  flickr_300k_url: https://c3.staticflickr.com/8/7064/6878069365_81f2ede6ae_z.jpg
+  flickr_original_url: https://c2.staticflickr.com/8/7064/6878069365_264dce9ddd_o.jpg
+  image_classes:
+  - Bookcase
+  - Book
+  - Furniture
+  - Shelf
+  image_height: 768
+  image_id: fb39f5b120097669
+  image_width: 1024
+  question: what year was this taken?
+  question_id: 34623
+  question_tokens:
+  - what
+  - year
+  - was
+  - this
+  - taken
+  set_name: val
+- answers:
+  - macbook
+  - macbook
+  - macbook
+  - macbook
+  - macbook
+  - macbook
+  - macbook
+  - macbook
+  - macbook
+  - macbook'
+  flickr_300k_url: https://c8.staticflickr.com/4/3281/2960629374_0675676706_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/4/3281/2960629374_ecca0e46ce_o.jpg
+  image_classes:
+  - Laptop
+  - Computer monitor
+  image_height: 768
+  image_id: a3f1fe4ebd510d4e
+  image_width: 1024
+  question: what kind of comupter is this?
+  question_id: 34624
+  question_tokens:
+  - what
+  - kind
+  - of
+  - comupter
+  - is
+  - this
+  set_name: val
+- answers:
+  - select
+  - select your
+  - continue
+  - answering does not require reading text in the image
+  - continue
+  - select
+  - continue
+  - select something
+  - select your keyboard
+  - select your keybound
+  flickr_300k_url: https://c8.staticflickr.com/4/3281/2960629374_0675676706_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/4/3281/2960629374_ecca0e46ce_o.jpg
+  image_classes:
+  - Laptop
+  - Computer monitor
+  image_height: 768
+  image_id: a3f1fe4ebd510d4e
+  image_width: 1024
+  question: what does the screen say to do?
+  question_id: 34625
+  question_tokens:
+  - what
+  - does
+  - the
+  - screen
+  - say
+  - to
+  - do
+  set_name: val
+- answers:
+  - warning
+  - warning
+  - warning! do not unplug!
+  - warning
+  - warning
+  - smoking
+  - warning
+  - warning
+  - warning
+  - warning
+  flickr_300k_url: https://c6.staticflickr.com/5/4080/4929844257_1f991ed668_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/4080/4929844257_88388df21d_o.jpg
+  image_classes:
+  - Sink
+  - Home appliance
+  - Refrigerator
+  - Table
+  - Coffee table
+  - Furniture
+  - Kitchen appliance
+  image_height: 768
+  image_id: 7b0112f7f5f096c5
+  image_width: 1024
+  question: what is written at the top of the yellow sticker on the fridge?
+  question_id: 34626
+  question_tokens:
+  - what
+  - is
+  - written
+  - at
+  - the
+  - top
+  - of
+  - the
+  - yellow
+  - sticker
+  - 'on'
+  - the
+  - fridge
+  set_name: val
+- answers:
+  - '2010'
+  - '2010'
+  - '2010'
+  - '2010'
+  - '2010'
+  - '2010'
+  - '2010'
+  - '2010'
+  - unanswerable
+  - '2010'
+  flickr_300k_url: https://c6.staticflickr.com/5/4080/4929844257_1f991ed668_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/4080/4929844257_88388df21d_o.jpg
+  image_classes:
+  - Sink
+  - Home appliance
+  - Refrigerator
+  - Table
+  - Coffee table
+  - Furniture
+  - Kitchen appliance
+  image_height: 768
+  image_id: 7b0112f7f5f096c5
+  image_width: 1024
+  question: what is the year on the calender?
+  question_id: 34627
+  question_tokens:
+  - what
+  - is
+  - the
+  - year
+  - 'on'
+  - the
+  - calender
+  set_name: val
+- answers:
+  - 'willis '
+  - willis
+  - willis
+  - willis
+  - willis
+  - willis
+  - willis
+  - willis
+  - willis
+  - willis
+  flickr_300k_url: https://c5.staticflickr.com/8/7371/16364621630_71683f22fd_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/8/7371/16364621630_370dbf0bd7_o.jpg
+  image_classes:
+  - Shorts
+  - Boy
+  - Person
+  - Woman
+  - Man
+  - Girl
+  - Clothing
+  - Footwear
+  - Sports uniform
+  image_height: 819
+  image_id: 71e2433bfd38a9dc
+  image_width: 1024
+  question: what is the name of the runner on the left?
+  question_id: 34628
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - the
+  - runner
+  - 'on'
+  - the
+  - left
+  set_name: val
+- answers:
+  - millrose games
+  - hillrose games
+  - millrose games
+  - hillrose games
+  - the millrose games
+  - millrose games
+  - millrose games
+  - millrose games
+  - millrose games
+  - millrose games
+  flickr_300k_url: https://c5.staticflickr.com/8/7371/16364621630_71683f22fd_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/8/7371/16364621630_370dbf0bd7_o.jpg
+  image_classes:
+  - Shorts
+  - Boy
+  - Person
+  - Woman
+  - Man
+  - Girl
+  - Clothing
+  - Footwear
+  - Sports uniform
+  image_height: 819
+  image_id: 71e2433bfd38a9dc
+  image_width: 1024
+  question: what event is this from?
+  question_id: 34629
+  question_tokens:
+  - what
+  - event
+  - is
+  - this
+  - from
+  set_name: val
+- answers:
+  - dumbledore
+  - dumbledore
+  - dumbledore
+  - dumbledore
+  - dumbledore
+  - dumbledore
+  - dumbledore
+  - dumbledore
+  - look& storng dumbledore
+  - dumbledore
+  flickr_300k_url: https://c4.staticflickr.com/6/5751/21069789141_5c303563c9_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/6/5751/21069789141_876c38328b_o.jpg
+  image_classes:
+  - Plant
+  - Tree
+  - Clothing
+  - Book
+  image_height: 768
+  image_id: 655dcd26ef3108ff
+  image_width: 1024
+  question: who beamed at him?
+  question_id: 34630
+  question_tokens:
+  - who
+  - beamed
+  - at
+  - him
+  set_name: val
+- answers:
+  - king's cross
+  - king's cross
+  - king's cross
+  - king's cross
+  - king's cross
+  - king's cross
+  - leo
+  - king's cross
+  - king's cross
+  - king's cross
+  flickr_300k_url: https://c4.staticflickr.com/6/5751/21069789141_5c303563c9_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/6/5751/21069789141_876c38328b_o.jpg
+  image_classes:
+  - Plant
+  - Tree
+  - Clothing
+  - Book
+  image_height: 768
+  image_id: 655dcd26ef3108ff
+  image_width: 1024
+  question: what is the name of this chapter?
+  question_id: 34631
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - this
+  - chapter
+  set_name: val
+- answers:
+  - gioconda belli
+  - gioconda belli
+  - gioconda belli
+  - gioconda belli
+  - gioconda belli
+  - gioconda belli
+  - gioconda belli
+  - gioconda belli
+  - gioconda belli
+  - gioconda belli
+  flickr_300k_url: https://c2.staticflickr.com/5/4087/5108161570_ba9c2241b3_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/4087/5108161570_cb6687a98b_o.jpg
+  image_classes:
+  - Person
+  - Fashion accessory
+  - Clothing
+  - Footwear
+  - Book
+  image_height: 1024
+  image_id: c8616652f54577f4
+  image_width: 683
+  question: who is the author of the book?
+  question_id: 34632
+  question_tokens:
+  - who
+  - is
+  - the
+  - author
+  - of
+  - the
+  - book
+  set_name: val
+- answers:
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  flickr_300k_url: https://c3.staticflickr.com/4/3836/14311434276_b57d02136e_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/4/3836/14311434276_b889445eac_o.jpg
+  image_classes:
+  - Drink
+  - Tin can
+  - Bottle
+  image_height: 985
+  image_id: fe32ee8991d2e59f
+  image_width: 1024
+  question: are these bottles of pepsi?
+  question_id: 34633
+  question_tokens:
+  - are
+  - these
+  - bottles
+  - of
+  - pepsi
+  set_name: val
+- answers:
+  - jeff vandermeer & mark roberts
+  - jeff vandermeer & mark roberts
+  - jeff vandermeer& mark roberts
+  - jeff vandermeer & mark roberts
+  - jeff vandermeer & mark roberts
+  - jeff vandermeer & mark roberts
+  - jeff vandermeer & mark roberts
+  - jeff vandermeer & mark roberts
+  - jeff vandermeer & mark roberts
+  - jeff vandermeer & mark roberts
+  flickr_300k_url: https://c7.staticflickr.com/5/4087/5177042176_2340a40835_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/4087/5177042176_b3ec6c6513_o.jpg
+  image_classes:
+  - Person
+  - Poster
+  - Clothing
+  - Book
+  image_height: 768
+  image_id: e7d656c4407826c5
+  image_width: 1024
+  question: who edited the book?
+  question_id: 34634
+  question_tokens:
+  - who
+  - edited
+  - the
+  - book
+  set_name: val
+- answers:
+  - '13:50'
+  - '13:57'
+  - '13:57'
+  - '13:57'
+  - '13:57'
+  - mathematic
+  - ;5713
+  - wifi
+  - '13:57 '
+  - '13:57'
+  flickr_300k_url: https://c2.staticflickr.com/6/5574/14950307148_ff60c9bfe5_z.jpg
+  flickr_original_url: https://farm1.staticflickr.com/5574/14950307148_48ccfa5510_o.jpg
+  image_classes:
+  - Scale
+  - Alarm clock
+  - Mobile phone
+  - Digital clock
+  - Watch
+  image_height: 576
+  image_id: 01b3265b22d23b50
+  image_width: 1024
+  question: what time is it?
+  question_id: 34635
+  question_tokens:
+  - what
+  - time
+  - is
+  - it
+  set_name: val
+- answers:
+  - aden_76
+  - '@mediaczar'
+  - '@aden_76'
+  - unanswerable
+  - mediaczar
+  - 'yes'
+  - '@aden_76'
+  - aden_76
+  - mediaczar
+  - '@mediaczar'
+  flickr_300k_url: https://c2.staticflickr.com/6/5574/14950307148_ff60c9bfe5_z.jpg
+  flickr_original_url: https://farm1.staticflickr.com/5574/14950307148_48ccfa5510_o.jpg
+  image_classes:
+  - Scale
+  - Alarm clock
+  - Mobile phone
+  - Digital clock
+  - Watch
+  image_height: 576
+  image_id: 01b3265b22d23b50
+  image_width: 1024
+  question: what is the screen name being displayed?
+  question_id: 34636
+  question_tokens:
+  - what
+  - is
+  - the
+  - screen
+  - name
+  - being
+  - displayed
+  set_name: val
+- answers:
+  - your mom
+  - your mom
+  - your mom
+  - your mom
+  - your mom
+  - your mom
+  - your mom
+  - your mom
+  - your mom
+  - your mom
+  flickr_300k_url: https://c3.staticflickr.com/5/4051/4501484098_1282198a30_z.jpg
+  flickr_original_url: https://farm4.staticflickr.com/4051/4501484098_35572dba7a_o.jpg
+  image_classes:
+  - Vehicle
+  - Bicycle
+  - Giraffe
+  - Horse
+  - Motorcycle
+  - Wall clock
+  image_height: 681
+  image_id: 012372cab6855b83
+  image_width: 1024
+  question: what does the picture say the other ride is?
+  question_id: 34637
+  question_tokens:
+  - what
+  - does
+  - the
+  - picture
+  - say
+  - the
+  - other
+  - ride
+  - is
+  set_name: val
+- answers:
+  - '30'
+  - '30'
+  - '30'
+  - '30'
+  - '30'
+  - '30'
+  - '30'
+  - '30'
+  - '30'
+  - '30'
+  flickr_300k_url: https://c5.staticflickr.com/2/1180/1352125473_211152a713_z.jpg?zz=1
+  flickr_original_url: https://farm7.staticflickr.com/1180/1352125473_1de8ea86e7_o.jpg
+  image_classes:
+  - Football
+  - Person
+  - Plant
+  - Sports equipment
+  image_height: 690
+  image_id: 97b1112b17015396
+  image_width: 1024
+  question: whats the lowest number yard line that you can see?
+  question_id: 34638
+  question_tokens:
+  - whats
+  - the
+  - lowest
+  - number
+  - yard
+  - line
+  - that
+  - you
+  - can
+  - see
+  set_name: val
+- answers:
+  - jesus
+  - jesus
+  - 'jesus '
+  - jesus
+  - jesus
+  - jesus
+  - jesus
+  - jesus
+  - jesus
+  - jesus
+  flickr_300k_url: https://c3.staticflickr.com/4/3678/10953143656_618023b7cd_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/3678/10953143656_58bf09d69c_o.jpg
+  image_classes:
+  - Poster
+  image_height: 690
+  image_id: 6f8cc53eafad6f86
+  image_width: 1024
+  question: what word is handwritten?
+  question_id: 34639
+  question_tokens:
+  - what
+  - word
+  - is
+  - handwritten
+  set_name: val
+- answers:
+  - the clositers wetland
+  - the cloisters wetland
+  - unanswerable
+  - unanswerable
+  - unanswerable
+  - where does the water come from jesus
+  - where does water come from?
+  - the cloisters wetland
+  - jesus
+  - the cloisters wetland
+  flickr_300k_url: https://c3.staticflickr.com/4/3678/10953143656_618023b7cd_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/3678/10953143656_58bf09d69c_o.jpg
+  image_classes:
+  - Poster
+  image_height: 690
+  image_id: 6f8cc53eafad6f86
+  image_width: 1024
+  question: what is the title of the book?
+  question_id: 34640
+  question_tokens:
+  - what
+  - is
+  - the
+  - title
+  - of
+  - the
+  - book
+  set_name: val
+- answers:
+  - '57859'
+  - '57859'
+  - '57859'
+  - '57859'
+  - '57859'
+  - '57859'
+  - '57859'
+  - '57859'
+  - '46531'
+  - '57859'
+  flickr_300k_url: https://c1.staticflickr.com/9/8390/8673333638_7e20b0b36f_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/8390/8673333638_691902b49c_o.jpg
+  image_classes:
+  - Person
+  - Woman
+  - Man
+  - Girl
+  - Clothing
+  - Footwear
+  - Sports uniform
+  image_height: 684
+  image_id: dae7b07540e932a1
+  image_width: 1024
+  question: what is the number of the runner in the lead right now?
+  question_id: 34641
+  question_tokens:
+  - what
+  - is
+  - the
+  - number
+  - of
+  - the
+  - runner
+  - in
+  - the
+  - lead
+  - right
+  - now
+  set_name: val
+- answers:
+  - '57859'
+  - '57859'
+  - '57859 '
+  - '57859'
+  - '57859'
+  - '57859'
+  - unanswerable
+  - '3'
+  - '57859'
+  - '46531'
+  flickr_300k_url: https://c1.staticflickr.com/9/8390/8673333638_7e20b0b36f_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/8390/8673333638_691902b49c_o.jpg
+  image_classes:
+  - Person
+  - Woman
+  - Man
+  - Girl
+  - Clothing
+  - Footwear
+  - Sports uniform
+  image_height: 684
+  image_id: dae7b07540e932a1
+  image_width: 1024
+  question: what is the number on the runner in middle?
+  question_id: 34642
+  question_tokens:
+  - what
+  - is
+  - the
+  - number
+  - 'on'
+  - the
+  - runner
+  - in
+  - middle
+  set_name: val
+- answers:
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - '2002'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  flickr_300k_url: https://c8.staticflickr.com/3/2230/2504556627_c5997c72ca_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/2230/2504556627_df3074cb1b_o.jpg
+  image_classes:
+  - Fashion accessory
+  - Clothing
+  - Ruler
+  image_height: 768
+  image_id: bdbfae49210475d4
+  image_width: 1024
+  question: was the ruler made in 2002?
+  question_id: 34643
+  question_tokens:
+  - was
+  - the
+  - ruler
+  - made
+  - in
+  - '2002'
+  set_name: val
+- answers:
+  - '50'
+  - ' 50'
+  - '50'
+  - '50'
+  - '50'
+  - '50'
+  - '50'
+  - '50'
+  - '50'
+  - '50'
+  flickr_300k_url: https://c8.staticflickr.com/3/2230/2504556627_c5997c72ca_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/2230/2504556627_df3074cb1b_o.jpg
+  image_classes:
+  - Fashion accessory
+  - Clothing
+  - Ruler
+  image_height: 768
+  image_id: bdbfae49210475d4
+  image_width: 1024
+  question: what is the largest measurement we can see on this ruler?
+  question_id: 34644
+  question_tokens:
+  - what
+  - is
+  - the
+  - largest
+  - measurement
+  - we
+  - can
+  - see
+  - 'on'
+  - this
+  - ruler
+  set_name: val
+- answers:
+  - vodka
+  - nc
+  - vodka
+  - vodka
+  - vodka
+  - chase
+  - chase vodka
+  - vodka
+  - vodka
+  - chase
+  flickr_300k_url: https://c2.staticflickr.com/4/3675/13486598765_2a4ca19955_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/3675/13486598765_252beb4bc9_o.jpg
+  image_classes:
+  - Drink
+  - Barrel
+  - Bottle
+  - Bottle opener
+  - Perfume
+  image_height: 1024
+  image_id: 0ee10ec0ad8d63c2
+  image_width: 480
+  question: what type of liquor is displayed?
+  question_id: 34645
+  question_tokens:
+  - what
+  - type
+  - of
+  - liquor
+  - is
+  - displayed
+  set_name: val
+- answers:
+  - chase
+  - chase
+  - chase
+  - chase
+  - chase
+  - chase
+  - chase
+  - chase
+  - chase
+  - chase
+  flickr_300k_url: https://c2.staticflickr.com/4/3675/13486598765_2a4ca19955_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/3675/13486598765_252beb4bc9_o.jpg
+  image_classes:
+  - Drink
+  - Barrel
+  - Bottle
+  - Bottle opener
+  - Perfume
+  image_height: 1024
+  image_id: 0ee10ec0ad8d63c2
+  image_width: 480
+  question: what is the name of the vodka?
+  question_id: 34646
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - the
+  - vodka
+  set_name: val
+- answers:
+  - honghe
+  - hongre
+  - paganica
+  - honghe
+  - honghe
+  - honghe
+  - honghe
+  - honghe
+  - honghe
+  - honghe
+  flickr_300k_url: https://c2.staticflickr.com/1/41/80592650_086b7755d8_z.jpg?zz=1
+  flickr_original_url: https://c1.staticflickr.com/1/41/80592650_086b7755d8_o.jpg
+  image_classes:
+  - Beer
+  - Drink
+  - Food
+  - Bottle
+  - Wine
+  image_height: 768
+  image_id: 48d92481756020a8
+  image_width: 1024
+  question: what are the brand of cigarettes?
+  question_id: 34647
+  question_tokens:
+  - what
+  - are
+  - the
+  - brand
+  - of
+  - cigarettes
+  set_name: val
+- answers:
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - '1'
+  - one penny
+  flickr_300k_url: https://c2.staticflickr.com/4/3308/3569608914_f65a632972_z.jpg?zz=1
+  flickr_original_url: https://c4.staticflickr.com/4/3308/3569608914_7264d5975f_o.jpg
+  image_classes:
+  - Coin
+  image_height: 768
+  image_id: af7be6b69ba0510b
+  image_width: 1024
+  question: what is the gold coin worth?
+  question_id: 34648
+  question_tokens:
+  - what
+  - is
+  - the
+  - gold
+  - coin
+  - worth
+  set_name: val
+- answers:
+  - one penny
+  - one cent
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  - one penny
+  flickr_300k_url: https://c2.staticflickr.com/4/3308/3569608914_f65a632972_z.jpg?zz=1
+  flickr_original_url: https://c4.staticflickr.com/4/3308/3569608914_7264d5975f_o.jpg
+  image_classes:
+  - Coin
+  image_height: 768
+  image_id: af7be6b69ba0510b
+  image_width: 1024
+  question: how much is the copper colored coin worth?
+  question_id: 34649
+  question_tokens:
+  - how
+  - much
+  - is
+  - the
+  - copper
+  - colored
+  - coin
+  - worth
+  set_name: val
+- answers:
+  - french
+  - french
+  - french
+  - french
+  - french
+  - french
+  - french
+  - french
+  - french
+  - french
+  flickr_300k_url: https://c1.staticflickr.com/4/3095/3118249977_50264af61b_z.jpg?zz=1
+  flickr_original_url: https://farm8.staticflickr.com/3095/3118249977_efb233996d_o.jpg
+  image_classes:
+  - Car
+  - Vehicle registration plate
+  image_height: 768
+  image_id: ef00f12063be7b07
+  image_width: 1024
+  question: what word does the license plate say?
+  question_id: 34650
+  question_tokens:
+  - what
+  - word
+  - does
+  - the
+  - license
+  - plate
+  - say
+  set_name: val
+- answers:
+  - california
+  - california
+  - california
+  - california
+  - california
+  - california
+  - california
+  - california
+  - california
+  - california
+  flickr_300k_url: https://c1.staticflickr.com/4/3095/3118249977_50264af61b_z.jpg?zz=1
+  flickr_original_url: https://farm8.staticflickr.com/3095/3118249977_efb233996d_o.jpg
+  image_classes:
+  - Car
+  - Vehicle registration plate
+  image_height: 768
+  image_id: ef00f12063be7b07
+  image_width: 1024
+  question: what state is this car from?
+  question_id: 34651
+  question_tokens:
+  - what
+  - state
+  - is
+  - this
+  - car
+  - from
+  set_name: val
+- answers:
+  - 19:00 hs
+  - 19:00 hrs
+  - 19:00 hours
+  - '1900'
+  - '19:00'
+  - 19:00 hs
+  - '19:00'
+  - '19:00'
+  - '19:00 hr '
+  - '1900'
+  flickr_300k_url: https://c4.staticflickr.com/8/7020/6472883123_ee96d6374b_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/8/7020/6472883123_7cdc606b71_o.jpg
+  image_classes:
+  - Billboard
+  - Poster
+  image_height: 768
+  image_id: 5f9498ef6bcb122c
+  image_width: 1024
+  question: what's the time next to domingo?
+  question_id: 34652
+  question_tokens:
+  - what
+  - ''''
+  - s
+  - the
+  - time
+  - next
+  - to
+  - domingo
+  set_name: val
+- answers:
+  - '20'
+  - '20'
+  - '20'
+  - '20'
+  - '20'
+  - 20 pounds
+  - '20'
+  - '20'
+  - '20'
+  - twenty pounds
+  flickr_300k_url: https://c6.staticflickr.com/6/5172/5474762678_82a9b54f03_z.jpg
+  flickr_original_url: https://farm1.staticflickr.com/5172/5474762678_433d6541f7_o.jpg
+  image_classes:
+  - Computer keyboard
+  - Coin
+  - Calculator
+  - Office supplies
+  image_height: 1024
+  image_id: 015782fa093545e0
+  image_width: 905
+  question: what monetary value is the blue and purple bill?
+  question_id: 34653
+  question_tokens:
+  - what
+  - monetary
+  - value
+  - is
+  - the
+  - blue
+  - and
+  - purple
+  - bill
+  set_name: val
+- answers:
+  - tax
+  - defect
+  - tax
+  - tax
+  - tax
+  - tax
+  - tax
+  - tax
+  - 'tax '
+  - tax
+  flickr_300k_url: https://c6.staticflickr.com/6/5172/5474762678_82a9b54f03_z.jpg
+  flickr_original_url: https://farm1.staticflickr.com/5172/5474762678_433d6541f7_o.jpg
+  image_classes:
+  - Computer keyboard
+  - Coin
+  - Calculator
+  - Office supplies
+  image_height: 1024
+  image_id: 015782fa093545e0
+  image_width: 905
+  question: what is the word in blue buble bottom left?
+  question_id: 34654
+  question_tokens:
+  - what
+  - is
+  - the
+  - word
+  - in
+  - blue
+  - buble
+  - bottom
+  - left
+  set_name: val
+- answers:
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  flickr_300k_url: https://c5.staticflickr.com/6/5617/20605099204_8c91f0b2c3_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/6/5617/20605099204_4fe191a2e8_o.jpg
+  image_classes:
+  - Boy
+  - Person
+  - Baseball glove
+  - Man
+  - Sports equipment
+  - Clothing
+  - Sports uniform
+  image_height: 678
+  image_id: 5ec0ffdfeccccc28
+  image_width: 1024
+  question: what number is the player looking at the children?
+  question_id: 34655
+  question_tokens:
+  - what
+  - number
+  - is
+  - the
+  - player
+  - looking
+  - at
+  - the
+  - children
+  set_name: val
+- answers:
+  - york
+  - york
+  - work
+  - citi field
+  - york
+  - york
+  - york
+  - york
+  - york
+  - york
+  flickr_300k_url: https://c5.staticflickr.com/6/5617/20605099204_8c91f0b2c3_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/6/5617/20605099204_4fe191a2e8_o.jpg
+  image_classes:
+  - Boy
+  - Person
+  - Baseball glove
+  - Man
+  - Sports equipment
+  - Clothing
+  - Sports uniform
+  image_height: 678
+  image_id: 5ec0ffdfeccccc28
+  image_width: 1024
+  question: who is one of the sponsors?
+  question_id: 34656
+  question_tokens:
+  - who
+  - is
+  - one
+  - of
+  - the
+  - sponsors
+  set_name: val
+- answers:
+  - life cycle
+  - life cycle
+  - life cycle
+  - life cycle
+  - life cycle
+  - life cycle
+  - life cycle
+  - life cycle
+  - life cycle
+  - life cycle
+  flickr_300k_url: https://c8.staticflickr.com/9/8167/7167388439_1d5058d6ec_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/8167/7167388439_e24a713e5b_o.jpg
+  image_classes:
+  - Person
+  - Girl
+  - Clothing
+  - Footwear
+  - Human face
+  - Sports uniform
+  image_height: 1024
+  image_id: c80a03bda5046286
+  image_width: 1024
+  question: what is written on the man's shirt?
+  question_id: 34657
+  question_tokens:
+  - what
+  - is
+  - written
+  - 'on'
+  - the
+  - man
+  - ''''
+  - s
+  - shirt
+  set_name: val
+- answers:
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  - '9'
+  flickr_300k_url: https://c7.staticflickr.com/4/3875/14850579998_afe8262332_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/3875/14850579998_ffa7413898_o.jpg
+  image_classes:
+  - Football
+  - Ball
+  - Boy
+  - Person
+  - Mammal
+  - Man
+  - Plant
+  - Sports equipment
+  image_height: 736
+  image_id: 1d46aaad25ddca64
+  image_width: 1024
+  question: what number is the player on the right?
+  question_id: 34658
+  question_tokens:
+  - what
+  - number
+  - is
+  - the
+  - player
+  - 'on'
+  - the
+  - right
+  set_name: val
+- answers:
+  - ryman
+  - the ryman football league
+  - macron
+  - ryman
+  - ryman macron
+  - ryman
+  - ryman
+  - ryman
+  - ryman
+  - ryman
+  flickr_300k_url: https://c7.staticflickr.com/4/3875/14850579998_afe8262332_z.jpg
+  flickr_original_url: https://farm5.staticflickr.com/3875/14850579998_ffa7413898_o.jpg
+  image_classes:
+  - Football
+  - Ball
+  - Boy
+  - Person
+  - Mammal
+  - Man
+  - Plant
+  - Sports equipment
+  image_height: 736
+  image_id: 1d46aaad25ddca64
+  image_width: 1024
+  question: what football league is the jacket from on the man pointing?
+  question_id: 34659
+  question_tokens:
+  - what
+  - football
+  - league
+  - is
+  - the
+  - jacket
+  - from
+  - 'on'
+  - the
+  - man
+  - pointing
+  set_name: val
+- answers:
+  - '25'
+  - 25 paise
+  - '20'
+  - '25'
+  - '25'
+  - '25'
+  - '25'
+  - '25'
+  - '25'
+  - '25'
+  flickr_300k_url: https://c5.staticflickr.com/7/6155/6140511455_dc566b673d_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/7/6155/6140511455_11ca7dba48_o.jpg
+  image_classes:
+  - Coin
+  image_height: 768
+  image_id: 1cc318956b4e27ff
+  image_width: 1024
+  question: how much is the coin worth?
+  question_id: 34660
+  question_tokens:
+  - how
+  - much
+  - is
+  - the
+  - coin
+  - worth
+  set_name: val
+- answers:
+  - '1984'
+  - '1984'
+  - '1984'
+  - '1984'
+  - '1984'
+  - '1984'
+  - '1984'
+  - '1984'
+  - '1984'
+  - '1984'
+  flickr_300k_url: https://c5.staticflickr.com/7/6155/6140511455_dc566b673d_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/7/6155/6140511455_11ca7dba48_o.jpg
+  image_classes:
+  - Coin
+  image_height: 768
+  image_id: 1cc318956b4e27ff
+  image_width: 1024
+  question: what year is the coin?
+  question_id: 34661
+  question_tokens:
+  - what
+  - year
+  - is
+  - the
+  - coin
+  set_name: val
+- answers:
+  - corona
+  - corona
+  - 'corona '
+  - 'coronito '
+  - coronita extra
+  - coronita
+  - corona
+  - beer
+  - corona extra
+  - corona
+  flickr_300k_url: https://c4.staticflickr.com/9/8348/8183392021_d80362ec5a_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/9/8348/8183392021_97a99f7706_o.jpg
+  image_classes:
+  - Beer
+  - Lantern
+  - Cocktail
+  - Drink
+  - Food
+  - Bottle
+  image_height: 1024
+  image_id: 391a6d50a130f00b
+  image_width: 768
+  question: what is in the bottles?
+  question_id: 34662
+  question_tokens:
+  - what
+  - is
+  - in
+  - the
+  - bottles
+  set_name: val
+- answers:
+  - coronita
+  - coronito
+  - 'coronita '
+  - corona
+  - corona
+  - bubba gump
+  - 'coronita '
+  - coronita extra
+  - coronita extra
+  - coronita
+  flickr_300k_url: https://c4.staticflickr.com/9/8348/8183392021_d80362ec5a_z.jpg
+  flickr_original_url: https://c4.staticflickr.com/9/8348/8183392021_97a99f7706_o.jpg
+  image_classes:
+  - Beer
+  - Lantern
+  - Cocktail
+  - Drink
+  - Food
+  - Bottle
+  image_height: 1024
+  image_id: 391a6d50a130f00b
+  image_width: 768
+  question: what is the brand of the bottled drink?
+  question_id: 34663
+  question_tokens:
+  - what
+  - is
+  - the
+  - brand
+  - of
+  - the
+  - bottled
+  - drink
+  set_name: val
+- answers:
+  - '1855'
+  - '1855'
+  - '1855'
+  - '1855'
+  - '1855'
+  - '1855'
+  - '1855'
+  - '1805'
+  - '1855'
+  - '1855'
+  flickr_300k_url: https://c1.staticflickr.com/5/4028/4403764743_d7e44f960c_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/4028/4403764743_2e79ccc40b_o.jpg
+  image_classes:
+  - Person
+  - Man
+  - Clothing
+  - Book
+  image_height: 790
+  image_id: dad3e4c11cb8e867
+  image_width: 1024
+  question: what is the date on the text?
+  question_id: 34664
+  question_tokens:
+  - what
+  - is
+  - the
+  - date
+  - 'on'
+  - the
+  - text
+  set_name: val
+- answers:
+  - '19'
+  - '19'
+  - '19 '
+  - '19'
+  - '19'
+  - '19'
+  - '19'
+  - '19'
+  - '19'
+  - '19'
+  flickr_300k_url: https://c5.staticflickr.com/4/3786/13893528291_7afec55046_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/4/3786/13893528291_daaed783a0_o.jpg
+  image_classes:
+  - Sports equipment
+  image_height: 754
+  image_id: 3164c02b7c9a870f
+  image_width: 1024
+  question: what player number is this football player?
+  question_id: 34665
+  question_tokens:
+  - what
+  - player
+  - number
+  - is
+  - this
+  - football
+  - player
+  set_name: val
+- answers:
+  - white
+  - red
+  - red
+  - white
+  - white
+  - white
+  - white
+  - white
+  - white
+  - white
+  flickr_300k_url: https://c5.staticflickr.com/4/3786/13893528291_7afec55046_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/4/3786/13893528291_daaed783a0_o.jpg
+  image_classes:
+  - Sports equipment
+  image_height: 754
+  image_id: 3164c02b7c9a870f
+  image_width: 1024
+  question: what color is the number 19 on the player's jersey?
+  question_id: 34666
+  question_tokens:
+  - what
+  - color
+  - is
+  - the
+  - number
+  - '19'
+  - 'on'
+  - the
+  - player
+  - ''''
+  - s
+  - jersey
+  set_name: val
+- answers:
+  - marvel
+  - marvel
+  - marvel
+  - marvel
+  - marvel
+  - marvel
+  - marvel
+  - marvel
+  - marvel
+  - marvel
+  flickr_300k_url: https://c7.staticflickr.com/6/5816/20739245095_6cec2c618c_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/5816/20739245095_f5d078c7ef_o.jpg
+  image_classes:
+  - Bookcase
+  - Book
+  - Furniture
+  - Shelf
+  image_height: 1024
+  image_id: 1f69dac8cd1c4066
+  image_width: 1024
+  question: what company made most of these books?
+  question_id: 34667
+  question_tokens:
+  - what
+  - company
+  - made
+  - most
+  - of
+  - these
+  - books
+  set_name: val
+- answers:
+  - virginia
+  - volume 2 and battle for the atom
+  - volume 1 and volume 2
+  - 1 and 2
+  - 1 2
+  - '1'
+  - 1 and 2
+  - unanswerable
+  - 1 2
+  - 1 and 2
+  flickr_300k_url: https://c7.staticflickr.com/6/5816/20739245095_6cec2c618c_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/5816/20739245095_f5d078c7ef_o.jpg
+  image_classes:
+  - Bookcase
+  - Book
+  - Furniture
+  - Shelf
+  image_height: 1024
+  image_id: 1f69dac8cd1c4066
+  image_width: 1024
+  question: what volumes are the last two black  marvel books?
+  question_id: 34668
+  question_tokens:
+  - what
+  - volumes
+  - are
+  - the
+  - last
+  - two
+  - black
+  - marvel
+  - books
+  set_name: val
+- answers:
+  - fry's cocoa
+  - cocoa
+  - cocoa
+  - cocoa
+  - cocoa
+  - cocoa
+  - cocoa, sah
+  - cocoa
+  - cocoa
+  - frys cocoa
+  flickr_300k_url: https://c3.staticflickr.com/8/7177/6872214483_416b255470_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/8/7177/6872214483_e38d545446_o.jpg
+  image_classes:
+  - Person
+  - Man
+  - Picture frame
+  image_height: 1024
+  image_id: 5bf96d545aee074c
+  image_width: 678
+  question: what is being served?
+  question_id: 34669
+  question_tokens:
+  - what
+  - is
+  - being
+  - served
+  set_name: val
+- answers:
+  - fry's
+  - fry's
+  - fry's
+  - fry's
+  - fry's cocoa
+  - fry's
+  - fry's cocoa
+  - fry's
+  - fry's
+  - fry's
+  flickr_300k_url: https://c3.staticflickr.com/8/7177/6872214483_416b255470_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/8/7177/6872214483_e38d545446_o.jpg
+  image_classes:
+  - Person
+  - Man
+  - Picture frame
+  image_height: 1024
+  image_id: 5bf96d545aee074c
+  image_width: 678
+  question: what brand of cocoa is it?
+  question_id: 34670
+  question_tokens:
+  - what
+  - brand
+  - of
+  - cocoa
+  - is
+  - it
+  set_name: val
+- answers:
+  - ray kurzweil
+  - ray kurzweil
+  - ray kurzweil
+  - ray kurzweil
+  - ray kurzweil
+  - ray kurzweil
+  - ray kurzweil
+  - ray kurzweil
+  - jaron lanier
+  - unanswerable
+  flickr_300k_url: https://c7.staticflickr.com/5/4141/4934898479_010b509689_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/5/4141/4934898479_bbf3d38773_o.jpg
+  image_classes:
+  - Vehicle registration plate
+  - Book
+  image_height: 768
+  image_id: b3def51bbc6c1af8
+  image_width: 1024
+  question: who wrote this book?
+  question_id: 34671
+  question_tokens:
+  - who
+  - wrote
+  - this
+  - book
+  set_name: val
+- answers:
+  - postcode
+  - postcode
+  - postcode
+  - postcode
+  - postcode
+  - postcode
+  - postcode
+  - post code
+  - postcode
+  - recycle symbol
+  flickr_300k_url: https://c7.staticflickr.com/3/2216/2098569947_726bde4482_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/2216/2098569947_93b3500b30_o.jpg
+  image_classes:
+  - Envelope
+  image_height: 768
+  image_id: 2663afe4fe59d645
+  image_width: 1024
+  question: what does it say in the bottom right corner?
+  question_id: 34672
+  question_tokens:
+  - what
+  - does
+  - it
+  - say
+  - in
+  - the
+  - bottom
+  - right
+  - corner
+  set_name: val
+- answers:
+  - the nls4 team
+  - nls4 team
+  - team
+  - nls4 tcom
+  - nls4 team
+  - team
+  - nls4 team
+  - als4 team
+  - unanswerable
+  - nls4 t com
+  flickr_300k_url: https://c7.staticflickr.com/3/2216/2098569947_726bde4482_z.jpg
+  flickr_original_url: https://farm6.staticflickr.com/2216/2098569947_93b3500b30_o.jpg
+  image_classes:
+  - Envelope
+  image_height: 768
+  image_id: 2663afe4fe59d645
+  image_width: 1024
+  question: who is this congratulations from?
+  question_id: 34673
+  question_tokens:
+  - who
+  - is
+  - this
+  - congratulations
+  - from
+  set_name: val
+- answers:
+  - nama kelompok
+  - kelompok
+  - nama kelompok
+  - nama kelepok
+  - kelompok
+  - wanita
+  - wanita
+  - 'wanita '
+  - wanita
+  - wanita
+  flickr_300k_url: https://c2.staticflickr.com/4/3068/3057515879_6fd8c5043f_z.jpg?zz=1
+  flickr_original_url: https://farm7.staticflickr.com/3068/3057515879_44523c8fe1_o.jpg
+  image_classes:
+  - Whiteboard
+  image_height: 768
+  image_id: 184d3e681aa3d556
+  image_width: 1024
+  question: what is the first name on this list?
+  question_id: 34674
+  question_tokens:
+  - what
+  - is
+  - the
+  - first
+  - name
+  - 'on'
+  - this
+  - list
+  set_name: val
+- answers:
+  - dewasa
+  - dewasa
+  - dewasa
+  - dewasa
+  - alles was du willist
+  - dewasa
+  - dewasa
+  - dewasa
+  - dewasa
+  - dewasa
+  flickr_300k_url: https://c2.staticflickr.com/4/3068/3057515879_6fd8c5043f_z.jpg?zz=1
+  flickr_original_url: https://farm7.staticflickr.com/3068/3057515879_44523c8fe1_o.jpg
+  image_classes:
+  - Whiteboard
+  image_height: 768
+  image_id: 184d3e681aa3d556
+  image_width: 1024
+  question: what name is next to number 5?
+  question_id: 34675
+  question_tokens:
+  - what
+  - name
+  - is
+  - next
+  - to
+  - number
+  - '5'
+  set_name: val
+- answers:
+  - fica
+  - tua
+  - tua
+  - tua
+  - tua
+  - tua
+  - tua
+  - tua
+  - tua
+  - tua
+  flickr_300k_url: https://c6.staticflickr.com/7/6039/6293495530_2a90873463_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/7/6039/6293495530_063de9a4f7_o.jpg
+  image_classes:
+  - Book
+  image_height: 765
+  image_id: fc5e25716377e42c
+  image_width: 1024
+  question: what is the 3 letter word to the left of casa in the text?
+  question_id: 34676
+  question_tokens:
+  - what
+  - is
+  - the
+  - '3'
+  - letter
+  - word
+  - to
+  - the
+  - left
+  - of
+  - casa
+  - in
+  - the
+  - text
+  set_name: val
+- answers:
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  - '2012'
+  flickr_300k_url: https://c2.staticflickr.com/3/2935/13994786839_11c165bdb3_z.jpg
+  flickr_original_url: https://c2.staticflickr.com/3/2935/13994786839_c20a69e092_o.jpg
+  image_classes:
+  - Drink
+  - Tableware
+  - Bottle
+  - Wine
+  image_height: 515
+  image_id: 11a0cb82d540e869
+  image_width: 1024
+  question: what year was this made?
+  question_id: 34677
+  question_tokens:
+  - what
+  - year
+  - was
+  - this
+  - made
+  set_name: val
+- answers:
+  - foreign words
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  - 'yes'
+  flickr_300k_url: https://c4.staticflickr.com/6/5060/5391939131_4e42f53f2e_z.jpg
+  flickr_original_url: https://c5.staticflickr.com/6/5060/5391939131_c9bd2fbbce_o.jpg
+  image_classes:
+  - Person
+  - Poster
+  - Man
+  - Book
+  image_height: 1024
+  image_id: a3d2ea198c2767cc
+  image_width: 768
+  question: is this a reference book?
+  question_id: 34678
+  question_tokens:
+  - is
+  - this
+  - a
+  - reference
+  - book
+  set_name: val
+- answers:
+  - jiba
+  - jiba
+  - items handes into london undergrounf lost property
+  - jiba
+  - jiba
+  - jiba
+  - jiba
+  - jiba
+  - jiba
+  - no numbers but the letters jiba
+  flickr_300k_url: https://c3.staticflickr.com/9/8388/8507330151_f0015763ed_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/9/8388/8507330151_72181538c9_o.jpg
+  image_classes:
+  - Car
+  - Vehicle registration plate
+  image_height: 768
+  image_id: 00831662d2ba731a
+  image_width: 1024
+  question: what is the license plate number?
+  question_id: 34679
+  question_tokens:
+  - what
+  - is
+  - the
+  - license
+  - plate
+  - number
+  set_name: val
+- answers:
+  - 9.0% alc/vol.
+  - '9.0'
+  - 9.0%
+  - lego
+  - smashed pumpkin
+  - 9.0%
+  - '9'
+  - '9.0'
+  - 9%
+  - '2009'
+  flickr_300k_url: https://c8.staticflickr.com/4/3493/3951225271_773d9ccd21_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/3493/3951225271_ee91398f5b_o.jpg
+  image_classes:
+  - Drink
+  - Tin can
+  - Bottle
+  image_height: 1024
+  image_id: 1526520f65bff202
+  image_width: 589
+  question: what is the alcohol content?
+  question_id: 34680
+  question_tokens:
+  - what
+  - is
+  - the
+  - alcohol
+  - content
+  set_name: val
+- answers:
+  - smashed pumpkin
+  - smashed pumpkin
+  - smashed pumpkin
+  - smashed pumpkin
+  - smashed pumpkin
+  - smashed pumpkin
+  - shipyard smashed pumpkin
+  - smashed pumpkin
+  - shipyard
+  - smashed pumpkin
+  flickr_300k_url: https://c8.staticflickr.com/4/3493/3951225271_773d9ccd21_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/3493/3951225271_ee91398f5b_o.jpg
+  image_classes:
+  - Drink
+  - Tin can
+  - Bottle
+  image_height: 1024
+  image_id: 1526520f65bff202
+  image_width: 589
+  question: what is the name of this ale?
+  question_id: 34681
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - this
+  - ale
+  set_name: val
+- answers:
+  - coors
+  - coors light
+  - secret
+  - coors light
+  - coors light
+  - 'coors light '
+  - coors light
+  - coors light
+  - coors light
+  - coors light
+  flickr_300k_url: https://c7.staticflickr.com/4/3401/4627066763_dd7c4dee3c_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/4/3401/4627066763_8d58de7a5a_o.jpg
+  image_classes:
+  - Person
+  - Billboard
+  - Man
+  - Scoreboard
+  - Sports equipment
+  - Clothing
+  - Sports uniform
+  image_height: 683
+  image_id: 949c2a96fdc2d21a
+  image_width: 1024
+  question: what is the beer brand front center?
+  question_id: 34682
+  question_tokens:
+  - what
+  - is
+  - the
+  - beer
+  - brand
+  - front
+  - center
+  set_name: val
+- answers:
+  - 'safeway '
+  - safeway
+  - safeway
+  - safeway
+  - safeway
+  - safeway
+  - safeway
+  - safeway
+  - safeway
+  - calculator
+  flickr_300k_url: https://c7.staticflickr.com/4/3401/4627066763_dd7c4dee3c_z.jpg
+  flickr_original_url: https://c3.staticflickr.com/4/3401/4627066763_8d58de7a5a_o.jpg
+  image_classes:
+  - Person
+  - Billboard
+  - Man
+  - Scoreboard
+  - Sports equipment
+  - Clothing
+  - Sports uniform
+  image_height: 683
+  image_id: 949c2a96fdc2d21a
+  image_width: 1024
+  question: what is the company name to the left of the coors logo?
+  question_id: 34683
+  question_tokens:
+  - what
+  - is
+  - the
+  - company
+  - name
+  - to
+  - the
+  - left
+  - of
+  - the
+  - coors
+  - logo
+  set_name: val
+- answers:
+  - cathy williams
+  - cathy williams
+  - cathy williams
+  - cathy williams
+  - cathy williams
+  - cathy williams
+  - cathy williams
+  - cathy williams
+  - cathy williams
+  - cathy williams
+  flickr_300k_url: https://c7.staticflickr.com/3/2938/14251349403_9dd4ca1c85_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/3/2938/14251349403_cab85e14f7_o.jpg
+  image_classes:
+  - Dress
+  - Person
+  - Woman
+  - Girl
+  - Clothing
+  - Book
+  image_height: 768
+  image_id: 9742c58a933a5a1e
+  image_width: 1024
+  question: who is usa today's bestselling author?
+  question_id: 34684
+  question_tokens:
+  - who
+  - is
+  - usa
+  - today
+  - ''''
+  - s
+  - bestselling
+  - author
+  set_name: val
+- answers:
+  - secrets of a ruthless tycoon
+  - secrets of a ruthless tycoon
+  - cathy williams
+  - secrets of a ruthless tycoon
+  - secrets of a ruthless tycoon
+  - secrets of a ruthless tycoon
+  - secrets of a ruthless tycoon
+  - secrets of a ruthless tycoon
+  - secrets of a ruthless tycoon
+  - secret of ruthless tycoon
+  flickr_300k_url: https://c7.staticflickr.com/3/2938/14251349403_9dd4ca1c85_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/3/2938/14251349403_cab85e14f7_o.jpg
+  image_classes:
+  - Dress
+  - Person
+  - Woman
+  - Girl
+  - Clothing
+  - Book
+  image_height: 768
+  image_id: 9742c58a933a5a1e
+  image_width: 1024
+  question: what is the name of this bestselling books?
+  question_id: 34685
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - this
+  - bestselling
+  - books
+  set_name: val
+- answers:
+  - krainerwurst
+  - burenwurst
+  - krainerwurst and burenwurst
+  - krainerwurst and burenwurst
+  - krainerwurst, burenwurst
+  - wurst
+  - bratwurst
+  - hotdogs
+  - krainerwurst burenwurst
+  - krainerwurst
+  flickr_300k_url: https://c4.staticflickr.com/2/1278/628522250_e6472a6d80_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/2/1278/628522250_cb5029ad32_o.jpg
+  image_classes:
+  - Fast food
+  - Person
+  - Woman
+  - Man
+  - Girl
+  - Clothing
+  - Convenience store
+  image_height: 768
+  image_id: de1abfcce50ab798
+  image_width: 1024
+  question: what is this food place selling?
+  question_id: 34686
+  question_tokens:
+  - what
+  - is
+  - this
+  - food
+  - place
+  - selling
+  set_name: val
+- answers:
+  - krainerwurst
+  - krainerwurst
+  - krainerwurst
+  - krainerwurst
+  - krainerwurst
+  - krainerwurst
+  - krainerwurst
+  - krainerwurst
+  - krainerwurst
+  - krainerwurst
+  flickr_300k_url: https://c4.staticflickr.com/2/1278/628522250_e6472a6d80_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/2/1278/628522250_cb5029ad32_o.jpg
+  image_classes:
+  - Fast food
+  - Person
+  - Woman
+  - Man
+  - Girl
+  - Clothing
+  - Convenience store
+  image_height: 768
+  image_id: de1abfcce50ab798
+  image_width: 1024
+  question: what is the top word on the sign on the left?
+  question_id: 34687
+  question_tokens:
+  - what
+  - is
+  - the
+  - top
+  - word
+  - 'on'
+  - the
+  - sign
+  - 'on'
+  - the
+  - left
+  set_name: val
+- answers:
+  - fox
+  - fox
+  - fox
+  - fox
+  - fox
+  - fox
+  - fox
+  - fox
+  - fox
+  - fox
+  flickr_300k_url: https://c3.staticflickr.com/9/8362/8344304690_55d69379d5_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/8362/8344304690_4f0c41f63f_o.jpg
+  image_classes:
+  - Food
+  - Fast food
+  - Person
+  - Man
+  - Clothing
+  - Human face
+  - Kitchen appliance
+  image_height: 1024
+  image_id: 2986fd7e368ba4b6
+  image_width: 768
+  question: what does his jacket say?
+  question_id: 34688
+  question_tokens:
+  - what
+  - does
+  - his
+  - jacket
+  - say
+  set_name: val
+- answers:
+  - coca-cola
+  - cocacola
+  - coca cola
+  - coca cola
+  - coca cola
+  - coca cola
+  - coca cola
+  - coca cola
+  - fox
+  - coca cola
+  flickr_300k_url: https://c3.staticflickr.com/9/8362/8344304690_55d69379d5_z.jpg
+  flickr_original_url: https://farm7.staticflickr.com/8362/8344304690_4f0c41f63f_o.jpg
+  image_classes:
+  - Food
+  - Fast food
+  - Person
+  - Man
+  - Clothing
+  - Human face
+  - Kitchen appliance
+  image_height: 1024
+  image_id: 2986fd7e368ba4b6
+  image_width: 768
+  question: what brand is in white letters with a red background?
+  question_id: 34689
+  question_tokens:
+  - what
+  - brand
+  - is
+  - in
+  - white
+  - letters
+  - with
+  - a
+  - red
+  - background
+  set_name: val
+- answers:
+  - koala kare
+  - koala bear
+  - koala kare
+  - koala kare
+  - koala kare
+  - koala kare
+  - koala kare
+  - koala kare
+  - koala kare
+  - koala kare
+  flickr_300k_url: https://c2.staticflickr.com/3/2573/4036733642_3a7ab6f224_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/2573/4036733642_009f0526bd_o.jpg
+  image_classes:
+  - Sink
+  - Shower
+  - Mirror
+  - Plumbing fixture
+  - Mammal
+  - Bathroom accessory
+  - Kitchen appliance
+  image_height: 768
+  image_id: bfb4e541ec1f3912
+  image_width: 1024
+  question: what brand of diaper area is this?
+  question_id: 34690
+  question_tokens:
+  - what
+  - brand
+  - of
+  - diaper
+  - area
+  - is
+  - this
+  set_name: val
+- answers:
+  - koala bear
+  - bear
+  - koala
+  - koala
+  - koala
+  - koala
+  - koala
+  - koala bear
+  - bear
+  - koala
+  flickr_300k_url: https://c2.staticflickr.com/3/2573/4036733642_3a7ab6f224_z.jpg
+  flickr_original_url: https://farm3.staticflickr.com/2573/4036733642_009f0526bd_o.jpg
+  image_classes:
+  - Sink
+  - Shower
+  - Mirror
+  - Plumbing fixture
+  - Mammal
+  - Bathroom accessory
+  - Kitchen appliance
+  image_height: 768
+  image_id: bfb4e541ec1f3912
+  image_width: 1024
+  question: what animal is shown on the changing table?
+  question_id: 34691
+  question_tokens:
+  - what
+  - animal
+  - is
+  - shown
+  - 'on'
+  - the
+  - changing
+  - table
+  set_name: val
+- answers:
+  - '7:28'
+  - '7:28'
+  - '7:28'
+  - '7:28'
+  - '7:28'
+  - '7:28'
+  - '7:28'
+  - '7:28'
+  - '7:28'
+  - '7:28'
+  flickr_300k_url: https://c4.staticflickr.com/8/7175/6568636059_3699907135_z.jpg
+  flickr_original_url: https://c7.staticflickr.com/8/7175/6568636059_b8073a9049_o.jpg
+  image_classes:
+  - Mobile phone
+  image_height: 1024
+  image_id: dee3b64f1590bf7e
+  image_width: 683
+  question: what time is it?
+  question_id: 34692
+  question_tokens:
+  - what
+  - time
+  - is
+  - it
+  set_name: val
+- answers:
+  - ariel
+  - ariel
+  - ariel
+  - ariel
+  - ariel
+  - ariel
+  - ariel
+  - ariel
+  - ariel
+  - ariel
+  flickr_300k_url: https://c6.staticflickr.com/1/100/315150392_5eb9356bd0_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/1/100/315150392_5eb9356bd0_o.jpg
+  image_classes:
+  - Bookcase
+  - Pencil case
+  - Book
+  image_height: 768
+  image_id: 67376b1bfb5a6c2f
+  image_width: 1024
+  question: what's the name of the book on the top of the pile?
+  question_id: 34693
+  question_tokens:
+  - what
+  - ''''
+  - s
+  - the
+  - name
+  - of
+  - the
+  - book
+  - 'on'
+  - the
+  - top
+  - of
+  - the
+  - pile
+  set_name: val
+- answers:
+  - the speaking eye
+  - the speaking eye
+  - the speaking eye
+  - the speaking eye
+  - the speaking eye
+  - the speaking eye
+  - the speaking eye
+  - the speaking eye
+  - the speaking eye
+  - the speaking eye
+  flickr_300k_url: https://c6.staticflickr.com/1/100/315150392_5eb9356bd0_z.jpg
+  flickr_original_url: https://c8.staticflickr.com/1/100/315150392_5eb9356bd0_o.jpg
+  image_classes:
+  - Bookcase
+  - Pencil case
+  - Book
+  image_height: 768
+  image_id: 67376b1bfb5a6c2f
+  image_width: 1024
+  question: what is the title of the green book that is second from the bottom?
+  question_id: 34694
+  question_tokens:
+  - what
+  - is
+  - the
+  - title
+  - of
+  - the
+  - green
+  - book
+  - that
+  - is
+  - second
+  - from
+  - the
+  - bottom
+  set_name: val
+- answers:
+  - southern homes
+  - southern homes
+  - southern homes
+  - southern homes
+  - southern homes
+  - southern homes
+  - charity golf
+  - southern homes
+  - southern homes
+  - southern homes
+  flickr_300k_url: https://c2.staticflickr.com/9/8405/8669277133_5272b37059_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/9/8405/8669277133_aeb9686386_o.jpg
+  image_classes:
+  - Glove
+  - Boy
+  - Person
+  - Baseball glove
+  - Man
+  - Sports equipment
+  - Clothing
+  - Sports uniform
+  image_height: 992
+  image_id: 5291f0ad3d98bbf8
+  image_width: 1024
+  question: what is the advertisement in the white board?
+  question_id: 34695
+  question_tokens:
+  - what
+  - is
+  - the
+  - advertisement
+  - in
+  - the
+  - white
+  - board
+  set_name: val
+- answers:
+  - 648-home
+  - 648 home
+  - 684-home
+  - 648-home
+  - 648 home
+  - 648-home
+  - 648-home
+  - 648-home
+  - 648-home
+  - 648 home
+  flickr_300k_url: https://c2.staticflickr.com/9/8405/8669277133_5272b37059_z.jpg
+  flickr_original_url: https://c1.staticflickr.com/9/8405/8669277133_aeb9686386_o.jpg
+  image_classes:
+  - Glove
+  - Boy
+  - Person
+  - Baseball glove
+  - Man
+  - Sports equipment
+  - Clothing
+  - Sports uniform
+  image_height: 992
+  image_id: 5291f0ad3d98bbf8
+  image_width: 1024
+  question: what is the number for southern homes?
+  question_id: 34696
+  question_tokens:
+  - what
+  - is
+  - the
+  - number
+  - for
+  - southern
+  - homes
+  set_name: val
+- answers:
+  - yamaha
+  - yamaha
+  - yamaha
+  - yamaha
+  - yahama
+  - yamaha
+  - yamaha
+  - yomoa
+  - yamaha
+  - vans
+  flickr_300k_url: https://c6.staticflickr.com/5/4086/5087473064_cfb1187b3c_z.jpg
+  flickr_original_url: https://farm2.staticflickr.com/4086/5087473064_8527b2a0a6_o.jpg
+  image_classes:
+  - Person
+  - Drum
+  - Musical instrument
+  - Plant
+  - Sports equipment
+  image_height: 685
+  image_id: 8b16ed46dd0e0291
+  image_width: 1024
+  question: what is the brand of the bass drum?
+  question_id: 34697
+  question_tokens:
+  - what
+  - is
+  - the
+  - brand
+  - of
+  - the
+  - bass
+  - drum
+  set_name: val
+- answers:
+  - stop
+  - 'startling stories '
+  - startling stories
+  - startling stories
+  - startling stories
+  - startling stories
+  - startling stories
+  - startling stories
+  - startling stories
+  - startling stories
+  flickr_300k_url: https://c1.staticflickr.com/5/4055/4653393266_763bee22b5_z.jpg
+  flickr_original_url: https://c6.staticflickr.com/5/4055/4653393266_27d07d7078_o.jpg
+  image_classes:
+  - Poster
+  image_height: 1024
+  image_id: 753b097c94a2fb4d
+  image_width: 724
+  question: what is the name of this comic?
+  question_id: 34698
+  question_tokens:
+  - what
+  - is
+  - the
+  - name
+  - of
+  - this
+  - comic
+  set_name: val
+- answers:
+  - norman a. daniels
+  - norman a. daniels
+  - ward hawkins
+  - norman a. daniels
+  - ward hawkins
+  - norman a. daniels
+  - ward hawkins
+  - norman a. daniels
+  - ward hawkins
+  - ward hawkins
+  flickr_300k_url: https://c1.staticflickr.com/5/4055/4653393266_763bee22b5_z.jpg
+  flickr_original_url: https://c6.staticflickr.com/5/4055/4653393266_27d07d7078_o.jpg
+  image_classes:
+  - Poster
+  image_height: 1024
+  image_id: 753b097c94a2fb4d
+  image_width: 724
+  question: who wrote the novelet titled "men must die"?
+  question_id: 34699
+  question_tokens:
+  - who
+  - wrote
+  - the
+  - novelet
+  - titled
+  - '"'
+  - men
+  - must
+  - die
+  - '"'
+  set_name: val
+- answers:
+  - '7:27'
+  - '8:28'
+  - '8:28'
+  - '8:29'
+  - '8:28 pm '
+  - '8:28'
+  - '8:30'
+  - '8:28'
+  - '7:28'
+  - '8:28'
+  flickr_300k_url: https://c2.staticflickr.com/4/3215/5701292141_f965f525c9_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/3215/5701292141_0abd70a7a7_o.jpg
+  image_classes:
+  - Clock
+  - Candle
+  - Platter
+  - Wall clock
+  image_height: 687
+  image_id: 07788c82bbbd1887
+  image_width: 1024
+  question: what time is displayed on the clock?
+  question_id: 34700
+  question_tokens:
+  - what
+  - time
+  - is
+  - displayed
+  - 'on'
+  - the
+  - clock
+  set_name: val
+- answers:
+  - a clock
+  - demonized
+  - unanswerable
+  - answering does not require reading text in the image
+  - budweiser
+  - a
+  - budweiser
+  - budweiser logo and clock hands
+  - bird
+  - clock
+  flickr_300k_url: https://c2.staticflickr.com/4/3215/5701292141_f965f525c9_z.jpg
+  flickr_original_url: https://farm8.staticflickr.com/3215/5701292141_0abd70a7a7_o.jpg
+  image_classes:
+  - Clock
+  - Candle
+  - Platter
+  - Wall clock
+  image_height: 687
+  image_id: 07788c82bbbd1887
+  image_width: 1024
+  question: what is this item in the middle?
+  question_id: 34701
+  question_tokens:
+  - what
+  - is
+  - this
+  - item
+  - in
+  - the
+  - middle
+  set_name: val
 dataset_name: textvqa
 dataset_type: val
 dataset_version: 0.5.1

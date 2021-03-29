@@ -1,24 +1,570 @@
 info:
+  date: 2/14/2017
   license: Creative Commons Attribution (CC BY 4.0)
   split: test
+  version: '1.0'
 questions:
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: Is there anything else that is the same shape as the small brown matte
+    object?
+  question_index: 0
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: How many brown rubber objects are the same shape as the gray rubber object?
+  question_index: 1
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: Does the tiny brown object have the same material as the tiny thing that
+    is in front of the tiny blue thing?
+  question_index: 2
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: How many tiny red rubber balls are there?
+  question_index: 3
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: What size is the rubber object that is to the right of the rubber cylinder?
+  question_index: 4
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: What number of other brown things have the same size as the shiny object?
+  question_index: 5
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: What is the material of the object that is both to the left of the small
+    blue thing and to the right of the small brown cylinder?
+  question_index: 6
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: What material is the brown object that is the same size as the blue shiny
+    block?
+  question_index: 7
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: What is the size of the rubber thing that is in front of the small matte
+    thing on the left side of the matte thing in front of the small blue metal object?
+  question_index: 8
   split: test
-- image_index: 0
+- image_filename: CLEVR_test_000000.png
+  image_index: 0
+  question: What size is the brown cylinder that is the same material as the sphere?
+  question_index: 9
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: There is a brown cylinder that is the same size as the yellow matte object;
+    what is its material?
+  question_index: 10
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: Are there any other things that are the same size as the yellow block?
+  question_index: 11
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: How many objects are either big things or small rubber blocks on the right
+    side of the big purple rubber cylinder?
+  question_index: 12
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: The yellow cube that is the same material as the large purple object is
+    what size?
+  question_index: 13
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: What shape is the matte thing in front of the matte cylinder that is to
+    the right of the large purple object?
+  question_index: 14
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: What is the size of the object that is both on the left side of the yellow
+    matte cube and in front of the big cylinder?
+  question_index: 15
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: Are there any purple things that have the same shape as the brown matte
+    thing?
+  question_index: 16
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: Is there any other thing that is the same shape as the large object?
+  question_index: 17
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: What material is the cylinder that is in front of the rubber cylinder
+    that is to the left of the small object that is behind the yellow object?
+  question_index: 18
+  split: test
+- image_filename: CLEVR_test_000001.png
+  image_index: 1
+  question: Are there any gray metal things of the same size as the purple matte cylinder?
+  question_index: 19
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: There is a metallic cylinder on the left side of the tiny yellow metallic
+    thing; are there any small red blocks right of it?
+  question_index: 20
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: There is a tiny matte thing that is left of the big gray cylinder and
+    in front of the cyan metal cylinder; what color is it?
+  question_index: 21
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: What size is the brown sphere?
+  question_index: 22
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: How many brown cylinders are the same size as the gray block?
+  question_index: 23
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: Does the object in front of the rubber cube have the same material as
+    the tiny sphere that is on the left side of the yellow metallic object?
+  question_index: 24
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: There is a small purple thing that is to the right of the gray rubber
+    object that is behind the tiny cube; what is it made of?
+  question_index: 25
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: What is the gray block right of the tiny cyan cylinder made of?
+  question_index: 26
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: How many other objects are the same shape as the cyan shiny object?
+  question_index: 27
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: Does the matte block have the same color as the big cylinder?
+  question_index: 28
+  split: test
+- image_filename: CLEVR_test_000002.png
+  image_index: 2
+  question: There is a purple object on the left side of the purple thing that is
+    in front of the matte thing that is to the left of the red metallic object; what
+    is its material?
+  question_index: 29
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: What material is the block that is the same color as the big cylinder?
+  question_index: 30
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: What number of things are the same color as the matte cylinder?
+  question_index: 31
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: Does the ball have the same size as the block that is behind the large
+    cyan metallic sphere?
+  question_index: 32
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: What size is the shiny cube in front of the object right of the cube behind
+    the matte cylinder?
+  question_index: 33
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: There is a big rubber thing; how many small objects are on the right side
+    of it?
+  question_index: 34
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: There is a small block right of the small thing in front of the small
+    blue thing; what is it made of?
+  question_index: 35
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: Are there any other things that have the same size as the blue metal object?
+  question_index: 36
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: Is the brown thing the same size as the cyan metal sphere?
+  question_index: 37
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: What number of things are cubes that are behind the cylinder or things
+    behind the sphere?
+  question_index: 38
+  split: test
+- image_filename: CLEVR_test_000003.png
+  image_index: 3
+  question: Are there more cyan spheres that are behind the tiny blue metal cube than
+    big cyan metallic objects?
+  question_index: 39
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: There is a small ball on the left side of the blue rubber cylinder; is
+    its color the same as the matte ball behind the large blue ball?
+  question_index: 40
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: What number of objects are tiny matte cylinders or small red rubber spheres?
+  question_index: 41
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: How many tiny red spheres are to the left of the rubber ball in front
+    of the yellow thing?
+  question_index: 42
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: How many other things are the same size as the red shiny cylinder?
+  question_index: 43
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: There is a matte sphere that is the same color as the rubber cube; what
+    size is it?
+  question_index: 44
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: There is a matte thing that is left of the blue rubber cube; does it have
+    the same shape as the tiny yellow matte thing?
+  question_index: 45
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: There is a small red cylinder behind the small metallic ball; what is
+    its material?
+  question_index: 46
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: What shape is the matte thing that is the same color as the small rubber
+    sphere?
+  question_index: 47
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: Is there a blue thing made of the same material as the blue ball?
+  question_index: 48
+  split: test
+- image_filename: CLEVR_test_000004.png
+  image_index: 4
+  question: What size is the yellow rubber object?
+  question_index: 49
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: There is a gray metallic object; are there any tiny matte cylinders in
+    front of it?
+  question_index: 50
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: How many things are blue cylinders or objects that are behind the rubber
+    thing?
+  question_index: 51
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: There is a tiny thing to the right of the small matte thing in front of
+    the green cylinder; what is its color?
+  question_index: 52
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: How many other things are there of the same material as the tiny blue
+    object?
+  question_index: 53
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: What number of shiny objects are either cylinders or gray objects?
+  question_index: 54
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: There is a matte object that is the same shape as the small green metallic
+    thing; what is its color?
+  question_index: 55
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: How many objects are either blue shiny objects or shiny cylinders?
+  question_index: 56
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: What shape is the tiny gray thing that is made of the same material as
+    the tiny green object?
+  question_index: 57
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: How many big things are gray spheres or cyan balls?
+  question_index: 58
+  split: test
+- image_filename: CLEVR_test_000005.png
+  image_index: 5
+  question: What number of other objects are the same color as the shiny cylinder?
+  question_index: 59
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: Is there anything else that has the same material as the large cyan block?
+  question_index: 60
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: How many blue balls are there?
+  question_index: 61
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: Do the sphere and the green object have the same size?
+  question_index: 62
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: There is a large rubber block on the left side of the metallic cylinder
+    that is to the right of the purple object; are there any yellow objects to the
+    left of it?
+  question_index: 63
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: What material is the other thing that is the same shape as the yellow
+    metallic object?
+  question_index: 64
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: The cylinder on the right side of the blue metal cylinder is what color?
+  question_index: 65
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: What is the size of the red rubber block?
+  question_index: 66
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: Do the green rubber block and the cylinder that is to the left of the
+    cyan block have the same size?
+  question_index: 67
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: There is a big block that is on the left side of the shiny cylinder right
+    of the large shiny cylinder that is in front of the big yellow shiny thing; what
+    color is it?
+  question_index: 68
+  split: test
+- image_filename: CLEVR_test_000006.png
+  image_index: 6
+  question: Is the big cylinder that is behind the large blue cylinder made of the
+    same material as the large cyan object?
+  question_index: 69
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: What is the material of the large yellow thing that is behind the large
+    yellow matte thing to the left of the large matte ball?
+  question_index: 70
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: How many red matte objects are the same shape as the large brown object?
+  question_index: 71
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: The large green thing is what shape?
+  question_index: 72
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: Is the number of tiny brown rubber cylinders less than the number of large
+    cyan rubber things?
+  question_index: 73
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: Is the number of large yellow cylinders greater than the number of rubber
+    spheres?
+  question_index: 74
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: What number of other things are there of the same color as the tiny ball?
+  question_index: 75
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: Are the brown cylinder and the large cylinder right of the tiny red object
+    made of the same material?
+  question_index: 76
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: There is a matte sphere that is behind the rubber cylinder in front of
+    the large green object; how many blocks are behind it?
+  question_index: 77
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: Are there fewer small things in front of the small red rubber thing than
+    big cylinders to the left of the green rubber object?
+  question_index: 78
+  split: test
+- image_filename: CLEVR_test_000007.png
+  image_index: 7
+  question: How many other things are made of the same material as the large block?
+  question_index: 79
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: Is there any other thing that is made of the same material as the cyan
+    thing?
+  question_index: 80
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: How many objects are rubber blocks in front of the green object or brown
+    blocks?
+  question_index: 81
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: Is there anything else that has the same size as the green cube?
+  question_index: 82
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: The red block that is right of the shiny block behind the big cyan cube
+    is made of what material?
+  question_index: 83
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: Is the number of large green objects that are behind the large cyan matte
+    block the same as the number of green objects that are in front of the large red
+    block?
+  question_index: 84
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: How many objects are either large metallic things that are to the left
+    of the big red metallic object or things on the left side of the red object?
+  question_index: 85
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: There is a cube that is both behind the big red thing and to the left
+    of the cyan thing; what material is it?
+  question_index: 86
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: What size is the shiny thing that is behind the large rubber thing behind
+    the metallic thing that is in front of the green object?
+  question_index: 87
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: Are there more large rubber objects than big purple cylinders?
+  question_index: 88
+  split: test
+- image_filename: CLEVR_test_000008.png
+  image_index: 8
+  question: Do the large block in front of the large cyan matte object and the large
+    cyan block have the same material?
+  question_index: 89
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: There is a purple thing; how many large balls are right of it?
+  question_index: 90
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: Do the gray rubber object in front of the big purple metallic sphere and
+    the large gray matte thing have the same shape?
+  question_index: 91
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: There is a large ball that is on the right side of the red thing; what
+    color is it?
+  question_index: 92
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: What is the shape of the green object that is made of the same material
+    as the cyan block?
+  question_index: 93
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: Is there anything else that has the same color as the tiny sphere?
+  question_index: 94
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: Are there more big shiny things behind the big green cylinder than cylinders
+    that are to the right of the tiny gray object?
+  question_index: 95
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: What number of gray metallic balls are the same size as the cylinder?
+  question_index: 96
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: Is the number of tiny matte balls to the right of the cyan thing less
+    than the number of metallic objects left of the tiny gray ball?
+  question_index: 97
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: Are there any purple matte things that have the same shape as the large
+    purple shiny thing?
+  question_index: 98
+  split: test
+- image_filename: CLEVR_test_000009.png
+  image_index: 9
+  question: Does the red thing have the same shape as the cyan object?
+  question_index: 99
   split: test
