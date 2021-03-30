@@ -3,7 +3,7 @@ from smalldict import SmallDict
 
 
 for p in Path(".").rglob("*.json"):
-    if "_samples" not in str(p):
+    if p.is_file() and "_samples" not in str(p):
         print("[Processing] {}".format(p))
         try:
             SmallDict(str(p)).get(

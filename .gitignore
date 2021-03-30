@@ -132,6 +132,7 @@ dmypy.json
 
 *.zip
 *.json
+!*.json/
 !*_samples.json
 *.png
 *.jpeg

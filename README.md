@@ -41,6 +41,10 @@ Please refer to the original owners' websites or papers regarding the license.
 
   https://textvqa.org/dataset
 
+- visual_genome
+
+  https://visualgenome.org/api/v0/api_home.html
+
 - vqa2
 
   https://visualqa.org/download.html
@@ -107,6 +111,45 @@ Please refer to the original owners' websites or papers regarding the license.
   - [TextVQA_0.5.1_train.json_samples.yaml](textvqa/TextVQA_0.5.1_train.json_samples.yaml)
   - [TextVQA_0.5.1_val.json_samples.json](textvqa/TextVQA_0.5.1_val.json_samples.json)
   - [TextVQA_0.5.1_val.json_samples.yaml](textvqa/TextVQA_0.5.1_val.json_samples.yaml)
+- visual_genome
+  - [attributes.json_samples.json](visual_genome/attributes.json/attributes.json_samples.json)
+  - [attributes.json_samples.yaml](visual_genome/attributes.json/attributes.json_samples.yaml)
+  - [attributes.json_samples.json](visual_genome/attributes_v1.json/attributes.json_samples.json)
+  - [attributes.json_samples.yaml](visual_genome/attributes_v1.json/attributes.json_samples.yaml)
+  - [attribute_synsets.json_samples.json](visual_genome/attribute_synsets.json/attribute_synsets.json_samples.json)
+  - [attribute_synsets.json_samples.yaml](visual_genome/attribute_synsets.json/attribute_synsets.json_samples.yaml)
+  - [image_data.json_samples.json](visual_genome/image_data.json/image_data.json_samples.json)
+  - [image_data.json_samples.yaml](visual_genome/image_data.json/image_data.json_samples.yaml)
+  - [image_data.json_samples.json](visual_genome/image_data_v1.json/image_data.json_samples.json)
+  - [image_data.json_samples.yaml](visual_genome/image_data_v1.json/image_data.json_samples.yaml)
+  - [objects.json_samples.json](visual_genome/objects.json/objects.json_samples.json)
+  - [objects.json_samples.yaml](visual_genome/objects.json/objects.json_samples.yaml)
+  - [objects.json_samples.json](visual_genome/objects_v1.json/objects.json_samples.json)
+  - [objects.json_samples.yaml](visual_genome/objects_v1.json/objects.json_samples.yaml)
+  - [objects.json_samples.json](visual_genome/objects_v1_2.json/objects.json_samples.json)
+  - [objects.json_samples.yaml](visual_genome/objects_v1_2.json/objects.json_samples.yaml)
+  - [object_synsets.json_samples.json](visual_genome/object_synsets.json/object_synsets.json_samples.json)
+  - [object_synsets.json_samples.yaml](visual_genome/object_synsets.json/object_synsets.json_samples.yaml)
+  - [qa_to_region_mapping.json_samples.json](visual_genome/qa_to_region_mapping.json/qa_to_region_mapping.json_samples.json)
+  - [qa_to_region_mapping.json_samples.yaml](visual_genome/qa_to_region_mapping.json/qa_to_region_mapping.json_samples.yaml)
+  - [question_answers.json_samples.json](visual_genome/question_answers.json/question_answers.json_samples.json)
+  - [question_answers.json_samples.yaml](visual_genome/question_answers.json/question_answers.json_samples.yaml)
+  - [region_descriptions.json_samples.json](visual_genome/region_descriptions.json/region_descriptions.json_samples.json)
+  - [region_descriptions.json_samples.yaml](visual_genome/region_descriptions.json/region_descriptions.json_samples.yaml)
+  - [region_descriptions.json_samples.json](visual_genome/region_descriptions_v1.json/region_descriptions.json_samples.json)
+  - [region_descriptions.json_samples.yaml](visual_genome/region_descriptions_v1.json/region_descriptions.json_samples.yaml)
+  - [relationships.json_samples.json](visual_genome/relationships.json/relationships.json_samples.json)
+  - [relationships.json_samples.yaml](visual_genome/relationships.json/relationships.json_samples.yaml)
+  - [relationships.json_samples.json](visual_genome/relationships_v1.json/relationships.json_samples.json)
+  - [relationships.json_samples.yaml](visual_genome/relationships_v1.json/relationships.json_samples.yaml)
+  - [relationships.json_samples.json](visual_genome/relationships_v1_2.json/relationships.json_samples.json)
+  - [relationships.json_samples.yaml](visual_genome/relationships_v1_2.json/relationships.json_samples.yaml)
+  - [relationship_synsets.json_samples.json](visual_genome/relationship_synsets.json/relationship_synsets.json_samples.json)
+  - [relationship_synsets.json_samples.yaml](visual_genome/relationship_synsets.json/relationship_synsets.json_samples.yaml)
+  - [scene_graphs.json_samples.json](visual_genome/scene_graphs.json/scene_graphs.json_samples.json)
+  - [scene_graphs.json_samples.yaml](visual_genome/scene_graphs.json/scene_graphs.json_samples.yaml)
+  - [synsets.json_samples.json](visual_genome/synsets.json/synsets.json_samples.json)
+  - [synsets.json_samples.yaml](visual_genome/synsets.json/synsets.json_samples.yaml)
 - vqa2
   - [abstract_v002_train2017_annotations.json_samples.json](vqa2/Annotations_Binary_Train2017_abstract_v002/abstract_v002_train2017_annotations.json_samples.json)
   - [abstract_v002_train2017_annotations.json_samples.yaml](vqa2/Annotations_Binary_Train2017_abstract_v002/abstract_v002_train2017_annotations.json_samples.yaml)
